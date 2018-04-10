@@ -3,7 +3,10 @@ Live SQL interfész
 
 http://valasztas.sztupy.hu/
 
-(esélyes, hogy lassú, ha lehet inkább töltsd le az adatokat és ott használd)
+A fenti link kis terhelésű szerveren fut, így esélyes, hogy lassú, vagy nem működik,
+így ha lehet inkább töltsd le az adatokat innen: https://github.com/sztupy/valasztas-adatbazis/tree/master/sql
+valamint a sémát innen: https://github.com/sztupy/valasztas-adatbazis/blob/master/schema.sql
+és egy helyi adatbázisban használd
 
 2018-as választási eredmények SQL-ben
 =====================================
