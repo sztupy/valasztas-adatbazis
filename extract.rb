@@ -29,7 +29,7 @@ Dir.glob('data/*.xml').each do |filename|
         schema[col.name][:null] = true
       else
         schema[col.name][:size] = [schema[col.name][:size], col.text.length].max
-        unless col.text.match?(/\A-?[1-9][0-9]*\Z/)
+        unless col.text.match?(/\A-?[1-9][0-9]*\Z/) || col.text == '0'
           schema[col.name][:type] = :string
         end
       end

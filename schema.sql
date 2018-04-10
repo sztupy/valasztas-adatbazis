@@ -2,7 +2,7 @@ CREATE TABLE szkepv (
   internal_id INTEGER PRIMARY KEY NOT NULL,
   mtip int NOT NULL,
   jlid int NOT NULL,
-  lsorsz varchar(2) NOT NULL
+  lsorsz int NOT NULL
 );
 CREATE INDEX szkepv_jlid ON szkepv (jlid);
 CREATE INDEX szkepv_lsorsz ON szkepv (lsorsz);
@@ -23,13 +23,13 @@ CREATE TABLE szavlf (
   jfid int NOT NULL,
   jlid int NOT NULL,
   nemz int NOT NULL,
-  pa varchar(3) NOT NULL,
-  pf varchar(3) NOT NULL,
-  po varchar(1) NOT NULL,
-  pk varchar(3) NOT NULL,
-  pl varchar(2) NOT NULL,
-  pm varchar(2) NOT NULL,
-  pn varchar(3) NOT NULL
+  pa int NOT NULL,
+  pf int NOT NULL,
+  po int NOT NULL,
+  pk int NOT NULL,
+  pl int NOT NULL,
+  pm int NOT NULL,
+  pn int NOT NULL
 );
 CREATE INDEX szavlf_jfid ON szavlf (jfid);
 CREATE INDEX szavlf_jlid ON szavlf (jlid);
@@ -44,7 +44,7 @@ CREATE TABLE hatarszamf (
 
 CREATE TABLE szervezet (
   internal_id INTEGER PRIMARY KEY NOT NULL,
-  szkod varchar(4) NOT NULL,
+  szkod int NOT NULL,
   szpntip varchar(1),
   nemz int,
   hnev1 varchar(30) NOT NULL,
@@ -53,7 +53,7 @@ CREATE TABLE szervezet (
   tnev varchar(63) NOT NULL,
   rovid varchar(35) NOT NULL,
   allapot int NOT NULL,
-  tajaz varchar(4)
+  tajaz int
 );
 CREATE INDEX szervezet_szkod ON szervezet (szkod);
 CREATE INDEX szervezet_rovid ON szervezet (rovid);
@@ -96,8 +96,8 @@ CREATE TABLE sznapilf (
   taz varchar(3) NOT NULL,
   sorsz varchar(3) NOT NULL,
   nemz int NOT NULL,
-  a varchar(3) NOT NULL,
-  f varchar(2) NOT NULL
+  a int NOT NULL,
+  f int NOT NULL
 );
 CREATE INDEX sznapilf_sorsz ON sznapilf (sorsz);
 
@@ -127,7 +127,7 @@ CREATE TABLE szavt (
   internal_id INTEGER PRIMARY KEY NOT NULL,
   jfid int NOT NULL,
   jlid int NOT NULL,
-  szav varchar(3) NOT NULL
+  szav int NOT NULL
 );
 CREATE INDEX szavt_jfid ON szavt (jfid);
 CREATE INDEX szavt_jlid ON szavt (jlid);
@@ -139,46 +139,46 @@ CREATE TABLE szavf (
   maz varchar(2) NOT NULL,
   taz varchar(3),
   sorsz varchar(3),
-  a varchar(4) NOT NULL,
-  b varchar(1) NOT NULL,
-  bo varchar(5) NOT NULL,
-  c varchar(1) NOT NULL,
-  d varchar(1) NOT NULL,
-  e varchar(4) NOT NULL,
-  f varchar(4) NOT NULL,
-  g varchar(4) NOT NULL,
-  i1 varchar(4) NOT NULL,
-  i2 varchar(1) NOT NULL,
-  i3 varchar(1) NOT NULL,
-  j varchar(4) NOT NULL,
-  o varchar(3) NOT NULL,
-  k1 varchar(4) NOT NULL,
-  k2 varchar(1) NOT NULL,
-  l varchar(3) NOT NULL,
-  m varchar(3) NOT NULL,
-  n varchar(4) NOT NULL,
-  pa varchar(4) NOT NULL,
-  pf varchar(4) NOT NULL,
-  po varchar(3) NOT NULL,
-  pk varchar(4) NOT NULL,
-  pl varchar(3) NOT NULL,
-  pm varchar(3) NOT NULL,
-  pn varchar(4) NOT NULL,
-  na varchar(3) NOT NULL,
-  nf varchar(3) NOT NULL,
-  no varchar(1) NOT NULL,
-  nk varchar(3) NOT NULL,
-  nl varchar(1) NOT NULL,
-  nm varchar(2) NOT NULL,
-  nn varchar(3) NOT NULL
+  a int NOT NULL,
+  b int NOT NULL,
+  bo int NOT NULL,
+  c int NOT NULL,
+  d int NOT NULL,
+  e int NOT NULL,
+  f int NOT NULL,
+  g int NOT NULL,
+  i1 int NOT NULL,
+  i2 int NOT NULL,
+  i3 int NOT NULL,
+  j int NOT NULL,
+  o int NOT NULL,
+  k1 int NOT NULL,
+  k2 int NOT NULL,
+  l int NOT NULL,
+  m int NOT NULL,
+  n int NOT NULL,
+  pa int NOT NULL,
+  pf int NOT NULL,
+  po int NOT NULL,
+  pk int NOT NULL,
+  pl int NOT NULL,
+  pm int NOT NULL,
+  pn int NOT NULL,
+  na int NOT NULL,
+  nf int NOT NULL,
+  no int NOT NULL,
+  nk int NOT NULL,
+  nl int NOT NULL,
+  nm int NOT NULL,
+  nn int NOT NULL
 );
 CREATE INDEX szavf_jfid ON szavf (jfid);
 CREATE INDEX szavf_sorsz ON szavf (sorsz);
 
 CREATE TABLE jlcstag (
   internal_id INTEGER PRIMARY KEY NOT NULL,
-  jlcs varchar(3) NOT NULL,
-  szkod varchar(4) NOT NULL,
+  jlcs int NOT NULL,
+  szkod int NOT NULL,
   sorsz int NOT NULL
 );
 CREATE INDEX jlcstag_szkod ON jlcstag (szkod);
@@ -191,27 +191,27 @@ CREATE TABLE szeredmf (
   sfmaz varchar(2),
   sfevk varchar(2),
   valtip varchar(1) NOT NULL,
-  forr varchar(1) NOT NULL,
+  forr int NOT NULL,
   jogi varchar(1) NOT NULL,
-  eredm varchar(1) NOT NULL,
-  a varchar(7) NOT NULL,
-  b varchar(1) NOT NULL,
-  c varchar(1) NOT NULL,
-  d varchar(6) NOT NULL,
+  eredm int NOT NULL,
+  a int NOT NULL,
+  b int NOT NULL,
+  c int NOT NULL,
+  d int NOT NULL,
   e int NOT NULL,
-  f varchar(7) NOT NULL,
-  ie varchar(1) NOT NULL,
-  ilis varchar(6) NOT NULL,
-  ilev varchar(6) NOT NULL,
+  f int NOT NULL,
+  ie int NOT NULL,
+  ilis int NOT NULL,
+  ilev int NOT NULL,
   j int NOT NULL,
-  ke varchar(5) NOT NULL,
-  klis varchar(7) NOT NULL,
+  ke int NOT NULL,
+  klis int NOT NULL,
   m int NOT NULL,
   n int NOT NULL,
-  jojkv varchar(5) NOT NULL,
+  jojkv int NOT NULL,
   feldar varchar(5) NOT NULL,
   levell varchar(5) NOT NULL,
-  levszl varchar(3) NOT NULL,
+  levszl int NOT NULL,
   eid int
 );
 CREATE INDEX szeredmf_sfid ON szeredmf (sfid);
@@ -237,11 +237,11 @@ CREATE TABLE szeredmt (
   internal_id INTEGER PRIMARY KEY NOT NULL,
   sfid int NOT NULL,
   jlid int NOT NULL,
-  szav varchar(7) NOT NULL,
-  torsz varchar(7) NOT NULL,
-  mandszav varchar(7) NOT NULL,
-  hatar varchar(1) NOT NULL,
-  mand varchar(2) NOT NULL
+  szav int NOT NULL,
+  torsz int NOT NULL,
+  mandszav int NOT NULL,
+  hatar int NOT NULL,
+  mand int NOT NULL
 );
 CREATE INDEX szeredmt_sfid ON szeredmt (sfid);
 CREATE INDEX szeredmt_jlid ON szeredmt (jlid);
@@ -269,7 +269,7 @@ CREATE TABLE telep (
 
 CREATE TABLE jlcs (
   internal_id INTEGER PRIMARY KEY NOT NULL,
-  jlcs varchar(3) NOT NULL,
+  jlcs int NOT NULL,
   nevt varchar(28) NOT NULL,
   tag int NOT NULL
 );
@@ -309,9 +309,9 @@ CREATE TABLE ejelolt (
   unev1 varchar(13) NOT NULL,
   unev2 varchar(11),
   unevjel int,
-  jlcs varchar(3) NOT NULL,
+  jlcs int NOT NULL,
   sorsz int,
-  erv varchar(1) NOT NULL,
+  erv int NOT NULL,
   allapot int NOT NULL,
   fenykep int
 );
@@ -334,3 +334,4 @@ CREATE TABLE tlistaj (
 );
 CREATE INDEX tlistaj_tlid ON tlistaj (tlid);
 CREATE INDEX tlistaj_tjsorsz ON tlistaj (tjsorsz);
+
