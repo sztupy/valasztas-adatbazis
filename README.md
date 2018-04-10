@@ -127,3 +127,26 @@ FROM partdelegalt p WHERE
       p.sorsz = pt2.sorsz and
       pt2.jellcsopid != 641)
 ```
+
+9. A csak FIDESZ által felügyelt szavazókörökben leadott érvényes és összes szavazatok aránya
+
+```sql
+SELECT sum(m),sum(f),cast(sum(m) as float) / cast(sum(f) as float)
+FROM (
+  SELECT distinct p.maz,p.taz,p.sorsz,p.telepls,valtip,szavf.m,szavf.f
+  FROM partdelegalt p
+  JOIN szavf on szavf.maz = p.maz and szavf.taz = p.taz and szavf.sorsz = p.sorsz
+  WHERE not exists
+    (select 1 from partdelegalt pt
+       where p.maz = pt.maz and
+             p.taz = pt.taz and
+             p.sorsz = pt.sorsz and
+             pt.jellcsopid != 641)
+   and exists
+    (select 1 from partdelegalt pt2
+       where p.maz = pt2.maz and
+             p.taz = pt2.taz and
+             p.sorsz = pt2.sorsz and
+             pt2.jellcsopid = 641)
+  )
+```
