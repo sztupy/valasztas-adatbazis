@@ -56,7 +56,7 @@ Dir.glob('data/*.xml').each do |filename|
   end
   schema_file.puts
 
-  File.open("out/#{table_name}.sql","w+") do |out|
+  File.open("sql/#{table_name}.sql","w+") do |out|
     keys_order = schema.keys
     out.print "INSERT INTO #{table_name} ("
     out.print keys_order.join(",")
@@ -79,6 +79,29 @@ Dir.glob('data/*.xml').each do |filename|
     end
     out.puts ";"
   end
-end
+  
+
+  File.open("csv/#{table_name}.csv","w+") do |out|
+    keys_order = schema.keys
+    out.print keys_order.join(";")
+    out.puts
+    root.elements.each do |row|
+      values = {}
+      row.elements.each do |col|
+        if col.text.empty?
+          values[col.name] = ''
+        elsif schema[col.name][:type] == :integer
+          values[col.name] = col.text
+        else
+          values[col.name] = "'#{col.text.gsub(/['\\]/, '')}'"
+        end
+      end
+      out.print keys_order.map { |k| values[k] }.join(";")
+      out.puts
+    end
+  end
 
 end
+end
+
+
