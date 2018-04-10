@@ -150,3 +150,13 @@ FROM (
              pt2.jellcsopid = 641)
   )
 ```
+
+10. Pártdelegáltak listája körzetekben, ahol jelentős mennyiségű érvénytelen szavazat érkezett
+
+```sql
+SELECT p.maz,p.taz,p.sorsz,p.telepls,valtip,szavf.m,group_concat(megbz)
+  FROM partdelegalt p
+  JOIN szavf on szavf.maz = p.maz and szavf.taz = p.taz and szavf.sorsz = p.sorsz
+  WHERE szavf.m > 40
+  GROUP BY p.maz, p.taz, p.sorsz, p.telepls, valtip, szavf.m
+```
