@@ -8,6 +8,8 @@ A fenti link kis terhelésű szerveren fut, így esélyes, hogy lassú, vagy nem
 valamint a sémát innen: https://github.com/sztupy/valasztas-adatbazis/blob/master/schema.sql
 és egy helyi adatbázisban használd
 
+Az SQLite adatbázis elkészítve letölthető innen is: https://github.com/sztupy/valasztas-adatbazis/raw/master/valasztas.sqlite3
+
 2018-as választási eredmények SQL-ben
 =====================================
 
