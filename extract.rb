@@ -42,8 +42,12 @@ File.open("data/partdelegaltak.xml","w+") do |out|
             end
             if col[:safe] == 'telepls'
               data = telepules[row[col[:orig]]]
-              xml.send('maz',data[:maz])
-              xml.send('taz',data[:taz])
+              xml.send('maz', data[:maz])
+              xml.send('taz', data[:taz])
+            end
+            if col[:safe] == 'szavazkroevkszma'
+              str = row[col[:orig]]
+              xml.send('sorsz', str || '001')
             end
           end
         }
@@ -68,7 +72,7 @@ Dir.glob('data/*.xml').each do |filename|
         type: :integer,
         null: false,
         size: 0,
-        index: col.name.match?('id') || col.name.match?('kod') || col.name.match?('sorsz')
+        index: ['id','kod','sorsz','maz','taz','jlcs','ip'].any? { |n| col.name.match?(n) }
       }
       if col.text.empty?
         schema[col.name][:null] = true

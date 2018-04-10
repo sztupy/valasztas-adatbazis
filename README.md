@@ -108,3 +108,22 @@ FROM "szavf" WHERE m > 20
 SELECT *
 FROM "szavf" WHERE cast(f as float)/cast(a as float)>0.85
 ```
+
+8. Szavazókörök, ahol volt FIDESZ delegált, de nem volt ellenzéki
+
+```sql
+SELECT distinct maz,taz,sorsz,telepls
+FROM partdelegalt p WHERE
+  exists
+    (select 1 from partdelegalt pt where
+      p.maz = pt.maz and
+      p.taz = pt.taz and
+      p.sorsz = pt.sorsz and
+      pt.jellcsopid == 641)
+  and not exists
+    (select 1 from partdelegalt pt2 where
+      p.maz = pt2.maz and
+      p.taz = pt2.taz and
+      p.sorsz = pt2.sorsz and
+      pt2.jellcsopid != 641)
+```

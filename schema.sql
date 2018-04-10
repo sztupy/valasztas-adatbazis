@@ -4,6 +4,7 @@ CREATE TABLE szkepv (
   jlid int NOT NULL,
   lsorsz int NOT NULL
 );
+CREATE INDEX szkepv_mtip ON szkepv (mtip);
 CREATE INDEX szkepv_jlid ON szkepv (jlid);
 CREATE INDEX szkepv_lsorsz ON szkepv (lsorsz);
 
@@ -16,6 +17,9 @@ CREATE TABLE sznapi (
   a int NOT NULL,
   f int NOT NULL
 );
+CREATE INDEX sznapi_valtip ON sznapi (valtip);
+CREATE INDEX sznapi_maz ON sznapi (maz);
+CREATE INDEX sznapi_taz ON sznapi (taz);
 CREATE INDEX sznapi_sorsz ON sznapi (sorsz);
 
 CREATE TABLE szavlf (
@@ -44,6 +48,7 @@ CREATE TABLE partdelegalt (
   taz varchar(3) NOT NULL,
   bizottsgszintje varchar(5) NOT NULL,
   szavazkroevkszma varchar(3),
+  sorsz varchar(3) NOT NULL,
   vlasztsnapja varchar(10) NOT NULL,
   vlasztstpusa varchar(33) NOT NULL,
   megbz varchar(44) NOT NULL,
@@ -52,6 +57,9 @@ CREATE TABLE partdelegalt (
 );
 CREATE INDEX partdelegalt_id ON partdelegalt (id);
 CREATE INDEX partdelegalt_sorszm ON partdelegalt (sorszm);
+CREATE INDEX partdelegalt_maz ON partdelegalt (maz);
+CREATE INDEX partdelegalt_taz ON partdelegalt (taz);
+CREATE INDEX partdelegalt_sorsz ON partdelegalt (sorsz);
 CREATE INDEX partdelegalt_jellcsopid ON partdelegalt (jellcsopid);
 
 CREATE TABLE hatarszamf (
@@ -76,6 +84,7 @@ CREATE TABLE szervezet (
   tajaz int
 );
 CREATE INDEX szervezet_szkod ON szervezet (szkod);
+CREATE INDEX szervezet_szpntip ON szervezet (szpntip);
 CREATE INDEX szervezet_rovid ON szervezet (rovid);
 
 CREATE TABLE nevjegyz (
@@ -119,6 +128,9 @@ CREATE TABLE sznapilf (
   a int NOT NULL,
   f int NOT NULL
 );
+CREATE INDEX sznapilf_valtip ON sznapilf (valtip);
+CREATE INDEX sznapilf_maz ON sznapilf (maz);
+CREATE INDEX sznapilf_taz ON sznapilf (taz);
 CREATE INDEX sznapilf_sorsz ON sznapilf (sorsz);
 
 CREATE TABLE tlista (
@@ -133,6 +145,8 @@ CREATE TABLE tlista (
   allapot int NOT NULL
 );
 CREATE INDEX tlista_tlid ON tlista (tlid);
+CREATE INDEX tlista_ltip ON tlista (ltip);
+CREATE INDEX tlista_jlcs ON tlista (jlcs);
 CREATE INDEX tlista_sorsz ON tlista (sorsz);
 
 CREATE TABLE oevk (
@@ -142,6 +156,7 @@ CREATE TABLE oevk (
   szekh varchar(17) NOT NULL,
   szekhk varchar(2)
 );
+CREATE INDEX oevk_maz ON oevk (maz);
 
 CREATE TABLE szavt (
   internal_id INTEGER PRIMARY KEY NOT NULL,
@@ -193,6 +208,9 @@ CREATE TABLE szavf (
   nn int NOT NULL
 );
 CREATE INDEX szavf_jfid ON szavf (jfid);
+CREATE INDEX szavf_valtip ON szavf (valtip);
+CREATE INDEX szavf_maz ON szavf (maz);
+CREATE INDEX szavf_taz ON szavf (taz);
 CREATE INDEX szavf_sorsz ON szavf (sorsz);
 
 CREATE TABLE jlcstag (
@@ -201,6 +219,7 @@ CREATE TABLE jlcstag (
   szkod int NOT NULL,
   sorsz int NOT NULL
 );
+CREATE INDEX jlcstag_jlcs ON jlcstag (jlcs);
 CREATE INDEX jlcstag_szkod ON jlcstag (szkod);
 CREATE INDEX jlcstag_sorsz ON jlcstag (sorsz);
 
@@ -235,6 +254,8 @@ CREATE TABLE szeredmf (
   eid int
 );
 CREATE INDEX szeredmf_sfid ON szeredmf (sfid);
+CREATE INDEX szeredmf_sfmaz ON szeredmf (sfmaz);
+CREATE INDEX szeredmf_valtip ON szeredmf (valtip);
 CREATE INDEX szeredmf_eid ON szeredmf (eid);
 
 CREATE TABLE terulet (
@@ -243,6 +264,7 @@ CREATE TABLE terulet (
   mnev varchar(22) NOT NULL,
   mrnev varchar(10) NOT NULL
 );
+CREATE INDEX terulet_maz ON terulet (maz);
 
 CREATE TABLE kodok (
   internal_id INTEGER PRIMARY KEY NOT NULL,
@@ -273,6 +295,7 @@ CREATE TABLE jlcssor (
   sorsz int NOT NULL,
   szkod int NOT NULL
 );
+CREATE INDEX jlcssor_tip ON jlcssor (tip);
 CREATE INDEX jlcssor_id ON jlcssor (id);
 CREATE INDEX jlcssor_sorsz ON jlcssor (sorsz);
 CREATE INDEX jlcssor_szkod ON jlcssor (szkod);
@@ -286,6 +309,9 @@ CREATE TABLE telep (
   tker varchar(2),
   ttip int NOT NULL
 );
+CREATE INDEX telep_maz ON telep (maz);
+CREATE INDEX telep_taz ON telep (taz);
+CREATE INDEX telep_ttip ON telep (ttip);
 
 CREATE TABLE jlcs (
   internal_id INTEGER PRIMARY KEY NOT NULL,
@@ -293,6 +319,7 @@ CREATE TABLE jlcs (
   nevt varchar(28) NOT NULL,
   tag int NOT NULL
 );
+CREATE INDEX jlcs_jlcs ON jlcs (jlcs);
 
 CREATE TABLE verzio (
   internal_id INTEGER PRIMARY KEY NOT NULL,
@@ -315,7 +342,10 @@ CREATE TABLE szavkor (
   cimt varchar(20) NOT NULL,
   cimk varchar(50) NOT NULL
 );
+CREATE INDEX szavkor_maz ON szavkor (maz);
+CREATE INDEX szavkor_taz ON szavkor (taz);
 CREATE INDEX szavkor_sorsz ON szavkor (sorsz);
+CREATE INDEX szavkor_tip ON szavkor (tip);
 
 CREATE TABLE ejelolt (
   internal_id INTEGER PRIMARY KEY NOT NULL,
@@ -335,7 +365,9 @@ CREATE TABLE ejelolt (
   allapot int NOT NULL,
   fenykep int
 );
+CREATE INDEX ejelolt_maz ON ejelolt (maz);
 CREATE INDEX ejelolt_eid ON ejelolt (eid);
+CREATE INDEX ejelolt_jlcs ON ejelolt (jlcs);
 CREATE INDEX ejelolt_sorsz ON ejelolt (sorsz);
 
 CREATE TABLE tlistaj (
