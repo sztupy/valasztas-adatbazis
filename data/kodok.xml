@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="ISO-8859-2"?>
+<kodok>
+<kodokr>
+<kodcsop>JOGI</kodcsop>
+<kod>I</kod>
+<szoveg>Végleges jogi eredmény</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>JOGI</kodcsop>
+<kod>N</kod>
+<szoveg>Az eredmény még nem végleges jogi</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLTIP</kodcsop>
+<kod>1</kod>
+<szoveg>Törzsadatok</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLTIP</kodcsop>
+<kod>2</kod>
+<szoveg>Napközbeni jelentések adatai</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLTIP</kodcsop>
+<kod>3</kod>
+<szoveg>Szavazatösszesítési adatok</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>MANDO</kodcsop>
+<kod>0</kod>
+<szoveg>Országos listás mandátumosztás még nem történt meg</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>MANDO</kodcsop>
+<kod>1</kod>
+<szoveg>Országos listás mandátumosztás megtörtént</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>SZEM</kodcsop>
+<kod>0</kod>
+<szoveg>Mandátumok személyhez rendelése még nem történt meg</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>SZEM</kodcsop>
+<kod>1</kod>
+<szoveg>Mandátumok személyhez rendelése megtörtént</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>TELTIP</kodcsop>
+<kod>1</kod>
+<szoveg>Fővárosi kerület</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>TELTIP</kodcsop>
+<kod>2</kod>
+<szoveg>Megyei jogú város</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>TELTIP</kodcsop>
+<kod>3</kod>
+<szoveg>Város</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>TELTIP</kodcsop>
+<kod>4</kod>
+<szoveg>Község</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>SZKTIP</kodcsop>
+<kod>1</kod>
+<szoveg>Normál szavazókör</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>SZKTIP</kodcsop>
+<kod>2</kod>
+<szoveg>Telep.szintű lakosok és átjelentkezettek szavazására kijelölt</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>SZKTIP</kodcsop>
+<kod>3</kod>
+<szoveg>A külképv.és átjelent.szavazók szavazatainak megszámlálására kijelölt</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>SZKTIP</kodcsop>
+<kod>4</kod>
+<szoveg>A levélben szavazás eredményét jelző technikai szavazókör</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>SZAVLA</kodcsop>
+<kod>0</kod>
+<szoveg>Szavazólapon nem szerepel</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>SZAVLA</kodcsop>
+<kod>1</kod>
+<szoveg>Szerepel a szavazólapon</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>SZAVLA</kodcsop>
+<kod>2</kod>
+<szoveg>Szerepel a szavazólapon, de érvénytelenül</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>LTIP</kodcsop>
+<kod>O</kod>
+<szoveg>Önálló lista</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>LTIP</kodcsop>
+<kod>K</kod>
+<szoveg>Közös lista</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>LTIP</kodcsop>
+<kod>N</kod>
+<szoveg>Nemzetiségi lista</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>NAPSZINT</kodcsop>
+<kod>1</kod>
+<szoveg>Egyéni választókerületi adatok</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>NAPSZINT</kodcsop>
+<kod>2</kod>
+<szoveg>Települési szintű adatok</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>NAPSZINT</kodcsop>
+<kod>3</kod>
+<szoveg>Szavazóköri szintű elemi adatok</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>NAPSZINT</kodcsop>
+<kod>4</kod>
+<szoveg>Megyei, fővárosi összesített adatok</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>NAPSZINT</kodcsop>
+<kod>5</kod>
+<szoveg>Országos szintű összesített adatok</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>SZAVSZINT</kodcsop>
+<kod>1</kod>
+<szoveg>Egyéni választókerületi adatok</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>SZAVSZINT</kodcsop>
+<kod>4</kod>
+<szoveg>Megyei, fővárosi összesített adatok</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>SZAVSZINT</kodcsop>
+<kod>51</kod>
+<szoveg>Országosan összesített listás szavazatok (Mo. + külképviselet + levélben)</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>SZAVSZINT</kodcsop>
+<kod>52</kod>
+<szoveg>Országosan összesített listás szavazatok (Mo. + külképviselet)</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>SZAVSZINT</kodcsop>
+<kod>53</kod>
+<szoveg>Listás szavazatok (levélben)</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>JELENT</kodcsop>
+<kod>I</kod>
+<szoveg>Szavazóköri szintű napközbeni jelentés érkezett</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>JELENT</kodcsop>
+<kod>N</kod>
+<szoveg>Szavazóköri szintű napközbeni jelentés nem érkezett</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>VALTIP</kodcsop>
+<kod>J</kod>
+<szoveg>Egyéni választókerületi választás</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>VALTIP</kodcsop>
+<kod>L</kod>
+<szoveg>Listás választás</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>FORR</kodcsop>
+<kod>0</kod>
+<szoveg>Előzetes adat</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>FORR</kodcsop>
+<kod>1</kod>
+<szoveg>Jegyzőkönyvi adat</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>FORR</kodcsop>
+<kod>4</kod>
+<szoveg>Megsemmisített jegyzőkönyvi adat</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>EREDM</kodcsop>
+<kod>0</kod>
+<szoveg>Nincs értékelhető adat</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>EREDM</kodcsop>
+<kod>1</kod>
+<szoveg>Eredményes választás</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>EREDM</kodcsop>
+<kod>2</kod>
+<szoveg>Eredménytelen választás</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>HATAR</kodcsop>
+<kod>0</kod>
+<szoveg>Nem történt mandátum számítás</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>HATAR</kodcsop>
+<kod>1</kod>
+<szoveg>Mandátumot kaphat</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>HATAR</kodcsop>
+<kod>2</kod>
+<szoveg>Mandátumot nem kaphat</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>MTIP</kodcsop>
+<kod>1</kod>
+<szoveg>Egyéni választókerületi mandátum</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>MTIP</kodcsop>
+<kod>2</kod>
+<szoveg>Országos listás mandátum</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>MTIP</kodcsop>
+<kod>3</kod>
+<szoveg>Nemzetiségi listás mandátum</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>PARTNEMZ</kodcsop>
+<kod>P</kod>
+<szoveg>Párt (egyéni jelöltet és pártlistát állíthat)</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>PARTNEMZ</kodcsop>
+<kod>N</kod>
+<szoveg>Országos Nemzetiségi Önkormányzat (nemzetiségi listát állíthat)</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>NEMZ</kodcsop>
+<kod>1</kod>
+<szoveg>bolgár</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>NEMZ</kodcsop>
+<kod>2</kod>
+<szoveg>görög</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>NEMZ</kodcsop>
+<kod>3</kod>
+<szoveg>horvát</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>NEMZ</kodcsop>
+<kod>4</kod>
+<szoveg>lengyel</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>NEMZ</kodcsop>
+<kod>5</kod>
+<szoveg>német</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>NEMZ</kodcsop>
+<kod>6</kod>
+<szoveg>örmény</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>NEMZ</kodcsop>
+<kod>7</kod>
+<szoveg>roma</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>NEMZ</kodcsop>
+<kod>8</kod>
+<szoveg>román</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>NEMZ</kodcsop>
+<kod>9</kod>
+<szoveg>ruszin</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>NEMZ</kodcsop>
+<kod>10</kod>
+<szoveg>szerb</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>NEMZ</kodcsop>
+<kod>11</kod>
+<szoveg>szlovák</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>NEMZ</kodcsop>
+<kod>12</kod>
+<szoveg>szlovén</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>NEMZ</kodcsop>
+<kod>13</kod>
+<szoveg>ukrán</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>UNEVSZ</kodcsop>
+<kod>1</kod>
+<szoveg>Csak az első utónév jelenítendő meg</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>UNEVSZ</kodcsop>
+<kod>2</kod>
+<szoveg>Csak a második utónév jelenítendő meg</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>DRJEL</kodcsop>
+<kod>I</kod>
+<szoveg>Dr. jelző megjelenítendő</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>DRJEL</kodcsop>
+<kod>N</kod>
+<szoveg>Dr. jelző nem jelenítendő meg</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLAPOT</kodcsop>
+<kod>0</kod>
+<szoveg>Bejelentve</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLAPOT</kodcsop>
+<kod>1</kod>
+<szoveg>Nyilvántartásba véve</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLAPOT</kodcsop>
+<kod>2</kod>
+<szoveg>Nyilvántartásba vétel elutasítva (nem jogerős)</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLAPOT</kodcsop>
+<kod>3</kod>
+<szoveg>Nyilvántartásból törölve</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLAPOT</kodcsop>
+<kod>4</kod>
+<szoveg>Nyilvántartásba vétel elutasítva</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLAPOT</kodcsop>
+<kod>5</kod>
+<szoveg>Nyilvántartásba véve (nem jogerős)</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLAPOT</kodcsop>
+<kod>6</kod>
+<szoveg>Nyilvántartásból törölve (nem jogerős)</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLAPOT</kodcsop>
+<kod>7</kod>
+<szoveg>Visszalépett/visszavonva</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLAPOT</kodcsop>
+<kod>8</kod>
+<szoveg>Elhunyt</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLAPOT</kodcsop>
+<kod>9</kod>
+<szoveg>Választójoga megszűnt</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLAPOT</kodcsop>
+<kod>11</kod>
+<szoveg>Jelölő szervezete törölve</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLAPOT</kodcsop>
+<kod>12</kod>
+<szoveg>Ajánlóíveket átvette</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLAPOT</kodcsop>
+<kod>13</kod>
+<szoveg>Ajánlóíveket nem adta le határidőben</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLAPOT</kodcsop>
+<kod>14</kod>
+<szoveg>Ajánlóíveket leadta határidőben</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLAPOT</kodcsop>
+<kod>15</kod>
+<szoveg>Nem kíván indulni</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLAPOT</kodcsop>
+<kod>16</kod>
+<szoveg>Ajánlóívet igényelt</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLAPOT</kodcsop>
+<kod>17</kod>
+<szoveg>Ajánlóív igénylése elutasítva</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLAPOT</kodcsop>
+<kod>18</kod>
+<szoveg>Lista törölve (nem jogerős)</szoveg>
+</kodokr>
+<kodokr>
+<kodcsop>ALLAPOT</kodcsop>
+<kod>19</kod>
+<szoveg>Lista törölve</szoveg>
+</kodokr>
+</kodok>
