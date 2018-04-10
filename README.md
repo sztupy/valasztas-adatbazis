@@ -85,3 +85,10 @@ SELECT lista.maz, lista.taz, lista.sorsz, lista.tnev, lista.szav as listaszav, e
  ON lista.tnev = egyen.nevt AND lista.maz = egyen.maz and lista.taz = egyen.taz and lista.sorsz = egyen.sorsz
  WHERE listaszav > egyenszav*5 AND egyenszav > 0
  ```
+
+6. Szavazókörök, ahol jelentős mennyiségű érvénytelen szavazat érkezett
+
+```sql
+SELECT maz,taz,sorsz,valtip,m
+FROM "szavf" WHERE m > 20
+```
