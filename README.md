@@ -92,3 +92,10 @@ SELECT lista.maz, lista.taz, lista.sorsz, lista.tnev, lista.szav as listaszav, e
 SELECT maz,taz,sorsz,valtip,m
 FROM "szavf" WHERE m > 20
 ```
+
+7. Szavazókörök 85%-os részvétel felett
+
+```sql
+SELECT *
+FROM "szavf" WHERE cast(f as float)/cast(a as float)>0.85
+```
