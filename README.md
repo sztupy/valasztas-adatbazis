@@ -12,7 +12,7 @@ Az SQLite adatbázis elkészítve letölthető innen is: https://github.com/sztu
 
 Letöltés után, ha van docker-ed az alábbi paranccsal tudod a web interfészt előhozni:
 
-    docker run -it --rm -p 8080:8080 -v /path/to/valasztas.sqlite3:/data/valasztas.sqlite3:ro -e SQLITE_DATABASE=valasztas.sqlite3 valasztas
+    docker run -it --rm -p 8080:8080 -v /path/to/valasztas.sqlite3:/data/valasztas.sqlite3:ro -e SQLITE_DATABASE=valasztas.sqlite3 coleifer/sqlite-web
 
 2018-as választási eredmények SQL-ben
 =====================================
