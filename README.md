@@ -1,3 +1,10 @@
+Live SQL interfész
+==================
+
+http://valasztas.sztupy.hu/
+
+(esélyes, hogy lassú, ha lehet inkább töltsd le az adatokat és ott használd)
+
 2018-as választási eredmények SQL-ben
 =====================================
 
