@@ -6,6 +6,8 @@ require 'bundler'
 
 Bundler.require
 
+DB_TYPE = :sqlite
+
 File.open("schema.sql", "w+") do |schema_file|
 
 Dir.glob('data/*.xml').each do |filename|
@@ -35,7 +37,7 @@ Dir.glob('data/*.xml').each do |filename|
   end
 
   schema_file.puts "CREATE TABLE #{table_name} ("
-  schema_file.print "  internal_id SERIAL PRIMARY KEY NOT NULL"
+  schema_file.print "  internal_id #{DB_TYPE == :postgres ? 'SERIAL' : 'INTEGER'} PRIMARY KEY NOT NULL"
   schema.each_pair do |k,v|
     schema_file.puts ","
     schema_file.print "  #{k} "
