@@ -27,7 +27,7 @@ SELECT ejelolt.nev, ejelolt.unev1, jlcs.nevt, szavt.szav FROM szavf
   JOIN szavt ON szavf.jfid = szavt.jfid
   JOIN ejelolt ON szavt.jlid = ejelolt.eid
   LEFT JOIN jlcs ON jlcs.jlcs = ejelolt.jlcs
-  WHERE szavf.maz = ‘03' AND szavf.taz = '004' AND szavf.sorsz = '009'
+  WHERE szavf.maz = '03' AND szavf.taz = '004' AND szavf.sorsz = '009'
   AND szavf.valtip = 'J'
 ```
 
