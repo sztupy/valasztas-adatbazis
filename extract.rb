@@ -25,10 +25,11 @@ Dir.glob('data/*.xml').each do |filename|
       }
       if col.text.empty?
         schema[col.name][:null] = true
-      end
-      schema[col.name][:size] = [schema[col.name][:size], col.text.length].max
-      unless col.text.match?(/\A-?[0-9]*\Z/)
-        schema[col.name][:type] = :string
+      else
+        schema[col.name][:size] = [schema[col.name][:size], col.text.length].max
+        unless col.text.match?(/\A-?[1-9][0-9]*\Z/)
+          schema[col.name][:type] = :string
+        end
       end
     end
   end
