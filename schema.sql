@@ -1,5 +1,5 @@
 CREATE TABLE szkepv (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   mtip int NOT NULL,
   jlid int NOT NULL,
   lsorsz int NOT NULL
@@ -8,7 +8,7 @@ CREATE INDEX szkepv_jlid ON szkepv (jlid);
 CREATE INDEX szkepv_lsorsz ON szkepv (lsorsz);
 
 CREATE TABLE sznapi (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   valtip varchar(1) NOT NULL,
   maz varchar(2) NOT NULL,
   taz varchar(3) NOT NULL,
@@ -19,7 +19,7 @@ CREATE TABLE sznapi (
 CREATE INDEX sznapi_sorsz ON sznapi (sorsz);
 
 CREATE TABLE szavlf (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   jfid int NOT NULL,
   jlid int NOT NULL,
   nemz int NOT NULL,
@@ -35,7 +35,7 @@ CREATE INDEX szavlf_jfid ON szavlf (jfid);
 CREATE INDEX szavlf_jlid ON szavlf (jlid);
 
 CREATE TABLE partdelegalt (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   id varchar(24) NOT NULL,
   sorszm int NOT NULL,
   megye varchar(22) NOT NULL,
@@ -53,7 +53,7 @@ CREATE INDEX partdelegalt_sorszm ON partdelegalt (sorszm);
 CREATE INDEX partdelegalt_jellcsopid ON partdelegalt (jellcsopid);
 
 CREATE TABLE hatarszamf (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   hszav1 int NOT NULL,
   hszav2 int NOT NULL,
   hszav3 int NOT NULL,
@@ -61,7 +61,7 @@ CREATE TABLE hatarszamf (
 );
 
 CREATE TABLE szervezet (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   szkod int NOT NULL,
   szpntip varchar(1),
   nemz int,
@@ -77,7 +77,7 @@ CREATE INDEX szervezet_szkod ON szervezet (szkod);
 CREATE INDEX szervezet_rovid ON szervezet (rovid);
 
 CREATE TABLE nevjegyz (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   nszossz int NOT NULL,
   nszegy int NOT NULL,
   nszplist int NOT NULL,
@@ -108,7 +108,7 @@ CREATE TABLE nevjegyz (
 );
 
 CREATE TABLE sznapilf (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   valtip varchar(1) NOT NULL,
   maz varchar(2) NOT NULL,
   taz varchar(3) NOT NULL,
@@ -120,7 +120,7 @@ CREATE TABLE sznapilf (
 CREATE INDEX sznapilf_sorsz ON sznapilf (sorsz);
 
 CREATE TABLE tlista (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   tlid int NOT NULL,
   ltip varchar(1) NOT NULL,
   nemz int,
@@ -134,7 +134,7 @@ CREATE INDEX tlista_tlid ON tlista (tlid);
 CREATE INDEX tlista_sorsz ON tlista (sorsz);
 
 CREATE TABLE oevk (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   maz varchar(2) NOT NULL,
   evk varchar(2) NOT NULL,
   szekh varchar(17) NOT NULL,
@@ -142,7 +142,7 @@ CREATE TABLE oevk (
 );
 
 CREATE TABLE szavt (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   jfid int NOT NULL,
   jlid int NOT NULL,
   szav int NOT NULL
@@ -151,7 +151,7 @@ CREATE INDEX szavt_jfid ON szavt (jfid);
 CREATE INDEX szavt_jlid ON szavt (jlid);
 
 CREATE TABLE szavf (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   jfid int NOT NULL,
   valtip varchar(1) NOT NULL,
   maz varchar(2) NOT NULL,
@@ -194,7 +194,7 @@ CREATE INDEX szavf_jfid ON szavf (jfid);
 CREATE INDEX szavf_sorsz ON szavf (sorsz);
 
 CREATE TABLE jlcstag (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   jlcs int NOT NULL,
   szkod int NOT NULL,
   sorsz int NOT NULL
@@ -203,7 +203,7 @@ CREATE INDEX jlcstag_szkod ON jlcstag (szkod);
 CREATE INDEX jlcstag_sorsz ON jlcstag (sorsz);
 
 CREATE TABLE szeredmf (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   sfid int NOT NULL,
   oszint int NOT NULL,
   sfmaz varchar(2),
@@ -236,14 +236,14 @@ CREATE INDEX szeredmf_sfid ON szeredmf (sfid);
 CREATE INDEX szeredmf_eid ON szeredmf (eid);
 
 CREATE TABLE terulet (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   maz varchar(2) NOT NULL,
   mnev varchar(22) NOT NULL,
   mrnev varchar(10) NOT NULL
 );
 
 CREATE TABLE kodok (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   kodcsop varchar(9) NOT NULL,
   kod varchar(2) NOT NULL,
   szoveg varchar(73) NOT NULL
@@ -252,7 +252,7 @@ CREATE INDEX kodok_kodcsop ON kodok (kodcsop);
 CREATE INDEX kodok_kod ON kodok (kod);
 
 CREATE TABLE szeredmt (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   sfid int NOT NULL,
   jlid int NOT NULL,
   szav int NOT NULL,
@@ -265,7 +265,7 @@ CREATE INDEX szeredmt_sfid ON szeredmt (sfid);
 CREATE INDEX szeredmt_jlid ON szeredmt (jlid);
 
 CREATE TABLE jlcssor (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   tip varchar(1) NOT NULL,
   id int NOT NULL,
   sorsz int NOT NULL,
@@ -276,7 +276,7 @@ CREATE INDEX jlcssor_sorsz ON jlcssor (sorsz);
 CREATE INDEX jlcssor_szkod ON jlcssor (szkod);
 
 CREATE TABLE telep (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   maz varchar(2) NOT NULL,
   taz varchar(3) NOT NULL,
   tnevi varchar(23) NOT NULL,
@@ -286,14 +286,14 @@ CREATE TABLE telep (
 );
 
 CREATE TABLE jlcs (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   jlcs int NOT NULL,
   nevt varchar(28) NOT NULL,
   tag int NOT NULL
 );
 
 CREATE TABLE verzio (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   ver varchar(19) NOT NULL,
   tjel int NOT NULL,
   eng1 int NOT NULL,
@@ -304,7 +304,7 @@ CREATE TABLE verzio (
 );
 
 CREATE TABLE szavkor (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   maz varchar(2) NOT NULL,
   taz varchar(3),
   sorsz varchar(3),
@@ -316,7 +316,7 @@ CREATE TABLE szavkor (
 CREATE INDEX szavkor_sorsz ON szavkor (sorsz);
 
 CREATE TABLE ejelolt (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   maz varchar(2) NOT NULL,
   evk varchar(2) NOT NULL,
   eid int NOT NULL,
@@ -337,7 +337,7 @@ CREATE INDEX ejelolt_eid ON ejelolt (eid);
 CREATE INDEX ejelolt_sorsz ON ejelolt (sorsz);
 
 CREATE TABLE tlistaj (
-  internal_id INTEGER PRIMARY KEY NOT NULL,
+  internal_id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
   tlid int NOT NULL,
   tjsorsz int NOT NULL,
   tajaz varchar(32) NOT NULL,
@@ -352,4 +352,3 @@ CREATE TABLE tlistaj (
 );
 CREATE INDEX tlistaj_tlid ON tlistaj (tlid);
 CREATE INDEX tlistaj_tjsorsz ON tlistaj (tjsorsz);
-
