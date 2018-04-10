@@ -70,7 +70,7 @@ SELECT lista.maz, lista.taz, lista.sorsz, lista.tnev, lista.szav as listaszav, e
 
 5. Előző ellenkezője: több a listát szavazat, pedig egyéniben is indult a párt
 
-```
+```sql
 SELECT lista.maz, lista.taz, lista.sorsz, lista.tnev, lista.szav as listaszav, egyen.szav as egyenszav FROM
   (SELECT szavf.maz, szavf.taz, szavf.sorsz, tlista.tnev, szavt.szav FROM szavf
    JOIN szavt ON szavf.jfid = szavt.jfid
