@@ -40,6 +40,8 @@ CREATE TABLE partdelegalt (
   sorszm int NOT NULL,
   megye varchar(22) NOT NULL,
   telepls varchar(20) NOT NULL,
+  maz varchar(2) NOT NULL,
+  taz varchar(3) NOT NULL,
   bizottsgszintje varchar(5) NOT NULL,
   szavazkroevkszma varchar(3),
   vlasztsnapja varchar(10) NOT NULL,

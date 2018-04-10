@@ -9,6 +9,17 @@ Bundler.require
 
 DB_TYPE = :sqlite
 
+telepules = {}
+szavkor = CSV.read("csv/telep.csv", headers: true, col_sep: ';', quote_char: "'")
+szavkor.each do |szk|
+  name = szk['tnev']
+  name += " #{szk['tker']}" if szk['tker'] && !szk['tker'].empty?
+  name.upcase!
+  maz = szk['maz']
+  taz = szk['taz']
+  telepules[name] = { maz:maz, taz:taz }
+end
+
 delegaltak = CSV.read("data/partdelegaltak.csv", headers: true)
 
 headers = delegaltak.headers.map do |h|
@@ -28,6 +39,11 @@ File.open("data/partdelegaltak.xml","w+") do |out|
             if col[:safe] == 'jellcsoport'
               str = row[col[:orig]] || ''
               xml.send('jellcsopid', str.split(" - ").first)
+            end
+            if col[:safe] == 'telepls'
+              data = telepules[row[col[:orig]]]
+              xml.send('maz',data[:maz])
+              xml.send('taz',data[:taz])
             end
           end
         }
