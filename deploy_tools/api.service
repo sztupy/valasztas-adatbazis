@@ -1,0 +1,15 @@
+[Unit]
+Description=API Service
+Author=Me
+After=docker.service
+
+[Service]
+Restart=always
+ExecStartPre=-/usr/bin/docker kill api
+ExecStartPre=-/usr/bin/docker rm api
+ExecStartPre=/usr/bin/docker pull doclusterdemo/haproxy
+ExecStart=/usr/bin/docker run -p 80:80 -v /etc/haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg:ro --net=host --name api doclusterdemo/haproxy
+ExecStop=/usr/bin/docker stop api
+
+[Install]
+WantedBy=multi-user.target

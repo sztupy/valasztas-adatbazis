@@ -34,6 +34,24 @@ CREATE TABLE szavlf (
 CREATE INDEX szavlf_jfid ON szavlf (jfid);
 CREATE INDEX szavlf_jlid ON szavlf (jlid);
 
+CREATE TABLE partdelegalt (
+  internal_id INTEGER PRIMARY KEY NOT NULL,
+  id varchar(24) NOT NULL,
+  sorszm int NOT NULL,
+  megye varchar(22) NOT NULL,
+  telepls varchar(20) NOT NULL,
+  bizottsgszintje varchar(5) NOT NULL,
+  szavazkroevkszma varchar(3),
+  vlasztsnapja varchar(10) NOT NULL,
+  vlasztstpusa varchar(33) NOT NULL,
+  megbz varchar(44) NOT NULL,
+  jellcsoport varchar(20),
+  jellcsopid int
+);
+CREATE INDEX partdelegalt_id ON partdelegalt (id);
+CREATE INDEX partdelegalt_sorszm ON partdelegalt (sorszm);
+CREATE INDEX partdelegalt_jellcsopid ON partdelegalt (jellcsopid);
+
 CREATE TABLE hatarszamf (
   internal_id INTEGER PRIMARY KEY NOT NULL,
   hszav1 int NOT NULL,

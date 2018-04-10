@@ -1,0 +1,15 @@
+[Unit]
+Description=Frontend Service-3
+Author=Me
+After=docker.service
+
+[Service]
+Restart=always
+ExecStartPre=-/usr/bin/docker kill frontend-3
+ExecStartPre=-/usr/bin/docker rm frontend-3
+ExecStartPre=/usr/bin/docker pull coleifer/sqlite-web
+ExecStart=/usr/bin/docker run -p 8003:8080 -v /data:/data:ro -e SQLITE_DATABASE=valasztas.sqlite3 --name frontend-3 coleifer/sqlite-web
+ExecStop=/usr/bin/docker stop frontend-3
+
+[Install]
+WantedBy=multi-user.target

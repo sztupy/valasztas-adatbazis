@@ -3,10 +3,39 @@
 
 require 'rubygems'
 require 'bundler'
+require 'csv'
 
 Bundler.require
 
 DB_TYPE = :sqlite
+
+delegaltak = CSV.read("data/partdelegaltak.csv", headers: true)
+
+headers = delegaltak.headers.map do |h|
+  {
+    orig: h,
+    safe: h.downcase.gsub(/[^a-z]/,'')
+  }
+end
+
+File.open("data/partdelegaltak.xml","w+") do |out|
+  builder = Nokogiri::XML::Builder.new do |xml|
+    xml.partdelegalt {
+      delegaltak.each do |row|
+        xml.partdelegaltr {
+          headers.each do |col|
+            xml.send(col[:safe], row[col[:orig]])
+            if col[:safe] == 'jellcsoport'
+              str = row[col[:orig]] || ''
+              xml.send('jellcsopid', str.split(" - ").first)
+            end
+          end
+        }
+      end
+    }
+  end
+  out.print builder.to_xml
+end
 
 File.open("schema.sql", "w+") do |schema_file|
 
@@ -79,7 +108,7 @@ Dir.glob('data/*.xml').each do |filename|
     end
     out.puts ";"
   end
-  
+
 
   File.open("csv/#{table_name}.csv","w+") do |out|
     keys_order = schema.keys
@@ -102,6 +131,5 @@ Dir.glob('data/*.xml').each do |filename|
   end
 
 end
+
 end
-
-
