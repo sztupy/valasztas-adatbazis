@@ -715,3 +715,25 @@ CREATE TABLE tlistaj (
 );
 CREATE INDEX tlistaj_tlid ON tlistaj (tlid);
 CREATE INDEX tlistaj_tjsorsz ON tlistaj (tjsorsz);
+
+-- 2014-es egyéni szavazatok
+-- https://gitlab.com/gregoriosz/valasztas_hu/blob/master/oevk14.R alapján
+CREATE TABLE 2014_oevk (
+  id int,
+  -- Megye
+  -- (-> terulet.maz)
+  maz varchar(2) NOT NULL,
+  -- OEVK azonosító
+  -- (-> oevk.evk)
+  evk varchar(3) NOT NULL,
+  -- Jelölt neve
+  jelolt varchar(35) NOT NULL,
+  -- Párt neve
+  part varchar(21) NOT NULL,
+  -- Szavazatok száma
+  szavazat int NOT NULL,
+  -- Szavazatok százalékos aránya
+  szav_pct numeric(4, 2) NOT NULL,
+  -- Győzött-e? (0/1)
+  gyoztes tinyint NOT NULL
+);
