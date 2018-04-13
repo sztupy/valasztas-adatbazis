@@ -8,6 +8,7 @@ CREATE TABLE szkepv (
   -- (-> ejelolt.eid / tlista.tlid)
   jlid int NOT NULL,
   -- Listás jelölt sorszáma a listán
+  -- (-> tlistaj.tjsorsz)
   lsorsz int NOT NULL
 );
 CREATE INDEX szkepv_mtip ON szkepv (mtip);
@@ -45,6 +46,7 @@ CREATE INDEX sznapi_sorsz ON sznapi (sorsz);
 CREATE TABLE szavlf (
   internal_id INTEGER PRIMARY KEY NOT NULL,
   --  Szavazóköri „fej” adatok egyedi azonosítója
+  -- (-> szavf.jfid)
   jfid int NOT NULL,
   -- Jelölt, lista jelölés egyedi azonosító
   -- (-> ejelolt.eid / tlista.tlid)
@@ -71,21 +73,44 @@ CREATE TABLE szavlf (
 CREATE INDEX szavlf_jfid ON szavlf (jfid);
 CREATE INDEX szavlf_jlid ON szavlf (jlid);
 
+-- Pártdelegáltak
 CREATE TABLE partdelegalt (
   internal_id INTEGER PRIMARY KEY NOT NULL,
   id varchar(24) NOT NULL,
+  -- Sorszám
   sorszm int NOT NULL,
+  -- Megye
   megye varchar(22) NOT NULL,
+  -- Település
   telepls varchar(20) NOT NULL,
+  -- Megye azonosító
+  -- (-> terulet.maz)
   maz varchar(2) NOT NULL,
+  -- Település sorszám megyén belül
+  -- (-> telep.taz)
   taz varchar(3) NOT NULL,
+  -- Bizottság szintje
+  -- (SZSZB: szavazatszámláló bizottság, HVB: helyi választási bizottság,
+  --  OEVB: országgyűlési egyéni választókerületi választási bizottság,
+  --  NVB: Nemzeti Választási Bizottság)
   bizottsgszintje varchar(5) NOT NULL,
+  -- Szavazókör/OEVK száma
+  -- (-> oevk.evk)
   szavazkroevkszma varchar(3),
+  -- Szavazókör sorszám településen belül
+  -- (-> szavkor.sorsz)
   sorsz varchar(3) NOT NULL,
+  -- Választás napja (EEEE.HH.NN)
   vlasztsnapja varchar(10) NOT NULL,
+  -- Választás típusa ("ORSZÁGGYŰLÉSI KÉPVISELŐ VÁLASZTÁS")
   vlasztstpusa varchar(33) NOT NULL,
+  -- Megbízó
+  -- (->  szervezet.tnev?)
   megbz varchar(44) NOT NULL,
+  -- Jelölőcsoport
   jellcsoport varchar(20),
+  -- Jelölőcsoport azonosító
+  -- (-> jlcs.jlcs)
   jellcsopid int
 );
 CREATE INDEX partdelegalt_id ON partdelegalt (id);
@@ -254,7 +279,8 @@ CREATE TABLE tlista (
   jlcs int NOT NULL,
   -- Listaállító párt, országos nemzetiségi önkormányzat neve
   tnev varchar(100) NOT NULL,
-  -- Lista sorszáma (a szavazólapon csak akkor szerepel ha értéke >0)
+  -- Lista sorszáma a szavazólapon
+  -- (NULL: nem szerepel, 1: kisebbségi önkormányzatok)
   sorsz int,
   -- Lista érvényesen szerepel a szavazólapon jelző
   -- (0: Szavazólapon nem szerepel, 1: Szerepel a szavazólapon,
@@ -411,8 +437,10 @@ CREATE TABLE szeredmf (
   --  53: Listás szavazatok (levélben))
   oszint int NOT NULL,
   -- Megye azonosító
+  -- (-> terulet.maz)
   sfmaz varchar(2),
   -- OEVK sorszám megyén belül
+  -- (-> oevk.evk)
   sfevk varchar(2),
   -- Választás típusa
   -- (J: Egyéni választókerületi választás, L: Listás választás)
@@ -654,7 +682,7 @@ CREATE TABLE ejelolt (
   -- Jelöltet állító JLCS kódja
   -- (jlcs.jlcs)
   jlcs int NOT NULL,
-  -- Jelölt szavazólapi sorszáma (csak > 0 esetén szerepel a szavazólapon a jelölt)
+  -- Jelölt szavazólapi sorszáma (NULL: nem szerepel a szavazólapon)
   sorsz int,
   -- Jelölt érvényesen szerepel a szavazólapon jelző
   -- (0: Szavazólapon nem szerepel, 1: Szerepel a szavazólapon,
