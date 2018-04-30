@@ -14,6 +14,12 @@ Letöltés után, ha van docker-ed az alábbi paranccsal tudod a web interfészt
 
     docker run -it --rm -p 8080:8080 -v /path/to/valasztas.sqlite3:/data/valasztas.sqlite3:ro -e SQLITE_DATABASE=valasztas.sqlite3 coleifer/sqlite-web
 
+Lásd még
+========
+
+- NVI Dokumentáció: https://github.com/sztupy/valasztas-adatbazis/blob/master/NVI_tajekoztato.doc
+- Eredmények reprezentálása gráffal: https://github.com/pcgejza/diplomamunka_valasztasi_adatok_graf
+
 2018-as választási eredmények SQL-ben
 =====================================
 
