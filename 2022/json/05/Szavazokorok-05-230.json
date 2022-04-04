@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "230",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pálháza, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 05. számú OEVK",
+      "cim" : "3994 Pálháza, Dózsa György út 151. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 900,
+        "honos" : 835,
+        "atjel" : 12,
+        "atjelInnen" : 59,
+        "osszesen" : 847
+      }
+    } ]
+  }
+}
