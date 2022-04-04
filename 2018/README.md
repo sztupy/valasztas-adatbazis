@@ -1,3 +1,11 @@
+FONTOS
+======
+
+Az alábbi adatbázis NEM a végleges adatsor alapján készült, hanem egy koraibb feldolgozás adatait tartalmazza. Bár lehet használni kutatási célokra, ha a végleges eredmény érdekel jobban jársz ha letöltöd azt a valasztas.hu oldalról Excel formátumban: https://www.valasztas.hu/valasztasi-eredmenyek-letoltese
+
+
+
+
 Live SQL interfész
 ==================
 
@@ -8,7 +16,7 @@ A fenti link kis terhelésű szerveren fut, így esélyes, hogy lassú, vagy nem
 valamint a sémát innen: https://github.com/sztupy/valasztas-adatbazis/blob/master/schema.sql
 és egy helyi adatbázisban használd
 
-Az SQLite adatbázis elkészítve letölthető innen is: https://github.com/sztupy/valasztas-adatbazis/raw/master/deploy_tools/valasztas.sqlite3
+Az SQLite adatbázis elkészítve letölthető innen is: https://github.com/sztupy/valasztas-adatbazis/raw/master/2018/deploy_tools/valasztas.sqlite3
 
 Letöltés után, ha van docker-ed az alábbi paranccsal tudod a web interfészt előhozni:
 

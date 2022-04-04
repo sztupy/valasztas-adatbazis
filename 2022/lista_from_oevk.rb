@@ -10,6 +10,13 @@ JSON.parse(File.read("json/ListakEsJeloltek.json"))['list'].each do |data|
   LISTAK[data['tl_id']] = data['jlcs_nev'] unless data['nemzkod'];
 end
 
+MAPPING = {
+  950 => "ÖSSZEFOGÁS",
+  951 => "MKKP",
+  942 => "MI HAZÁNK",
+  952 => "FIDESZ"
+}
+
 SZKDATA = {}
 ADATOK = {}
 
@@ -30,9 +37,6 @@ end
 
 STDERR.puts
 
-total = 0
-megjelent = 0
-
 Dir.glob("json/**/SzavkorJkv*.json").each do |filename|
   STDERR.print "."
   JSON.parse(File.read(filename))['list'].each do |data|
@@ -43,6 +47,7 @@ Dir.glob("json/**/SzavkorJkv*.json").each do |filename|
     evk = SZKDATA.dig(maz,taz,sorsz)
 
     p "MISSING SZAVDAT ", maz,taz,sorsz unless evk
+
     next unless evk
 
     SZKDATA[maz][taz][sorsz] = nil
@@ -54,9 +59,7 @@ Dir.glob("json/**/SzavkorJkv*.json").each do |filename|
 
     current['total'] ||= 0
     current['megjelent'] ||= 0
-    LISTAK.each_pair do |k,_|
-      current[k] ||= 0
-    end
+    current['ervenyes'] ||= 0
 
     lista = data['listas_jkv']
 
@@ -64,15 +67,17 @@ Dir.glob("json/**/SzavkorJkv*.json").each do |filename|
 
     current['total'] += lista['partlistara']['vp_osszes']
     current['megjelent'] += lista['partlistara']['megjelent']
+    current['ervenyes'] += lista['partlistara']['szl_ervenyes']
 
     lista['tetelek'].each do |tetel|
       next unless LISTAK[tetel['tl_id']]
 
-      current[tetel['tl_id']] += tetel['szavazat']
-    end
+      map = MAPPING[tetel['tl_id']]
+      map ||= "EGYÉB"
 
-    total += lista['partlistara']['vp_osszes']
-    megjelent += lista['partlistara']['megjelent']
+      current[map] ||= 0
+      current[map] += tetel['szavazat']
+    end
   end
 end
 
