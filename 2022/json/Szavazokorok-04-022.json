@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "022",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Gádoros, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Gádoros, Iskola utca 19./új könyvtár/",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 935,
+        "honos" : 908,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 908
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Gádoros, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Gádoros, Iskola utca 4. /Központi Általános Iskola/",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 989,
+        "honos" : 949,
+        "atjel" : 0,
+        "atjelInnen" : 35,
+        "osszesen" : 949
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Gádoros, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5932 Gádoros, Fő utca 30. /Idősek Klubja/",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 992,
+        "honos" : 969,
+        "atjel" : 15,
+        "atjelInnen" : 18,
+        "osszesen" : 984
+      }
+    } ]
+  }
+}

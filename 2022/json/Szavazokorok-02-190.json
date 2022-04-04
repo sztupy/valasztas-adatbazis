@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "190",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagykozár, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BARANYA megye, 02. számú OEVK",
+      "cim" : " Nagykozár, Kossuth u. 33. (Műv. Ház. nagyterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 770,
+        "honos" : 742,
+        "atjel" : 17,
+        "atjelInnen" : 26,
+        "osszesen" : 759
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nagykozár, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BARANYA megye, 02. számú OEVK",
+      "cim" : " Nagykozár,  Kossuth u. 33. (Műv. Ház előtere)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 831,
+        "honos" : 805,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 805
+      }
+    } ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "076",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Herend, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "VESZPRÉM megye, 01. számú OEVK",
+      "cim" : "8440 Herend, Fasor utca 15. (Herend Szálló)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 734,
+        "honos" : 702,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 702
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Herend, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "VESZPRÉM megye, 01. számú OEVK",
+      "cim" : "8440 Herend, Kossuth Lajos utca 136. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 711,
+        "honos" : 693,
+        "atjel" : 31,
+        "atjelInnen" : 16,
+        "osszesen" : 724
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Herend, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "VESZPRÉM megye, 01. számú OEVK",
+      "cim" : "8440 Herend, Iskola utca 8.  (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 693,
+        "honos" : 671,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 671
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Herend, 004. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "VESZPRÉM megye, 01. számú OEVK",
+      "cim" : "8440 Herend, Kossuth Lajos utca 60.  (Idősek Klubja)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 709,
+        "honos" : 704,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 704
+      }
+    } ]
+  }
+}

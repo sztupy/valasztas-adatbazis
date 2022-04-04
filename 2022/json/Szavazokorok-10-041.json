@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "041",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Gyöngyösoroszi, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Gyöngyösoroszi, Jókai M. út 3. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1077,
+        "honos" : 1049,
+        "atjel" : 6,
+        "atjelInnen" : 20,
+        "osszesen" : 1055
+      }
+    } ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "054",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Fonyód, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Fonyód, Hunyadi J. u. 3. (Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1017,
+        "honos" : 941,
+        "atjel" : 175,
+        "atjelInnen" : 76,
+        "osszesen" : 1116
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Fonyód, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Fonyód, Béke u. 1. (Bacsák György Szakképző Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1080,
+        "honos" : 1025,
+        "atjel" : 0,
+        "atjelInnen" : 48,
+        "osszesen" : 1025
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Fonyód, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : "8640 Fonyód, Bartók Béla u. 1. (Panoráma Étterem)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1124,
+        "honos" : 1057,
+        "atjel" : 0,
+        "atjelInnen" : 65,
+        "osszesen" : 1057
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Fonyód, 004. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Fonyód, Vízmű u. 1. (Vízmű)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1101,
+        "honos" : 1036,
+        "atjel" : 0,
+        "atjelInnen" : 68,
+        "osszesen" : 1036
+      }
+    } ]
+  }
+}

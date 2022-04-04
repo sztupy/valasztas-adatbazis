@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "061",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kompolt, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Kompolt, Széchenyi utca 16. (Gondozási Központ)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 731,
+        "honos" : 707,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 707
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kompolt, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Kompolt, Fő utca 2. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 776,
+        "honos" : 760,
+        "atjel" : 15,
+        "atjelInnen" : 18,
+        "osszesen" : 775
+      }
+    } ]
+  }
+}

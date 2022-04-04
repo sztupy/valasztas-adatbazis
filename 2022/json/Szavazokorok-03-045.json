@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "045",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Hajós, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BÁCS-KISKUN megye, 05. számú OEVK",
+      "cim" : " Hajós, Rákóczi u. 12. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 861,
+        "honos" : 841,
+        "atjel" : 19,
+        "atjelInnen" : 17,
+        "osszesen" : 860
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Hajós, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BÁCS-KISKUN megye, 05. számú OEVK",
+      "cim" : " Hajós, Jókai u. 4/A (Sportcsarnok)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 828,
+        "honos" : 800,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 800
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Hajós, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BÁCS-KISKUN megye, 05. számú OEVK",
+      "cim" : " Hajós, Szigeti Fő u. 10. (Zarándokház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 700,
+        "honos" : 675,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 675
+      }
+    } ]
+  }
+}

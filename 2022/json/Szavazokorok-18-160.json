@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "160",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Répcelak, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : "9653 Répcelak, Radó Kálmán tér 2. (Műv. Ház kisterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 639,
+        "honos" : 618,
+        "atjel" : 24,
+        "atjelInnen" : 18,
+        "osszesen" : 642
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Répcelak, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : " Répcelak, József Attila utca 32. (Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 870,
+        "honos" : 843,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 843
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Répcelak, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : "9653 Répcelak, Radó Kálmán tér 2. (Műv. Ház házasságkötő t.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 627,
+        "honos" : 604,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 604
+      }
+    } ]
+  }
+}

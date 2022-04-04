@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "119",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Harsány, 001. számú szavazókör",
+      "evk" : "07",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 07. számú OEVK",
+      "cim" : " Harsány, Munkácsy M. u. 2. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 775,
+        "honos" : 767,
+        "atjel" : 16,
+        "atjelInnen" : 11,
+        "osszesen" : 783
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Harsány, 002. számú szavazókör",
+      "evk" : "07",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 07. számú OEVK",
+      "cim" : " Harsány, Munkácsy M u. 2. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 826,
+        "honos" : 788,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 788
+      }
+    } ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "113",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Verpelét, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Verpelét, Petőfi Sándor út 17. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 634,
+        "honos" : 598,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 598
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Verpelét, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Verpelét, Kossuth Lajos út 73. (Gyermekjóléti Szolgálat)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 822,
+        "honos" : 813,
+        "atjel" : 39,
+        "atjelInnen" : 7,
+        "osszesen" : 852
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Verpelét, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Verpelét, Dózsa György út 3. (Varsányi Pincészet Iroda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 683,
+        "honos" : 655,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 655
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Verpelét, 004. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Verpelét, Kastély út 8. (Petőfi Sándor Közösségi Ház és K.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 874,
+        "honos" : 840,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 840
+      }
+    } ]
+  }
+}

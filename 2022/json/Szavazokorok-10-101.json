@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "101",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tarnaméra, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Tarnaméra, Dobó utca 1/B. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 672,
+        "honos" : 650,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 650
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tarnaméra, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Tarnaméra, Árpád utca 17. (Napsugár Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 676,
+        "honos" : 665,
+        "atjel" : 19,
+        "atjelInnen" : 11,
+        "osszesen" : 684
+      }
+    } ]
+  }
+}

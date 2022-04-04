@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "161",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pusztakovácsi, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Pusztakovácsi, Fő utca 117. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 487,
+        "honos" : 475,
+        "atjel" : 4,
+        "atjelInnen" : 8,
+        "osszesen" : 479
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Pusztakovácsi, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Pusztakovácsi, Kürtöspuszta (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 118,
+        "honos" : 117,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 117
+      }
+    } ]
+  }
+}

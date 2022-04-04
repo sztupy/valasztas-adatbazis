@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "046",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Gencsapáti, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : " Gencsapáti, Dózsa utca 2/A (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1103,
+        "honos" : 1071,
+        "atjel" : 13,
+        "atjelInnen" : 33,
+        "osszesen" : 1084
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Gencsapáti, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : " Gencsapáti, Szentegyház út 5. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1048,
+        "honos" : 1013,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 1013
+      }
+    } ]
+  }
+}

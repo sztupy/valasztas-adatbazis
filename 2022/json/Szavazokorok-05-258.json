@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "258",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sajókeresztúr, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 01. számú OEVK",
+      "cim" : "3791 Sajókeresztúr, Rákóczi u. 75. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1249,
+        "honos" : 1218,
+        "atjel" : 12,
+        "atjelInnen" : 31,
+        "osszesen" : 1230
+      }
+    } ]
+  }
+}

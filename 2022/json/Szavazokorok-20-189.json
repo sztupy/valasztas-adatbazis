@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "189",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Söjtör, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Söjtör, Petőfi utca 2. (Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 560,
+        "honos" : 531,
+        "atjel" : 14,
+        "atjelInnen" : 18,
+        "osszesen" : 545
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Söjtör, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Söjtör, Deák Ferenc utca 140. (IKSZT épülete)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 635,
+        "honos" : 620,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 620
+      }
+    } ]
+  }
+}

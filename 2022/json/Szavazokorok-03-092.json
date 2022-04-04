@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "092",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pálmonostora, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÁCS-KISKUN megye, 04. számú OEVK",
+      "cim" : " Pálmonostora, Táncsics M. u. 26. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 731,
+        "honos" : 719,
+        "atjel" : 11,
+        "atjelInnen" : 16,
+        "osszesen" : 730
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Pálmonostora, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÁCS-KISKUN megye, 04. számú OEVK",
+      "cim" : " Pálmonostora, Petőfi S. u. 87. (Községi Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 693,
+        "honos" : 678,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 678
+      }
+    } ]
+  }
+}

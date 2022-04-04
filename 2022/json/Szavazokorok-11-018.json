@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "018",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Jászdózsa, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 02. számú OEVK",
+      "cim" : "5122 Jászdózsa, Széchenyi út 1. (Közösségi Ház nagyterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 568,
+        "honos" : 562,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 562
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Jászdózsa, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 02. számú OEVK",
+      "cim" : "5122 Jászdózsa, Széchenyi út 1. (Közösségi ház 2. kisterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 592,
+        "honos" : 581,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 581
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Jászdózsa, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 02. számú OEVK",
+      "cim" : "5122 Jászdózsa, Széchenyi út 1. (Közösségi ház 1. kisterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 572,
+        "honos" : 566,
+        "atjel" : 12,
+        "atjelInnen" : 14,
+        "osszesen" : 578
+      }
+    } ]
+  }
+}

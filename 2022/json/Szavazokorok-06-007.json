@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "007",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Balástya, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 03. számú OEVK",
+      "cim" : "6764 Balástya, Széchenyi u. 15. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 741,
+        "honos" : 725,
+        "atjel" : 16,
+        "atjelInnen" : 9,
+        "osszesen" : 741
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Balástya, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 03. számú OEVK",
+      "cim" : "6764 Balástya, Rákóczi u. 34. (Falusi Tanoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 729,
+        "honos" : 710,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 710
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Balástya, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 03. számú OEVK",
+      "cim" : "6764 Balástya, Széchenyi u. 15. (Műv. Ház 1. sz. épület)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 726,
+        "honos" : 707,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 707
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Balástya, 004. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 03. számú OEVK",
+      "cim" : "6764 Balástya, Rákóczi u. 33. (Teleház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 530,
+        "honos" : 520,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 520
+      }
+    } ]
+  }
+}

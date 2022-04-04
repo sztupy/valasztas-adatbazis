@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "064",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tiszapüspöki, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 04. számú OEVK",
+      "cim" : "5211 Tiszapüspöki, Fő út 93. (Községháza Tanácsterme)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 773,
+        "honos" : 756,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 756
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tiszapüspöki, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 04. számú OEVK",
+      "cim" : " Tiszapüspöki, Liszt Ferenc utca 5. (Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 837,
+        "honos" : 818,
+        "atjel" : 13,
+        "atjelInnen" : 14,
+        "osszesen" : 831
+      }
+    } ]
+  }
+}

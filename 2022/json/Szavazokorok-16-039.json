@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "039",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Fülpösdaróc, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : "4754 Fülpösdaróc, Pécsi építők útja 9. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 254,
+        "honos" : 255,
+        "atjel" : 2,
+        "atjelInnen" : 2,
+        "osszesen" : 257
+      }
+    } ]
+  }
+}

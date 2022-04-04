@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "015",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Deszk, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 01. számú OEVK",
+      "cim" : "6772 Deszk, Tempfli  tér 8. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 842,
+        "honos" : 819,
+        "atjel" : 29,
+        "atjelInnen" : 34,
+        "osszesen" : 848
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Deszk, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 01. számú OEVK",
+      "cim" : "6772 Deszk, Móra Ferenc u. 2. (Új iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 790,
+        "honos" : 755,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 755
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Deszk, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 01. számú OEVK",
+      "cim" : "6772 Deszk, Tempfli tér 1. (Régi iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 759,
+        "honos" : 749,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 749
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Deszk, 004. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 01. számú OEVK",
+      "cim" : "6772 Deszk, Széchenyi István u. 31. (Nyugdíjasklub)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 755,
+        "honos" : 740,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 740
+      }
+    } ]
+  }
+}

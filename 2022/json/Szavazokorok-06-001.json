@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "001",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Algyő, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 04. számú OEVK",
+      "cim" : " Algyő, Búvár utca 5. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1096,
+        "honos" : 1062,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 1062
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Algyő, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 04. számú OEVK",
+      "cim" : " Algyő, Kastélykert u. 106. (Alkotóház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1122,
+        "honos" : 1097,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 1097
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Algyő, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 04. számú OEVK",
+      "cim" : " Algyő, Kastélykert u. 38. (Civil Szervezetek Háza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1112,
+        "honos" : 1092,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 1092
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Algyő, 004. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 04. számú OEVK",
+      "cim" : " Algyő, Kastélykert u. 17. (Szivárvány Óvoda Tornaszoba)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1083,
+        "honos" : 1052,
+        "atjel" : 106,
+        "atjelInnen" : 22,
+        "osszesen" : 1158
+      }
+    } ]
+  }
+}

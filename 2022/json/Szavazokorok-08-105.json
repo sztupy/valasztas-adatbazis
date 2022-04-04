@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "105",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mosonszentmiklós, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonszentmiklós,  Fő út 1. (Civilek Háza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 953,
+        "honos" : 936,
+        "atjel" : 25,
+        "atjelInnen" : 20,
+        "osszesen" : 961
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Mosonszentmiklós, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonszentmiklós,  Táncsics Mihály utca 2. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1094,
+        "honos" : 1085,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 1085
+      }
+    } ]
+  }
+}

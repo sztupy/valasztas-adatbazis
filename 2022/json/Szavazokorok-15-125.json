@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "125",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mesztegnyő, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Mesztegnyő, Szabadság tér 7. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 619,
+        "honos" : 608,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 608
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Mesztegnyő, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Mesztegnyő, Vörösmarty Mihály utca 26. (Gondozási Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 413,
+        "honos" : 389,
+        "atjel" : 6,
+        "atjelInnen" : 14,
+        "osszesen" : 395
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "068",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mátraderecske, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Mátraderecske, Kossuth Lajos út 2. (régi iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 775,
+        "honos" : 750,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 750
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Mátraderecske, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Mátraderecske, Hősők tere 12. (hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 766,
+        "honos" : 744,
+        "atjel" : 14,
+        "atjelInnen" : 23,
+        "osszesen" : 758
+      }
+    } ]
+  }
+}

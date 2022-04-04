@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "146",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sarród, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : " Sarród, Kossuth utca 2.  (Kultúrotthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 477,
+        "honos" : 470,
+        "atjel" : 13,
+        "atjelInnen" : 7,
+        "osszesen" : 483
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Sarród, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9438 Sarród, Nyárliget Fő utca 2. (Művelődési ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 180,
+        "honos" : 178,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 178
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Sarród, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9434 Sarród, Fertőújlak Fő utca 12. (Művelődési ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 72,
+        "honos" : 71,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 71
+      }
+    } ]
+  }
+}

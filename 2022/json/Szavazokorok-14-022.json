@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "022",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csomád, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2161 Csomád, Kossuth Lajos út 71. (Napsugár Óvoda-Bölcsőde)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1356,
+        "honos" : 1333,
+        "atjel" : 25,
+        "atjelInnen" : 34,
+        "osszesen" : 1358
+      }
+    } ]
+  }
+}

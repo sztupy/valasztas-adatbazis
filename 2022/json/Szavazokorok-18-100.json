@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "100",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Lócs, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : " Lócs, Fő  utca  52. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 89,
+        "honos" : 90,
+        "atjel" : 2,
+        "atjelInnen" : 0,
+        "osszesen" : 92
+      }
+    } ]
+  }
+}

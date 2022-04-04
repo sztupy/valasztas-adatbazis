@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "077",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ráckeresztúr, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : "2465 Ráckeresztúr, Korniss utca 25. (Óvodaépület)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 913,
+        "honos" : 898,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 898
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Ráckeresztúr, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : "2465 Ráckeresztúr, Szent János tér 32. (Központi Ált. Isk)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 937,
+        "honos" : 923,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 923
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Ráckeresztúr, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : "2465 Ráckeresztúr, Hősők tere 325/5 hrsz. Falugondnokság",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 984,
+        "honos" : 967,
+        "atjel" : 39,
+        "atjelInnen" : 11,
+        "osszesen" : 1006
+      }
+    } ]
+  }
+}

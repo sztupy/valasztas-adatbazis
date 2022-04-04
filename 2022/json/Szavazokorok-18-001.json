@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "001",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Acsád, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : "9746 Acsád, Semmelweis tér 2. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 505,
+        "honos" : 499,
+        "atjel" : 4,
+        "atjelInnen" : 11,
+        "osszesen" : 503
+      }
+    } ]
+  }
+}

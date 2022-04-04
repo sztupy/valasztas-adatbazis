@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "039",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Fülöpháza, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BÁCS-KISKUN megye, 01. számú OEVK",
+      "cim" : " Fülöpháza, Kossuth u. 2. (Ady Endre Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 708,
+        "honos" : 690,
+        "atjel" : 8,
+        "atjelInnen" : 15,
+        "osszesen" : 698
+      }
+    } ]
+  }
+}

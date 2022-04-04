@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "050",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Edde, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Edde, Fő utca 47. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 137,
+        "honos" : 139,
+        "atjel" : 1,
+        "atjelInnen" : 0,
+        "osszesen" : 140
+      }
+    } ]
+  }
+}

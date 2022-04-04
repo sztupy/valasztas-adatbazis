@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "124",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nyírkarász, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Nyírkarász, Fő út 67. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 784,
+        "honos" : 751,
+        "atjel" : 5,
+        "atjelInnen" : 27,
+        "osszesen" : 756
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nyírkarász, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Nyírkarász, Szabadság tér 1. (Művelődési ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1037,
+        "honos" : 1008,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 1008
+      }
+    } ]
+  }
+}

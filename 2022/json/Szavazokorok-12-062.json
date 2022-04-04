@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "062",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tardos, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : " Tardos,  Rákóczi Ferenc utca 19. (Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1399,
+        "honos" : 1368,
+        "atjel" : 11,
+        "atjelInnen" : 34,
+        "osszesen" : 1379
+      }
+    } ]
+  }
+}

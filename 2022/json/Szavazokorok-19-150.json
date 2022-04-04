@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "150",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ősi, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VESZPRÉM megye, 02. számú OEVK",
+      "cim" : " Ősi, Kossuth L. u. 40. (Ősi Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 895,
+        "honos" : 870,
+        "atjel" : 3,
+        "atjelInnen" : 18,
+        "osszesen" : 873
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Ősi, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VESZPRÉM megye, 02. számú OEVK",
+      "cim" : " Ősi, Kossuth L. u. 117. (Közösségi Helyiség)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 749,
+        "honos" : 732,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 732
+      }
+    } ]
+  }
+}

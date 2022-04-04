@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "128",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szentmártonkáta, 001. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2254 Szentmártonkáta, Iskola u. 14. (Aprajafalva Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 983,
+        "honos" : 969,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 969
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szentmártonkáta, 002. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2254 Szentmártonkáta, Battha S. u. 1.  (Arany János Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 929,
+        "honos" : 928,
+        "atjel" : 40,
+        "atjelInnen" : 8,
+        "osszesen" : 968
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Szentmártonkáta, 003. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2254 Szentmártonkáta, Bacsó Béla út 124.  (Telepi Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1145,
+        "honos" : 1116,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 1116
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Szentmártonkáta, 004. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2254 Szentmártonkáta, Bacsó Béla u. 124. (Telepi Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 992,
+        "honos" : 972,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 972
+      }
+    } ]
+  }
+}

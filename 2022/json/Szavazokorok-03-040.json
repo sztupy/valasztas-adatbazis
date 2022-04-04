@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "040",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Fülöpjakab, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÁCS-KISKUN megye, 04. számú OEVK",
+      "cim" : " Fülöpjakab, Petőfi utca 6. (Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 925,
+        "honos" : 909,
+        "atjel" : 4,
+        "atjelInnen" : 12,
+        "osszesen" : 913
+      }
+    } ]
+  }
+}

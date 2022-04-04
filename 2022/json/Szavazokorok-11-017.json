@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "017",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Jászboldogháza, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 02. számú OEVK",
+      "cim" : " Jászboldogháza, Rákóczi u. 27. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 724,
+        "honos" : 701,
+        "atjel" : 4,
+        "atjelInnen" : 15,
+        "osszesen" : 705
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Jászboldogháza, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 02. számú OEVK",
+      "cim" : " Jászboldogháza, Rákóczi u. 9. (Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 710,
+        "honos" : 700,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 700
+      }
+    } ]
+  }
+}

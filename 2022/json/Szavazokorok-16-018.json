@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "018",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bököny, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : " Bököny, Kossuth utca 8. (Egészségügyi Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 575,
+        "honos" : 572,
+        "atjel" : 11,
+        "atjelInnen" : 5,
+        "osszesen" : 583
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Bököny, 002. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : " Bököny, Kossuth utca 12. (Családsegítő Szolgálat)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 601,
+        "honos" : 589,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 589
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Bököny, 003. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : " Bököny, Óvoda köz 4. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 630,
+        "honos" : 611,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 611
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Bököny, 004. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : " Bököny, József Attila utca 2. (Barota M. Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 611,
+        "honos" : 601,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 601
+      }
+    } ]
+  }
+}

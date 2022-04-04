@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "108",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Zomba, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : " Zomba, Rákóczi u. 84. (Központi Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 637,
+        "honos" : 616,
+        "atjel" : 13,
+        "atjelInnen" : 16,
+        "osszesen" : 629
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Zomba, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : " Zomba, Fő tér 1.  (Szociális étkezde)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 475,
+        "honos" : 459,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 459
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Zomba, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : " Zomba, Fő tér 2. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 495,
+        "honos" : 479,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 479
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Zomba, 004. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : " Zomba, Szentgálszőlőhegy 42. (Közösségi Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 99,
+        "honos" : 95,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 95
+      }
+    } ]
+  }
+}

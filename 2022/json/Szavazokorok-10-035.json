@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "035",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Fedémes, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : "3255 Fedémes, Petőfi Sándor út 51. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 260,
+        "honos" : 249,
+        "atjel" : 5,
+        "atjelInnen" : 9,
+        "osszesen" : 254
+      }
+    } ]
+  }
+}

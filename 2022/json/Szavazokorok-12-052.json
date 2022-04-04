@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "052",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Piliscsév, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : " Piliscsév,  Hősök tere 10. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1084,
+        "honos" : 1059,
+        "atjel" : 32,
+        "atjelInnen" : 19,
+        "osszesen" : 1091
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Piliscsév, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : " Piliscsév,  Jubileum tér 1. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1013,
+        "honos" : 975,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 975
+      }
+    } ]
+  }
+}

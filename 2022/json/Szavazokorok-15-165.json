@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "165",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Rinyakovácsi, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Rinyakovácsi, Fő utca 12. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 123,
+        "honos" : 121,
+        "atjel" : 3,
+        "atjelInnen" : 1,
+        "osszesen" : 124
+      }
+    } ]
+  }
+}

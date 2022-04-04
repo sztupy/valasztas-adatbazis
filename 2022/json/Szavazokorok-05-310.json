@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "310",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tard, 001. számú szavazókör",
+      "evk" : "07",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 07. számú OEVK",
+      "cim" : "3416 Tard, Rózsa utca 1. (Házasságkötő terem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 968,
+        "honos" : 925,
+        "atjel" : 6,
+        "atjelInnen" : 32,
+        "osszesen" : 931
+      }
+    } ]
+  }
+}

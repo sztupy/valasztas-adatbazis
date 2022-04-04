@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "030",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Domony, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "PEST megye, 06. számú OEVK",
+      "cim" : " Domony, Fő u. 95. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 559,
+        "honos" : 542,
+        "atjel" : 22,
+        "atjelInnen" : 12,
+        "osszesen" : 564
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Domony, 002. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "PEST megye, 06. számú OEVK",
+      "cim" : " Domony, Fő u. 89. (Műv. Ház.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 775,
+        "honos" : 762,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 762
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Domony, 003. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "PEST megye, 06. számú OEVK",
+      "cim" : " Domony, Domonyvölgy 644 hrsz. (Ifjúsági Tábor)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 420,
+        "honos" : 417,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 417
+      }
+    } ]
+  }
+}

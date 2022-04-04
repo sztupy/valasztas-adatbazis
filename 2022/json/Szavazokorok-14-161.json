@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "161",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Újhartyán, 001. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : " Újhartyán,  Zrínyi M. u. 1. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 700,
+        "honos" : 688,
+        "atjel" : 36,
+        "atjelInnen" : 11,
+        "osszesen" : 724
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Újhartyán, 002. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : " Újhartyán, Béla gödör 3. (Új óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 771,
+        "honos" : 746,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 746
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Újhartyán, 003. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : " Újhartyán, Cigleher út 1/a (Városi Vízműtelep)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 805,
+        "honos" : 786,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 786
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "158",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pacsa, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Pacsa, József Attila u. 1. (Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 644,
+        "honos" : 629,
+        "atjel" : 24,
+        "atjelInnen" : 7,
+        "osszesen" : 653
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Pacsa, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Pacsa, Szent István tér 16. (Művelődési ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 651,
+        "honos" : 633,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 633
+      }
+    } ]
+  }
+}

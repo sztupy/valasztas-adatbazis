@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "248",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Zalaszentlászló, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Zalaszentlászló, Kossuth u. 17. (Faluház Ifjúsági Klub)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 369,
+        "honos" : 367,
+        "atjel" : 12,
+        "atjelInnen" : 2,
+        "osszesen" : 379
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Zalaszentlászló, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Zalaszentlászló, Széchenyi utca 1. (Idősek klubja)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 213,
+        "honos" : 214,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 214
+      }
+    } ]
+  }
+}

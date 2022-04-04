@@ -1,0 +1,522 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "104",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mosonmagyaróvár, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Gazdász utca 10. (Egyetem Kollégium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 827,
+        "honos" : 803,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 803
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Mosonmagyaróvár, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Lucsony utca 2. (Egyetem Phare épület)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 730,
+        "honos" : 690,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 690
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Mosonmagyaróvár, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Lucsony utca 2. (Egyetem Phare épület)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 832,
+        "honos" : 811,
+        "atjel" : 513,
+        "atjelInnen" : 24,
+        "osszesen" : 1324
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Mosonmagyaróvár, 004. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Gazdász utca 10. (Egyetem Kollégium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1251,
+        "honos" : 1253,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 1253
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Mosonmagyaróvár, 005. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Ujhelyi Imre utca 69. (Ujhelyi Imre Ált. Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 875,
+        "honos" : 859,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 859
+      }
+    }, {
+      "sorszam" : "006",
+      "szk_nev" : "Mosonmagyaróvár, 006. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Ujhelyi Imre utca 69. (Ujhelyi Imre Ált. Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 855,
+        "honos" : 839,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 839
+      }
+    }, {
+      "sorszam" : "007",
+      "szk_nev" : "Mosonmagyaróvár, 007. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Gorkij utca 29. (Fekete István Ált. Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 962,
+        "honos" : 939,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 939
+      }
+    }, {
+      "sorszam" : "008",
+      "szk_nev" : "Mosonmagyaróvár, 008. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Gorkij utca 3. (Városi Kollégium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1245,
+        "honos" : 1215,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 1215
+      }
+    }, {
+      "sorszam" : "009",
+      "szk_nev" : "Mosonmagyaróvár, 009. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Gorkij utca 3. (Városi Kollégium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 742,
+        "honos" : 728,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 728
+      }
+    }, {
+      "sorszam" : "010",
+      "szk_nev" : "Mosonmagyaróvár, 010. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Alkotmány utca 8. (Fekete István Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 883,
+        "honos" : 870,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 870
+      }
+    }, {
+      "sorszam" : "011",
+      "szk_nev" : "Mosonmagyaróvár, 011. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Alkotmány utca 8. (Fekete István Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 854,
+        "honos" : 841,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 841
+      }
+    }, {
+      "sorszam" : "012",
+      "szk_nev" : "Mosonmagyaróvár, 012. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Régi vámház tér 6. (Bolyai Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 785,
+        "honos" : 759,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 759
+      }
+    }, {
+      "sorszam" : "013",
+      "szk_nev" : "Mosonmagyaróvár, 013. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Lengyári utca 2. (Naposház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 936,
+        "honos" : 920,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 920
+      }
+    }, {
+      "sorszam" : "014",
+      "szk_nev" : "Mosonmagyaróvár, 014. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Árpád utca 88. (Éltes Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 923,
+        "honos" : 914,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 914
+      }
+    }, {
+      "sorszam" : "015",
+      "szk_nev" : "Mosonmagyaróvár, 015. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Szt. István király út 97.(Haller Isk.alsó tagozat)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 700,
+        "honos" : 697,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 697
+      }
+    }, {
+      "sorszam" : "016",
+      "szk_nev" : "Mosonmagyaróvár, 016. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Kórház utca 13. (Őzikés Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 696,
+        "honos" : 675,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 675
+      }
+    }, {
+      "sorszam" : "017",
+      "szk_nev" : "Mosonmagyaróvár, 017. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Dr. Gyárfás utca 5. (Móra Ferenc Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 777,
+        "honos" : 755,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 755
+      }
+    }, {
+      "sorszam" : "018",
+      "szk_nev" : "Mosonmagyaróvár, 018. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Dr. Gyárfás utca 5. (Móra Ferenc Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 829,
+        "honos" : 817,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 817
+      }
+    }, {
+      "sorszam" : "019",
+      "szk_nev" : "Mosonmagyaróvár, 019. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Erkel Ferenc utca 16. (Huszár Gál Városi Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 840,
+        "honos" : 809,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 809
+      }
+    }, {
+      "sorszam" : "020",
+      "szk_nev" : "Mosonmagyaróvár, 020. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Erkel Ferenc utca 12. (Mosonyi Mihály Zeneiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 763,
+        "honos" : 742,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 742
+      }
+    }, {
+      "sorszam" : "021",
+      "szk_nev" : "Mosonmagyaróvár, 021. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Kormos ltp. (Vackor Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 736,
+        "honos" : 722,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 722
+      }
+    }, {
+      "sorszam" : "022",
+      "szk_nev" : "Mosonmagyaróvár, 022. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Szt. István király út 97.(Haller Isk.alsó tagozat)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 899,
+        "honos" : 865,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 865
+      }
+    }, {
+      "sorszam" : "023",
+      "szk_nev" : "Mosonmagyaróvár, 023. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Kormos ltp. (Vackor Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 656,
+        "honos" : 636,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 636
+      }
+    }, {
+      "sorszam" : "024",
+      "szk_nev" : "Mosonmagyaróvár, 024. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : "9200 Mosonmagyaróvár, Kormos ltp. (Vackor Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 704,
+        "honos" : 685,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 685
+      }
+    }, {
+      "sorszam" : "025",
+      "szk_nev" : "Mosonmagyaróvár, 025. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Szt. István király út 74. (Ostermayer Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 781,
+        "honos" : 778,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 778
+      }
+    }, {
+      "sorszam" : "026",
+      "szk_nev" : "Mosonmagyaróvár, 026. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Szt. István király út 140. (Önk. Mosoni Iroda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 812,
+        "honos" : 793,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 793
+      }
+    }, {
+      "sorszam" : "027",
+      "szk_nev" : "Mosonmagyaróvár, 027. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Kühne Ede tér 2. (Kühne Zrt. Porta)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 873,
+        "honos" : 856,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 856
+      }
+    }, {
+      "sorszam" : "028",
+      "szk_nev" : "Mosonmagyaróvár, 028. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Mosonvár utca 15. (Haller Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 833,
+        "honos" : 807,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 807
+      }
+    }, {
+      "sorszam" : "029",
+      "szk_nev" : "Mosonmagyaróvár, 029. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Soproni utca 63. (Bóbita Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 783,
+        "honos" : 765,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 765
+      }
+    }, {
+      "sorszam" : "030",
+      "szk_nev" : "Mosonmagyaróvár, 030. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonmagyaróvár, Mosonvár utca 15. (Haller Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "I",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 847,
+        "honos" : 833,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 833
+      }
+    } ]
+  }
+}

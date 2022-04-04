@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "123",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Terény, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : " Terény, Arany J. út 25. (Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 292,
+        "honos" : 273,
+        "atjel" : 8,
+        "atjelInnen" : 17,
+        "osszesen" : 281
+      }
+    } ]
+  }
+}

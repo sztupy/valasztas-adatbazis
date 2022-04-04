@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "028",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Darnózseli, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Darnózseli, Fő utca 68. (Tűzoltószertár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 636,
+        "honos" : 631,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 631
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Darnózseli, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : "9232 Darnózseli,  Bem tér 1. (Gólyavár Körzeti Napközio. Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 652,
+        "honos" : 646,
+        "atjel" : 16,
+        "atjelInnen" : 13,
+        "osszesen" : 662
+      }
+    } ]
+  }
+}

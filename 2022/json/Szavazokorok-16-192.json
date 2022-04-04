@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "192",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tiszadob, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : "4456 Tiszadob, Andrássy utca 35. (Családsegítő Szolgálat)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 525,
+        "honos" : 497,
+        "atjel" : 16,
+        "atjelInnen" : 16,
+        "osszesen" : 513
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tiszadob, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : "4456 Tiszadob, Mátyás király utca 7. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 678,
+        "honos" : 664,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 664
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Tiszadob, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : "4456 Tiszadob, Mátyás király utca 7. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 749,
+        "honos" : 729,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 729
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Tiszadob, 004. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : "4456 Tiszadob, Iskola utca 16. (Tanyaház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 111,
+        "honos" : 115,
+        "atjel" : 0,
+        "atjelInnen" : 0,
+        "osszesen" : 115
+      }
+    } ]
+  }
+}

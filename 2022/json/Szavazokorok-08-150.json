@@ -1,0 +1,862 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "150",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sopron, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Templom utca 26. (Széchenyi Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 874,
+        "honos" : 840,
+        "atjel" : 1766,
+        "atjelInnen" : 36,
+        "osszesen" : 2606
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Sopron, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Petőfi tér 3. (Pedagógusok Művelődési Háza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 946,
+        "honos" : 901,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 901
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Sopron, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Erzsébet utca 9. (Egyetem - volt Kollégium)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1083,
+        "honos" : 1024,
+        "atjel" : 0,
+        "atjelInnen" : 41,
+        "osszesen" : 1024
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Sopron, 004. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Mátyás király utca 21. (Evangélikus Kollégium)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 919,
+        "honos" : 880,
+        "atjel" : 0,
+        "atjelInnen" : 34,
+        "osszesen" : 880
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Sopron, 005. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Ferenczy J. utca 7. (\"Vas-Villa\" KözépIskola I.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 789,
+        "honos" : 763,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 763
+      }
+    }, {
+      "sorszam" : "006",
+      "szk_nev" : "Sopron, 006. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Ferenczy János utca 7. (\"Vas-Villa\" KözépIsk. II.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 891,
+        "honos" : 862,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 862
+      }
+    }, {
+      "sorszam" : "007",
+      "szk_nev" : "Sopron, 007. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Zsilip utca 1. (Zsilip utcai Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 995,
+        "honos" : 943,
+        "atjel" : 0,
+        "atjelInnen" : 37,
+        "osszesen" : 943
+      }
+    }, {
+      "sorszam" : "008",
+      "szk_nev" : "Sopron, 008. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Trefort tér 11.  (Trefort téri Óvoda III.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 797,
+        "honos" : 759,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 759
+      }
+    }, {
+      "sorszam" : "009",
+      "szk_nev" : "Sopron, 009. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Kossuth Lajos utca 10.  (Családsegítő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1062,
+        "honos" : 1021,
+        "atjel" : 0,
+        "atjelInnen" : 46,
+        "osszesen" : 1021
+      }
+    }, {
+      "sorszam" : "010",
+      "szk_nev" : "Sopron, 010. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Teleki Pál utca 26. (Fáy A. KözépIskola  I.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 730,
+        "honos" : 716,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 716
+      }
+    }, {
+      "sorszam" : "011",
+      "szk_nev" : "Sopron, 011. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : " Sopron, Teleki Pál utca 26. (Fáy A. KözépIskola  II.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 767,
+        "honos" : 749,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 749
+      }
+    }, {
+      "sorszam" : "012",
+      "szk_nev" : "Sopron, 012. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : " Sopron, Teleki Pál utca 26. (Fáy A. KözépIskola  III.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 825,
+        "honos" : 789,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 789
+      }
+    }, {
+      "sorszam" : "013",
+      "szk_nev" : "Sopron, 013. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : " Sopron, Révai Miklós utca 2. (Lackner Iskola  I.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 755,
+        "honos" : 732,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 732
+      }
+    }, {
+      "sorszam" : "014",
+      "szk_nev" : "Sopron, 014. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : " Sopron, Révai Miklós utca 2. (Lackner Iskola  II.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 739,
+        "honos" : 716,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 716
+      }
+    }, {
+      "sorszam" : "015",
+      "szk_nev" : "Sopron, 015. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : " Sopron, Trefort tér 11.  (Trefort téri Óvoda I.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 742,
+        "honos" : 731,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 731
+      }
+    }, {
+      "sorszam" : "016",
+      "szk_nev" : "Sopron, 016. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : " Sopron, Trefort tér 11.  (Trefort téri Óvoda II.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 883,
+        "honos" : 848,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 848
+      }
+    }, {
+      "sorszam" : "017",
+      "szk_nev" : "Sopron, 017. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : " Sopron, Szélmalom utca 17. (Zeneiskola I.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 651,
+        "honos" : 633,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 633
+      }
+    }, {
+      "sorszam" : "018",
+      "szk_nev" : "Sopron, 018. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : " Sopron, Szélmalom utca 17. (Zeneiskola II.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 926,
+        "honos" : 900,
+        "atjel" : 0,
+        "atjelInnen" : 34,
+        "osszesen" : 900
+      }
+    }, {
+      "sorszam" : "019",
+      "szk_nev" : "Sopron, 019. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : " Sopron, Tómalom utca 23. (Gyermekotthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1154,
+        "honos" : 1122,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 1122
+      }
+    }, {
+      "sorszam" : "020",
+      "szk_nev" : "Sopron, 020. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9407 Sopron, Pesti Barnabás utca 14. (Sopronkőhidai tagóvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 878,
+        "honos" : 851,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 851
+      }
+    }, {
+      "sorszam" : "021",
+      "szk_nev" : "Sopron, 021. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9407 Sopron, Pesti Barnabás u. 14. (Sopronkőhidai tagóvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 941,
+        "honos" : 920,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 920
+      }
+    }, {
+      "sorszam" : "022",
+      "szk_nev" : "Sopron, 022. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9494 Sopron, Fő utca 27. (Művelődési Ház Balf)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 920,
+        "honos" : 899,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 899
+      }
+    }, {
+      "sorszam" : "023",
+      "szk_nev" : "Sopron, 023. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Halász utca 46. (Halász u. Óvoda  I.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1134,
+        "honos" : 1106,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 1106
+      }
+    }, {
+      "sorszam" : "024",
+      "szk_nev" : "Sopron, 024. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Verő József utca 1.  (Iparipark Inkubátor ház I.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 840,
+        "honos" : 811,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 811
+      }
+    }, {
+      "sorszam" : "025",
+      "szk_nev" : "Sopron, 025. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Verő József utca 1.  (Iparipark Inkubátor ház II.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 699,
+        "honos" : 685,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 685
+      }
+    }, {
+      "sorszam" : "026",
+      "szk_nev" : "Sopron, 026. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Balfi út 80. (Egyesített Szoc. Intézet I.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "I",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 636,
+        "honos" : 619,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 619
+      }
+    }, {
+      "sorszam" : "027",
+      "szk_nev" : "Sopron, 027. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Balfi út 80. (Egyesített Szoc. Intézet II.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 804,
+        "honos" : 783,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 783
+      }
+    }, {
+      "sorszam" : "028",
+      "szk_nev" : "Sopron, 028. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Halász utca 46. (Halász u. Óvoda  II.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 960,
+        "honos" : 938,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 938
+      }
+    }, {
+      "sorszam" : "029",
+      "szk_nev" : "Sopron, 029. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Kőműves köz 4. (Bölcsőde)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1311,
+        "honos" : 1274,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 1274
+      }
+    }, {
+      "sorszam" : "030",
+      "szk_nev" : "Sopron, 030. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, István Bíró utca 1/A. (Hermann Óvoda I.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 740,
+        "honos" : 708,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 708
+      }
+    }, {
+      "sorszam" : "031",
+      "szk_nev" : "Sopron, 031. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, István Bíró utca 1/A. (Hermann Óvoda II.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1035,
+        "honos" : 993,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 993
+      }
+    }, {
+      "sorszam" : "032",
+      "szk_nev" : "Sopron, 032. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Pócsi utca 25. (Városi Könyvtár I.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 961,
+        "honos" : 926,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 926
+      }
+    }, {
+      "sorszam" : "033",
+      "szk_nev" : "Sopron, 033. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Pócsi utca 25. (Városi Könyvtár II.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1009,
+        "honos" : 988,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 988
+      }
+    }, {
+      "sorszam" : "034",
+      "szk_nev" : "Sopron, 034. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Deák tér 51.  (Eötvös Ev.Gimnázium)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 958,
+        "honos" : 923,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 923
+      }
+    }, {
+      "sorszam" : "035",
+      "szk_nev" : "Sopron, 035. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Király Jenő utca 34. (Deák téri Iskola I.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 936,
+        "honos" : 910,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 910
+      }
+    }, {
+      "sorszam" : "036",
+      "szk_nev" : "Sopron, 036. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Kőszegi út 16. (Kőszegi úti Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1017,
+        "honos" : 991,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 991
+      }
+    }, {
+      "sorszam" : "037",
+      "szk_nev" : "Sopron, 037. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Király Jenő utca 34. (Deák téri Iskola II.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 933,
+        "honos" : 901,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 901
+      }
+    }, {
+      "sorszam" : "038",
+      "szk_nev" : "Sopron, 038. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Jegenye sor 1/A. (Jegenye sori Óvoda I.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 939,
+        "honos" : 916,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 916
+      }
+    }, {
+      "sorszam" : "039",
+      "szk_nev" : "Sopron, 039. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Jegenye sor 1/A. (Jegenye sori Óvoda II.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1036,
+        "honos" : 995,
+        "atjel" : 0,
+        "atjelInnen" : 36,
+        "osszesen" : 995
+      }
+    }, {
+      "sorszam" : "040",
+      "szk_nev" : "Sopron, 040. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Jegenye sor 1/A. (Jegenye sori Óvoda III.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1245,
+        "honos" : 1201,
+        "atjel" : 0,
+        "atjelInnen" : 43,
+        "osszesen" : 1201
+      }
+    }, {
+      "sorszam" : "041",
+      "szk_nev" : "Sopron, 041. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Bajcsy-Zsilinszky utca 9. (Tankerületi Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 991,
+        "honos" : 954,
+        "atjel" : 0,
+        "atjelInnen" : 38,
+        "osszesen" : 954
+      }
+    }, {
+      "sorszam" : "042",
+      "szk_nev" : "Sopron, 042. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Hársfa sor 1. (Hársfa sori Óvoda I.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 838,
+        "honos" : 804,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 804
+      }
+    }, {
+      "sorszam" : "043",
+      "szk_nev" : "Sopron, 043. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Hársfa sor 1. (Hársfa sori Óvoda II.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 969,
+        "honos" : 939,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 939
+      }
+    }, {
+      "sorszam" : "044",
+      "szk_nev" : "Sopron, 044. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Fenyő tér 1. (Fenyő téri Iskola I.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 901,
+        "honos" : 886,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 886
+      }
+    }, {
+      "sorszam" : "045",
+      "szk_nev" : "Sopron, 045. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Ady Endre út 176. (Bánfalvi Óvoda  I.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 726,
+        "honos" : 711,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 711
+      }
+    }, {
+      "sorszam" : "046",
+      "szk_nev" : "Sopron, 046. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Ady Endre út 176. (Bánfalvi Óvoda  II.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 768,
+        "honos" : 742,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 742
+      }
+    }, {
+      "sorszam" : "047",
+      "szk_nev" : "Sopron, 047. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Fenyő tér 1. (Fenyő téri Iskola II.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 980,
+        "honos" : 944,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 944
+      }
+    }, {
+      "sorszam" : "048",
+      "szk_nev" : "Sopron, 048. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Ady Endre út 176. (Bánfalvi Óvoda  III.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1442,
+        "honos" : 1396,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 1396
+      }
+    }, {
+      "sorszam" : "049",
+      "szk_nev" : "Sopron, 049. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9400 Sopron, Ady Endre út 176. (Bánfalvi Óvoda  IV.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1274,
+        "honos" : 1239,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 1239
+      }
+    }, {
+      "sorszam" : "050",
+      "szk_nev" : "Sopron, 050. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9408 Sopron, Hermesi út 1. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 750,
+        "honos" : 751,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 751
+      }
+    } ]
+  }
+}

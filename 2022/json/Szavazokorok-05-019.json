@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "019",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Arló, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : " Arló, Rákóczi út 3.A. (Általános Iskola  1.tanterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 870,
+        "honos" : 849,
+        "atjel" : 27,
+        "atjelInnen" : 7,
+        "osszesen" : 876
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Arló, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : " Arló, Rákóczi út 3.A. (Általános Iskola 2.tanterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 838,
+        "honos" : 822,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 822
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Arló, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : " Arló, Rákóczi út 3.A. (Általános Iskola 3.tanterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 892,
+        "honos" : 866,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 866
+      }
+    } ]
+  }
+}

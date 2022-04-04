@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "037",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Felsőtárkány, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : " Felsőtárkány, Fő út 157. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1011,
+        "honos" : 990,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 990
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Felsőtárkány, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3324 Felsőtárkány, Fő út 157. (Általános Iskola épülete/Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 938,
+        "honos" : 903,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 903
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Felsőtárkány, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : " Felsőtárkány, Fő út 350. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 898,
+        "honos" : 873,
+        "atjel" : 42,
+        "atjelInnen" : 22,
+        "osszesen" : 915
+      }
+    } ]
+  }
+}

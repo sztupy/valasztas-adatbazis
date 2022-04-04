@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "097",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Soltszentimre, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÁCS-KISKUN megye, 03. számú OEVK",
+      "cim" : " Soltszentimre, Hősök tere 1. (Közös Önkorm. Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1057,
+        "honos" : 1031,
+        "atjel" : 17,
+        "atjelInnen" : 20,
+        "osszesen" : 1048
+      }
+    } ]
+  }
+}

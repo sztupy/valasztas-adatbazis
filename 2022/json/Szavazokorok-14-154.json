@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "154",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tinnye, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "PEST megye, 02. számú OEVK",
+      "cim" : " Tinnye, Petőfi S. u. 2. (Napköziotthonos Óvoda Tinnye)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1431,
+        "honos" : 1409,
+        "atjel" : 24,
+        "atjelInnen" : 39,
+        "osszesen" : 1433
+      }
+    } ]
+  }
+}

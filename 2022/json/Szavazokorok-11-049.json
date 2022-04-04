@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "049",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szajol, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 04. számú OEVK",
+      "cim" : " Szajol, Fő út 22.  (Idősek Klubja)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 812,
+        "honos" : 801,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 801
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szajol, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 04. számú OEVK",
+      "cim" : " Szajol, Fő út 50. (Vasutaskör)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 598,
+        "honos" : 595,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 595
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Szajol, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 04. számú OEVK",
+      "cim" : " Szajol, Kölcsey út 45.  (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 734,
+        "honos" : 717,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 717
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Szajol, 004. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 04. számú OEVK",
+      "cim" : " Szajol, Kölcsey út 2. (Közösségi Ház és Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1022,
+        "honos" : 985,
+        "atjel" : 21,
+        "atjelInnen" : 21,
+        "osszesen" : 1006
+      }
+    } ]
+  }
+}

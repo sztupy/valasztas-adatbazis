@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "060",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kakucs, 001. számú szavazókör",
+      "evk" : "11",
+      "evk_nev" : "PEST megye, 11. számú OEVK",
+      "cim" : " Kakucs, Hősök tere 7. (Kakucsi Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 811,
+        "honos" : 793,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 793
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kakucs, 002. számú szavazókör",
+      "evk" : "11",
+      "evk_nev" : "PEST megye, 11. számú OEVK",
+      "cim" : " Kakucs, Székesi út 3. (Kakucsi Kökörcsin Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 682,
+        "honos" : 683,
+        "atjel" : 40,
+        "atjelInnen" : 12,
+        "osszesen" : 723
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Kakucs, 003. számú szavazókör",
+      "evk" : "11",
+      "evk_nev" : "PEST megye, 11. számú OEVK",
+      "cim" : " Kakucs, Fő utca 156/D. (Orvosi Rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 880,
+        "honos" : 866,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 866
+      }
+    } ]
+  }
+}

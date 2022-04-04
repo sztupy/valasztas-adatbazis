@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "09",
+    "taz" : "074",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Told, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 04. számú OEVK",
+      "cim" : " Told, Kossuth utca 28. (Községi Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 255,
+        "honos" : 251,
+        "atjel" : 0,
+        "atjelInnen" : 3,
+        "osszesen" : 251
+      }
+    } ]
+  }
+}

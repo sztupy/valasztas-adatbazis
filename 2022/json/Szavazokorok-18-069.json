@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "069",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ják, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VAS megye, 03. számú OEVK",
+      "cim" : " Ják, Szabadnép utca 25. (ÖNO)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1137,
+        "honos" : 1111,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 1111
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Ják, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VAS megye, 03. számú OEVK",
+      "cim" : " Ják,  Szabadság tér 2. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 942,
+        "honos" : 922,
+        "atjel" : 13,
+        "atjelInnen" : 21,
+        "osszesen" : 935
+      }
+    } ]
+  }
+}

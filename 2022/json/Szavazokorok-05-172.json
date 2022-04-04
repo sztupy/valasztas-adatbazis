@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "172",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Komlóska, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 05. számú OEVK",
+      "cim" : "3937 Komlóska, Rákóczi u. 27. (Önkorm. Hivatala)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 216,
+        "honos" : 202,
+        "atjel" : 6,
+        "atjelInnen" : 10,
+        "osszesen" : 208
+      }
+    } ]
+  }
+}

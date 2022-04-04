@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "082",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kadarkút, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Kadarkút, Fő u. 3. (Kadarkúti Gyermekkert Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 692,
+        "honos" : 669,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 669
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kadarkút, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Kadarkút, Petőfi Sándor utca 1. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 617,
+        "honos" : 606,
+        "atjel" : 12,
+        "atjelInnen" : 10,
+        "osszesen" : 618
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Kadarkút, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Kadarkút, Petőfi Sándor utca 1. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 671,
+        "honos" : 660,
+        "atjel" : 0,
+        "atjelInnen" : 5,
+        "osszesen" : 660
+      }
+    } ]
+  }
+}

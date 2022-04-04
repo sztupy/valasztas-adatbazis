@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "027",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kiszombor, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 04. számú OEVK",
+      "cim" : "6775 Kiszombor, Nagyszentmiklósi u. 8.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 806,
+        "honos" : 781,
+        "atjel" : 35,
+        "atjelInnen" : 20,
+        "osszesen" : 816
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kiszombor, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 04. számú OEVK",
+      "cim" : "6775 Kiszombor, Móricz Zsigmond u. 4.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 776,
+        "honos" : 757,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 757
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Kiszombor, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 04. számú OEVK",
+      "cim" : " Kiszombor, József Attila u. 19.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 776,
+        "honos" : 762,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 762
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Kiszombor, 004. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 04. számú OEVK",
+      "cim" : " Kiszombor, Szegedi u. 13.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 798,
+        "honos" : 771,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 771
+      }
+    } ]
+  }
+}

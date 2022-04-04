@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "229",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Újvárfalva, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Újvárfalva, Szabadság tér 12. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 73,
+        "honos" : 71,
+        "atjel" : 6,
+        "atjelInnen" : 2,
+        "osszesen" : 77
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Újvárfalva, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Újvárfalva, Dózsa György utca 14. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 99,
+        "honos" : 96,
+        "atjel" : 0,
+        "atjelInnen" : 3,
+        "osszesen" : 96
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "111",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagyszentjános, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : "9072 Nagyszentjános, Vasút utca 1. (Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 691,
+        "honos" : 666,
+        "atjel" : 16,
+        "atjelInnen" : 18,
+        "osszesen" : 682
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nagyszentjános, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : "9072 Nagyszentjános, József Attila utca 6. (Tarka Lepke Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 842,
+        "honos" : 835,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 835
+      }
+    } ]
+  }
+}

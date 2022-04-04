@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "023",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Dég, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Dég, Köztársaság utca 33. (Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 839,
+        "honos" : 820,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 820
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Dég, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Dég,  Köztársaság utca 33. (Közösségi terem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 892,
+        "honos" : 858,
+        "atjel" : 16,
+        "atjelInnen" : 28,
+        "osszesen" : 874
+      }
+    } ]
+  }
+}

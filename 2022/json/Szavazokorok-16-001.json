@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "001",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ajak, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Ajak, Hajnal út 20. (Kultúra Háza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 993,
+        "honos" : 950,
+        "atjel" : 7,
+        "atjelInnen" : 30,
+        "osszesen" : 957
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Ajak, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Ajak, Hajnal út 20. (Kultúra Háza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 901,
+        "honos" : 843,
+        "atjel" : 0,
+        "atjelInnen" : 50,
+        "osszesen" : 843
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Ajak, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Ajak, Hajnal út 11.  (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1141,
+        "honos" : 1090,
+        "atjel" : 0,
+        "atjelInnen" : 38,
+        "osszesen" : 1090
+      }
+    } ]
+  }
+}

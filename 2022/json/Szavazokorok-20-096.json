@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "096",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kiscsehi, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8888 Kiscsehi, Petőfi út 2. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 148,
+        "honos" : 142,
+        "atjel" : 7,
+        "atjelInnen" : 4,
+        "osszesen" : 149
+      }
+    } ]
+  }
+}

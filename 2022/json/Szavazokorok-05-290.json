@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "290",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szendrő, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : " Szendrő, Rákóczi u. 26-28. (Városi Szociális Szolg. Közp.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 635,
+        "honos" : 619,
+        "atjel" : 24,
+        "atjelInnen" : 13,
+        "osszesen" : 643
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szendrő, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : " Szendrő, Bem utca 2/B. (Hétszínvirág Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 807,
+        "honos" : 783,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 783
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Szendrő, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : " Szendrő, Petőfi tér 1-3. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 743,
+        "honos" : 720,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 720
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Szendrő, 004. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : " Szendrő, Fő utca 16. (Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 747,
+        "honos" : 722,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 722
+      }
+    } ]
+  }
+}

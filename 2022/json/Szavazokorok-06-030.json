@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "030",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kübekháza, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 01. számú OEVK",
+      "cim" : " Kübekháza, Petőfi tér 2. (Polg.Hiv.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1256,
+        "honos" : 1217,
+        "atjel" : 5,
+        "atjelInnen" : 17,
+        "osszesen" : 1222
+      }
+    } ]
+  }
+}

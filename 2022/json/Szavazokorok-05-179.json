@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "179",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kurityán, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : " Kurityán, Kossuth u. 136. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 498,
+        "honos" : 490,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 490
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kurityán, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : " Kurityán, Kossuth u. 75. (Egészségház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 691,
+        "honos" : 672,
+        "atjel" : 8,
+        "atjelInnen" : 16,
+        "osszesen" : 680
+      }
+    } ]
+  }
+}

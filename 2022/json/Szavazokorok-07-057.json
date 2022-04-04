@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "057",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mezőkomárom, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Mezőkomárom, Petőfi Sándor utca 74. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 729,
+        "honos" : 709,
+        "atjel" : 5,
+        "atjelInnen" : 18,
+        "osszesen" : 714
+      }
+    } ]
+  }
+}

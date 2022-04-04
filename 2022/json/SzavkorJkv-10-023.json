@@ -1,0 +1,122 @@
+{
+  "header" : {
+    "generated" : "2022-04-04T13:57:05",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "list" : [ {
+    "maz" : "10",
+    "taz" : "023",
+    "sorsz" : "001",
+    "feldar" : 100.0,
+    "egyeni_jkv" : {
+      "allapot" : "3",
+      "vp_osszes" : 710,
+      "szavazott_osszesen" : 465,
+      "szavazott_osszesen_szaz" : 65.49,
+      "vp_lakcim_szerint" : 710,
+      "megjel_lakcim_szerint" : 465,
+      "megjel_lakcim_szerint_szaz" : 65.49,
+      "vp_atjel" : 10,
+      "megjel_atjel" : 8,
+      "megjel_atjel_szaz" : 80.0,
+      "szl_belyegtlen_urna" : 0,
+      "szl_belyegzett_urna" : 465,
+      "szl_elteres" : 0,
+      "szl_ervenytelen" : 8,
+      "szl_ervenytelen_szaz" : 1.72,
+      "szl_ervenyes" : 457,
+      "szl_ervenyes_szaz" : 98.28,
+      "tetelek" : [ {
+        "sorsz" : 4,
+        "ej_id" : 72009,
+        "szavazat" : 315,
+        "szavazat_szaz" : 68.93
+      }, {
+        "sorsz" : 5,
+        "ej_id" : 72167,
+        "szavazat" : 114,
+        "szavazat_szaz" : 24.95
+      }, {
+        "sorsz" : 2,
+        "ej_id" : 72219,
+        "szavazat" : 21,
+        "szavazat_szaz" : 4.6
+      }, {
+        "sorsz" : 1,
+        "ej_id" : 72522,
+        "szavazat" : 5,
+        "szavazat_szaz" : 1.09
+      }, {
+        "sorsz" : 3,
+        "ej_id" : 72198,
+        "szavazat" : 2,
+        "szavazat_szaz" : 0.44
+      }, {
+        "sorsz" : 6,
+        "ej_id" : 72166,
+        "szavazat" : 0,
+        "szavazat_szaz" : 0.0
+      } ]
+    },
+    "listas_jkv" : {
+      "allapot" : "3",
+      "vp_osszes" : 710,
+      "szavazott_osszesen" : 465,
+      "szavazott_osszesen_szaz" : 65.49,
+      "vp_lakcim_szerint" : 710,
+      "megjel_lakcim_szerint" : 465,
+      "megjel_lakcim_szerint_szaz" : 65.49,
+      "vp_atjel" : 10,
+      "megjel_atjel" : 8,
+      "megjel_atjel_szaz" : 80.0,
+      "szl_belyegtlen_urna" : 0,
+      "szl_belyegzett_urna" : 465,
+      "szl_elteres" : 0,
+      "szl_ervenytelen" : 3,
+      "szl_ervenytelen_szaz" : 0.65,
+      "szl_ervenyes" : 462,
+      "szl_ervenyes_szaz" : 99.35,
+      "partlistara" : {
+        "vp_osszes" : 710,
+        "megjelent" : 465,
+        "szl_belyegtlen_urna" : 0,
+        "szl_belyegzett_urna" : 465,
+        "szl_elteres" : 0,
+        "szl_ervenytelen" : 3,
+        "szl_ervenyes" : 462
+      },
+      "tetelek" : [ {
+        "sorsz" : 6,
+        "tl_id" : 952,
+        "szavazat" : 312,
+        "szavazat_szaz" : 67.53
+      }, {
+        "sorsz" : 1,
+        "tl_id" : 950,
+        "szavazat" : 114,
+        "szavazat_szaz" : 24.68
+      }, {
+        "sorsz" : 5,
+        "tl_id" : 942,
+        "szavazat" : 28,
+        "szavazat_szaz" : 6.06
+      }, {
+        "sorsz" : 3,
+        "tl_id" : 951,
+        "szavazat" : 5,
+        "szavazat_szaz" : 1.08
+      }, {
+        "sorsz" : 4,
+        "tl_id" : 954,
+        "szavazat" : 2,
+        "szavazat_szaz" : 0.43
+      }, {
+        "sorsz" : 2,
+        "tl_id" : 955,
+        "szavazat" : 1,
+        "szavazat_szaz" : 0.22
+      } ]
+    }
+  } ]
+}

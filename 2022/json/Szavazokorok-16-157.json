@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "157",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Porcsalma, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Porcsalma, Szabadság tér 13.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 693,
+        "honos" : 665,
+        "atjel" : 11,
+        "atjelInnen" : 24,
+        "osszesen" : 676
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Porcsalma, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Porcsalma, Szabadság tér 7.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 678,
+        "honos" : 654,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 654
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Porcsalma, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Porcsalma, Szabadság tér 7.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 644,
+        "honos" : 620,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 620
+      }
+    } ]
+  }
+}

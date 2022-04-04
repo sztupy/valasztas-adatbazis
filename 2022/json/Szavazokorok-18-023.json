@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "023",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csánig, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : " Csánig, Petőfi utca 2. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 299,
+        "honos" : 290,
+        "atjel" : 4,
+        "atjelInnen" : 8,
+        "osszesen" : 294
+      }
+    } ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "031",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Dunavecse, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÁCS-KISKUN megye, 03. számú OEVK",
+      "cim" : " Dunavecse, Fő út 35. (Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 772,
+        "honos" : 748,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 748
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Dunavecse, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÁCS-KISKUN megye, 03. számú OEVK",
+      "cim" : " Dunavecse, Zrínyi u. 6. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 805,
+        "honos" : 774,
+        "atjel" : 28,
+        "atjelInnen" : 17,
+        "osszesen" : 802
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Dunavecse, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÁCS-KISKUN megye, 03. számú OEVK",
+      "cim" : " Dunavecse, Honvéd u. 22. (2.számú Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 791,
+        "honos" : 760,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 760
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Dunavecse, 004. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÁCS-KISKUN megye, 03. számú OEVK",
+      "cim" : " Dunavecse, Honvéd u. 22. (2.számú Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 770,
+        "honos" : 762,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 762
+      }
+    } ]
+  }
+}

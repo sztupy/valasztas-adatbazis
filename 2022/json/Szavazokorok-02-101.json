@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "101",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Hosszúhetény, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Hosszúhetény, Fő utca 173.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 947,
+        "honos" : 930,
+        "atjel" : 26,
+        "atjelInnen" : 17,
+        "osszesen" : 956
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Hosszúhetény, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Hosszúhetény, Fő utca 154.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 865,
+        "honos" : 839,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 839
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Hosszúhetény, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Hosszúhetény, Fő utca 5.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 947,
+        "honos" : 925,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 925
+      }
+    } ]
+  }
+}

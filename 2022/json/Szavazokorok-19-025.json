@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "025",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Balatonfőkajár, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VESZPRÉM megye, 02. számú OEVK",
+      "cim" : " Balatonfőkajár, Kossuth L. utca 8. (Községház, nagyterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1120,
+        "honos" : 1082,
+        "atjel" : 23,
+        "atjelInnen" : 32,
+        "osszesen" : 1105
+      }
+    } ]
+  }
+}

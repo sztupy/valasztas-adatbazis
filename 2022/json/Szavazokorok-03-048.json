@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "048",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Helvécia, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÁCS-KISKUN megye, 02. számú OEVK",
+      "cim" : " Helvécia, Korhánközi D. 1. (Feketeerdői Általános Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1464,
+        "honos" : 1427,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 1427
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Helvécia, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÁCS-KISKUN megye, 02. számú OEVK",
+      "cim" : " Helvécia, Petőfi u. 24. (Petőfi Sándor Művelődési Otthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1232,
+        "honos" : 1209,
+        "atjel" : 38,
+        "atjelInnen" : 27,
+        "osszesen" : 1247
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Helvécia, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÁCS-KISKUN megye, 02. számú OEVK",
+      "cim" : " Helvécia, Kiskőrösi u. 71. (Wéber Ede Közp. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1167,
+        "honos" : 1165,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 1165
+      }
+    } ]
+  }
+}

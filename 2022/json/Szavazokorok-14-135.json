@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "135",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szigetújfalu, 001. számú szavazókör",
+      "evk" : "08",
+      "evk_nev" : "PEST megye, 08. számú OEVK",
+      "cim" : " Szigetújfalu, Fő út 43. (Napköziotthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1106,
+        "honos" : 1074,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 1074
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szigetújfalu, 002. számú szavazókör",
+      "evk" : "08",
+      "evk_nev" : "PEST megye, 08. számú OEVK",
+      "cim" : " Szigetújfalu, Vasút  utca 20. (Móra Ferenc Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 781,
+        "honos" : 755,
+        "atjel" : 29,
+        "atjelInnen" : 22,
+        "osszesen" : 784
+      }
+    } ]
+  }
+}

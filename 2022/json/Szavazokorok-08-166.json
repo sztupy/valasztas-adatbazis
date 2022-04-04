@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "166",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Töltéstava, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Töltéstava, Petőfi utca 118. (Művelődési ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 866,
+        "honos" : 851,
+        "atjel" : 16,
+        "atjelInnen" : 13,
+        "osszesen" : 867
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Töltéstava, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Töltéstava, Iskola utca 40. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 877,
+        "honos" : 859,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 859
+      }
+    } ]
+  }
+}

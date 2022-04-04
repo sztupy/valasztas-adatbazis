@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "09",
+    "taz" : "014",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bocskaikert, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 03. számú OEVK",
+      "cim" : " Bocskaikert, Baross G. út 19. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 998,
+        "honos" : 971,
+        "atjel" : 21,
+        "atjelInnen" : 28,
+        "osszesen" : 992
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Bocskaikert, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 03. számú OEVK",
+      "cim" : " Bocskaikert, Debreceni út 85. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1014,
+        "honos" : 990,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 990
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Bocskaikert, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 03. számú OEVK",
+      "cim" : "4241 Bocskaikert, Debreceni út 118. (Humán Szolg. Kp.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1053,
+        "honos" : 1034,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 1034
+      }
+    } ]
+  }
+}

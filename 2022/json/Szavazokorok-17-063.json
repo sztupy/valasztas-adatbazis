@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "063",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Miszla, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : " Miszla, Fő u. 264. (Egészségcentrum)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 233,
+        "honos" : 220,
+        "atjel" : 2,
+        "atjelInnen" : 10,
+        "osszesen" : 222
+      }
+    } ]
+  }
+}

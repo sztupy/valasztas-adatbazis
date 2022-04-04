@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "155",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szany, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : " Szany,  Kossuth utca 4.  (Idősek klubja)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1061,
+        "honos" : 1045,
+        "atjel" : 13,
+        "atjelInnen" : 16,
+        "osszesen" : 1058
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szany, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : " Szany, Széchenyi út 1.  (Művelődési ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 698,
+        "honos" : 677,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 677
+      }
+    } ]
+  }
+}

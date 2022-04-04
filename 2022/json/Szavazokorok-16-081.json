@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "081",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kótaj, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : " Kótaj, Szent István utca 5. (Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1273,
+        "honos" : 1234,
+        "atjel" : 25,
+        "atjelInnen" : 30,
+        "osszesen" : 1259
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kótaj, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : " Kótaj, Petőfi utca 47. (Idősek klubja)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1202,
+        "honos" : 1170,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 1170
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Kótaj, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : " Kótaj, Vasvári P. u. 6.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1213,
+        "honos" : 1193,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 1193
+      }
+    } ]
+  }
+}

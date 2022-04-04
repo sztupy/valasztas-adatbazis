@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "109",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Napkor, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : "4552 Napkor, Kossuth utca 22. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 940,
+        "honos" : 938,
+        "atjel" : 7,
+        "atjelInnen" : 16,
+        "osszesen" : 945
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Napkor, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : "4552 Napkor, Kossuth utca 59. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 989,
+        "honos" : 976,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 976
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Napkor, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : "4552 Napkor, Kossuth utca 59. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1135,
+        "honos" : 1125,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 1125
+      }
+    } ]
+  }
+}

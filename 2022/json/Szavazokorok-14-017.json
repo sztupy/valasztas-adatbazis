@@ -1,0 +1,590 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "017",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Cegléd, 001. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Népkőr u. 1. (Napköziotthonos Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 757,
+        "honos" : 732,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 732
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Cegléd, 002. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Szabadság tér 4. (Ref. Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 757,
+        "honos" : 716,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 716
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Cegléd, 003. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Kossuth Ferenc u. 18. ( Ker.és Vend. Szakisk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1011,
+        "honos" : 981,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 981
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Cegléd, 004. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Szép utca 34-36. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 736,
+        "honos" : 689,
+        "atjel" : 0,
+        "atjelInnen" : 36,
+        "osszesen" : 689
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Cegléd, 005. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Lövész utca 4. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1110,
+        "honos" : 1099,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 1099
+      }
+    }, {
+      "sorszam" : "006",
+      "szk_nev" : "Cegléd, 006. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Szabadság tér 4.  (Ref.Alt.Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 823,
+        "honos" : 798,
+        "atjel" : 307,
+        "atjelInnen" : 24,
+        "osszesen" : 1105
+      }
+    }, {
+      "sorszam" : "007",
+      "szk_nev" : "Cegléd, 007. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Malom tér 2. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "I",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 599,
+        "honos" : 587,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 587
+      }
+    }, {
+      "sorszam" : "008",
+      "szk_nev" : "Cegléd, 008. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Kőrösi út 6-8.(Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 630,
+        "honos" : 611,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 611
+      }
+    }, {
+      "sorszam" : "009",
+      "szk_nev" : "Cegléd, 009. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Buzogány utca 23. (Losontzi I. Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 900,
+        "honos" : 877,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 877
+      }
+    }, {
+      "sorszam" : "010",
+      "szk_nev" : "Cegléd, 010. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Bajcsy-Zs. út 26. (Baptista TSZM)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 986,
+        "honos" : 973,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 973
+      }
+    }, {
+      "sorszam" : "011",
+      "szk_nev" : "Cegléd, 011. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Kossuth Ferenc utca 18. (Ker. és Vend.Szak.Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 645,
+        "honos" : 636,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 636
+      }
+    }, {
+      "sorszam" : "012",
+      "szk_nev" : "Cegléd, 012. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Jászberényi út 2. (Bem Szak. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 654,
+        "honos" : 630,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 630
+      }
+    }, {
+      "sorszam" : "013",
+      "szk_nev" : "Cegléd, 013. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Kossuth Ferenc utca 32. (Közg. Szakköz.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1179,
+        "honos" : 1129,
+        "atjel" : 0,
+        "atjelInnen" : 44,
+        "osszesen" : 1129
+      }
+    }, {
+      "sorszam" : "014",
+      "szk_nev" : "Cegléd, 014. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Rákóczi út 50-56. (Dózsa Gy. Koll.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 990,
+        "honos" : 933,
+        "atjel" : 0,
+        "atjelInnen" : 38,
+        "osszesen" : 933
+      }
+    }, {
+      "sorszam" : "015",
+      "szk_nev" : "Cegléd, 015. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Köztársaság utca 18. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 793,
+        "honos" : 772,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 772
+      }
+    }, {
+      "sorszam" : "016",
+      "szk_nev" : "Cegléd, 016. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Széchenyi út 16. (Mez.gazd. Szak. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 809,
+        "honos" : 794,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 794
+      }
+    }, {
+      "sorszam" : "017",
+      "szk_nev" : "Cegléd, 017. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Dohány utca 31. (Közl.Felügy.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 914,
+        "honos" : 888,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 888
+      }
+    }, {
+      "sorszam" : "018",
+      "szk_nev" : "Cegléd, 018. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Fűtőház utca 6. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 726,
+        "honos" : 731,
+        "atjel" : 0,
+        "atjelInnen" : 5,
+        "osszesen" : 731
+      }
+    }, {
+      "sorszam" : "019",
+      "szk_nev" : "Cegléd, 019. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, XIII. 100. (DPMG Zrt. Kecskéscsárdai gépműhely)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 177,
+        "honos" : 170,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 170
+      }
+    }, {
+      "sorszam" : "020",
+      "szk_nev" : "Cegléd, 020. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Lövész utca 4. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1191,
+        "honos" : 1157,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 1157
+      }
+    }, {
+      "sorszam" : "021",
+      "szk_nev" : "Cegléd, 021. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Malom tér 2. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 938,
+        "honos" : 915,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 915
+      }
+    }, {
+      "sorszam" : "022",
+      "szk_nev" : "Cegléd, 022. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Báthori utca 11. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1054,
+        "honos" : 1021,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 1021
+      }
+    }, {
+      "sorszam" : "023",
+      "szk_nev" : "Cegléd, 023. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Báthori utca 11. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1159,
+        "honos" : 1139,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 1139
+      }
+    }, {
+      "sorszam" : "024",
+      "szk_nev" : "Cegléd, 024. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Báthori utca 11.  (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 860,
+        "honos" : 832,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 832
+      }
+    }, {
+      "sorszam" : "025",
+      "szk_nev" : "Cegléd, 025. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Posta utca 2. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 933,
+        "honos" : 914,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 914
+      }
+    }, {
+      "sorszam" : "026",
+      "szk_nev" : "Cegléd, 026. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Ugyer XII dűlő 6. (Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 998,
+        "honos" : 984,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 984
+      }
+    }, {
+      "sorszam" : "027",
+      "szk_nev" : "Cegléd, 027. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Posta utca 2. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1158,
+        "honos" : 1128,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 1128
+      }
+    }, {
+      "sorszam" : "028",
+      "szk_nev" : "Cegléd, 028. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Pesti út 76. (KNOTT-TECHNIK-FLEX Kft.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 816,
+        "honos" : 796,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 796
+      }
+    }, {
+      "sorszam" : "029",
+      "szk_nev" : "Cegléd, 029. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Pesti út 200.  (Germán Rt)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 626,
+        "honos" : 619,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 619
+      }
+    }, {
+      "sorszam" : "030",
+      "szk_nev" : "Cegléd, 030. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Budai út 42.  (Bau-Trans 2000. Kft.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 711,
+        "honos" : 685,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 685
+      }
+    }, {
+      "sorszam" : "031",
+      "szk_nev" : "Cegléd, 031. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Pesti út 65. (Nemzeti Agrárgazdasági Kamara)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 928,
+        "honos" : 893,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 893
+      }
+    }, {
+      "sorszam" : "032",
+      "szk_nev" : "Cegléd, 032. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Külső-Budai út 2. (Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 836,
+        "honos" : 840,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 840
+      }
+    }, {
+      "sorszam" : "033",
+      "szk_nev" : "Cegléd, 033. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Külső-Kátai út 35/A. (Minetechnik Kft.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1017,
+        "honos" : 987,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 987
+      }
+    }, {
+      "sorszam" : "034",
+      "szk_nev" : "Cegléd, 034. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2700 Cegléd, Külső-Budai út 2. (Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 762,
+        "honos" : 759,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 759
+      }
+    } ]
+  }
+}

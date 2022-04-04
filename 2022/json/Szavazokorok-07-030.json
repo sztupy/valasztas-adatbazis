@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "030",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Felcsút, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : " Felcsút, Fő utca 140. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 710,
+        "honos" : 681,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 681
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Felcsút, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : " Felcsút, Fő utca 75. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 793,
+        "honos" : 759,
+        "atjel" : 42,
+        "atjelInnen" : 35,
+        "osszesen" : 801
+      }
+    } ]
+  }
+}

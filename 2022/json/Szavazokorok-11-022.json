@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "022",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Jászjákóhalma, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 02. számú OEVK",
+      "cim" : " Jászjákóhalma, Fő út 50. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 786,
+        "honos" : 767,
+        "atjel" : 5,
+        "atjelInnen" : 13,
+        "osszesen" : 772
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Jászjákóhalma, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 02. számú OEVK",
+      "cim" : " Jászjákóhalma, Bajcsy-Zsilinszky utca 9. (Gazdakör)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 818,
+        "honos" : 807,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 807
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Jászjákóhalma, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 02. számú OEVK",
+      "cim" : " Jászjákóhalma, Wesselényi utca 12. (Idősek klubja)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 716,
+        "honos" : 708,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 708
+      }
+    } ]
+  }
+}

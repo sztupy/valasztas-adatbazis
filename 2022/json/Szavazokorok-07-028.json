@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "028",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Etyek, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : " Etyek,  Körpince köz 4. (Polgármesteri Hivatal Étterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1089,
+        "honos" : 1040,
+        "atjel" : 89,
+        "atjelInnen" : 36,
+        "osszesen" : 1129
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Etyek, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : " Etyek, Magyar u. 1. (Segítő Kéz  Intézmény)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1035,
+        "honos" : 1006,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 1006
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Etyek, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : "2091 Etyek, Alcsúti út 1. (Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1291,
+        "honos" : 1253,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 1253
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Etyek, 004. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : " Etyek, Dávidmajor (Abacus Rendezvényközpont)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 111,
+        "honos" : 116,
+        "atjel" : 0,
+        "atjelInnen" : 0,
+        "osszesen" : 116
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "055",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Főnyed, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Főnyed, Kossuth utca 31.  (Klubhelyiség)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 66,
+        "honos" : 64,
+        "atjel" : 2,
+        "atjelInnen" : 1,
+        "osszesen" : 66
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "021",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Jászivány, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 02. számú OEVK",
+      "cim" : "5135 Jászivány, Turul u. 20. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 315,
+        "honos" : 294,
+        "atjel" : 3,
+        "atjelInnen" : 16,
+        "osszesen" : 297
+      }
+    } ]
+  }
+}

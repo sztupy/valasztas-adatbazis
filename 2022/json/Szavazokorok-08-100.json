@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "100",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mecsér, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mecsér, Fő utca 4. (Baross Gábor Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 513,
+        "honos" : 500,
+        "atjel" : 2,
+        "atjelInnen" : 9,
+        "osszesen" : 502
+      }
+    } ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "023",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Dunaszentgyörgy, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : "7135 Dunaszentgyörgy, Várdomb utca 26. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 645,
+        "honos" : 622,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 622
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Dunaszentgyörgy, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : " Dunaszentgyörgy, Kossuth L. utca 1. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 783,
+        "honos" : 760,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 760
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Dunaszentgyörgy, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : "7135 Dunaszentgyörgy, Óvoda u. 58. (I. sz. óvoda épülete)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 610,
+        "honos" : 591,
+        "atjel" : 22,
+        "atjelInnen" : 14,
+        "osszesen" : 613
+      }
+    } ]
+  }
+}

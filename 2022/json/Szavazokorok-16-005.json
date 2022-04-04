@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "005",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Baktalórántháza, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Baktalórántháza, Szent István utca 11.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 761,
+        "honos" : 719,
+        "atjel" : 0,
+        "atjelInnen" : 44,
+        "osszesen" : 719
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Baktalórántháza, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Baktalórántháza, Petőfi utca 4.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 863,
+        "honos" : 840,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 840
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Baktalórántháza, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Baktalórántháza, Vásártér utca 1.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1175,
+        "honos" : 1108,
+        "atjel" : 54,
+        "atjelInnen" : 66,
+        "osszesen" : 1162
+      }
+    } ]
+  }
+}

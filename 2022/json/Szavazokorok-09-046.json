@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "09",
+    "taz" : "046",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Körösszegapáti, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 04. számú OEVK",
+      "cim" : " Körösszegapáti, Kossuth utca 50. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 719,
+        "honos" : 692,
+        "atjel" : 8,
+        "atjelInnen" : 21,
+        "osszesen" : 700
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Körösszegapáti, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 04. számú OEVK",
+      "cim" : " Körösszegapáti, Körmösdpuszta Tisza István utca 6. (OrvosiRendelő)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 83,
+        "honos" : 78,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 78
+      }
+    } ]
+  }
+}

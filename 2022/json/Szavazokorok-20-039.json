@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "039",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csöde, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Csöde, Kossuth u. 21. (Önkormányzat épülete)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 70,
+        "honos" : 66,
+        "atjel" : 2,
+        "atjelInnen" : 3,
+        "osszesen" : 68
+      }
+    } ]
+  }
+}

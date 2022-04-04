@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "081",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pincehely, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : " Pincehely, Szent István tér 1. (Közöségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1025,
+        "honos" : 985,
+        "atjel" : 17,
+        "atjelInnen" : 31,
+        "osszesen" : 1002
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Pincehely, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : " Pincehely, Vörösmarty Mihály utca 3.  (Görbői Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 763,
+        "honos" : 741,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 741
+      }
+    } ]
+  }
+}

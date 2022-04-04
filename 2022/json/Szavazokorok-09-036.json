@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "09",
+    "taz" : "036",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Hajdúszovát, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 05. számú OEVK",
+      "cim" : " Hajdúszovát, Maklári P. M. utca 2. (Központi Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 760,
+        "honos" : 739,
+        "atjel" : 23,
+        "atjelInnen" : 13,
+        "osszesen" : 762
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Hajdúszovát, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 05. számú OEVK",
+      "cim" : " Hajdúszovát, Ady Endre utca 2. (Idősek Klubja)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 776,
+        "honos" : 759,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 759
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Hajdúszovát, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 05. számú OEVK",
+      "cim" : " Hajdúszovát, Széchenyi István utca 4. (Régi Napközis Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 798,
+        "honos" : 785,
+        "atjel" : 0,
+        "atjelInnen" : 4,
+        "osszesen" : 785
+      }
+    } ]
+  }
+}

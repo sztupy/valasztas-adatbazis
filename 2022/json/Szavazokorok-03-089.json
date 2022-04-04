@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "089",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Orgovány, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÁCS-KISKUN megye, 04. számú OEVK",
+      "cim" : "6077 Orgovány, Molnár Gergely utca 2. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 951,
+        "honos" : 933,
+        "atjel" : 14,
+        "atjelInnen" : 7,
+        "osszesen" : 947
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Orgovány, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÁCS-KISKUN megye, 04. számú OEVK",
+      "cim" : "6077 Orgovány, Kossuth Lajos utca 71. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 892,
+        "honos" : 868,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 868
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Orgovány, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÁCS-KISKUN megye, 04. számú OEVK",
+      "cim" : "6077 Orgovány, Táncsics Mihály utca 3.  (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 820,
+        "honos" : 814,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 814
+      }
+    } ]
+  }
+}

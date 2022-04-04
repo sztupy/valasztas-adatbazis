@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "146",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tápióság, 001. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2253 Tápióság, Szabadság u. 10. (Könyvtár)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 560,
+        "honos" : 548,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 548
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tápióság, 002. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : " Tápióság, Bicskei u. 8. (Egészségház Váróterme)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 907,
+        "honos" : 877,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 877
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Tápióság, 003. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : " Tápióság, Bicskei u. 3. (Polg. Mest. Hiv.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 810,
+        "honos" : 797,
+        "atjel" : 17,
+        "atjelInnen" : 14,
+        "osszesen" : 814
+      }
+    } ]
+  }
+}

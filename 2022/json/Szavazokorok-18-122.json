@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "122",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nárai, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "VAS megye, 01. számú OEVK",
+      "cim" : " Nárai,  Petőfi Sándor utca 39. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1156,
+        "honos" : 1128,
+        "atjel" : 4,
+        "atjelInnen" : 25,
+        "osszesen" : 1132
+      }
+    } ]
+  }
+}

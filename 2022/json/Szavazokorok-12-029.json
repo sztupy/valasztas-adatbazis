@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "029",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ete, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 03. számú OEVK",
+      "cim" : " Ete, Kossuth Lajos utca 69. (községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 486,
+        "honos" : 475,
+        "atjel" : 5,
+        "atjelInnen" : 9,
+        "osszesen" : 480
+      }
+    } ]
+  }
+}

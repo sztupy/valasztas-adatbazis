@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "023",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Gerendás, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BÉKÉS megye, 01. számú OEVK",
+      "cim" : " Gerendás, Petőfi u. 2.  (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 510,
+        "honos" : 487,
+        "atjel" : 9,
+        "atjelInnen" : 20,
+        "osszesen" : 496
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Gerendás, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BÉKÉS megye, 01. számú OEVK",
+      "cim" : " Gerendás, Kossuth u. 20. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 475,
+        "honos" : 452,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 452
+      }
+    } ]
+  }
+}

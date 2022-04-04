@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "045",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Borsodszentgyörgy, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : "3623 Borsodszentgyörgy, Szentgyörgy út 143. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 947,
+        "honos" : 911,
+        "atjel" : 7,
+        "atjelInnen" : 26,
+        "osszesen" : 918
+      }
+    } ]
+  }
+}

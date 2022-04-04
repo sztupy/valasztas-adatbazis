@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "128",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Rajka, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : "9224 Rajka, Szent Istvánt utca 18. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 424,
+        "honos" : 409,
+        "atjel" : 35,
+        "atjelInnen" : 8,
+        "osszesen" : 444
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Rajka, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Rajka, Kossuth Lajos utca 83. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 573,
+        "honos" : 557,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 557
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Rajka, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Rajka, Kossuth Lajos utca 27. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 403,
+        "honos" : 399,
+        "atjel" : 0,
+        "atjelInnen" : 3,
+        "osszesen" : 399
+      }
+    } ]
+  }
+}

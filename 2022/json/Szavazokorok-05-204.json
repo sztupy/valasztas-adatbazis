@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "204",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Monaj, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 04. számú OEVK",
+      "cim" : "3812 Monaj, Béke u. 20. (Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 184,
+        "honos" : 180,
+        "atjel" : 5,
+        "atjelInnen" : 0,
+        "osszesen" : 185
+      }
+    } ]
+  }
+}

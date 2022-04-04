@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "009",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Balatonfenyves, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Balatonfenyves, Kölcsey Ferenc utca 27. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 829,
+        "honos" : 748,
+        "atjel" : 83,
+        "atjelInnen" : 80,
+        "osszesen" : 831
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Balatonfenyves, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Balatonfenyves, Fenyvesi utca 35-37. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 914,
+        "honos" : 833,
+        "atjel" : 0,
+        "atjelInnen" : 71,
+        "osszesen" : 833
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Balatonfenyves, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Balatonfenyves, Imremajor",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 118,
+        "honos" : 112,
+        "atjel" : 0,
+        "atjelInnen" : 3,
+        "osszesen" : 112
+      }
+    } ]
+  }
+}

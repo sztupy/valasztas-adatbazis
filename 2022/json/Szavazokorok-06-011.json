@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "011",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csanytelek, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 03. számú OEVK",
+      "cim" : " Csanytelek, Szt. László utca 4/A (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 682,
+        "honos" : 667,
+        "atjel" : 12,
+        "atjelInnen" : 16,
+        "osszesen" : 679
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Csanytelek, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 03. számú OEVK",
+      "cim" : " Csanytelek, Szt. László utca 4/A  (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 723,
+        "honos" : 707,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 707
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Csanytelek, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 03. számú OEVK",
+      "cim" : " Csanytelek, Szt. László utca 4/A  (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 736,
+        "honos" : 720,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 720
+      }
+    } ]
+  }
+}

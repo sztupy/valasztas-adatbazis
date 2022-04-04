@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "068",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Óbarok, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : " Óbarok, Iskola u. 3. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 454,
+        "honos" : 441,
+        "atjel" : 21,
+        "atjelInnen" : 12,
+        "osszesen" : 462
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Óbarok, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : " Óbarok, Bányász u. 19. (Nagyegyháza- Faluház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 229,
+        "honos" : 224,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 224
+      }
+    } ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "015",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Boldog, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : "3016 Boldog, Kossuth Lajos út 40.  (Ujváry Ferenc Műv. Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 838,
+        "honos" : 831,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 831
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Boldog, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Boldog, Árpád út 23. (Boldogi Berecz Antal Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 789,
+        "honos" : 766,
+        "atjel" : 10,
+        "atjelInnen" : 18,
+        "osszesen" : 776
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Boldog, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : "3016 Boldog, Kossuth Lajos út 5.(Boldogi Berecz Antal Ált.Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 776,
+        "honos" : 756,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 756
+      }
+    } ]
+  }
+}

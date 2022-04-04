@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "095",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szihalom, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : " Szihalom, Hunyadi út 78. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 852,
+        "honos" : 836,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 836
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szihalom, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : " Szihalom, Hunyadi út 138. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 833,
+        "honos" : 819,
+        "atjel" : 17,
+        "atjelInnen" : 16,
+        "osszesen" : 836
+      }
+    } ]
+  }
+}

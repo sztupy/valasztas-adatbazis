@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "029",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Balatonkenese, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VESZPRÉM megye, 02. számú OEVK",
+      "cim" : " Balatonkenese, Bajcsy Zs. u. 10. (Ált. Iskola, 6 sz. tanterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 794,
+        "honos" : 743,
+        "atjel" : 0,
+        "atjelInnen" : 40,
+        "osszesen" : 743
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Balatonkenese, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VESZPRÉM megye, 02. számú OEVK",
+      "cim" : " Balatonkenese, Bajcsy Zs. u. 10. (Ált. Iskola,7 sz. tanterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 737,
+        "honos" : 698,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 698
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Balatonkenese, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VESZPRÉM megye, 02. számú OEVK",
+      "cim" : "8174 Balatonkenese, Bajcsy Zs. u. 10. (Ált. Iskola, 8 sz. tanterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 736,
+        "honos" : 695,
+        "atjel" : 114,
+        "atjelInnen" : 36,
+        "osszesen" : 809
+      }
+    } ]
+  }
+}

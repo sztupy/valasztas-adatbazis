@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "09",
+    "taz" : "028",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Görbeháza, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 06. számú OEVK",
+      "cim" : "4075 Görbeháza, Iskola utca 14. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 907,
+        "honos" : 882,
+        "atjel" : 10,
+        "atjelInnen" : 17,
+        "osszesen" : 892
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Görbeháza, 002. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 06. számú OEVK",
+      "cim" : " Görbeháza, Széchenyi utca 9. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 976,
+        "honos" : 942,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 942
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Görbeháza, 003. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 06. számú OEVK",
+      "cim" : " Görbeháza, Orgona utca 8.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 53,
+        "honos" : 54,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 54
+      }
+    } ]
+  }
+}

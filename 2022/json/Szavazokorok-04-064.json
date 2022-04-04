@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "064",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sarkadkeresztúr, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÉKÉS megye, 03. számú OEVK",
+      "cim" : "5731 Sarkadkeresztúr, Vörösmarty u. 7. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 570,
+        "honos" : 564,
+        "atjel" : 7,
+        "atjelInnen" : 5,
+        "osszesen" : 571
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Sarkadkeresztúr, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÉKÉS megye, 03. számú OEVK",
+      "cim" : "5731 Sarkadkeresztúr, Rákóczi u. 54.  (Vadászház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 536,
+        "honos" : 513,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 513
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Sarkadkeresztúr, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÉKÉS megye, 03. számú OEVK",
+      "cim" : "5731 Sarkadkeresztúr, Okányi u. 21. (Kultúrház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 117,
+        "honos" : 112,
+        "atjel" : 0,
+        "atjelInnen" : 4,
+        "osszesen" : 112
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Sarkadkeresztúr, 004. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÉKÉS megye, 03. számú OEVK",
+      "cim" : "5731 Sarkadkeresztúr, Varsányhely (Italbolt)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 54,
+        "honos" : 49,
+        "atjel" : 0,
+        "atjelInnen" : 4,
+        "osszesen" : 49
+      }
+    } ]
+  }
+}

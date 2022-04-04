@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "099",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Máriakálnok, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Máriakálnok, Rákóczi út 14. (Művelődési ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 711,
+        "honos" : 694,
+        "atjel" : 10,
+        "atjelInnen" : 12,
+        "osszesen" : 704
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Máriakálnok, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Máriakálnok, Petőfi utca 1. (Régi Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 875,
+        "honos" : 867,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 867
+      }
+    } ]
+  }
+}

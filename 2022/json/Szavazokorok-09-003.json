@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "09",
+    "taz" : "003",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bagamér, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 03. számú OEVK",
+      "cim" : " Bagamér, Kossuth  utca 5. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 922,
+        "honos" : 903,
+        "atjel" : 11,
+        "atjelInnen" : 13,
+        "osszesen" : 914
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Bagamér, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 03. számú OEVK",
+      "cim" : " Bagamér, Rákóczi utca 2. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 910,
+        "honos" : 908,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 908
+      }
+    } ]
+  }
+}

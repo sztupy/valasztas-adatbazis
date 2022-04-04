@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "159",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Porrogszentpál, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Porrogszentpál, Fő utca 31-33. (Kultúrotthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 64,
+        "honos" : 63,
+        "atjel" : 2,
+        "atjelInnen" : 1,
+        "osszesen" : 65
+      }
+    } ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "101",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagycserkesz, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : "4445 Nagycserkesz, Petőfi utca 10. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 917,
+        "honos" : 890,
+        "atjel" : 7,
+        "atjelInnen" : 16,
+        "osszesen" : 897
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nagycserkesz, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : "4445 Nagycserkesz, Cigánybokor 6.  (Régi Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 222,
+        "honos" : 219,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 219
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Nagycserkesz, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : "4445 Nagycserkesz, Halmosbokor 1. (Régi Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 102,
+        "honos" : 100,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 100
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "054",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mány, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : " Mány, Szent István u. 4. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1093,
+        "honos" : 1059,
+        "atjel" : 0,
+        "atjelInnen" : 36,
+        "osszesen" : 1059
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Mány, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : " Mány, Rákóczi u. 67. (Mányi Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 863,
+        "honos" : 845,
+        "atjel" : 31,
+        "atjelInnen" : 18,
+        "osszesen" : 876
+      }
+    } ]
+  }
+}

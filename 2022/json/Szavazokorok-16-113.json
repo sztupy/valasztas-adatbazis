@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "113",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nyírbéltek, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : " Nyírbéltek, Kossuth L. u. 1-3. (Ált.Isk. Új szárny bal o.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 693,
+        "honos" : 645,
+        "atjel" : 11,
+        "atjelInnen" : 42,
+        "osszesen" : 656
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nyírbéltek, 002. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : " Nyírbéltek, Kossuth L. u. 1-3. (Ált. Isk. régi szárny)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 810,
+        "honos" : 764,
+        "atjel" : 0,
+        "atjelInnen" : 36,
+        "osszesen" : 764
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Nyírbéltek, 003. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : " Nyírbéltek, Kossuth L. u. 1-3.  (Ált. Isk. Új Szárny jobb o.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 613,
+        "honos" : 612,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 612
+      }
+    } ]
+  }
+}

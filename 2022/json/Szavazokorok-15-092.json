@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "092",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Karád, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Karád, Attila utca 31. (Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 541,
+        "honos" : 517,
+        "atjel" : 17,
+        "atjelInnen" : 21,
+        "osszesen" : 534
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Karád, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : "8676 Karád, Kossuth L. u. 8. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 617,
+        "honos" : 596,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 596
+      }
+    } ]
+  }
+}

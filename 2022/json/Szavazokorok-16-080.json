@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "080",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Komoró, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : "4622 Komoró, Petőfi utca 18. (Általános iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1058,
+        "honos" : 1017,
+        "atjel" : 8,
+        "atjelInnen" : 34,
+        "osszesen" : 1025
+      }
+    } ]
+  }
+}

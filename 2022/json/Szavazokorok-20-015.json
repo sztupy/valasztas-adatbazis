@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "015",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Batyk, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Batyk, Fő u. 11. (Türjei KÖH Batyki Kirendeltség)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 309,
+        "honos" : 301,
+        "atjel" : 3,
+        "atjelInnen" : 6,
+        "osszesen" : 304
+      }
+    } ]
+  }
+}

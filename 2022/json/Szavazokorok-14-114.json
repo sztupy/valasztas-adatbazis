@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "114",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pócsmegyer, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "PEST megye, 03. számú OEVK",
+      "cim" : "2017 Pócsmegyer, Kossuth út 27. (Rendezvényközpont)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1191,
+        "honos" : 1154,
+        "atjel" : 0,
+        "atjelInnen" : 37,
+        "osszesen" : 1154
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Pócsmegyer, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "PEST megye, 03. számú OEVK",
+      "cim" : " Pócsmegyer, Hunyadi utca 6. (Polg.Hiv.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1040,
+        "honos" : 1003,
+        "atjel" : 59,
+        "atjelInnen" : 34,
+        "osszesen" : 1062
+      }
+    } ]
+  }
+}

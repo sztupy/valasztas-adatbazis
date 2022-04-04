@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "074",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagyfüged, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Nagyfüged, Kossuth u. 13. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1272,
+        "honos" : 1245,
+        "atjel" : 13,
+        "atjelInnen" : 20,
+        "osszesen" : 1258
+      }
+    } ]
+  }
+}

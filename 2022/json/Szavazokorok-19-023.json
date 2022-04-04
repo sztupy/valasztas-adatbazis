@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "023",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Balatoncsicsó, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VESZPRÉM megye, 02. számú OEVK",
+      "cim" : " Balatoncsicsó, Fő utca 25. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 197,
+        "honos" : 190,
+        "atjel" : 9,
+        "atjelInnen" : 9,
+        "osszesen" : 199
+      }
+    } ]
+  }
+}

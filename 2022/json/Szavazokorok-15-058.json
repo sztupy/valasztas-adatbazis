@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "058",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Gamás, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Gamás, Fő u. 94. (IKSZT épülete)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 460,
+        "honos" : 451,
+        "atjel" : 11,
+        "atjelInnen" : 8,
+        "osszesen" : 462
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Gamás, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Gamás, Vadépuszta 39. (Klubkönyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 95,
+        "honos" : 97,
+        "atjel" : 0,
+        "atjelInnen" : 0,
+        "osszesen" : 97
+      }
+    } ]
+  }
+}

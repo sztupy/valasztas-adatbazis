@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "072",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kóka, 001. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2243 Kóka, Dózsa György út 3. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 628,
+        "honos" : 613,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 613
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kóka, 002. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2243 Kóka, Pesti utca 51. (Bölcsöde)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 744,
+        "honos" : 724,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 724
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Kóka, 003. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2243 Kóka, Dózsa György út 3. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1196,
+        "honos" : 1160,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 1160
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Kóka, 004. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2243 Kóka, Dózsa György út 3. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1090,
+        "honos" : 1066,
+        "atjel" : 40,
+        "atjelInnen" : 20,
+        "osszesen" : 1106
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "037",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Fényeslitke, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Fényeslitke, Iskola utca 1., (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1024,
+        "honos" : 992,
+        "atjel" : 31,
+        "atjelInnen" : 27,
+        "osszesen" : 1023
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Fényeslitke, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Fényeslitke, Iskola utca 1., (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 994,
+        "honos" : 953,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 953
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "235",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Zalakaros, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : "8749 Zalakaros, Hegyalja u. 40. (Civil Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 914,
+        "honos" : 868,
+        "atjel" : 204,
+        "atjelInnen" : 41,
+        "osszesen" : 1072
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Zalakaros, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Zalakaros,  Gyógyfürdő tér 10. (Kerékpáros Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1076,
+        "honos" : 1002,
+        "atjel" : 0,
+        "atjelInnen" : 72,
+        "osszesen" : 1002
+      }
+    } ]
+  }
+}

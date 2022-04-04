@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "041",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csombárd, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Csombárd, Kossuth Lajos utca 45/c. (Kultúrotthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 220,
+        "honos" : 219,
+        "atjel" : 5,
+        "atjelInnen" : 4,
+        "osszesen" : 224
+      }
+    } ]
+  }
+}

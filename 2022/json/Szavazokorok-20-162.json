@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "162",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Páka, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : " Páka, Petőfi  u. 4. (Idősek klubja)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 799,
+        "honos" : 782,
+        "atjel" : 10,
+        "atjelInnen" : 14,
+        "osszesen" : 792
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Páka, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : " Páka, Dömeföldi út 75.(Kulturotthon )",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 115,
+        "honos" : 111,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 111
+      }
+    } ]
+  }
+}

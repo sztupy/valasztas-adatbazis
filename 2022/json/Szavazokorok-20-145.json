@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "145",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nemespátró, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : " Nemespátró, Petőfi Sándor utca 3. (Önkormányzat)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 221,
+        "honos" : 217,
+        "atjel" : 3,
+        "atjelInnen" : 1,
+        "osszesen" : 220
+      }
+    } ]
+  }
+}

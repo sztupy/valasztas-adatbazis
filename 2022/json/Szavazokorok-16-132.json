@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "132",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nyírparasznya, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Nyírparasznya, Szabadság u. 23.  (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 693,
+        "honos" : 668,
+        "atjel" : 2,
+        "atjelInnen" : 13,
+        "osszesen" : 670
+      }
+    } ]
+  }
+}

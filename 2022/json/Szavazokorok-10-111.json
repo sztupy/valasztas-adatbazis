@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "111",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Vámosgyörk, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Vámosgyörk, József Attila út 6. (MÁV Oktató terem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 793,
+        "honos" : 787,
+        "atjel" : 15,
+        "atjelInnen" : 8,
+        "osszesen" : 802
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Vámosgyörk, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Vámosgyörk, Rákóczi út 23. (Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 832,
+        "honos" : 814,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 814
+      }
+    } ]
+  }
+}

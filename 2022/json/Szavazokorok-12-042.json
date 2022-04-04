@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "042",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Leányvár, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : " Leányvár, Erzsébet utca 92. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1478,
+        "honos" : 1429,
+        "atjel" : 16,
+        "atjelInnen" : 45,
+        "osszesen" : 1445
+      }
+    } ]
+  }
+}

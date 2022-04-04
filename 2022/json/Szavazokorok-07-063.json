@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "063",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagykarácsony, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Nagykarácsony, Petőfi u. 27. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 488,
+        "honos" : 486,
+        "atjel" : 11,
+        "atjelInnen" : 6,
+        "osszesen" : 497
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nagykarácsony, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Nagykarácsony, Alkotmány u. 10. (TSZ ebédlő)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 509,
+        "honos" : 501,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 501
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Nagykarácsony, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Nagykarácsony, Kossuth u. 2. (Szőlőhegyi bolt)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 120,
+        "honos" : 118,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 118
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "017",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Dóc, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 03. számú OEVK",
+      "cim" : " Dóc, Alkotmány utca 21. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 440,
+        "honos" : 429,
+        "atjel" : 3,
+        "atjelInnen" : 4,
+        "osszesen" : 432
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Dóc, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 03. számú OEVK",
+      "cim" : " Dóc, Bodorszék tanya 49. (Bodorszéki klub)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 157,
+        "honos" : 151,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 151
+      }
+    } ]
+  }
+}

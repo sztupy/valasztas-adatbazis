@@ -1,0 +1,522 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "034",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Dunakeszi, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Fő út 145. (Magyarság Városi Sporttelep)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1228,
+        "honos" : 1194,
+        "atjel" : 0,
+        "atjelInnen" : 35,
+        "osszesen" : 1194
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Dunakeszi, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Liget utca 42. (Orvosi rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1174,
+        "honos" : 1158,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 1158
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Dunakeszi, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Iskola sétány 18. (Bárdos Lajos Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1073,
+        "honos" : 1038,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 1038
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Dunakeszi, 004. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Garas u. 26. (Kőrösi Csoma Sándor Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1043,
+        "honos" : 998,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 998
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Dunakeszi, 005. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Garas u. 26. (Kőrösi Csoma Sándor Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1051,
+        "honos" : 1002,
+        "atjel" : 0,
+        "atjelInnen" : 35,
+        "osszesen" : 1002
+      }
+    }, {
+      "sorszam" : "006",
+      "szk_nev" : "Dunakeszi, 006. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Garas u. 26. (Kőrösi Csoma Sándor Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 943,
+        "honos" : 911,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 911
+      }
+    }, {
+      "sorszam" : "007",
+      "szk_nev" : "Dunakeszi, 007. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Iskola sétány 18. (Bárdos Lajos Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1108,
+        "honos" : 1053,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 1053
+      }
+    }, {
+      "sorszam" : "008",
+      "szk_nev" : "Dunakeszi, 008. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Fő út 75-81. (Szakorvosi Rendelőintézet)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1191,
+        "honos" : 1135,
+        "atjel" : 0,
+        "atjelInnen" : 38,
+        "osszesen" : 1135
+      }
+    }, {
+      "sorszam" : "009",
+      "szk_nev" : "Dunakeszi, 009. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Bem u. 27. (Farkas Ferenc Művészeti Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1151,
+        "honos" : 1114,
+        "atjel" : 0,
+        "atjelInnen" : 35,
+        "osszesen" : 1114
+      }
+    }, {
+      "sorszam" : "010",
+      "szk_nev" : "Dunakeszi, 010. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Garas u. 26. (Kőrösi Csoma Sándor Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "I",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1142,
+        "honos" : 1100,
+        "atjel" : 0,
+        "atjelInnen" : 41,
+        "osszesen" : 1100
+      }
+    }, {
+      "sorszam" : "011",
+      "szk_nev" : "Dunakeszi, 011. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Garas u. 26. (Kőrösi Csoma Sándor Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 842,
+        "honos" : 821,
+        "atjel" : 904,
+        "atjelInnen" : 18,
+        "osszesen" : 1725
+      }
+    }, {
+      "sorszam" : "012",
+      "szk_nev" : "Dunakeszi, 012. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Garas u. 26. (Kőrösi Csoma Sándor Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1119,
+        "honos" : 1086,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 1086
+      }
+    }, {
+      "sorszam" : "013",
+      "szk_nev" : "Dunakeszi, 013. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Hunyadi u. 70. (Piros Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 999,
+        "honos" : 957,
+        "atjel" : 0,
+        "atjelInnen" : 42,
+        "osszesen" : 957
+      }
+    }, {
+      "sorszam" : "014",
+      "szk_nev" : "Dunakeszi, 014. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Hunyadi u. 70. (Piros Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1003,
+        "honos" : 951,
+        "atjel" : 0,
+        "atjelInnen" : 49,
+        "osszesen" : 951
+      }
+    }, {
+      "sorszam" : "015",
+      "szk_nev" : "Dunakeszi, 015. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Radnóti u. 24. (Fazekas Mihály Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1047,
+        "honos" : 1011,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 1011
+      }
+    }, {
+      "sorszam" : "016",
+      "szk_nev" : "Dunakeszi, 016. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Tábor u. 56. (Orvosi Rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1156,
+        "honos" : 1115,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 1115
+      }
+    }, {
+      "sorszam" : "017",
+      "szk_nev" : "Dunakeszi, 017. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Kossuth Lajos u. 6. (Kölcsey Ferenc Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1005,
+        "honos" : 978,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 978
+      }
+    }, {
+      "sorszam" : "018",
+      "szk_nev" : "Dunakeszi, 018. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Óvoda köz  (Alagi Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 946,
+        "honos" : 912,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 912
+      }
+    }, {
+      "sorszam" : "019",
+      "szk_nev" : "Dunakeszi, 019. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Posta u. 5. (Posta utcai Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1235,
+        "honos" : 1204,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 1204
+      }
+    }, {
+      "sorszam" : "020",
+      "szk_nev" : "Dunakeszi, 020. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Muskátli u. 2. (Dunakeszi Alsó Könyvtár)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1027,
+        "honos" : 992,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 992
+      }
+    }, {
+      "sorszam" : "021",
+      "szk_nev" : "Dunakeszi, 021. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Muskátli u. 2. (Dunakeszi Alsó Orvosi Rendelő)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1153,
+        "honos" : 1115,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 1115
+      }
+    }, {
+      "sorszam" : "022",
+      "szk_nev" : "Dunakeszi, 022. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Fóti út 41. (Kinizsi Sportklub)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1156,
+        "honos" : 1121,
+        "atjel" : 0,
+        "atjelInnen" : 35,
+        "osszesen" : 1121
+      }
+    }, {
+      "sorszam" : "023",
+      "szk_nev" : "Dunakeszi, 023. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Repülőtéri utca 3/A  (Szent István Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1182,
+        "honos" : 1134,
+        "atjel" : 0,
+        "atjelInnen" : 46,
+        "osszesen" : 1134
+      }
+    }, {
+      "sorszam" : "024",
+      "szk_nev" : "Dunakeszi, 024. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Repülőtéri utca 3/A (Szent István Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1074,
+        "honos" : 1042,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 1042
+      }
+    }, {
+      "sorszam" : "025",
+      "szk_nev" : "Dunakeszi, 025. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Széchenyi utca 68. (Frédikevill - Orvosi rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1101,
+        "honos" : 1074,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 1074
+      }
+    }, {
+      "sorszam" : "026",
+      "szk_nev" : "Dunakeszi, 026. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Széchenyi utca 68. (Frédikevill - Orvosi rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1406,
+        "honos" : 1352,
+        "atjel" : 0,
+        "atjelInnen" : 53,
+        "osszesen" : 1352
+      }
+    }, {
+      "sorszam" : "027",
+      "szk_nev" : "Dunakeszi, 027. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Károlyi u. 23. (Széchenyi István Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1224,
+        "honos" : 1180,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 1180
+      }
+    }, {
+      "sorszam" : "028",
+      "szk_nev" : "Dunakeszi, 028. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Károlyi u. 23. (Széchenyi István Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1243,
+        "honos" : 1212,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 1212
+      }
+    }, {
+      "sorszam" : "029",
+      "szk_nev" : "Dunakeszi, 029. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Károlyi u. 23. (Széchenyi István Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1203,
+        "honos" : 1173,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 1173
+      }
+    }, {
+      "sorszam" : "030",
+      "szk_nev" : "Dunakeszi, 030. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "PEST megye, 05. számú OEVK",
+      "cim" : "2120 Dunakeszi, Radnóti u. 24. (Fazekas Mihály Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1006,
+        "honos" : 966,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 966
+      }
+    } ]
+  }
+}

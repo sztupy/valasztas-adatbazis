@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "065",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Hajmás, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "SOMOGY megye, 01. számú OEVK",
+      "cim" : " Hajmás, Kossuth Lajos utca 37. (volt iskolaépület)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 168,
+        "honos" : 161,
+        "atjel" : 4,
+        "atjelInnen" : 3,
+        "osszesen" : 165
+      }
+    } ]
+  }
+}

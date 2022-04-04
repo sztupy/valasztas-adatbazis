@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "110",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kötcse, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : "8627 Kötcse, Fő u. 13-15. (Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 406,
+        "honos" : 395,
+        "atjel" : 13,
+        "atjelInnen" : 13,
+        "osszesen" : 408
+      }
+    } ]
+  }
+}

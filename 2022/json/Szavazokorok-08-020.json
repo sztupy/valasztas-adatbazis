@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "020",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bősárkány, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : " Bősárkány, Petőfi Sándor utca 49-51. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 850,
+        "honos" : 840,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 840
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Bősárkány, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : " Bősárkány, Petőfi Sándor utca 44. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 859,
+        "honos" : 852,
+        "atjel" : 23,
+        "atjelInnen" : 4,
+        "osszesen" : 875
+      }
+    } ]
+  }
+}

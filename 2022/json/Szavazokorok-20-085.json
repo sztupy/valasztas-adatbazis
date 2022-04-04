@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "085",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kemendollár, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : "8931 Kemendollár, Kemendi utca 26. (volt Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 126,
+        "honos" : 124,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 124
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kemendollár, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : "8931 Kemendollár, Béke liget 3. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 266,
+        "honos" : 260,
+        "atjel" : 5,
+        "atjelInnen" : 4,
+        "osszesen" : 265
+      }
+    } ]
+  }
+}

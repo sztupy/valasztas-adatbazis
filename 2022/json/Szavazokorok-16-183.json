@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "183",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Terem, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : " Terem, Fő utca 10.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 562,
+        "honos" : 541,
+        "atjel" : 4,
+        "atjelInnen" : 20,
+        "osszesen" : 545
+      }
+    } ]
+  }
+}

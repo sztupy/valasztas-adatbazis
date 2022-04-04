@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "042",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Gávavencsellő, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : " Gávavencsellő, Hősök tere 7. (MŰVHÁZ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 895,
+        "honos" : 849,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 849
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Gávavencsellő, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : " Gávavencsellő, Petőfi utca 1. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 889,
+        "honos" : 865,
+        "atjel" : 28,
+        "atjelInnen" : 28,
+        "osszesen" : 893
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Gávavencsellő, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : " Gávavencsellő, Toldi Miklós utca 47.(Nappali ellátó)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 877,
+        "honos" : 841,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 841
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "127",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szentlőrinckáta, 001. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2255 Szentlőrinckáta, Honvéd u. 25. (Faluház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 807,
+        "honos" : 786,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 786
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szentlőrinckáta, 002. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2255 Szentlőrinckáta, Dózsa Gy. u. 48. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 754,
+        "honos" : 749,
+        "atjel" : 14,
+        "atjelInnen" : 9,
+        "osszesen" : 763
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "178",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Vitnyéd, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : " Vitnyéd, Fő utca 42. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1112,
+        "honos" : 1097,
+        "atjel" : 8,
+        "atjelInnen" : 19,
+        "osszesen" : 1105
+      }
+    } ]
+  }
+}

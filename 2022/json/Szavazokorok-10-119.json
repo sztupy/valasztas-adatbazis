@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "119",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szarvaskő, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : " Szarvaskő, Rákóczi F. u. 1.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 320,
+        "honos" : 310,
+        "atjel" : 12,
+        "atjelInnen" : 11,
+        "osszesen" : 322
+      }
+    } ]
+  }
+}

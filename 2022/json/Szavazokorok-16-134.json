@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "134",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nyírpilis, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : " Nyírpilis, Fő utca 22.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 616,
+        "honos" : 609,
+        "atjel" : 5,
+        "atjelInnen" : 4,
+        "osszesen" : 614
+      }
+    } ]
+  }
+}

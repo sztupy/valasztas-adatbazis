@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "251",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sajóbábony, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 02. számú OEVK",
+      "cim" : " Sajóbábony, Kossuth u. 46. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 723,
+        "honos" : 711,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 711
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Sajóbábony, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 02. számú OEVK",
+      "cim" : " Sajóbábony, Iskola tér 3. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 667,
+        "honos" : 658,
+        "atjel" : 19,
+        "atjelInnen" : 9,
+        "osszesen" : 677
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Sajóbábony, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 02. számú OEVK",
+      "cim" : " Sajóbábony, Iskola tér 3. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 690,
+        "honos" : 683,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 683
+      }
+    } ]
+  }
+}

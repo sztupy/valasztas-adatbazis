@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "107",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tass, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BÁCS-KISKUN megye, 01. számú OEVK",
+      "cim" : " Tass, Széchenyi út 48. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1114,
+        "honos" : 1086,
+        "atjel" : 34,
+        "atjelInnen" : 19,
+        "osszesen" : 1120
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tass, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BÁCS-KISKUN megye, 01. számú OEVK",
+      "cim" : " Tass, Szent István tér 2. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1186,
+        "honos" : 1147,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 1147
+      }
+    } ]
+  }
+}

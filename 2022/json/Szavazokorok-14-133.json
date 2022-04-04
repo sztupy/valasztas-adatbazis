@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "133",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szigetszentmárton, 001. számú szavazókör",
+      "evk" : "08",
+      "evk_nev" : "PEST megye, 08. számú OEVK",
+      "cim" : " Szigetszentmárton, Telkes u. 10. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 924,
+        "honos" : 898,
+        "atjel" : 64,
+        "atjelInnen" : 21,
+        "osszesen" : 962
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szigetszentmárton, 002. számú szavazókör",
+      "evk" : "08",
+      "evk_nev" : "PEST megye, 08. számú OEVK",
+      "cim" : " Szigetszentmárton, Duna u. 4/B.  (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1101,
+        "honos" : 1079,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 1079
+      }
+    } ]
+  }
+}

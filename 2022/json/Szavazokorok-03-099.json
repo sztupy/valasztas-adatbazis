@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "099",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sükösd, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : " Sükösd, Dózsa György út 199. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1017,
+        "honos" : 988,
+        "atjel" : 19,
+        "atjelInnen" : 23,
+        "osszesen" : 1007
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Sükösd, 002. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : " Sükösd, Dózsa György út 183. (Központi Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 940,
+        "honos" : 913,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 913
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Sükösd, 003. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : " Sükösd, Deák Ferenc utca 91. (Alvégi Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1000,
+        "honos" : 977,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 977
+      }
+    } ]
+  }
+}

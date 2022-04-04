@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "090",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szakály, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : "7192 Szakály, Szabadság u. 151/A  (Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 602,
+        "honos" : 580,
+        "atjel" : 17,
+        "atjelInnen" : 23,
+        "osszesen" : 597
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szakály, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : "7192 Szakály, Fő út 16. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 455,
+        "honos" : 442,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 442
+      }
+    } ]
+  }
+}

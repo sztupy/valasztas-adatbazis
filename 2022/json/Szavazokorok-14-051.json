@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "051",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Herceghalom, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "PEST megye, 02. számú OEVK",
+      "cim" : " Herceghalom, Gesztenyés u. 13. (Polgármesteri Hiv.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 908,
+        "honos" : 888,
+        "atjel" : 103,
+        "atjelInnen" : 24,
+        "osszesen" : 991
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Herceghalom, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "PEST megye, 02. számú OEVK",
+      "cim" : " Herceghalom, Gesztenyés út 13. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1072,
+        "honos" : 1050,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 1050
+      }
+    } ]
+  }
+}

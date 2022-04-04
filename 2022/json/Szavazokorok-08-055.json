@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "055",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Gyalóka, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : " Gyalóka, Fő utca 14.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 55,
+        "honos" : 53,
+        "atjel" : 1,
+        "atjelInnen" : 2,
+        "osszesen" : 54
+      }
+    } ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "133",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nyírpazony, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : "4531 Nyírpazony, Széchenyi u 15. (Aranyalma Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 644,
+        "honos" : 628,
+        "atjel" : 38,
+        "atjelInnen" : 13,
+        "osszesen" : 666
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nyírpazony, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : "4531 Nyírpazony, Széchenyi u 15. (Óvoda étkező)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 705,
+        "honos" : 682,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 682
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Nyírpazony, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : "4531 Nyírpazony, Vasvári Pál u. 32. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 810,
+        "honos" : 794,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 794
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Nyírpazony, 004. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : "4531 Nyírpazony, Vasvári Pál u. 32. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 898,
+        "honos" : 873,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 873
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "049",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Fertőendréd, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : " Fertőendréd, Fő utca 68. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 514,
+        "honos" : 505,
+        "atjel" : 4,
+        "atjelInnen" : 7,
+        "osszesen" : 509
+      }
+    } ]
+  }
+}

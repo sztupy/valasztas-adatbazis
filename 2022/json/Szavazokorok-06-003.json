@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "003",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Apátfalva, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 04. számú OEVK",
+      "cim" : " Apátfalva, Templom utca 57. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 722,
+        "honos" : 710,
+        "atjel" : 24,
+        "atjelInnen" : 14,
+        "osszesen" : 734
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Apátfalva, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 04. számú OEVK",
+      "cim" : " Apátfalva, Rákóczi utca 23. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 777,
+        "honos" : 765,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 765
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Apátfalva, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 04. számú OEVK",
+      "cim" : " Apátfalva, Dózsa Gy. utca 9. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 869,
+        "honos" : 853,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 853
+      }
+    } ]
+  }
+}

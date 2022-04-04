@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "152",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pátyod, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Pátyod, Kossuth Lajos út 41.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 557,
+        "honos" : 532,
+        "atjel" : 1,
+        "atjelInnen" : 23,
+        "osszesen" : 533
+      }
+    } ]
+  }
+}

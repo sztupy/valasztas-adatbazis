@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "090",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szabadbattyán, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "FEJÉR megye, 02. számú OEVK",
+      "cim" : "8151 Szabadbattyán, Petőfi u. 60.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 920,
+        "honos" : 900,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 900
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szabadbattyán, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "FEJÉR megye, 02. számú OEVK",
+      "cim" : "8151 Szabadbattyán, Árpád u. 10. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 935,
+        "honos" : 929,
+        "atjel" : 25,
+        "atjelInnen" : 12,
+        "osszesen" : 954
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Szabadbattyán, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "FEJÉR megye, 02. számú OEVK",
+      "cim" : "8151 Szabadbattyán, Iskola u. 7. (Ált. Iskola 2 tantermes épülete)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1089,
+        "honos" : 1053,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 1053
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Szabadbattyán, 004. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "FEJÉR megye, 02. számú OEVK",
+      "cim" : "8151 Szabadbattyán, Árpád u. 40-44. (Cifrakert Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 967,
+        "honos" : 940,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 940
+      }
+    } ]
+  }
+}

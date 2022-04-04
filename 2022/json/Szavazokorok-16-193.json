@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "193",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tiszaeszlár, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : " Tiszaeszlár, Rákóczi Ferenc utca 95.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 721,
+        "honos" : 708,
+        "atjel" : 12,
+        "atjelInnen" : 12,
+        "osszesen" : 720
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tiszaeszlár, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : " Tiszaeszlár, Aradi u. 33.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 693,
+        "honos" : 674,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 674
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Tiszaeszlár, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : " Tiszaeszlár, Kossuth tér 18/A",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 378,
+        "honos" : 366,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 366
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Tiszaeszlár, 004. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : "4464 Tiszaeszlár, Ady Endre utca 51.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 102,
+        "honos" : 102,
+        "atjel" : 0,
+        "atjelInnen" : 0,
+        "osszesen" : 102
+      }
+    } ]
+  }
+}

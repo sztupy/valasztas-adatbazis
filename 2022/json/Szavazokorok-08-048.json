@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "048",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Fertőd, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : " Fertőd, Madách sétány 1.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1096,
+        "honos" : 1061,
+        "atjel" : 73,
+        "atjelInnen" : 23,
+        "osszesen" : 1134
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Fertőd, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : " Fertőd, Mentes Mihály utca 2. (Általános iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 630,
+        "honos" : 619,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 619
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Fertőd, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : " Fertőd, Mentes Mihály utca 2. (Általános iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 836,
+        "honos" : 812,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 812
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Fertőd, 004. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : " Fertőd, Kölcsey tér 1. (Tőzeggyár, régi iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 98,
+        "honos" : 96,
+        "atjel" : 0,
+        "atjelInnen" : 3,
+        "osszesen" : 96
+      }
+    } ]
+  }
+}

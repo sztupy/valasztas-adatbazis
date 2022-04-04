@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "054",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Karácsond, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Karácsond, Hősök tere 1. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 834,
+        "honos" : 819,
+        "atjel" : 20,
+        "atjelInnen" : 18,
+        "osszesen" : 839
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Karácsond, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Karácsond, Bajcsy-Zs. út 42. (2.sz. Orvosi rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 771,
+        "honos" : 755,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 755
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Karácsond, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Karácsond, Szabadság út 100. (1.sz. Orvosi rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 771,
+        "honos" : 751,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 751
+      }
+    } ]
+  }
+}

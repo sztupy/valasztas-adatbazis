@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "041",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Écs, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Écs,  Fő utca 94. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 886,
+        "honos" : 869,
+        "atjel" : 19,
+        "atjelInnen" : 9,
+        "osszesen" : 888
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Écs, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Écs,  Kossuth utca 29. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 829,
+        "honos" : 806,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 806
+      }
+    } ]
+  }
+}

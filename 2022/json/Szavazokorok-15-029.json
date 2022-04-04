@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "029",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bodrog, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Bodrog, Kossuth Lajos utca 81. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 291,
+        "honos" : 280,
+        "atjel" : 9,
+        "atjelInnen" : 9,
+        "osszesen" : 289
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "119",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mencshely, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VESZPRÉM megye, 02. számú OEVK",
+      "cim" : " Mencshely, Fő u. 36. (Kultúrotthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 243,
+        "honos" : 231,
+        "atjel" : 7,
+        "atjelInnen" : 7,
+        "osszesen" : 238
+      }
+    } ]
+  }
+}

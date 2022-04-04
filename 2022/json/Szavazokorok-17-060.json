@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "060",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Madocsa, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : " Madocsa, Fő u. 19. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 488,
+        "honos" : 472,
+        "atjel" : 22,
+        "atjelInnen" : 10,
+        "osszesen" : 494
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Madocsa, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : " Madocsa, Paksi u. 19. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 630,
+        "honos" : 607,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 607
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Madocsa, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : "7026 Madocsa, Kossuth u. 2. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 435,
+        "honos" : 431,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 431
+      }
+    } ]
+  }
+}

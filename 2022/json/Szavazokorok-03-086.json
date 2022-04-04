@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "086",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nemesnádudvar, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6345 Nemesnádudvar, Szentháromság tér 1. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 853,
+        "honos" : 837,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 837
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nemesnádudvar, 002. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6345 Nemesnádudvar, Petőfi u. 50. (Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 599,
+        "honos" : 584,
+        "atjel" : 7,
+        "atjelInnen" : 10,
+        "osszesen" : 591
+      }
+    } ]
+  }
+}

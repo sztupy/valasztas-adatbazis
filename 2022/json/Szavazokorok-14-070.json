@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "070",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kocsér, 001. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2755 Kocsér, Szent István tér 10. (Önkormányzati ebédlő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 717,
+        "honos" : 709,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 709
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kocsér, 002. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2755 Kocsér,  Kossuth Lajos u. 14.sz  (Gábor Áron Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 740,
+        "honos" : 725,
+        "atjel" : 8,
+        "atjelInnen" : 13,
+        "osszesen" : 733
+      }
+    } ]
+  }
+}

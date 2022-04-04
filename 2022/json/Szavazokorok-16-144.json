@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "144",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ököritófülpös, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Ököritófülpös, Kossuth Lajos utca 111/F (Házasságkötő terem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 654,
+        "honos" : 645,
+        "atjel" : 4,
+        "atjelInnen" : 8,
+        "osszesen" : 649
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Ököritófülpös, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Ököritófülpös, Kossuth Lajos utca 57/A (Általános iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 695,
+        "honos" : 676,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 676
+      }
+    } ]
+  }
+}

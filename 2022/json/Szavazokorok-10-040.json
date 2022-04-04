@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "040",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Gyöngyöshalász, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Gyöngyöshalász, Fő út 11. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1104,
+        "honos" : 1078,
+        "atjel" : 17,
+        "atjelInnen" : 19,
+        "osszesen" : 1095
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Gyöngyöshalász, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Gyöngyöshalász, Széchenyi út 1. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1026,
+        "honos" : 1002,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 1002
+      }
+    } ]
+  }
+}

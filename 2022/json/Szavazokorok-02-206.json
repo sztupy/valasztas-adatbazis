@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "206",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ófalu, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : "7696 Ófalu, Kossuth utca 3. (Bölcsőde)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 284,
+        "honos" : 275,
+        "atjel" : 5,
+        "atjelInnen" : 5,
+        "osszesen" : 280
+      }
+    } ]
+  }
+}

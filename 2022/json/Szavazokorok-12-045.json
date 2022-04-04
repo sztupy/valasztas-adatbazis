@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "045",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mogyorósbánya, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : " Mogyorósbánya, Fő utca 51. (Általános Iskola Alsó)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 725,
+        "honos" : 710,
+        "atjel" : 5,
+        "atjelInnen" : 18,
+        "osszesen" : 715
+      }
+    } ]
+  }
+}

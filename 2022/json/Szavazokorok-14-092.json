@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "092",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nyáregyháza, 001. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : " Nyáregyháza, Ady Endre út 1/A (Idősek Napköziotthona)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1042,
+        "honos" : 1018,
+        "atjel" : 32,
+        "atjelInnen" : 16,
+        "osszesen" : 1050
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nyáregyháza, 002. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : " Nyáregyháza, Nyáry Pál út 32. (Kovács István Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1071,
+        "honos" : 1057,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 1057
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Nyáregyháza, 003. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : " Nyáregyháza, Jókai út 1. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 999,
+        "honos" : 977,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 977
+      }
+    } ]
+  }
+}

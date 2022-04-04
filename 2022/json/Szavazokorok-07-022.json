@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "022",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csősz, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Csősz, Kossuth L. u. 11. (II. Rákóczi F. Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 806,
+        "honos" : 785,
+        "atjel" : 5,
+        "atjelInnen" : 14,
+        "osszesen" : 790
+      }
+    } ]
+  }
+}

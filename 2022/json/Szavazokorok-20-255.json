@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "255",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Zalavár, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Zalavár, Petőfi u. 5. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 718,
+        "honos" : 699,
+        "atjel" : 10,
+        "atjelInnen" : 20,
+        "osszesen" : 709
+      }
+    } ]
+  }
+}

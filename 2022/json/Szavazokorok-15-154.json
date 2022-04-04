@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "154",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Péterhida, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Péterhida, Fő u. 50. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 127,
+        "honos" : 126,
+        "atjel" : 2,
+        "atjelInnen" : 2,
+        "osszesen" : 128
+      }
+    } ]
+  }
+}

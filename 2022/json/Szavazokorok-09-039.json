@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "09",
+    "taz" : "039",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Hosszúpályi, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 04. számú OEVK",
+      "cim" : " Hosszúpályi, Debreceni utca 2. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1098,
+        "honos" : 1081,
+        "atjel" : 15,
+        "atjelInnen" : 20,
+        "osszesen" : 1096
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Hosszúpályi, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 04. számú OEVK",
+      "cim" : " Hosszúpályi, Szabadság tér  15. (Új Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1167,
+        "honos" : 1126,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 1126
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Hosszúpályi, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 04. számú OEVK",
+      "cim" : " Hosszúpályi, Szabadság tér 29. (Kisemeletes Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1092,
+        "honos" : 1051,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 1051
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Hosszúpályi, 004. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 04. számú OEVK",
+      "cim" : " Hosszúpályi, Debreceni utca 2. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1140,
+        "honos" : 1105,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 1105
+      }
+    } ]
+  }
+}

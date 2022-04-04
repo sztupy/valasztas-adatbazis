@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "034",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Dunaszentpál, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Dunaszentpál, Iskola tér 1. (Közös Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 590,
+        "honos" : 582,
+        "atjel" : 9,
+        "atjelInnen" : 6,
+        "osszesen" : 591
+      }
+    } ]
+  }
+}

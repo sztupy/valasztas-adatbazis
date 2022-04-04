@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "053",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Jakabszállás, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÁCS-KISKUN megye, 04. számú OEVK",
+      "cim" : "6078 Jakabszállás, Tavasz utca 6. (Jakabszállási Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1134,
+        "honos" : 1112,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 1112
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Jakabszállás, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÁCS-KISKUN megye, 04. számú OEVK",
+      "cim" : "6078 Jakabszállás, Petőfi Sándor utc 13. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1043,
+        "honos" : 1016,
+        "atjel" : 27,
+        "atjelInnen" : 15,
+        "osszesen" : 1043
+      }
+    } ]
+  }
+}

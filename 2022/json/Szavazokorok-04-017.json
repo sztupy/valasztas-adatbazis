@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "017",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Dombegyház, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5836 Dombegyház, Tavasz utca 7.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 621,
+        "honos" : 598,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 598
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Dombegyház, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Dombegyház, Aradi utca 9-11.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 551,
+        "honos" : 518,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 518
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Dombegyház, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Dombegyház, Béke utca 39.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 401,
+        "honos" : 387,
+        "atjel" : 8,
+        "atjelInnen" : 8,
+        "osszesen" : 395
+      }
+    } ]
+  }
+}

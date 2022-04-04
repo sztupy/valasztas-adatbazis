@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "005",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Apc, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Apc, Petőfi Sándor út 24. (Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 781,
+        "honos" : 757,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 757
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Apc, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Apc, Fő út 8. (Idősek klubja)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 593,
+        "honos" : 586,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 586
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Apc, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Apc, Fő út 48. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 619,
+        "honos" : 599,
+        "atjel" : 22,
+        "atjelInnen" : 12,
+        "osszesen" : 621
+      }
+    } ]
+  }
+}

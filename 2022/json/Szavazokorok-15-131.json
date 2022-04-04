@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "131",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagybajom, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Nagybajom, Fő u. 73. (Internet Kávézó)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 848,
+        "honos" : 830,
+        "atjel" : 13,
+        "atjelInnen" : 25,
+        "osszesen" : 843
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nagybajom, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Nagybajom, Iskola-köz 1. (Sportcsarnok)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 817,
+        "honos" : 796,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 796
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Nagybajom, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Nagybajom, Kossuth u. 19. (Művelődési ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 830,
+        "honos" : 810,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 810
+      }
+    } ]
+  }
+}

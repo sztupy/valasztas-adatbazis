@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "114",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Vécs, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Vécs, Kossuth Lajos út 47. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 501,
+        "honos" : 485,
+        "atjel" : 15,
+        "atjelInnen" : 13,
+        "osszesen" : 500
+      }
+    } ]
+  }
+}

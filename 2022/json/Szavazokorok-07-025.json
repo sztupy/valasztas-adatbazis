@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "025",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Előszállás, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Előszállás, Fő tér 3. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 821,
+        "honos" : 805,
+        "atjel" : 18,
+        "atjelInnen" : 13,
+        "osszesen" : 823
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Előszállás, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Előszállás, Szögletkert 1. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 473,
+        "honos" : 465,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 465
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Előszállás, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Előszállás, Szögletkert 1. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 588,
+        "honos" : 571,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 571
+      }
+    } ]
+  }
+}

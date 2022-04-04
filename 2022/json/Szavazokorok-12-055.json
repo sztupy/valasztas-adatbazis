@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "055",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sárisáp, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : "2523 Sárisáp, Malom utca 3. (Művelődési Ház Oszlopos terem)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 698,
+        "honos" : 681,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 681
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Sárisáp, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : "2523 Sárisáp, Malom utca 3. (Művelődési Ház Olvasóterem)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 815,
+        "honos" : 782,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 782
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Sárisáp, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : "2523 Sárisáp, Fő utca 69. (Gondozási Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 783,
+        "honos" : 766,
+        "atjel" : 23,
+        "atjelInnen" : 21,
+        "osszesen" : 789
+      }
+    } ]
+  }
+}

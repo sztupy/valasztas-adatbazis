@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "034",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kétegyháza, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BÉKÉS megye, 01. számú OEVK",
+      "cim" : "5741 Kétegyháza, Fő tér 4. (Műv. Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 765,
+        "honos" : 732,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 732
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kétegyháza, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BÉKÉS megye, 01. számú OEVK",
+      "cim" : " Kétegyháza, Fő tér 4. (Műv. Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 701,
+        "honos" : 689,
+        "atjel" : 16,
+        "atjelInnen" : 15,
+        "osszesen" : 705
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Kétegyháza, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BÉKÉS megye, 01. számú OEVK",
+      "cim" : " Kétegyháza, Márki S. u. 11. (Iskola épület)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 802,
+        "honos" : 793,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 793
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Kétegyháza, 004. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BÉKÉS megye, 01. számú OEVK",
+      "cim" : " Kétegyháza, Márki S. u. 11. (Iskola épület)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 611,
+        "honos" : 598,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 598
+      }
+    } ]
+  }
+}

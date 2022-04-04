@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "047",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Röszke, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 02. számú OEVK",
+      "cim" : "6758 Röszke, Dózsa György utca 1. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1092,
+        "honos" : 1080,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 1080
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Röszke, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 02. számú OEVK",
+      "cim" : "6758 Röszke, Dózsa György utca 1. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1312,
+        "honos" : 1280,
+        "atjel" : 22,
+        "atjelInnen" : 23,
+        "osszesen" : 1302
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Röszke, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 02. számú OEVK",
+      "cim" : " Röszke, III.Körzet 250. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 566,
+        "honos" : 546,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 546
+      }
+    } ]
+  }
+}

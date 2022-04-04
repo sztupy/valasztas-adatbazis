@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "181",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Visegrád, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "PEST megye, 03. számú OEVK",
+      "cim" : " Visegrád, Fő u. 81. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 755,
+        "honos" : 730,
+        "atjel" : 156,
+        "atjelInnen" : 22,
+        "osszesen" : 886
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Visegrád, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "PEST megye, 03. számú OEVK",
+      "cim" : " Visegrád, Rév u. 2. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 660,
+        "honos" : 637,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 637
+      }
+    } ]
+  }
+}

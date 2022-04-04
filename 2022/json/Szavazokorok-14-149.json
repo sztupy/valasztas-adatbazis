@@ -1,0 +1,97 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "149",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tápiószentmárton, 001. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2711 Tápiószentmárton, Fő u. 30. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1005,
+        "honos" : 993,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 993
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tápiószentmárton, 002. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2711 Tápiószentmárton, Bartók B. u. 5. (Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 892,
+        "honos" : 880,
+        "atjel" : 42,
+        "atjelInnen" : 14,
+        "osszesen" : 922
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Tápiószentmárton, 003. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2711 Tápiószentmárton, Kossuth L. u. 100. (Ált. isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 997,
+        "honos" : 982,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 982
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Tápiószentmárton, 004. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2711 Tápiószentmárton, Béke tér 14. (Újf. Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1246,
+        "honos" : 1218,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 1218
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Tápiószentmárton, 005. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2711 Tápiószentmárton, Görgei Artúr u. 47. (Ifj. Szálláshely)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 517,
+        "honos" : 512,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 512
+      }
+    } ]
+  }
+}

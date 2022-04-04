@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "072",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Hédervár, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Hédervár, Fő utca 42.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1009,
+        "honos" : 981,
+        "atjel" : 12,
+        "atjelInnen" : 27,
+        "osszesen" : 993
+      }
+    } ]
+  }
+}

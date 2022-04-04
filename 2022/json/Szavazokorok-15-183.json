@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "183",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Somogybükkösd, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Somogybükkösd, Fő utca 92. (Kultúrotthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 73,
+        "honos" : 74,
+        "atjel" : 1,
+        "atjelInnen" : 1,
+        "osszesen" : 75
+      }
+    } ]
+  }
+}

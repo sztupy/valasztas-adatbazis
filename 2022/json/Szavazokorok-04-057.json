@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "057",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagyszénás, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5931 Nagyszénás, Szabadság u. 8. (Idősek klubja)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 858,
+        "honos" : 827,
+        "atjel" : 16,
+        "atjelInnen" : 24,
+        "osszesen" : 843
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nagyszénás, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5931 Nagyszénás, Táncsics u. 24. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1120,
+        "honos" : 1087,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 1087
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Nagyszénás, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5931 Nagyszénás, Hősök útja 6.  (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 956,
+        "honos" : 919,
+        "atjel" : 0,
+        "atjelInnen" : 34,
+        "osszesen" : 919
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Nagyszénás, 004. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5931 Nagyszénás, József A. u. 36. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1071,
+        "honos" : 1055,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 1055
+      }
+    } ]
+  }
+}

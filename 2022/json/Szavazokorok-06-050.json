@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "050",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szatymaz, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 03. számú OEVK",
+      "cim" : " Szatymaz,  Petőfi Sándor utca 6. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1015,
+        "honos" : 993,
+        "atjel" : 27,
+        "atjelInnen" : 16,
+        "osszesen" : 1020
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szatymaz, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 03. számú OEVK",
+      "cim" : " Szatymaz, Dózsa György utca 42. (Művelődési ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1020,
+        "honos" : 996,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 996
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Szatymaz, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 03. számú OEVK",
+      "cim" : " Szatymaz, Petőfi Sándor utca 6. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1046,
+        "honos" : 1020,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 1020
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Szatymaz, 004. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 03. számú OEVK",
+      "cim" : " Szatymaz,  II. körzet tanya 115. (Neszürjhegyi Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1118,
+        "honos" : 1094,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 1094
+      }
+    } ]
+  }
+}

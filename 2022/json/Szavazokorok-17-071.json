@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "071",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagymányok, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : " Nagymányok, Arany J. u. 1. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 894,
+        "honos" : 857,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 857
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nagymányok, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : " Nagymányok, Dózsa Gy. u. 28. (Városháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 947,
+        "honos" : 926,
+        "atjel" : 17,
+        "atjelInnen" : 20,
+        "osszesen" : 943
+      }
+    } ]
+  }
+}

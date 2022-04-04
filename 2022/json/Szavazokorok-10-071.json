@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "071",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mezőtárkány, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3375 Mezőtárkány, Rákóczi út 19. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1240,
+        "honos" : 1198,
+        "atjel" : 20,
+        "atjelInnen" : 26,
+        "osszesen" : 1218
+      }
+    } ]
+  }
+}

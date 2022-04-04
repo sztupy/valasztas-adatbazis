@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "039",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kömlőd, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 03. számú OEVK",
+      "cim" : "2853 Kömlőd, Szabadság utca 9. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 850,
+        "honos" : 832,
+        "atjel" : 12,
+        "atjelInnen" : 15,
+        "osszesen" : 844
+      }
+    } ]
+  }
+}

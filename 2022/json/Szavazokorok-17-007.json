@@ -1,0 +1,97 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "007",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bátaszék, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "TOLNA megye, 01. számú OEVK",
+      "cim" : "7140 Bátaszék, Budai u. 11. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1003,
+        "honos" : 969,
+        "atjel" : 41,
+        "atjelInnen" : 21,
+        "osszesen" : 1010
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Bátaszék, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "TOLNA megye, 01. számú OEVK",
+      "cim" : " Bátaszék, Perczel u. 1.  (Bölcsőde)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 969,
+        "honos" : 932,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 932
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Bátaszék, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "TOLNA megye, 01. számú OEVK",
+      "cim" : "7140 Bátaszék, Bonyhádi u. 4. (MÁV ebédlő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1053,
+        "honos" : 1034,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 1034
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Bátaszék, 004. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "TOLNA megye, 01. számú OEVK",
+      "cim" : " Bátaszék, Kossuth u. 38-42. (Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1087,
+        "honos" : 1070,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 1070
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Bátaszék, 005. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "TOLNA megye, 01. számú OEVK",
+      "cim" : " Bátaszék, Szent István tér 7. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1054,
+        "honos" : 1026,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 1026
+      }
+    } ]
+  }
+}

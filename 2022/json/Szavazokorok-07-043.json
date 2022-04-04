@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "043",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kápolnásnyék, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : " Kápolnásnyék, Fő utca 28. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1119,
+        "honos" : 1101,
+        "atjel" : 72,
+        "atjelInnen" : 31,
+        "osszesen" : 1173
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kápolnásnyék, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : " Kápolnásnyék, Semmelweis tér 1/D. (Idősek Klubja)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 843,
+        "honos" : 821,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 821
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Kápolnásnyék, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : " Kápolnásnyék, Kenessey utca 9. (Pettend, Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 337,
+        "honos" : 334,
+        "atjel" : 0,
+        "atjelInnen" : 3,
+        "osszesen" : 334
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Kápolnásnyék, 004. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : " Kápolnásnyék, Fő utca 41. (Napsugár Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 916,
+        "honos" : 893,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 893
+      }
+    } ]
+  }
+}

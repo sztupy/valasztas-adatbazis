@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "043",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kunágota, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Kunágota, Rákóczi u. 11. (Központi Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 665,
+        "honos" : 643,
+        "atjel" : 10,
+        "atjelInnen" : 19,
+        "osszesen" : 653
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kunágota, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Kunágota, Rákóczi u. 11. (Központi Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 631,
+        "honos" : 614,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 614
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Kunágota, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Kunágota, Rákóczi u. 73. (Újtelepi Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 810,
+        "honos" : 780,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 780
+      }
+    } ]
+  }
+}

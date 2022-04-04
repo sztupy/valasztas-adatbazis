@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "059",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Gellénháza, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Gellénháza, Olajbányász krt. 6. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 805,
+        "honos" : 758,
+        "atjel" : 16,
+        "atjelInnen" : 40,
+        "osszesen" : 774
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Gellénháza, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Gellénháza, Kossuth u. 67.  (Idősek Klubja)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 484,
+        "honos" : 461,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 461
+      }
+    } ]
+  }
+}

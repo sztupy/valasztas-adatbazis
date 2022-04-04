@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "092",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sirok, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : "3332 Sirok, Borics Pál út 4. (Iskola-napközi)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 679,
+        "honos" : 663,
+        "atjel" : 21,
+        "atjelInnen" : 12,
+        "osszesen" : 684
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Sirok, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Sirok, Liget út 16. (Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 601,
+        "honos" : 579,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 579
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Sirok, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Sirok, Verpeléti út 24.  (Klubkönyvtár)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 197,
+        "honos" : 189,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 189
+      }
+    } ]
+  }
+}

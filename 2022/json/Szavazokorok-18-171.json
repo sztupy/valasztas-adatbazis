@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "171",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sorkifalud, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VAS megye, 03. számú OEVK",
+      "cim" : " Sorkifalud, Petőfi Sándor utca 19. (Klubkönyvtár)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 317,
+        "honos" : 314,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 314
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Sorkifalud, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VAS megye, 03. számú OEVK",
+      "cim" : " Sorkifalud, Kossuth Lajos utca 30. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 141,
+        "honos" : 135,
+        "atjel" : 9,
+        "atjelInnen" : 4,
+        "osszesen" : 144
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Sorkifalud, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VAS megye, 03. számú OEVK",
+      "cim" : " Sorkifalud, Jókai Mór  utca 55. (Klubkönyvtár)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 81,
+        "honos" : 78,
+        "atjel" : 0,
+        "atjelInnen" : 3,
+        "osszesen" : 78
+      }
+    } ]
+  }
+}

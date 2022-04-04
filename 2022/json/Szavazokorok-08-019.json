@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "019",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bőny, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Bőny, Szabadság út 33. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 762,
+        "honos" : 753,
+        "atjel" : 14,
+        "atjelInnen" : 11,
+        "osszesen" : 767
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Bőny, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : "9073 Bőny, Rákóczi utca 10. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 815,
+        "honos" : 790,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 790
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Bőny, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Bőny, Szőlőhegy 27. (Bolt)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 218,
+        "honos" : 212,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 212
+      }
+    } ]
+  }
+}

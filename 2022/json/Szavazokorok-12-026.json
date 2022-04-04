@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "026",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Dunaszentmiklós, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 03. számú OEVK",
+      "cim" : " Dunaszentmiklós, Petőfi S. u. 52. (Dunaszentmiklós Község Önkorm.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 386,
+        "honos" : 373,
+        "atjel" : 8,
+        "atjelInnen" : 13,
+        "osszesen" : 381
+      }
+    } ]
+  }
+}

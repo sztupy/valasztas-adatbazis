@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "076",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ászár, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 03. számú OEVK",
+      "cim" : "2881 Ászár, Kossuth Lajos utca 1. (Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 766,
+        "honos" : 750,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 750
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Ászár, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 03. számú OEVK",
+      "cim" : " Ászár, Kossuth Lajos utca 26. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 641,
+        "honos" : 628,
+        "atjel" : 23,
+        "atjelInnen" : 14,
+        "osszesen" : 651
+      }
+    } ]
+  }
+}

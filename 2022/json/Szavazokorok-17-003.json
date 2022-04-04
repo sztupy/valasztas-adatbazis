@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "003",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Aparhant, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : "7186 Aparhant, Kossuth u. 34. (Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 399,
+        "honos" : 377,
+        "atjel" : 18,
+        "atjelInnen" : 14,
+        "osszesen" : 395
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Aparhant, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : "7186 Aparhant, Petőfi u. 26. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 440,
+        "honos" : 426,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 426
+      }
+    } ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "09",
+    "taz" : "020",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ebes, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 05. számú OEVK",
+      "cim" : " Ebes, Ady Endre utca 6-8. (Községi Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 966,
+        "honos" : 943,
+        "atjel" : 35,
+        "atjelInnen" : 23,
+        "osszesen" : 978
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Ebes, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 05. számú OEVK",
+      "cim" : " Ebes, Széchenyi tér 5. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 884,
+        "honos" : 866,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 866
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Ebes, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 05. számú OEVK",
+      "cim" : " Ebes, Kossuth u. 32. (Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1087,
+        "honos" : 1041,
+        "atjel" : 0,
+        "atjelInnen" : 35,
+        "osszesen" : 1041
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Ebes, 004. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 05. számú OEVK",
+      "cim" : " Ebes, Rákóczi u. 13. (Családsegítő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 875,
+        "honos" : 864,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 864
+      }
+    } ]
+  }
+}

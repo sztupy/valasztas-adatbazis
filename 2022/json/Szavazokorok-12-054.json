@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "054",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Réde, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 03. számú OEVK",
+      "cim" : " Réde, Rákóczi tér 2. (Ifjúsági Klub)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1055,
+        "honos" : 1024,
+        "atjel" : 11,
+        "atjelInnen" : 29,
+        "osszesen" : 1035
+      }
+    } ]
+  }
+}

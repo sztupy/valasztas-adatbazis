@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "238",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Zamárdi, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Zamárdi, Szabadság tér 4. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1003,
+        "honos" : 891,
+        "atjel" : 167,
+        "atjelInnen" : 111,
+        "osszesen" : 1058
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Zamárdi, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Zamárdi, Fő utca 115. (Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1228,
+        "honos" : 1155,
+        "atjel" : 0,
+        "atjelInnen" : 63,
+        "osszesen" : 1155
+      }
+    } ]
+  }
+}

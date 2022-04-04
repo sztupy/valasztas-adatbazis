@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "149",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Öskü, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "VESZPRÉM megye, 01. számú OEVK",
+      "cim" : " Öskü, Mecset u. 2. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1073,
+        "honos" : 1046,
+        "atjel" : 15,
+        "atjelInnen" : 23,
+        "osszesen" : 1061
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Öskü, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "VESZPRÉM megye, 01. számú OEVK",
+      "cim" : " Öskü, Mecset u. 3. (IKSZT)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 825,
+        "honos" : 807,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 807
+      }
+    } ]
+  }
+}

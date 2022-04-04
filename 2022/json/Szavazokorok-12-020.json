@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "020",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csolnok, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : "2521 Csolnok,  Kossuth u. 6. fsz. jobb (Belterület, Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 992,
+        "honos" : 975,
+        "atjel" : 23,
+        "atjelInnen" : 19,
+        "osszesen" : 998
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Csolnok, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : "2521 Csolnok, Kossuth u. 6. fsz. bal (Belterület, Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 773,
+        "honos" : 755,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 755
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Csolnok, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : "2521 Csolnok,  Gete u. 4. (Csolnok és Környéke Körzeti Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 872,
+        "honos" : 849,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 849
+      }
+    } ]
+  }
+}

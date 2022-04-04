@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "212",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Vép, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : " Vép, Rákóczi u. 22. (Ált. Isk. régi ép. tükrös terem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 714,
+        "honos" : 708,
+        "atjel" : 18,
+        "atjelInnen" : 2,
+        "osszesen" : 726
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Vép, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : " Vép,  Rákóczi u. 22. (Ált. Isk. régi ép. rajzterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 646,
+        "honos" : 643,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 643
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Vép, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : " Vép, Kolozsvári u. 3/A.  (Művelődési Ház klubterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 685,
+        "honos" : 670,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 670
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Vép, 004. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : " Vép, Kolozsvári u. 3/A. (Művelődési Ház  nagyterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 647,
+        "honos" : 636,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 636
+      }
+    } ]
+  }
+}

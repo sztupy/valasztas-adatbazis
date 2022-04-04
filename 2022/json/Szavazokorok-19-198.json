@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "198",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Vaszar, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Vaszar, Fő u.16. (Napköziotthonos Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 636,
+        "honos" : 615,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 615
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Vaszar, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : "8542 Vaszar, Fő u. 29. (Önkormányzat)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 627,
+        "honos" : 613,
+        "atjel" : 10,
+        "atjelInnen" : 16,
+        "osszesen" : 623
+      }
+    } ]
+  }
+}

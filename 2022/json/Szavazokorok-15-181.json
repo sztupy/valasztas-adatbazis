@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "181",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Somogyaszaló, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Somogyaszaló, Kossuth u. 83. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 471,
+        "honos" : 465,
+        "atjel" : 6,
+        "atjelInnen" : 7,
+        "osszesen" : 471
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Somogyaszaló, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : "7452 Somogyaszaló, Dózsa u. 47. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 127,
+        "honos" : 122,
+        "atjel" : 0,
+        "atjelInnen" : 3,
+        "osszesen" : 122
+      }
+    } ]
+  }
+}

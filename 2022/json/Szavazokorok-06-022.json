@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "022",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Forráskút, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 02. számú OEVK",
+      "cim" : " Forráskút, Petőfi Sándor u. 3. (Műv. Ház nagyterme 1. ajtó)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 771,
+        "honos" : 754,
+        "atjel" : 11,
+        "atjelInnen" : 13,
+        "osszesen" : 765
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Forráskút, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 02. számú OEVK",
+      "cim" : " Forráskút, Petőfi Sándor u. 3. (Műv. Ház nagyterme 2. ajtó)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 884,
+        "honos" : 871,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 871
+      }
+    } ]
+  }
+}

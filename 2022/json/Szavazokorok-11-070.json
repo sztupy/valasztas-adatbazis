@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "070",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tiszavárkony, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 01. számú OEVK",
+      "cim" : "5092 Tiszavárkony, Somogyi Béla út 12. (Közösségi Színtér)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1059,
+        "honos" : 1024,
+        "atjel" : 10,
+        "atjelInnen" : 29,
+        "osszesen" : 1034
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tiszavárkony, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 01. számú OEVK",
+      "cim" : " Tiszavárkony, T.Várkonyi Szőlő, (Kultúrház)           ",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 215,
+        "honos" : 210,
+        "atjel" : 0,
+        "atjelInnen" : 5,
+        "osszesen" : 210
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "108",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pilisszántó, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "PEST megye, 03. számú OEVK",
+      "cim" : "2095 Pilisszántó, Kossuth Lajos utca 88. (Baross-ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 966,
+        "honos" : 947,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 947
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Pilisszántó, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "PEST megye, 03. számú OEVK",
+      "cim" : "2095 Pilisszántó, Kossuth Lajos utca 92. (Polg. Hivatal Tanácsterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1222,
+        "honos" : 1199,
+        "atjel" : 45,
+        "atjelInnen" : 36,
+        "osszesen" : 1244
+      }
+    } ]
+  }
+}

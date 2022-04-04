@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "083",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sárosd, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Sárosd,  Fő út 10-12. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1083,
+        "honos" : 1058,
+        "atjel" : 20,
+        "atjelInnen" : 14,
+        "osszesen" : 1078
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Sárosd, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : "2433 Sárosd, Szabadság tér 5. ( SZAKK)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 809,
+        "honos" : 792,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 792
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Sárosd, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Sárosd, Hantosi út. 9. Kézműves ház",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 728,
+        "honos" : 716,
+        "atjel" : 0,
+        "atjelInnen" : 5,
+        "osszesen" : 716
+      }
+    } ]
+  }
+}

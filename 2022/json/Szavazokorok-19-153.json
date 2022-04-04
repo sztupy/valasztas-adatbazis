@@ -1,0 +1,539 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "153",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pápa, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Jókai u. 18. (Tarczy Lajos Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 851,
+        "honos" : 810,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 810
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Pápa, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Fő tér 6. (Katolikus Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "I",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 733,
+        "honos" : 705,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 705
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Pápa, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Török B. u. 20. (Katolikus Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 740,
+        "honos" : 732,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 732
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Pápa, 004. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Korona u. 29. (Erkel Ferenc Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 708,
+        "honos" : 663,
+        "atjel" : 282,
+        "atjelInnen" : 33,
+        "osszesen" : 945
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Pápa, 005. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Erkel u. 39. (Acsády Szakképző Isk. 1.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 821,
+        "honos" : 798,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 798
+      }
+    }, {
+      "sorszam" : "006",
+      "szk_nev" : "Pápa, 006. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Jókai u. 37. (Vajda Márta Ált. Isk. volt Jókai)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 916,
+        "honos" : 883,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 883
+      }
+    }, {
+      "sorszam" : "007",
+      "szk_nev" : "Pápa, 007. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Huszár ltp. 33. (Huszár ltp. Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 924,
+        "honos" : 884,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 884
+      }
+    }, {
+      "sorszam" : "008",
+      "szk_nev" : "Pápa, 008. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Szövetkezet u. 36/A. (Fáy ltp. Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 539,
+        "honos" : 513,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 513
+      }
+    }, {
+      "sorszam" : "009",
+      "szk_nev" : "Pápa, 009. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Erkel u. 39. (Acsády Szakképző Isk. 2.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 633,
+        "honos" : 601,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 601
+      }
+    }, {
+      "sorszam" : "010",
+      "szk_nev" : "Pápa, 010. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Radnóti u. 12. (Nátuskerti Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 919,
+        "honos" : 870,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 870
+      }
+    }, {
+      "sorszam" : "011",
+      "szk_nev" : "Pápa, 011. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Aradi u. 10-12. (Munkácsy M. Ált. Isk. 1.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 974,
+        "honos" : 955,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 955
+      }
+    }, {
+      "sorszam" : "012",
+      "szk_nev" : "Pápa, 012. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Aradi u. 10-12. (Munkácsy M. Ált. Isk. 2.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 624,
+        "honos" : 606,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 606
+      }
+    }, {
+      "sorszam" : "013",
+      "szk_nev" : "Pápa, 013. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : "8500 Pápa, Kisfaludy u. 20. (Erzsébetvárosi Óvoda 1.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 691,
+        "honos" : 665,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 665
+      }
+    }, {
+      "sorszam" : "014",
+      "szk_nev" : "Pápa, 014. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Szent I. u. 28. (Bakonyerdő Zrt.Erdészeti Irodaép)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 753,
+        "honos" : 746,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 746
+      }
+    }, {
+      "sorszam" : "015",
+      "szk_nev" : "Pápa, 015. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Külső-Győri út 2. (Magyar Közút Nonprofit Zrt.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1045,
+        "honos" : 1020,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 1020
+      }
+    }, {
+      "sorszam" : "016",
+      "szk_nev" : "Pápa, 016. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Kisfaludy u. 26. (volt Textilgy-i Kerékpármegőrző)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 972,
+        "honos" : 945,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 945
+      }
+    }, {
+      "sorszam" : "017",
+      "szk_nev" : "Pápa, 017. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : "8500 Pápa, Huszár ltp. 3. (Huszár Közösségi Ház-volt HEMO)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 625,
+        "honos" : 604,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 604
+      }
+    }, {
+      "sorszam" : "018",
+      "szk_nev" : "Pápa, 018. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : "8500 Pápa, Kisfaludy u. 20. (Erzsébetvárosi Óvoda 2.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 792,
+        "honos" : 770,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 770
+      }
+    }, {
+      "sorszam" : "019",
+      "szk_nev" : "Pápa, 019. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : "8511 Pápa, Borsosgyőri út 25. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 653,
+        "honos" : 633,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 633
+      }
+    }, {
+      "sorszam" : "020",
+      "szk_nev" : "Pápa, 020. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Kéttornyúlaki utca 11. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 366,
+        "honos" : 355,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 355
+      }
+    }, {
+      "sorszam" : "021",
+      "szk_nev" : "Pápa, 021. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Teleki u. 2. (Weöres Sándor Ált. Isk. 1.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 723,
+        "honos" : 692,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 692
+      }
+    }, {
+      "sorszam" : "022",
+      "szk_nev" : "Pápa, 022. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Képző u. 1. (Napsugár Bölcsőde  1.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 643,
+        "honos" : 633,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 633
+      }
+    }, {
+      "sorszam" : "023",
+      "szk_nev" : "Pápa, 023. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Ötödik u. 26. (Tókerti Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 969,
+        "honos" : 943,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 943
+      }
+    }, {
+      "sorszam" : "024",
+      "szk_nev" : "Pápa, 024. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Vajda ltp. 28. (Evangélikus (voltVajdai) Óvoda 1.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 764,
+        "honos" : 744,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 744
+      }
+    }, {
+      "sorszam" : "025",
+      "szk_nev" : "Pápa, 025. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Vajda ltp. 28. (Evangélikus (voltVajdai) Óvoda 2.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 663,
+        "honos" : 629,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 629
+      }
+    }, {
+      "sorszam" : "026",
+      "szk_nev" : "Pápa, 026. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Képző u. 3. (Szivárvány Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 616,
+        "honos" : 600,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 600
+      }
+    }, {
+      "sorszam" : "027",
+      "szk_nev" : "Pápa, 027. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Teleki u. 2. (Weöres Sándor Ált. Isk. 2.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 617,
+        "honos" : 597,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 597
+      }
+    }, {
+      "sorszam" : "028",
+      "szk_nev" : "Pápa, 028. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Pápa, Képző u. 1. (Napsugár Bölcsőde 2.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 873,
+        "honos" : 833,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 833
+      }
+    }, {
+      "sorszam" : "029",
+      "szk_nev" : "Pápa, 029. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : "8500 Pápa, Külső-Veszprémi út 2. (Batthyány Szakképző Isk 1.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 773,
+        "honos" : 769,
+        "atjel" : 0,
+        "atjelInnen" : 5,
+        "osszesen" : 769
+      }
+    }, {
+      "sorszam" : "030",
+      "szk_nev" : "Pápa, 030. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : "8500 Pápa, Külső-Veszprémi út 2. (Batthyány Szakképző Isk 2.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 983,
+        "honos" : 947,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 947
+      }
+    }, {
+      "sorszam" : "031",
+      "szk_nev" : "Pápa, 031. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : "8500 Pápa, Tapolcafői utca 71. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 708,
+        "honos" : 682,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 682
+      }
+    } ]
+  }
+}

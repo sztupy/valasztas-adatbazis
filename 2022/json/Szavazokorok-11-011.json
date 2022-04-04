@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "011",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Jánoshida, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 02. számú OEVK",
+      "cim" : " Jánoshida, Fő utca 16. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 583,
+        "honos" : 570,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 570
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Jánoshida, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 02. számú OEVK",
+      "cim" : " Jánoshida, Fő utca 26. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 822,
+        "honos" : 800,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 800
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Jánoshida, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 02. számú OEVK",
+      "cim" : " Jánoshida, Fő utca 60. (Gondozási központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 580,
+        "honos" : 567,
+        "atjel" : 21,
+        "atjelInnen" : 8,
+        "osszesen" : 588
+      }
+    } ]
+  }
+}

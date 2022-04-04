@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "032",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kőtelek, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 01. számú OEVK",
+      "cim" : " Kőtelek, Szabadság út 1/C. (Klubkönyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 625,
+        "honos" : 606,
+        "atjel" : 13,
+        "atjelInnen" : 18,
+        "osszesen" : 619
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kőtelek, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 01. számú OEVK",
+      "cim" : " Kőtelek, Zrínyi út 3. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 583,
+        "honos" : 579,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 579
+      }
+    } ]
+  }
+}

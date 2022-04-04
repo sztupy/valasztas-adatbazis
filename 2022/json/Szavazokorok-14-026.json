@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "026",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Dánszentmiklós, 001. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : "2735 Dánszentmiklós, Irsai út 19. (Alsó Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 783,
+        "honos" : 771,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 771
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Dánszentmiklós, 002. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : "2735 Dánszentmiklós, Dózsa Gy. u. 100. (Polg. Hiv.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1151,
+        "honos" : 1119,
+        "atjel" : 29,
+        "atjelInnen" : 25,
+        "osszesen" : 1148
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Dánszentmiklós, 003. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : "2735 Dánszentmiklós, II.Külterület 16. (önkorm. ingatlan)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 320,
+        "honos" : 313,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 313
+      }
+    } ]
+  }
+}

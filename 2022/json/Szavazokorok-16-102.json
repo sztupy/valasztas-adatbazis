@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "102",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagydobos, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 04. számú OEVK",
+      "cim" : " Nagydobos, Fő út 137. (Házasságkötő terem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 824,
+        "honos" : 797,
+        "atjel" : 7,
+        "atjelInnen" : 22,
+        "osszesen" : 804
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nagydobos, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 04. számú OEVK",
+      "cim" : " Nagydobos, Fő út 131. (Napközi Otthonos Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 815,
+        "honos" : 798,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 798
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "143",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nyirád, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VESZPRÉM megye, 03. számú OEVK",
+      "cim" : " Nyirád, Szabadság u. 1. (Erzsébet Királyné Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 822,
+        "honos" : 799,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 799
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nyirád, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VESZPRÉM megye, 03. számú OEVK",
+      "cim" : " Nyirád, Dózsa Gy. u. 52/A. (Erzsébet Királyné Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 717,
+        "honos" : 695,
+        "atjel" : 11,
+        "atjelInnen" : 21,
+        "osszesen" : 706
+      }
+    } ]
+  }
+}

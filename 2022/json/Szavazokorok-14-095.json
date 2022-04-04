@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "095",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Örkény, 001. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : "2377 Örkény, Kossuth Lajos u. 2. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 743,
+        "honos" : 730,
+        "atjel" : 28,
+        "atjelInnen" : 14,
+        "osszesen" : 758
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Örkény, 002. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : "2377 Örkény, Kossuth L. u. 37/b. (Egészségügyi Rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1093,
+        "honos" : 1055,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 1055
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Örkény, 003. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : "2377 Örkény, Ady Endre u. 7. (Manócska Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 981,
+        "honos" : 956,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 956
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Örkény, 004. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : "2377 Örkény, Bartók Béla u. 58. (Huszka Hermina Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1008,
+        "honos" : 980,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 980
+      }
+    } ]
+  }
+}

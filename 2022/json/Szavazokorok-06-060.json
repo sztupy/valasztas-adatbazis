@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "060",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Zsombó, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 02. számú OEVK",
+      "cim" : "6792 Zsombó, Móra Ferenc utca 8. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 911,
+        "honos" : 877,
+        "atjel" : 27,
+        "atjelInnen" : 32,
+        "osszesen" : 904
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Zsombó, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 02. számú OEVK",
+      "cim" : "6792 Zsombó, Móra Ferenc utca 8. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 882,
+        "honos" : 871,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 871
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Zsombó, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 02. számú OEVK",
+      "cim" : "6792 Zsombó, Móra Ferenc u. 8. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1064,
+        "honos" : 1026,
+        "atjel" : 0,
+        "atjelInnen" : 36,
+        "osszesen" : 1026
+      }
+    } ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "200",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Somogyvár, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Somogyvár, Kaposvári utca 4. (Általános iskola és diákotthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 745,
+        "honos" : 719,
+        "atjel" : 11,
+        "atjelInnen" : 14,
+        "osszesen" : 730
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Somogyvár, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : "8698 Somogyvár, Kossuth Lajos utca 1. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 460,
+        "honos" : 448,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 448
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Somogyvár, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Somogyvár, Kardos Lajos utca 12. (kultúrház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 110,
+        "honos" : 106,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 106
+      }
+    } ]
+  }
+}

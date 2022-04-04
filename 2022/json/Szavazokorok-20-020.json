@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "020",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Belezna, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : " Belezna, Szabadság tér 20. (Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 589,
+        "honos" : 572,
+        "atjel" : 2,
+        "atjelInnen" : 13,
+        "osszesen" : 574
+      }
+    } ]
+  }
+}

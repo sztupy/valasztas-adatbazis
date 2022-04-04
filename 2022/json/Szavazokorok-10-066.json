@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "066",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Markaz, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Markaz, Fő utca  136. (Központi Konyha)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 659,
+        "honos" : 649,
+        "atjel" : 21,
+        "atjelInnen" : 14,
+        "osszesen" : 670
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Markaz, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : "3262 Markaz, Fő utca 21. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 789,
+        "honos" : 773,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 773
+      }
+    } ]
+  }
+}

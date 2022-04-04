@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "070",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kunadacs, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BÁCS-KISKUN megye, 01. számú OEVK",
+      "cim" : " Kunadacs, Rákóczi u. 2. (Kunadacsi KÖH)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1160,
+        "honos" : 1152,
+        "atjel" : 16,
+        "atjelInnen" : 12,
+        "osszesen" : 1168
+      }
+    } ]
+  }
+}

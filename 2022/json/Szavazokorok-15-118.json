@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "118",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Lengyeltóti, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Lengyeltóti, Zrínyi u. 1-3. (Helytörténeti kiállítás épülete)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 763,
+        "honos" : 750,
+        "atjel" : 22,
+        "atjelInnen" : 19,
+        "osszesen" : 772
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Lengyeltóti, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : "8693 Lengyeltóti, Rákóczi F. u. 22. (Művelődési Ház és Könyvtár)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 732,
+        "honos" : 705,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 705
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Lengyeltóti, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : "8693 Lengyeltóti, Kossuth L. u. 5.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 850,
+        "honos" : 823,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 823
+      }
+    } ]
+  }
+}

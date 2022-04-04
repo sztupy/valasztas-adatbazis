@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "012",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Jászalsószentgyörgy, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 02. számú OEVK",
+      "cim" : " Jászalsószentgyörgy, Rákóczi út 15. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 696,
+        "honos" : 679,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 679
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Jászalsószentgyörgy, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 02. számú OEVK",
+      "cim" : "5054 Jászalsószentgyörgy, Fő út 78. (Szent Imre Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 667,
+        "honos" : 658,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 658
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Jászalsószentgyörgy, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 02. számú OEVK",
+      "cim" : "5054 Jászalsószentgyörgy, Fő út 70/A. (Községi Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 750,
+        "honos" : 726,
+        "atjel" : 14,
+        "atjelInnen" : 19,
+        "osszesen" : 740
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Jászalsószentgyörgy, 004. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 02. számú OEVK",
+      "cim" : "5054 Jászalsószentgyörgy, Rákóczi út 1. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 697,
+        "honos" : 682,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 682
+      }
+    } ]
+  }
+}

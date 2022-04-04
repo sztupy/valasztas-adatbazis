@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "199",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szentpéterúr, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Szentpéterúr, Kossuth u. 1. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 689,
+        "honos" : 673,
+        "atjel" : 5,
+        "atjelInnen" : 11,
+        "osszesen" : 678
+      }
+    } ]
+  }
+}

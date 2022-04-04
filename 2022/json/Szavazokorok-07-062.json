@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "062",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nadap, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : " Nadap, Haladás út 56. (Orvosi rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 538,
+        "honos" : 529,
+        "atjel" : 28,
+        "atjelInnen" : 17,
+        "osszesen" : 557
+      }
+    } ]
+  }
+}

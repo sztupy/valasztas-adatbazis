@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "221",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pécsvárad, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Pécsvárad, Kossuth Lajos utca 41.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1142,
+        "honos" : 1106,
+        "atjel" : 28,
+        "atjelInnen" : 36,
+        "osszesen" : 1134
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Pécsvárad, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Pécsvárad, Gesztenyési út 1.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1099,
+        "honos" : 1069,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 1069
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Pécsvárad, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Pécsvárad, Iskola utca 2.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1040,
+        "honos" : 1008,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 1008
+      }
+    } ]
+  }
+}

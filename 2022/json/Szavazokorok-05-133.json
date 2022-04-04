@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "133",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Hernádnémeti, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 06. számú OEVK",
+      "cim" : "3564 Hernádnémeti, Petőfi S. utca 1. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 949,
+        "honos" : 927,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 927
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Hernádnémeti, 002. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 06. számú OEVK",
+      "cim" : "3564 Hernádnémeti, Kossuth L. utca 29. (Idősellátási Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 886,
+        "honos" : 854,
+        "atjel" : 12,
+        "atjelInnen" : 30,
+        "osszesen" : 866
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Hernádnémeti, 003. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 06. számú OEVK",
+      "cim" : "3564 Hernádnémeti, Petőfi S. utca 85. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 937,
+        "honos" : 913,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 913
+      }
+    } ]
+  }
+}

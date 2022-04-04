@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "169",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szabolcsbáka, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Szabolcsbáka, Kossuth utca 55. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 922,
+        "honos" : 889,
+        "atjel" : 3,
+        "atjelInnen" : 25,
+        "osszesen" : 892
+      }
+    } ]
+  }
+}

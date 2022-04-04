@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "309",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tarcal, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 06. számú OEVK",
+      "cim" : "3915 Tarcal, Rákóczi utca 4. (Borfalu)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1118,
+        "honos" : 1080,
+        "atjel" : 24,
+        "atjelInnen" : 36,
+        "osszesen" : 1104
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tarcal, 002. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 06. számú OEVK",
+      "cim" : " Tarcal, Árpád utca 8. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1122,
+        "honos" : 1082,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 1082
+      }
+    } ]
+  }
+}

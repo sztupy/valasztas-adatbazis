@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "222",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Vonyarcvashegy, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Vonyarcvashegy, Fő u. 64. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1068,
+        "honos" : 1000,
+        "atjel" : 0,
+        "atjelInnen" : 61,
+        "osszesen" : 1000
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Vonyarcvashegy, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Vonyarcvashegy, Kossuth L. utca 42. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 883,
+        "honos" : 820,
+        "atjel" : 54,
+        "atjelInnen" : 54,
+        "osszesen" : 874
+      }
+    } ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "179",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Verőce, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "PEST megye, 04. számú OEVK",
+      "cim" : " Verőce, Árpád út 20. (Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 986,
+        "honos" : 947,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 947
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Verőce, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "PEST megye, 04. számú OEVK",
+      "cim" : " Verőce, Garam utca 8-10. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1051,
+        "honos" : 1037,
+        "atjel" : 117,
+        "atjelInnen" : 17,
+        "osszesen" : 1154
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Verőce, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "PEST megye, 04. számú OEVK",
+      "cim" : " Verőce, Árpád  út 40. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1040,
+        "honos" : 1008,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 1008
+      }
+    } ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "109",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Gesztely, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 06. számú OEVK",
+      "cim" : " Gesztely, Kossuth utca 36. (Műv. Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 613,
+        "honos" : 599,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 599
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Gesztely, 002. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 06. számú OEVK",
+      "cim" : "3715 Gesztely, Petőfi utca 44. (Gondozási Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 562,
+        "honos" : 549,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 549
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Gesztely, 003. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 06. számú OEVK",
+      "cim" : " Gesztely, Temetőalja utca 2. (napközi)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 663,
+        "honos" : 640,
+        "atjel" : 10,
+        "atjelInnen" : 13,
+        "osszesen" : 650
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Gesztely, 004. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 06. számú OEVK",
+      "cim" : " Gesztely, Újharangod Béke utca 33. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 226,
+        "honos" : 222,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 222
+      }
+    } ]
+  }
+}

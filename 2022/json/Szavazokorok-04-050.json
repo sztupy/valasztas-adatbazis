@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "050",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mezőgyán, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÉKÉS megye, 03. számú OEVK",
+      "cim" : " Mezőgyán, Árpád u. 30. (Biztos Kezdet Gyerekház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 708,
+        "honos" : 682,
+        "atjel" : 4,
+        "atjelInnen" : 21,
+        "osszesen" : 686
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Mezőgyán, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÉKÉS megye, 03. számú OEVK",
+      "cim" : " Mezőgyán, Bocskai u. 6.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 72,
+        "honos" : 71,
+        "atjel" : 0,
+        "atjelInnen" : 0,
+        "osszesen" : 71
+      }
+    } ]
+  }
+}

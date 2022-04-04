@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "051",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Hort, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Hort, Bajcsy-Zs. út 23. (Ebédlő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 742,
+        "honos" : 727,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 727
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Hort, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Hort, Iskola út 3. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 766,
+        "honos" : 745,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 745
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Hort, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Hort, Bajcsy-Zs út 23/A. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 796,
+        "honos" : 787,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 787
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Hort, 004. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Hort, Szabadság tér 23. (Kulturális Centrum)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 752,
+        "honos" : 743,
+        "atjel" : 21,
+        "atjelInnen" : 12,
+        "osszesen" : 764
+      }
+    } ]
+  }
+}

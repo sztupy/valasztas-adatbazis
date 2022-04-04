@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "042",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagykörű, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 01. számú OEVK",
+      "cim" : " Nagykörű, Rákóczi út 16. (Petrovay Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 632,
+        "honos" : 610,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 610
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nagykörű, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 01. számú OEVK",
+      "cim" : " Nagykörű, Május 1 út 9. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 678,
+        "honos" : 648,
+        "atjel" : 27,
+        "atjelInnen" : 33,
+        "osszesen" : 675
+      }
+    } ]
+  }
+}

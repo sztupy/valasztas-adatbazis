@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "002",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Andocs, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Andocs, Szent Ferenc tér 8. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 706,
+        "honos" : 680,
+        "atjel" : 8,
+        "atjelInnen" : 22,
+        "osszesen" : 688
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Andocs, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Andocs, Nagytoldipuszta 11.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 92,
+        "honos" : 93,
+        "atjel" : 0,
+        "atjelInnen" : 0,
+        "osszesen" : 93
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "042",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Káloz, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Káloz, Szent István tér 9.  (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 995,
+        "honos" : 974,
+        "atjel" : 11,
+        "atjelInnen" : 19,
+        "osszesen" : 985
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Káloz, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Káloz, Ország út 2/C. (Fogorvosi rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 907,
+        "honos" : 890,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 890
+      }
+    } ]
+  }
+}

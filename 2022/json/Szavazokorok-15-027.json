@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "027",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Berzence, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Berzence, Szabadság tér 2.  (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 857,
+        "honos" : 835,
+        "atjel" : 13,
+        "atjelInnen" : 17,
+        "osszesen" : 848
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Berzence, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Berzence, Szabadság tér 2.  (Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1036,
+        "honos" : 1007,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 1007
+      }
+    } ]
+  }
+}

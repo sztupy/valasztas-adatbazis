@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "048",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Gérce, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VAS megye, 03. számú OEVK",
+      "cim" : " Gérce, Kossuth u. 88/A.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 902,
+        "honos" : 888,
+        "atjel" : 8,
+        "atjelInnen" : 13,
+        "osszesen" : 896
+      }
+    } ]
+  }
+}

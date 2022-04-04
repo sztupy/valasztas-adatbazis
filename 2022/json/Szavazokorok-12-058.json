@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "058",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szákszend, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 03. számú OEVK",
+      "cim" : " Szákszend, Száki utca 93. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1181,
+        "honos" : 1158,
+        "atjel" : 9,
+        "atjelInnen" : 26,
+        "osszesen" : 1167
+      }
+    } ]
+  }
+}

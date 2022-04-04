@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "075",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mátraverebély, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "NÓGRÁD megye, 01. számú OEVK",
+      "cim" : " Mátraverebély, Vasút út 87. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 621,
+        "honos" : 609,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 609
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Mátraverebély, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "NÓGRÁD megye, 01. számú OEVK",
+      "cim" : " Mátraverebély, Vasút út 84. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 622,
+        "honos" : 599,
+        "atjel" : 22,
+        "atjelInnen" : 5,
+        "osszesen" : 621
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Mátraverebély, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "NÓGRÁD megye, 01. számú OEVK",
+      "cim" : " Mátraverebély, Kányás, C sor 1.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 231,
+        "honos" : 222,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 222
+      }
+    } ]
+  }
+}

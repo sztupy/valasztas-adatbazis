@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "071",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pázmánd, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : " Pázmánd, Fő utca 66. (Művelődési Ház klubhelyiség)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 968,
+        "honos" : 942,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 942
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Pázmánd, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : " Pázmánd, Fő utca 66. (Művelődési Ház Nagyterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 853,
+        "honos" : 833,
+        "atjel" : 33,
+        "atjelInnen" : 16,
+        "osszesen" : 866
+      }
+    } ]
+  }
+}

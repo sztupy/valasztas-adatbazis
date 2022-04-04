@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "036",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Igar, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Igar, Fő utca 1. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 303,
+        "honos" : 287,
+        "atjel" : 12,
+        "atjelInnen" : 6,
+        "osszesen" : 299
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Igar, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Igar, Kossuth L. utca 44. (Faluház Vám)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 201,
+        "honos" : 199,
+        "atjel" : 0,
+        "atjelInnen" : 4,
+        "osszesen" : 199
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Igar, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Igar, Petőfi S. utca. 93. (Kultúrház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 236,
+        "honos" : 228,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 228
+      }
+    } ]
+  }
+}

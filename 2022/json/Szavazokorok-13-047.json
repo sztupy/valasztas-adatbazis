@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "047",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Jobbágyi, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "NÓGRÁD megye, 01. számú OEVK",
+      "cim" : " Jobbágyi,  Iskola utca 2-4.  (Fáy András Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 828,
+        "honos" : 816,
+        "atjel" : 14,
+        "atjelInnen" : 11,
+        "osszesen" : 830
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Jobbágyi, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "NÓGRÁD megye, 01. számú OEVK",
+      "cim" : " Jobbágyi, Lakótelep 7. ép. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 736,
+        "honos" : 720,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 720
+      }
+    } ]
+  }
+}

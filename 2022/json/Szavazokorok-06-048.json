@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "048",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ruzsa, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 02. számú OEVK",
+      "cim" : " Ruzsa, Szent István út 6. (Bölcsőde - ebédlő)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1056,
+        "honos" : 1033,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 1033
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Ruzsa, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 02. számú OEVK",
+      "cim" : " Ruzsa, Tömörkény tér 1. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 956,
+        "honos" : 939,
+        "atjel" : 14,
+        "atjelInnen" : 19,
+        "osszesen" : 953
+      }
+    } ]
+  }
+}

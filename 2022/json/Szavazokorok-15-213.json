@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "213",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szorosad, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Szorosad, Arany János u. 11. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 80,
+        "honos" : 76,
+        "atjel" : 2,
+        "atjelInnen" : 2,
+        "osszesen" : 78
+      }
+    } ]
+  }
+}

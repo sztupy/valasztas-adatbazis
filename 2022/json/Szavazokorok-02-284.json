@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "284",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Vajszló, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BARANYA megye, 04. számú OEVK",
+      "cim" : " Vajszló, Széchenyi u. 18. (Műv. Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 722,
+        "honos" : 695,
+        "atjel" : 7,
+        "atjelInnen" : 17,
+        "osszesen" : 702
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Vajszló, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BARANYA megye, 04. számú OEVK",
+      "cim" : " Vajszló, Iskola u. 1. (Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 699,
+        "honos" : 684,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 684
+      }
+    } ]
+  }
+}

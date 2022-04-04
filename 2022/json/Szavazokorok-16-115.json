@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "115",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nyírbogdány, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : "4511 Nyírbogdány, Óvoda utca 5.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 618,
+        "honos" : 598,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 598
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nyírbogdány, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : "4511 Nyírbogdány, Fő utca 8. (Műv. Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 869,
+        "honos" : 858,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 858
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Nyírbogdány, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : "4511 Nyírbogdány, Fő utca 3.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 808,
+        "honos" : 783,
+        "atjel" : 25,
+        "atjelInnen" : 20,
+        "osszesen" : 808
+      }
+    } ]
+  }
+}

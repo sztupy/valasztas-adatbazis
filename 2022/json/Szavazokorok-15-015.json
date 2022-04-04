@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "015",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Balatonszabadi, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Balatonszabadi,  Vak Bottyán u. 102. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 732,
+        "honos" : 707,
+        "atjel" : 35,
+        "atjelInnen" : 28,
+        "osszesen" : 742
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Balatonszabadi, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Balatonszabadi,  Vak Bottyán u. 133. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 566,
+        "honos" : 551,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 551
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Balatonszabadi, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Balatonszabadi, Kossuth L. u. 61. (Kossuth Kör)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 527,
+        "honos" : 522,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 522
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Balatonszabadi, 004. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Balatonszabadi, Vak Bottyán utca 133. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 566,
+        "honos" : 547,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 547
+      }
+    } ]
+  }
+}

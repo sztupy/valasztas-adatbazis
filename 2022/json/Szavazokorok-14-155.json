@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "155",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tóalmás, 001. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2252 Tóalmás, Béke u. 27. (Ált.Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1098,
+        "honos" : 1070,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 1070
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tóalmás, 002. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2252 Tóalmás, Rákóczi u. 4.  (Műv.Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 962,
+        "honos" : 934,
+        "atjel" : 34,
+        "atjelInnen" : 24,
+        "osszesen" : 968
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Tóalmás, 003. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2252 Tóalmás, Béke u. 27. (Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1111,
+        "honos" : 1083,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 1083
+      }
+    } ]
+  }
+}

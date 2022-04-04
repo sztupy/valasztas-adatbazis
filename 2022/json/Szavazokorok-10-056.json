@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "056",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kápolna, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : "3355 Kápolna, Kossuth út 11. (Három Hárs Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 663,
+        "honos" : 646,
+        "atjel" : 10,
+        "atjelInnen" : 16,
+        "osszesen" : 656
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kápolna, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Kápolna, Petőfi S. út 9. (Ált. Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 512,
+        "honos" : 508,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 508
+      }
+    } ]
+  }
+}

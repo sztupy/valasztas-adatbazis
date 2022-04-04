@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "081",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Juta, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "SOMOGY megye, 01. számú OEVK",
+      "cim" : "7431 Juta, Hősök tere 8. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 988,
+        "honos" : 961,
+        "atjel" : 9,
+        "atjelInnen" : 23,
+        "osszesen" : 970
+      }
+    } ]
+  }
+}

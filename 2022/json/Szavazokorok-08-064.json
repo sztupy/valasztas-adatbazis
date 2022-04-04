@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "064",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Győrszemere, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : " Győrszemere, Fő utca 18. (Közösségi Szintér)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 768,
+        "honos" : 755,
+        "atjel" : 15,
+        "atjelInnen" : 13,
+        "osszesen" : 770
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Győrszemere, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : " Győrszemere, Iskola utca 2. (Idősek Otthona)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 968,
+        "honos" : 945,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 945
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Győrszemere, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : " Győrszemere, Felpéci út 119. (Egészségház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 566,
+        "honos" : 554,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 554
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Győrszemere, 004. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : "9121 Győrszemere, Tölgyfa utca 39. (Faház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 465,
+        "honos" : 474,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 474
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "002",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Apostag, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÁCS-KISKUN megye, 03. számú OEVK",
+      "cim" : "6088 Apostag, Hunyadi  u. 9-13. (Ált. Iskola A. épület)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 839,
+        "honos" : 818,
+        "atjel" : 13,
+        "atjelInnen" : 11,
+        "osszesen" : 831
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Apostag, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÁCS-KISKUN megye, 03. számú OEVK",
+      "cim" : "6088 Apostag, Hunyadi  u. 9- 13. (Ált.Iskola B. épület)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 859,
+        "honos" : 841,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 841
+      }
+    } ]
+  }
+}

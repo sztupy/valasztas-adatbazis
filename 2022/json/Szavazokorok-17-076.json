@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "076",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Németkér, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : " Németkér, Szabadság u. 25. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 681,
+        "honos" : 658,
+        "atjel" : 9,
+        "atjelInnen" : 12,
+        "osszesen" : 667
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Németkér, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : " Németkér, Széchenyi u. 38. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 668,
+        "honos" : 659,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 659
+      }
+    } ]
+  }
+}

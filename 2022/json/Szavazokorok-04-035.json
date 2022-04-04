@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "035",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kétsoprony, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BÉKÉS megye, 01. számú OEVK",
+      "cim" : " Kétsoprony, Dózsa u. 22. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 775,
+        "honos" : 742,
+        "atjel" : 12,
+        "atjelInnen" : 27,
+        "osszesen" : 754
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kétsoprony, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BÉKÉS megye, 01. számú OEVK",
+      "cim" : " Kétsoprony, Dózsa u. 20. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 322,
+        "honos" : 305,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 305
+      }
+    } ]
+  }
+}

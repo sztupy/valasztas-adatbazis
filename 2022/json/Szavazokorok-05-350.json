@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "350",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Viszló, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 04. számú OEVK",
+      "cim" : " Viszló, Fő út 70/a. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 60,
+        "honos" : 52,
+        "atjel" : 7,
+        "atjelInnen" : 4,
+        "osszesen" : 59
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "116",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nyírcsaholy, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Nyírcsaholy, Szabadság utca 1.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1106,
+        "honos" : 1080,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 1080
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nyírcsaholy, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Nyírcsaholy, Hunyadi János utca 1.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 642,
+        "honos" : 619,
+        "atjel" : 9,
+        "atjelInnen" : 20,
+        "osszesen" : 628
+      }
+    } ]
+  }
+}

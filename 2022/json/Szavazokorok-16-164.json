@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "164",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Rohod, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : "4563 Rohod, Kossuth út 10.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 971,
+        "honos" : 941,
+        "atjel" : 5,
+        "atjelInnen" : 25,
+        "osszesen" : 946
+      }
+    } ]
+  }
+}

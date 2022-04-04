@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "226",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Záhony, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 04. számú OEVK",
+      "cim" : " Záhony, Ady Endre út 79. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 969,
+        "honos" : 909,
+        "atjel" : 0,
+        "atjelInnen" : 49,
+        "osszesen" : 909
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Záhony, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 04. számú OEVK",
+      "cim" : " Záhony, Ady Endre út  35. (Városháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 970,
+        "honos" : 907,
+        "atjel" : 19,
+        "atjelInnen" : 54,
+        "osszesen" : 926
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Záhony, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 04. számú OEVK",
+      "cim" : " Záhony, Európa tér 12. (MÁV Központi Irodaépület)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 787,
+        "honos" : 750,
+        "atjel" : 0,
+        "atjelInnen" : 37,
+        "osszesen" : 750
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Záhony, 004. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 04. számú OEVK",
+      "cim" : " Záhony, József Attila út 48. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 842,
+        "honos" : 802,
+        "atjel" : 0,
+        "atjelInnen" : 41,
+        "osszesen" : 802
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "018",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Arka, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 05. számú OEVK",
+      "cim" : " Arka, Hunyadi u. 29. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 60,
+        "honos" : 51,
+        "atjel" : 6,
+        "atjelInnen" : 9,
+        "osszesen" : 57
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "080",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Noszvaj, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3325 Noszvaj, Gárdonyi Géza út 21. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 798,
+        "honos" : 751,
+        "atjel" : 0,
+        "atjelInnen" : 34,
+        "osszesen" : 751
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Noszvaj, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : " Noszvaj, Kossuth út 12. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 768,
+        "honos" : 757,
+        "atjel" : 76,
+        "atjelInnen" : 13,
+        "osszesen" : 833
+      }
+    } ]
+  }
+}

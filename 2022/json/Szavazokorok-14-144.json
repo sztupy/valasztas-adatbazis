@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "144",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tápióbicske, 001. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2764 Tápióbicske, Rákóczi út 93. (Polgármesteri Hiv.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 856,
+        "honos" : 859,
+        "atjel" : 32,
+        "atjelInnen" : 10,
+        "osszesen" : 891
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tápióbicske, 002. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2764 Tápióbicske, Rákóczi út 61. (Műv.Ház.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 925,
+        "honos" : 904,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 904
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Tápióbicske, 003. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2764 Tápióbicske, Rákóczi út 61. (Műv.Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1046,
+        "honos" : 1019,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 1019
+      }
+    } ]
+  }
+}

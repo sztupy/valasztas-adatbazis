@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "185",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csörög, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "PEST megye, 04. számú OEVK",
+      "cim" : "2135 Csörög, Arany J. u. 53. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 969,
+        "honos" : 938,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 938
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Csörög, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "PEST megye, 04. számú OEVK",
+      "cim" : "2135 Csörög, Kossuth L. u. 21. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 746,
+        "honos" : 731,
+        "atjel" : 22,
+        "atjelInnen" : 19,
+        "osszesen" : 753
+      }
+    } ]
+  }
+}

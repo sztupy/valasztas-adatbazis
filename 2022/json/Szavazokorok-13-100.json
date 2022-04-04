@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "100",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Rétság, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : " Rétság, Rákóczi út 26. (Művelődési Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1142,
+        "honos" : 1108,
+        "atjel" : 19,
+        "atjelInnen" : 23,
+        "osszesen" : 1127
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Rétság, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : " Rétság, Iskola tér 1. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1056,
+        "honos" : 1020,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 1020
+      }
+    } ]
+  }
+}

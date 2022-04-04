@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "069",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagydorog, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : "7044 Nagydorog, Kossuth u. 81. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 630,
+        "honos" : 606,
+        "atjel" : 14,
+        "atjelInnen" : 18,
+        "osszesen" : 620
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nagydorog, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : " Nagydorog, Görgey utca 9. (2. sz. Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 692,
+        "honos" : 684,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 684
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Nagydorog, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : " Nagydorog, Kossuth utca 32. (Gondozási központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 747,
+        "honos" : 732,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 732
+      }
+    } ]
+  }
+}

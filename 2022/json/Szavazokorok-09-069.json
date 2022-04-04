@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "09",
+    "taz" : "069",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tetétlen, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 05. számú OEVK",
+      "cim" : "4184 Tetétlen, Kossuth u. 55. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 492,
+        "honos" : 485,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 485
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tetétlen, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 05. számú OEVK",
+      "cim" : "4184 Tetétlen, Kossuth u. 55. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 558,
+        "honos" : 546,
+        "atjel" : 22,
+        "atjelInnen" : 7,
+        "osszesen" : 568
+      }
+    } ]
+  }
+}

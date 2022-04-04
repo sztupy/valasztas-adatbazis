@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "241",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Zimány, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Zimány, Kossuth utca 31.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 422,
+        "honos" : 410,
+        "atjel" : 5,
+        "atjelInnen" : 9,
+        "osszesen" : 415
+      }
+    } ]
+  }
+}

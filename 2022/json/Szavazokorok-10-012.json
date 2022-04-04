@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "012",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bélapátfalva, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Bélapátfalva,  IV. Béla út 35.  (Napközi otthon)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 769,
+        "honos" : 740,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 740
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Bélapátfalva, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Bélapátfalva, IV. Béla út 47. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 846,
+        "honos" : 820,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 820
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Bélapátfalva, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : "3346 Bélapátfalva, Táncsics M. u. 4. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 648,
+        "honos" : 637,
+        "atjel" : 18,
+        "atjelInnen" : 22,
+        "osszesen" : 655
+      }
+    } ]
+  }
+}

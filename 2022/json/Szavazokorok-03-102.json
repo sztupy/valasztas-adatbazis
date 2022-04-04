@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "102",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szalkszentmárton, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BÁCS-KISKUN megye, 01. számú OEVK",
+      "cim" : " Szalkszentmárton, Jókai u. 2. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 760,
+        "honos" : 748,
+        "atjel" : 29,
+        "atjelInnen" : 14,
+        "osszesen" : 777
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szalkszentmárton, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BÁCS-KISKUN megye, 01. számú OEVK",
+      "cim" : " Szalkszentmárton, Petőfi tér 12. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 876,
+        "honos" : 852,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 852
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Szalkszentmárton, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BÁCS-KISKUN megye, 01. számú OEVK",
+      "cim" : " Szalkszentmárton, Mező u. 17/A. (Újtelepi Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 719,
+        "honos" : 706,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 706
+      }
+    } ]
+  }
+}

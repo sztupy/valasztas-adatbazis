@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "133",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagyberki, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "SOMOGY megye, 01. számú OEVK",
+      "cim" : " Nagyberki, Újváros utca 1. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1134,
+        "honos" : 1108,
+        "atjel" : 11,
+        "atjelInnen" : 17,
+        "osszesen" : 1119
+      }
+    } ]
+  }
+}

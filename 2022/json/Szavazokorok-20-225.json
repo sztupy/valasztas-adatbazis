@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "225",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Zalaapáti, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : "8741 Zalaapáti, Deák F. u. 2. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 638,
+        "honos" : 619,
+        "atjel" : 12,
+        "atjelInnen" : 17,
+        "osszesen" : 631
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Zalaapáti, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : "8741 Zalaapáti, Deák F. u. 119. (Közösségek Háza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 567,
+        "honos" : 553,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 553
+      }
+    } ]
+  }
+}

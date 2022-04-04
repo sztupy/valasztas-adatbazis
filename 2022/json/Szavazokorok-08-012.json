@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "012",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bágyogszovát, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : " Bágyogszovát, Árpád utca 51. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 571,
+        "honos" : 564,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 564
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Bágyogszovát, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : " Bágyogszovát, József Attila u. 1. (Közös Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 524,
+        "honos" : 507,
+        "atjel" : 9,
+        "atjelInnen" : 6,
+        "osszesen" : 516
+      }
+    } ]
+  }
+}

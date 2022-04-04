@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "118",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Páli, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : "9345 Páli, Kossuth utca 49. (Közösségi ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 314,
+        "honos" : 295,
+        "atjel" : 4,
+        "atjelInnen" : 13,
+        "osszesen" : 299
+      }
+    } ]
+  }
+}

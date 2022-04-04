@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "069",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tokodaltáró, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : " Tokodaltáró, Sport u. 3. (Tokodaltárói Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 804,
+        "honos" : 788,
+        "atjel" : 13,
+        "atjelInnen" : 10,
+        "osszesen" : 801
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tokodaltáró, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : " Tokodaltáró, József Attila u. 14. (Bányász Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 821,
+        "honos" : 805,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 805
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Tokodaltáró, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : " Tokodaltáró, Vajaskúti dűlő 6. (Tokodaltárói Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 678,
+        "honos" : 663,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 663
+      }
+    } ]
+  }
+}

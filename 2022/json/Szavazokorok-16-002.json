@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "002",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Anarcs, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Anarcs, Iskola utca 2.  (Általános Iskola 1.tanterme)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 810,
+        "honos" : 781,
+        "atjel" : 5,
+        "atjelInnen" : 19,
+        "osszesen" : 786
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Anarcs, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Anarcs, Iskola utca 2. (Általános Iskola 2.tanterme)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 766,
+        "honos" : 753,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 753
+      }
+    } ]
+  }
+}

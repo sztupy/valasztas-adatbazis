@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "066",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Győrújfalu, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : "9171 Győrújfalu, Táncsics Mihály u. 2. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 873,
+        "honos" : 848,
+        "atjel" : 44,
+        "atjelInnen" : 23,
+        "osszesen" : 892
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Győrújfalu, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : "9171 Győrújfalu, Táncsics Mihály u. 2. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 882,
+        "honos" : 866,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 866
+      }
+    } ]
+  }
+}

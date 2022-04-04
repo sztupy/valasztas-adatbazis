@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "056",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mezőfalva, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Mezőfalva, József nádor u. 13. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1018,
+        "honos" : 1003,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 1003
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Mezőfalva, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Mezőfalva, Kinizsi u. 38. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 967,
+        "honos" : 945,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 945
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Mezőfalva, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Mezőfalva, Kinizsi u. 44. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 929,
+        "honos" : 910,
+        "atjel" : 36,
+        "atjelInnen" : 10,
+        "osszesen" : 946
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Mezőfalva, 004. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Mezőfalva, József nádor u. 13. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 855,
+        "honos" : 855,
+        "atjel" : 0,
+        "atjelInnen" : 5,
+        "osszesen" : 855
+      }
+    } ]
+  }
+}

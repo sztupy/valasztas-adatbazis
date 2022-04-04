@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "096",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tác, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Tác, Kossuth L. u. 135. (Gorsium Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 707,
+        "honos" : 686,
+        "atjel" : 14,
+        "atjelInnen" : 14,
+        "osszesen" : 700
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tác, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Tác, Kossuth L. u. 135. (Gorsium Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 680,
+        "honos" : 658,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 658
+      }
+    } ]
+  }
+}

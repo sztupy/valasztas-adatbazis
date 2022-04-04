@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "021",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Döbrököz, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : "7228 Döbrököz, Páhy u. 45. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 557,
+        "honos" : 548,
+        "atjel" : 7,
+        "atjelInnen" : 3,
+        "osszesen" : 555
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Döbrököz, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : "7228 Döbrököz, Iskola u. 3. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 450,
+        "honos" : 439,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 439
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Döbrököz, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : " Döbrököz, Homokhegy u. 11. (Szőlőhegyi Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 502,
+        "honos" : 490,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 490
+      }
+    } ]
+  }
+}

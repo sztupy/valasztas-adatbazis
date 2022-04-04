@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "031",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kaszaper, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Kaszaper, Szent Gellért tér 1. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 679,
+        "honos" : 654,
+        "atjel" : 20,
+        "atjelInnen" : 23,
+        "osszesen" : 674
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kaszaper, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Kaszaper, Árpád u. 31. (Műv. Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 657,
+        "honos" : 637,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 637
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Kaszaper, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Kaszaper, Dózsa tér 7. (Szociális otthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 142,
+        "honos" : 140,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 140
+      }
+    } ]
+  }
+}

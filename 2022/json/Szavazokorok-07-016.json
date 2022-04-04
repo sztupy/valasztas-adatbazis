@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "016",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Cece, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Cece, Deák Ferenc utca 44. (Általános iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 730,
+        "honos" : 719,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 719
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Cece, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Cece, Szabadság tér 19. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 640,
+        "honos" : 617,
+        "atjel" : 24,
+        "atjelInnen" : 16,
+        "osszesen" : 641
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Cece, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Cece, Árpád u. 3. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 703,
+        "honos" : 689,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 689
+      }
+    } ]
+  }
+}

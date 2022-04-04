@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "157",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Magyarhertelend, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BARANYA megye, 04. számú OEVK",
+      "cim" : " Magyarhertelend, Kossuth utca 51. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 429,
+        "honos" : 413,
+        "atjel" : 10,
+        "atjelInnen" : 14,
+        "osszesen" : 423
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Magyarhertelend, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BARANYA megye, 04. számú OEVK",
+      "cim" : " Magyarhertelend, Barátúr 3. (Erdei Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 90,
+        "honos" : 87,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 87
+      }
+    } ]
+  }
+}

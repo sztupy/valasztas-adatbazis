@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "107",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pilisjászfalu, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "PEST megye, 02. számú OEVK",
+      "cim" : "2080 Pilisjászfalu,  Bécsi út 33. (Közös Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1447,
+        "honos" : 1401,
+        "atjel" : 21,
+        "atjelInnen" : 55,
+        "osszesen" : 1422
+      }
+    } ]
+  }
+}

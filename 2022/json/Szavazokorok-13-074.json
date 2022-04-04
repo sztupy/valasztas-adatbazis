@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "074",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mátraterenye, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "NÓGRÁD megye, 01. számú OEVK",
+      "cim" : " Mátraterenye, Kossuth út 178. (Művelődési ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 897,
+        "honos" : 869,
+        "atjel" : 8,
+        "atjelInnen" : 20,
+        "osszesen" : 877
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Mátraterenye, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "NÓGRÁD megye, 01. számú OEVK",
+      "cim" : " Mátraterenye, Kossuth Nf út 325. (Vendégház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 524,
+        "honos" : 508,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 508
+      }
+    } ]
+  }
+}

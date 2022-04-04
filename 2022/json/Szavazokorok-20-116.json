@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "116",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Liszó, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : " Liszó, Kanizsai utca 2. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 321,
+        "honos" : 309,
+        "atjel" : 7,
+        "atjelInnen" : 10,
+        "osszesen" : 316
+      }
+    } ]
+  }
+}

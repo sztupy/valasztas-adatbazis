@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "065",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Maklár, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : " Maklár, Templom tér 29. (Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 683,
+        "honos" : 662,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 662
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Maklár, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : " Maklár, Templom tér 28. (Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 678,
+        "honos" : 655,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 655
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Maklár, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : " Maklár, Gárdonyi utca 1. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 662,
+        "honos" : 654,
+        "atjel" : 20,
+        "atjelInnen" : 10,
+        "osszesen" : 674
+      }
+    } ]
+  }
+}

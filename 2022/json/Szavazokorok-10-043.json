@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "043",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Gyöngyössolymos, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Gyöngyössolymos, Szabadság út 133. (Régi Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 761,
+        "honos" : 736,
+        "atjel" : 25,
+        "atjelInnen" : 16,
+        "osszesen" : 761
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Gyöngyössolymos, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Gyöngyössolymos, Szabadság út 164. (Solymosy Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 855,
+        "honos" : 831,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 831
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Gyöngyössolymos, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Gyöngyössolymos, Bartók út 2. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 861,
+        "honos" : 837,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 837
+      }
+    } ]
+  }
+}

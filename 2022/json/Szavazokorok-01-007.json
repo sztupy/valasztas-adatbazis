@@ -1,0 +1,658 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "01",
+    "taz" : "007",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Budapest VII. kerület, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1074 Budapest 07, Dohány utca 22-24. (Idősek klubja)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1004,
+        "honos" : 919,
+        "atjel" : 0,
+        "atjelInnen" : 74,
+        "osszesen" : 919
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Budapest VII. kerület, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1074 Budapest 07, Dohány utca 22-24. (Idősek klubja)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1123,
+        "honos" : 1034,
+        "atjel" : 0,
+        "atjelInnen" : 79,
+        "osszesen" : 1034
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Budapest VII. kerület, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1074 Budapest 07, Dob utca 23. (Bölcsőde)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1041,
+        "honos" : 966,
+        "atjel" : 0,
+        "atjelInnen" : 64,
+        "osszesen" : 966
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Budapest VII. kerület, 004. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1073 Budapest 07, Kertész utca 30. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 0,
+        "honos" : 0,
+        "atjel" : 2661,
+        "atjelInnen" : 0,
+        "osszesen" : 2661
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Budapest VII. kerület, 005. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1073 Budapest 07, Erzsébet krt. 6. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "I",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1139,
+        "honos" : 1052,
+        "atjel" : 0,
+        "atjelInnen" : 85,
+        "osszesen" : 1052
+      }
+    }, {
+      "sorszam" : "006",
+      "szk_nev" : "Budapest VII. kerület, 006. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1077 Budapest 07, Wesselényi utca 17.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1042,
+        "honos" : 990,
+        "atjel" : 0,
+        "atjelInnen" : 56,
+        "osszesen" : 990
+      }
+    }, {
+      "sorszam" : "007",
+      "szk_nev" : "Budapest VII. kerület, 007. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1077 Budapest 07, Wesselényi utca 17.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1153,
+        "honos" : 1070,
+        "atjel" : 0,
+        "atjelInnen" : 77,
+        "osszesen" : 1070
+      }
+    }, {
+      "sorszam" : "008",
+      "szk_nev" : "Budapest VII. kerület, 008. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1073 Budapest 07, Barcsay utca 5. (Madách Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 597,
+        "honos" : 539,
+        "atjel" : 0,
+        "atjelInnen" : 51,
+        "osszesen" : 539
+      }
+    }, {
+      "sorszam" : "009",
+      "szk_nev" : "Budapest VII. kerület, 009. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1073 Budapest 07, Dob utca 85. (Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 940,
+        "honos" : 889,
+        "atjel" : 0,
+        "atjelInnen" : 47,
+        "osszesen" : 889
+      }
+    }, {
+      "sorszam" : "010",
+      "szk_nev" : "Budapest VII. kerület, 010. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1077 Budapest 07, Dob utca 85. (Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 988,
+        "honos" : 889,
+        "atjel" : 0,
+        "atjelInnen" : 81,
+        "osszesen" : 889
+      }
+    }, {
+      "sorszam" : "011",
+      "szk_nev" : "Budapest VII. kerület, 011. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1077 Budapest 07, Király utca 97. (Nyugdíjasklub)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 948,
+        "honos" : 888,
+        "atjel" : 0,
+        "atjelInnen" : 73,
+        "osszesen" : 888
+      }
+    }, {
+      "sorszam" : "012",
+      "szk_nev" : "Budapest VII. kerület, 012. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1077 Budapest 07, Wesselényi utca 38. (II. Rákóczi Ferenc Technikum)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 716,
+        "honos" : 672,
+        "atjel" : 0,
+        "atjelInnen" : 41,
+        "osszesen" : 672
+      }
+    }, {
+      "sorszam" : "013",
+      "szk_nev" : "Budapest VII. kerület, 013. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1077 Budapest 07, Rózsa utca 32. (Csicsergő Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 960,
+        "honos" : 895,
+        "atjel" : 0,
+        "atjelInnen" : 59,
+        "osszesen" : 895
+      }
+    }, {
+      "sorszam" : "014",
+      "szk_nev" : "Budapest VII. kerület, 014. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1077 Budapest 07, Rózsa utca 32. (Csicsergő Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 887,
+        "honos" : 841,
+        "atjel" : 0,
+        "atjelInnen" : 51,
+        "osszesen" : 841
+      }
+    }, {
+      "sorszam" : "015",
+      "szk_nev" : "Budapest VII. kerület, 015. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1077 Budapest 07, Király utca 97. (Nyugdíjasklub)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1098,
+        "honos" : 1030,
+        "atjel" : 0,
+        "atjelInnen" : 78,
+        "osszesen" : 1030
+      }
+    }, {
+      "sorszam" : "016",
+      "szk_nev" : "Budapest VII. kerület, 016. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1077 Budapest 07, Wesselényi utca 38. (II. Rákóczi Ferenc Technikum)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 841,
+        "honos" : 759,
+        "atjel" : 0,
+        "atjelInnen" : 73,
+        "osszesen" : 759
+      }
+    }, {
+      "sorszam" : "017",
+      "szk_nev" : "Budapest VII. kerület, 017. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1073 Budapest 07, Barcsay utca 5. (Madách Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 821,
+        "honos" : 750,
+        "atjel" : 0,
+        "atjelInnen" : 63,
+        "osszesen" : 750
+      }
+    }, {
+      "sorszam" : "018",
+      "szk_nev" : "Budapest VII. kerület, 018. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1073 Budapest 07, Barcsay utca 5. (Madách Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1034,
+        "honos" : 952,
+        "atjel" : 0,
+        "atjelInnen" : 76,
+        "osszesen" : 952
+      }
+    }, {
+      "sorszam" : "019",
+      "szk_nev" : "Budapest VII. kerület, 019. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1077 Budapest 07, Rózsa utca 3. (Sportklub)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 824,
+        "honos" : 758,
+        "atjel" : 0,
+        "atjelInnen" : 57,
+        "osszesen" : 758
+      }
+    }, {
+      "sorszam" : "020",
+      "szk_nev" : "Budapest VII. kerület, 020. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1073 Budapest 07, Erzsébet krt. 6. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 792,
+        "honos" : 729,
+        "atjel" : 0,
+        "atjelInnen" : 54,
+        "osszesen" : 729
+      }
+    }, {
+      "sorszam" : "021",
+      "szk_nev" : "Budapest VII. kerület, 021. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1074 Budapest 07, Alsó erdősor 14-16. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1014,
+        "honos" : 950,
+        "atjel" : 0,
+        "atjelInnen" : 54,
+        "osszesen" : 950
+      }
+    }, {
+      "sorszam" : "022",
+      "szk_nev" : "Budapest VII. kerület, 022. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1074 Budapest 07, Rózsák tere 6-7. (Brunszvik Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 928,
+        "honos" : 884,
+        "atjel" : 0,
+        "atjelInnen" : 50,
+        "osszesen" : 884
+      }
+    }, {
+      "sorszam" : "023",
+      "szk_nev" : "Budapest VII. kerület, 023. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1074 Budapest 07, Alsó erdősor 14-16 (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 823,
+        "honos" : 773,
+        "atjel" : 0,
+        "atjelInnen" : 42,
+        "osszesen" : 773
+      }
+    }, {
+      "sorszam" : "024",
+      "szk_nev" : "Budapest VII. kerület, 024. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1078 Budapest 07, Nefelejcs utca 62. (Nefelejcs Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 930,
+        "honos" : 870,
+        "atjel" : 0,
+        "atjelInnen" : 49,
+        "osszesen" : 870
+      }
+    }, {
+      "sorszam" : "025",
+      "szk_nev" : "Budapest VII. kerület, 025. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1071 Budapest 07, Peterdy utca 16. (Nyugdíjasház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 888,
+        "honos" : 847,
+        "atjel" : 0,
+        "atjelInnen" : 46,
+        "osszesen" : 847
+      }
+    }, {
+      "sorszam" : "026",
+      "szk_nev" : "Budapest VII. kerület, 026. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1078 Budapest 07, Nefelejcs utca 62. (Nefelejcs Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 849,
+        "honos" : 775,
+        "atjel" : 0,
+        "atjelInnen" : 61,
+        "osszesen" : 775
+      }
+    }, {
+      "sorszam" : "027",
+      "szk_nev" : "Budapest VII. kerület, 027. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1071 Budapest 07, Városligeti fasor 39-41.  (Magonc Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 849,
+        "honos" : 793,
+        "atjel" : 0,
+        "atjelInnen" : 57,
+        "osszesen" : 793
+      }
+    }, {
+      "sorszam" : "028",
+      "szk_nev" : "Budapest VII. kerület, 028. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1071 Budapest 07, Bethlen Gábor tér 2. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1114,
+        "honos" : 1043,
+        "atjel" : 0,
+        "atjelInnen" : 64,
+        "osszesen" : 1043
+      }
+    }, {
+      "sorszam" : "029",
+      "szk_nev" : "Budapest VII. kerület, 029. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1071 Budapest 07, Bethlen Gábor tér 2. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1100,
+        "honos" : 1016,
+        "atjel" : 0,
+        "atjelInnen" : 62,
+        "osszesen" : 1016
+      }
+    }, {
+      "sorszam" : "030",
+      "szk_nev" : "Budapest VII. kerület, 030. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1078 Budapest 07, Hernád utca 42-46. (Baross Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1162,
+        "honos" : 1081,
+        "atjel" : 0,
+        "atjelInnen" : 68,
+        "osszesen" : 1081
+      }
+    }, {
+      "sorszam" : "031",
+      "szk_nev" : "Budapest VII. kerület, 031. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1078 Budapest 07, Hernád utca 42-46. (Baross Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 855,
+        "honos" : 802,
+        "atjel" : 0,
+        "atjelInnen" : 56,
+        "osszesen" : 802
+      }
+    }, {
+      "sorszam" : "032",
+      "szk_nev" : "Budapest VII. kerület, 032. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1078 Budapest 07, Hernád utca 42-46. (Baross Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1135,
+        "honos" : 1057,
+        "atjel" : 0,
+        "atjelInnen" : 62,
+        "osszesen" : 1057
+      }
+    }, {
+      "sorszam" : "033",
+      "szk_nev" : "Budapest VII. kerület, 033. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1078 Budapest 07, Murányi utca 27. (Kópévár Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 980,
+        "honos" : 902,
+        "atjel" : 0,
+        "atjelInnen" : 70,
+        "osszesen" : 902
+      }
+    }, {
+      "sorszam" : "034",
+      "szk_nev" : "Budapest VII. kerület, 034. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1078 Budapest 07, Murányi utca 27. (Kópévár Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 730,
+        "honos" : 681,
+        "atjel" : 0,
+        "atjelInnen" : 43,
+        "osszesen" : 681
+      }
+    }, {
+      "sorszam" : "035",
+      "szk_nev" : "Budapest VII. kerület, 035. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1078 Budapest 07, Dózsa György út 46. (Idősek Otthona)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1040,
+        "honos" : 967,
+        "atjel" : 0,
+        "atjelInnen" : 46,
+        "osszesen" : 967
+      }
+    }, {
+      "sorszam" : "036",
+      "szk_nev" : "Budapest VII. kerület, 036. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1076 Budapest 07, Garay utca 5. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 895,
+        "honos" : 832,
+        "atjel" : 0,
+        "atjelInnen" : 61,
+        "osszesen" : 832
+      }
+    }, {
+      "sorszam" : "037",
+      "szk_nev" : "Budapest VII. kerület, 037. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1076 Budapest 07, Garay utca 5. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 996,
+        "honos" : 946,
+        "atjel" : 0,
+        "atjelInnen" : 48,
+        "osszesen" : 946
+      }
+    }, {
+      "sorszam" : "038",
+      "szk_nev" : "Budapest VII. kerület, 038. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BUDAPEST főváros, 05. számú OEVK",
+      "cim" : "1076 Budapest 07, Százház utca 10-18. (Rendészeti Igazgatóság)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 840,
+        "honos" : 780,
+        "atjel" : 0,
+        "atjelInnen" : 56,
+        "osszesen" : 780
+      }
+    } ]
+  }
+}

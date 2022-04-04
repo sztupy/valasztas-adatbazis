@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "164",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tényő, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Tényő, Győri utca 59. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1378,
+        "honos" : 1337,
+        "atjel" : 18,
+        "atjelInnen" : 33,
+        "osszesen" : 1355
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "047",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagysáp, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : "2524 Nagysáp, Köztársaság tér 1. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1140,
+        "honos" : 1130,
+        "atjel" : 20,
+        "atjelInnen" : 18,
+        "osszesen" : 1150
+      }
+    } ]
+  }
+}

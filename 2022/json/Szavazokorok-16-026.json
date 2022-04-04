@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "026",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csengersima, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Csengersima, Kossuth utca 81. (Öregek Napközi Otthona)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 664,
+        "honos" : 645,
+        "atjel" : 53,
+        "atjelInnen" : 14,
+        "osszesen" : 698
+      }
+    } ]
+  }
+}

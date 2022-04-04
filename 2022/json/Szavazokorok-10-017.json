@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "017",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bükkszentmárton, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Bükkszentmárton, II.Rákóczi F. u. 76. (Kikelet Szálláshely)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 227,
+        "honos" : 216,
+        "atjel" : 4,
+        "atjelInnen" : 7,
+        "osszesen" : 220
+      }
+    } ]
+  }
+}

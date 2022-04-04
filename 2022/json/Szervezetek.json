@@ -1,0 +1,616 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "list" : [ {
+    "szkod" : 0,
+    "nev" : "Független jelölt",
+    "r_nev" : "Független",
+    "nemzetisegi" : "N",
+    "jelolo_csoportok" : [ 0 ],
+    "allapot" : "1",
+    "datum" : "2022-01-12T00:00:00"
+  }, {
+    "szkod" : 1001,
+    "nev" : "MAGYAR KÉTFARKÚ KUTYA PÁRT",
+    "r_nev" : "MKKP",
+    "nemzetisegi" : "N",
+    "emblema" : 12197,
+    "kep_tipus" : "PNG",
+    "jelolo_csoportok" : [ 1750 ],
+    "allapot" : "1",
+    "datum" : "2022-01-17T00:00:00"
+  }, {
+    "szkod" : 1002,
+    "nev" : "ORSZÁGOS LENGYEL ÖNKORMÁNYZAT",
+    "r_nev" : "OLÖ",
+    "nemzetisegi" : "I",
+    "emblema" : 12199,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1751 ],
+    "allapot" : "1",
+    "datum" : "2022-01-17T00:00:00"
+  }, {
+    "szkod" : 1003,
+    "nev" : "MI HAZÁNK MOZGALOM",
+    "r_nev" : "MI HAZÁNK",
+    "nemzetisegi" : "N",
+    "emblema" : 12201,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1752, 1819 ],
+    "allapot" : "1",
+    "datum" : "2022-01-17T00:00:00"
+  }, {
+    "szkod" : 1004,
+    "nev" : "MOMENTUM MOZGALOM",
+    "r_nev" : "MOMENTUM",
+    "nemzetisegi" : "N",
+    "emblema" : 12202,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1753, 1803, 1808, 1817 ],
+    "allapot" : "1",
+    "datum" : "2022-01-17T00:00:00"
+  }, {
+    "szkod" : 1005,
+    "nev" : "EGYENLŐSÉG ROMA PÁRT",
+    "r_nev" : "ERP",
+    "nemzetisegi" : "N",
+    "jelolo_csoportok" : [ 1754 ],
+    "allapot" : "1",
+    "datum" : "2022-01-17T00:00:00"
+  }, {
+    "szkod" : 1006,
+    "nev" : "PÁRBESZÉD MAGYARORSZÁGÉRT PÁRT",
+    "r_nev" : "PÁRBESZÉD",
+    "nemzetisegi" : "N",
+    "emblema" : 12205,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1755, 1803, 1817 ],
+    "allapot" : "1",
+    "datum" : "2022-01-17T00:00:00"
+  }, {
+    "szkod" : 1007,
+    "nev" : "DEMOKRATIKUS KOALÍCIÓ",
+    "r_nev" : "DK",
+    "nemzetisegi" : "N",
+    "emblema" : 12204,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1756, 1803, 1805, 1806, 1807, 1808, 1817 ],
+    "allapot" : "1",
+    "datum" : "2022-01-17T00:00:00"
+  }, {
+    "szkod" : 1008,
+    "nev" : "A HAZA PÁRTJA",
+    "r_nev" : "A HAZA PÁRTJA",
+    "nemzetisegi" : "N",
+    "emblema" : 12206,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1757, 1819, 1823 ],
+    "allapot" : "1",
+    "datum" : "2022-01-17T00:00:00"
+  }, {
+    "szkod" : 1009,
+    "nev" : "LMP - MAGYARORSZÁG ZÖLD PÁRTJA",
+    "r_nev" : "LMP",
+    "nemzetisegi" : "N",
+    "emblema" : 12203,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1758, 1803, 1806, 1807, 1808, 1817 ],
+    "allapot" : "1",
+    "datum" : "2022-01-17T00:00:00"
+  }, {
+    "szkod" : 1010,
+    "nev" : "MAGYAR SZOCIALISTA PÁRT",
+    "r_nev" : "MSZP",
+    "nemzetisegi" : "N",
+    "emblema" : 12207,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1759, 1803, 1807, 1808 ],
+    "allapot" : "1",
+    "datum" : "2022-01-17T00:00:00"
+  }, {
+    "szkod" : 1011,
+    "nev" : "MAGYAR SZEGÉNYEK ÉS DOLGOZÓK DEMOKRATIKUS SZERVEZETE",
+    "r_nev" : "MSZDDSZ",
+    "nemzetisegi" : "N",
+    "jelolo_csoportok" : [ 1760 ],
+    "allapot" : "1",
+    "datum" : "2022-01-17T00:00:00"
+  }, {
+    "szkod" : 1012,
+    "nev" : "DEMOKRATIKUS KARTA PÁRT",
+    "r_nev" : "DEMOKRATIKUS KARTA PÁRT",
+    "nemzetisegi" : "N",
+    "jelolo_csoportok" : [ 1761 ],
+    "allapot" : "1",
+    "datum" : "2022-01-23T00:00:00"
+  }, {
+    "szkod" : 1013,
+    "nev" : "MAGYARORSZÁGI MUNKÁSPÁRT 2006- EURÓPAI BALOLDAL",
+    "r_nev" : "EURÓPAI BALOLDAL",
+    "nemzetisegi" : "N",
+    "emblema" : 12208,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1762 ],
+    "allapot" : "1",
+    "datum" : "2022-01-23T00:00:00"
+  }, {
+    "szkod" : 1014,
+    "nev" : "DEMOKRATA PÁRT",
+    "r_nev" : "DEMOKRATA PÁRT",
+    "nemzetisegi" : "N",
+    "emblema" : 12210,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1763 ],
+    "allapot" : "1",
+    "datum" : "2022-01-23T00:00:00"
+  }, {
+    "szkod" : 1015,
+    "nev" : "EGÉSZSÉGES MAGYARORSZÁGÉRT VÁLASZTÁSI PÁRT",
+    "r_nev" : "EMVP",
+    "nemzetisegi" : "N",
+    "emblema" : 12209,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1764 ],
+    "allapot" : "1",
+    "datum" : "2022-01-23T00:00:00"
+  }, {
+    "szkod" : 1016,
+    "nev" : "KERESZTÉNYDEMOKRATA NÉPPÁRT",
+    "r_nev" : "KDNP",
+    "nemzetisegi" : "N",
+    "emblema" : 12211,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1765, 1798 ],
+    "allapot" : "1",
+    "datum" : "2022-01-23T00:00:00"
+  }, {
+    "szkod" : 1017,
+    "nev" : "MAGYAR MUNKÁSPÁRT",
+    "r_nev" : "MUNKÁSPÁRT",
+    "nemzetisegi" : "N",
+    "emblema" : 12212,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1766, 1796, 1823 ],
+    "allapot" : "1",
+    "datum" : "2022-01-23T00:00:00"
+  }, {
+    "szkod" : 1018,
+    "nev" : "MAGYARORSZÁGI NÉMETEK ORSZÁGOS ÖNKORMÁNYZATA",
+    "r_nev" : "MNOÖ",
+    "nemzetisegi" : "I",
+    "emblema" : 12213,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1767 ],
+    "allapot" : "1",
+    "datum" : "2022-01-23T00:00:00"
+  }, {
+    "szkod" : 1019,
+    "nev" : "IGEN SZOLIDARITÁS MAGYARORSZÁGÉRT MOZGALOM",
+    "r_nev" : "ISZOMM",
+    "nemzetisegi" : "N",
+    "emblema" : 12214,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1768, 1796 ],
+    "allapot" : "1",
+    "datum" : "2022-01-23T00:00:00"
+  }, {
+    "szkod" : 1020,
+    "nev" : "ORSZÁGOS ÖRMÉNY ÖNKORMÁNYZAT",
+    "r_nev" : "OÖÖ",
+    "nemzetisegi" : "I",
+    "jelolo_csoportok" : [ 1769 ],
+    "allapot" : "1",
+    "datum" : "2022-01-23T00:00:00"
+  }, {
+    "szkod" : 1021,
+    "nev" : "MAGYAR LIBERÁLIS PÁRT - LIBERÁLISOK",
+    "r_nev" : "MAGYAR LIBERÁLIS PÁRT -LIBERÁL",
+    "nemzetisegi" : "N",
+    "emblema" : 12215,
+    "kep_tipus" : "JPEG",
+    "jelolo_csoportok" : [ 1770 ],
+    "allapot" : "1",
+    "datum" : "2022-01-23T00:00:00"
+  }, {
+    "szkod" : 1022,
+    "nev" : "JOBBIK MAGYARORSZÁGÉRT MOZGALOM",
+    "r_nev" : "JOBBIK",
+    "nemzetisegi" : "N",
+    "emblema" : 12216,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1771, 1803, 1805, 1806, 1807, 1808, 1817 ],
+    "allapot" : "1",
+    "datum" : "2022-01-23T00:00:00"
+  }, {
+    "szkod" : 1023,
+    "nev" : "HÁTRÁNYOS HELYZETŰ EMBEREK PÁRTJA",
+    "r_nev" : "HHEP",
+    "nemzetisegi" : "N",
+    "emblema" : 12218,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1772 ],
+    "allapot" : "1",
+    "datum" : "2022-01-23T00:00:00"
+  }, {
+    "szkod" : 1024,
+    "nev" : "A MI PÁRTUNK - IMA",
+    "r_nev" : "IMA",
+    "nemzetisegi" : "N",
+    "jelolo_csoportok" : [ 1773 ],
+    "allapot" : "1",
+    "datum" : "2022-01-23T00:00:00"
+  }, {
+    "szkod" : 1025,
+    "nev" : "KÖZÖSEN MAGYARORSZÁGÉRT PÁRT",
+    "r_nev" : "KMP",
+    "nemzetisegi" : "N",
+    "emblema" : 12219,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1774 ],
+    "allapot" : "1",
+    "datum" : "2022-01-23T00:00:00"
+  }, {
+    "szkod" : 1026,
+    "nev" : "BOLGÁR ORSZÁGOS ÖNKORMÁNYZAT",
+    "r_nev" : "BOLGÁR ORSZÁGOS ÖNKORMÁNYZAT",
+    "nemzetisegi" : "I",
+    "emblema" : 12220,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1775 ],
+    "allapot" : "1",
+    "datum" : "2022-01-23T00:00:00"
+  }, {
+    "szkod" : 1027,
+    "nev" : "LE AZ ADÓK 75%-ÁVAL PÁRT",
+    "r_nev" : "LA75",
+    "nemzetisegi" : "N",
+    "emblema" : 12221,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1776 ],
+    "allapot" : "1",
+    "datum" : "2022-01-27T00:00:00"
+  }, {
+    "szkod" : 1028,
+    "nev" : "ZÖLDEK PÁRTJA",
+    "r_nev" : "ZÖLDEK PÁRTJA",
+    "nemzetisegi" : "N",
+    "emblema" : 12222,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1777 ],
+    "allapot" : "1",
+    "datum" : "2022-01-27T00:00:00"
+  }, {
+    "szkod" : 1029,
+    "nev" : "SZABAD MAGYAR DEMOKRATIKUS PÁRT",
+    "r_nev" : "SZMDP",
+    "nemzetisegi" : "N",
+    "jelolo_csoportok" : [ 1778 ],
+    "allapot" : "1",
+    "datum" : "2022-01-27T00:00:00"
+  }, {
+    "szkod" : 1030,
+    "nev" : "ORSZÁGOS SZLOVÉN ÖNKORMÁNYZAT",
+    "r_nev" : "OSZÖ",
+    "nemzetisegi" : "I",
+    "emblema" : 12223,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1779 ],
+    "allapot" : "1",
+    "datum" : "2022-01-27T00:00:00"
+  }, {
+    "szkod" : 1031,
+    "nev" : "NORMÁLIS ÉLET PÁRTJA",
+    "r_nev" : "NORMÁLIS PÁRT",
+    "nemzetisegi" : "N",
+    "emblema" : 12224,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1780 ],
+    "allapot" : "1",
+    "datum" : "2022-01-27T00:00:00"
+  }, {
+    "szkod" : 1032,
+    "nev" : "ZÖLDEK, A NORMÁLIS EMBEREK PÁRTJA",
+    "r_nev" : "ZÖLDEK",
+    "nemzetisegi" : "N",
+    "emblema" : 12225,
+    "kep_tipus" : "JPEG",
+    "jelolo_csoportok" : [ 1781, 1820 ],
+    "allapot" : "1",
+    "datum" : "2022-01-27T00:00:00"
+  }, {
+    "szkod" : 1033,
+    "nev" : "UKRÁN ORSZÁGOS ÖNKORMÁNYZAT",
+    "r_nev" : "UOÖ",
+    "nemzetisegi" : "I",
+    "emblema" : 12226,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1782 ],
+    "allapot" : "1",
+    "datum" : "2022-01-27T00:00:00"
+  }, {
+    "szkod" : 1034,
+    "nev" : "SZERB ORSZÁGOS ÖNKORMÁNYZAT",
+    "r_nev" : "SZOÖ",
+    "nemzetisegi" : "I",
+    "emblema" : 12228,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1783 ],
+    "allapot" : "1",
+    "datum" : "2022-01-27T00:00:00"
+  }, {
+    "szkod" : 1035,
+    "nev" : "FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG",
+    "r_nev" : "FIDESZ",
+    "nemzetisegi" : "N",
+    "emblema" : 12237,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1784, 1798 ],
+    "allapot" : "1",
+    "datum" : "2022-01-30T00:00:00"
+  }, {
+    "szkod" : 1036,
+    "nev" : "ORSZÁGOS SZLOVÁK ÖNKORMÁNYZAT",
+    "r_nev" : "ORSZÁGOS SZLOVÁK ÖNK.",
+    "nemzetisegi" : "I",
+    "emblema" : 12239,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1785 ],
+    "allapot" : "1",
+    "datum" : "2022-01-30T00:00:00"
+  }, {
+    "szkod" : 1037,
+    "nev" : "MEGOLDÁS MOZGALOM",
+    "r_nev" : "MEMO",
+    "nemzetisegi" : "N",
+    "emblema" : 12241,
+    "kep_tipus" : "JPEG",
+    "jelolo_csoportok" : [ 1786 ],
+    "allapot" : "1",
+    "datum" : "2022-01-30T00:00:00"
+  }, {
+    "szkod" : 1038,
+    "nev" : "SZOCIÁLDEMOKRATA REFORM PÁRT",
+    "r_nev" : "SZOCIÁLDEMOKRATA REFORM PÁRT",
+    "nemzetisegi" : "N",
+    "jelolo_csoportok" : [ 1787 ],
+    "allapot" : "1",
+    "datum" : "2022-01-30T00:00:00"
+  }, {
+    "szkod" : 1039,
+    "nev" : "FÜGGETLEN VIDÉKI DEMOKRATA PÁRT",
+    "r_nev" : "FVDP",
+    "nemzetisegi" : "N",
+    "emblema" : 12242,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1788 ],
+    "allapot" : "1",
+    "datum" : "2022-02-03T00:00:00"
+  }, {
+    "szkod" : 1040,
+    "nev" : "ORSZÁGOS HORVÁT ÖNKORMÁNYZAT",
+    "r_nev" : "OHÖ",
+    "nemzetisegi" : "I",
+    "emblema" : 12243,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1789 ],
+    "allapot" : "1",
+    "datum" : "2022-02-03T00:00:00"
+  }, {
+    "szkod" : 1041,
+    "nev" : "POLGÁRI VÁLASZ MOZGALOM",
+    "r_nev" : "POLGÁRI VÁLASZ",
+    "nemzetisegi" : "N",
+    "emblema" : 12246,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1790 ],
+    "allapot" : "1",
+    "datum" : "2022-02-03T00:00:00"
+  }, {
+    "szkod" : 1042,
+    "nev" : "VALÓDI DEMOKRATA PÁRT",
+    "r_nev" : "VD",
+    "nemzetisegi" : "N",
+    "emblema" : 12247,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1791 ],
+    "allapot" : "1",
+    "datum" : "2022-02-03T00:00:00"
+  }, {
+    "szkod" : 1043,
+    "nev" : "PLATÓN PÁRT",
+    "r_nev" : "PLATÓN PÁRT",
+    "nemzetisegi" : "N",
+    "emblema" : 12248,
+    "kep_tipus" : "PNG",
+    "jelolo_csoportok" : [ 1792 ],
+    "allapot" : "4",
+    "datum" : "2022-02-03T00:00:00"
+  }, {
+    "szkod" : 1044,
+    "nev" : "HOLLÓ REND PÁRT",
+    "r_nev" : "HOLLÓ REND",
+    "nemzetisegi" : "N",
+    "emblema" : 12249,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1793 ],
+    "allapot" : "1",
+    "datum" : "2022-02-03T00:00:00"
+  }, {
+    "szkod" : 1045,
+    "nev" : "SZOCIÁLDEMOKRATÁK TÖRTÉNELMI PÁRTJA",
+    "r_nev" : "SZTP",
+    "nemzetisegi" : "N",
+    "emblema" : 12252,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1794 ],
+    "allapot" : "1",
+    "datum" : "2022-02-06T00:00:00"
+  }, {
+    "szkod" : 1046,
+    "nev" : "ORSZÁGOS RUSZIN ÖNKORMÁNYZAT",
+    "r_nev" : "ORÖ",
+    "nemzetisegi" : "I",
+    "emblema" : 12250,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1795 ],
+    "allapot" : "1",
+    "datum" : "2022-02-06T00:00:00"
+  }, {
+    "szkod" : 1047,
+    "nev" : "MAGYARORSZÁGI ROMÁNOK ORSZÁGOS ÖNKORMÁNYZATA",
+    "r_nev" : "MROÖ",
+    "nemzetisegi" : "I",
+    "emblema" : 12253,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1797 ],
+    "allapot" : "1",
+    "datum" : "2022-02-06T00:00:00"
+  }, {
+    "szkod" : 1048,
+    "nev" : "MINDENT A CIGÁNYOKÉRT FÓRUM PÁRT",
+    "r_nev" : "MCFP",
+    "nemzetisegi" : "N",
+    "emblema" : 12256,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1799 ],
+    "allapot" : "1",
+    "datum" : "2022-02-13T00:00:00"
+  }, {
+    "szkod" : 1049,
+    "nev" : "VÁLLALKOZÓK SZÖVETSÉGE A REFORMOKÉRT",
+    "r_nev" : "VÁLLALKOZÓK SZÖVETSÉGE",
+    "nemzetisegi" : "N",
+    "emblema" : 12257,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1800 ],
+    "allapot" : "1",
+    "datum" : "2022-02-10T00:00:00"
+  }, {
+    "szkod" : 1050,
+    "nev" : "MAGYAR NEMZETI REND PÁRT",
+    "r_nev" : "MNRP",
+    "nemzetisegi" : "N",
+    "emblema" : 12258,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1801 ],
+    "allapot" : "4",
+    "datum" : "2022-02-10T00:00:00"
+  }, {
+    "szkod" : 1051,
+    "nev" : "REFORMEREK NEMZETI PÁRT",
+    "r_nev" : "REFORMEREK",
+    "nemzetisegi" : "N",
+    "emblema" : 12259,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1802 ],
+    "allapot" : "1",
+    "datum" : "2022-02-10T00:00:00"
+  }, {
+    "szkod" : 1052,
+    "nev" : "MAGYAR NEMZETI PÁRT (MNP)",
+    "r_nev" : "MNP",
+    "nemzetisegi" : "N",
+    "emblema" : 12260,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1804 ],
+    "allapot" : "1",
+    "datum" : "2022-02-20T00:00:00"
+  }, {
+    "szkod" : 1053,
+    "nev" : "MAGYARORSZÁGI SZOCIÁLDEMOKRATA PÁRT",
+    "r_nev" : "MSZDP",
+    "nemzetisegi" : "N",
+    "jelolo_csoportok" : [ 1809 ],
+    "allapot" : "4",
+    "datum" : "2022-02-13T00:00:00"
+  }, {
+    "szkod" : 1054,
+    "nev" : "SZEGÉNYEKÉRT PÁRT",
+    "r_nev" : "SZP",
+    "nemzetisegi" : "N",
+    "jelolo_csoportok" : [ 1810 ],
+    "allapot" : "4",
+    "datum" : "2022-02-13T00:00:00"
+  }, {
+    "szkod" : 1055,
+    "nev" : "TISZTELET ÉS SZABADSÁG PÁRT",
+    "r_nev" : "TISZA",
+    "nemzetisegi" : "N",
+    "jelolo_csoportok" : [ 1811 ],
+    "allapot" : "1",
+    "datum" : "2022-02-13T00:00:00"
+  }, {
+    "szkod" : 1056,
+    "nev" : "OPRE ROMA - CIGÁNY DEMOKRATA NÉPPÁRT",
+    "r_nev" : "OPRE ROMA",
+    "nemzetisegi" : "N",
+    "jelolo_csoportok" : [ 1812 ],
+    "allapot" : "4",
+    "datum" : "2022-02-13T00:00:00"
+  }, {
+    "szkod" : 1057,
+    "nev" : "MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA",
+    "r_nev" : "MIÉP",
+    "nemzetisegi" : "N",
+    "emblema" : 12261,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1813, 1820 ],
+    "allapot" : "1",
+    "datum" : "2022-02-13T00:00:00"
+  }, {
+    "szkod" : 1058,
+    "nev" : "MAGYARORSZÁGI GÖRÖGÖK ORSZÁGOS ÖNKORMÁNYZATA",
+    "r_nev" : "MAGYARORSZÁGI GÖRÖGÖK ORSZÁGOS",
+    "nemzetisegi" : "I",
+    "jelolo_csoportok" : [ 1814 ],
+    "allapot" : "1",
+    "datum" : "2022-02-17T00:00:00"
+  }, {
+    "szkod" : 1059,
+    "nev" : "MAGYAR REFORM PÁRT",
+    "r_nev" : "MRP",
+    "nemzetisegi" : "N",
+    "jelolo_csoportok" : [ 1815 ],
+    "allapot" : "1",
+    "datum" : "2022-02-17T00:00:00"
+  }, {
+    "szkod" : 1060,
+    "nev" : "EURÓPAI FÜGGETLEN-CENTRUM PÁRT",
+    "r_nev" : "FÜGGETLEN-CENTRUM PÁRT",
+    "nemzetisegi" : "N",
+    "emblema" : 12273,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1816 ],
+    "allapot" : "0",
+    "datum" : "2022-02-17T00:00:00"
+  }, {
+    "szkod" : 1061,
+    "nev" : "ÉRTELMES MAGYAROK PÁRTJA",
+    "r_nev" : "ÉMP",
+    "nemzetisegi" : "N",
+    "jelolo_csoportok" : [ 1818 ],
+    "allapot" : "1",
+    "datum" : "2022-02-20T00:00:00"
+  }, {
+    "szkod" : 1062,
+    "nev" : "NŐI ÉRTÉKEK PÁRTJA",
+    "r_nev" : "NŐI ÉRTÉKEK PÁRTJA",
+    "nemzetisegi" : "N",
+    "emblema" : 12482,
+    "kep_tipus" : "JPG",
+    "jelolo_csoportok" : [ 1821 ],
+    "allapot" : "4",
+    "datum" : "2022-02-20T00:00:00"
+  }, {
+    "szkod" : 1063,
+    "nev" : "MAGYAR SZOCIÁLIS PÁRT",
+    "r_nev" : "MAGYAR SZOCIÁLIS PÁRT",
+    "nemzetisegi" : "N",
+    "jelolo_csoportok" : [ 1822 ],
+    "allapot" : "4",
+    "datum" : "2022-02-24T00:00:00"
+  } ]
+}

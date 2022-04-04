@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "320",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tiszakeszi, 001. számú szavazókör",
+      "evk" : "07",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 07. számú OEVK",
+      "cim" : "3458 Tiszakeszi, Posta u. 22.  (Élelmezési Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 691,
+        "honos" : 684,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 684
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tiszakeszi, 002. számú szavazókör",
+      "evk" : "07",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 07. számú OEVK",
+      "cim" : "3458 Tiszakeszi, Községháza u.18. (Csillagfény BK. Gyerekház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 616,
+        "honos" : 611,
+        "atjel" : 0,
+        "atjelInnen" : 5,
+        "osszesen" : 611
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Tiszakeszi, 003. számú szavazókör",
+      "evk" : "07",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 07. számú OEVK",
+      "cim" : " Tiszakeszi, Községháza u. 33. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 638,
+        "honos" : 630,
+        "atjel" : 16,
+        "atjelInnen" : 7,
+        "osszesen" : 646
+      }
+    } ]
+  }
+}

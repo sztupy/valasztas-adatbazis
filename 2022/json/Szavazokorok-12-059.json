@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "059",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szárliget, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 01. számú OEVK",
+      "cim" : " Szárliget, Iskola utca 3. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 935,
+        "honos" : 917,
+        "atjel" : 29,
+        "atjelInnen" : 14,
+        "osszesen" : 946
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szárliget, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 01. számú OEVK",
+      "cim" : " Szárliget, Iskola utca 3. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1042,
+        "honos" : 1008,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 1008
+      }
+    } ]
+  }
+}

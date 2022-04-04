@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "207",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Múcsony, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 04. számú OEVK",
+      "cim" : " Múcsony, Kossuth L. út 92. (Műv. Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 780,
+        "honos" : 744,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 744
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Múcsony, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 04. számú OEVK",
+      "cim" : "3744 Múcsony, Élmunkás út 6-8. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 753,
+        "honos" : 736,
+        "atjel" : 16,
+        "atjelInnen" : 16,
+        "osszesen" : 752
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Múcsony, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 04. számú OEVK",
+      "cim" : " Múcsony, Bányász u. 7. (Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 777,
+        "honos" : 762,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 762
+      }
+    } ]
+  }
+}

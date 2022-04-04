@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "029",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bödeháza, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Bödeháza, Kossuth u. 27. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 34,
+        "honos" : 34,
+        "atjel" : 2,
+        "atjelInnen" : 0,
+        "osszesen" : 36
+      }
+    } ]
+  }
+}

@@ -1,0 +1,743 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "01",
+    "taz" : "019",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Budapest XIX. kerület, 001. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1191 Budapest 19, Berzsenyi u. 8. (Kispesti Puskás Ferenc Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 976,
+        "honos" : 938,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 938
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Budapest XIX. kerület, 002. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1191 Budapest 19, Eötvös u. 13. (Kispesti Eötvös József Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1148,
+        "honos" : 1121,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 1121
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Budapest XIX. kerület, 003. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1191 Budapest 19, Eötvös u. 13. (Kispesti Eötvös József Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1168,
+        "honos" : 1130,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 1130
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Budapest XIX. kerület, 004. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1191 Budapest 19, Teleki u. 50. (KMO)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1001,
+        "honos" : 962,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 962
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Budapest XIX. kerület, 005. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1193 Budapest 19, Csokonai u. 9. (Kispesti Vass Lajos Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1310,
+        "honos" : 1269,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 1269
+      }
+    }, {
+      "sorszam" : "006",
+      "szk_nev" : "Budapest XIX. kerület, 006. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1193 Budapest 19, Csokonai u. 9 (Kispesti Vass Lajos Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1141,
+        "honos" : 1101,
+        "atjel" : 0,
+        "atjelInnen" : 37,
+        "osszesen" : 1101
+      }
+    }, {
+      "sorszam" : "007",
+      "szk_nev" : "Budapest XIX. kerület, 007. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1193 Budapest 19, Csokonai u. 9. (Kispesti Vass Lajos Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1052,
+        "honos" : 1006,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 1006
+      }
+    }, {
+      "sorszam" : "008",
+      "szk_nev" : "Budapest XIX. kerület, 008. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1193 Budapest 19, Vécsey u. 13. (Kispesti Waldorf Óvoda, Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 940,
+        "honos" : 921,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 921
+      }
+    }, {
+      "sorszam" : "009",
+      "szk_nev" : "Budapest XIX. kerület, 009. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1193 Budapest 19, Vécsey u. 13. (Kispesti Waldorf Óvoda, Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1002,
+        "honos" : 970,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 970
+      }
+    }, {
+      "sorszam" : "010",
+      "szk_nev" : "Budapest XIX. kerület, 010. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1193 Budapest 19, Vécsey u. 13. (Kispesti Waldorf Óvoda Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 933,
+        "honos" : 898,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 898
+      }
+    }, {
+      "sorszam" : "011",
+      "szk_nev" : "Budapest XIX. kerület, 011. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1191 Budapest 19, Berzsenyi u. 8. (Kispesti Puskás Ferenc Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1367,
+        "honos" : 1305,
+        "atjel" : 0,
+        "atjelInnen" : 46,
+        "osszesen" : 1305
+      }
+    }, {
+      "sorszam" : "012",
+      "szk_nev" : "Budapest XIX. kerület, 012. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1193 Budapest 19, Dobó Katica u. 18. (Forrásház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1224,
+        "honos" : 1193,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 1193
+      }
+    }, {
+      "sorszam" : "013",
+      "szk_nev" : "Budapest XIX. kerület, 013. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1193 Budapest 19, Dobó Katica u. 18. (Forrásház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1103,
+        "honos" : 1062,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 1062
+      }
+    }, {
+      "sorszam" : "014",
+      "szk_nev" : "Budapest XIX. kerület, 014. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1193 Budapest 19, Fő utca 22. (Kispesti Vigadó)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1167,
+        "honos" : 1114,
+        "atjel" : 0,
+        "atjelInnen" : 43,
+        "osszesen" : 1114
+      }
+    }, {
+      "sorszam" : "015",
+      "szk_nev" : "Budapest XIX. kerület, 015. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1193 Budapest 19, Fő utca 22. (Kispesti Vigadó)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1115,
+        "honos" : 1065,
+        "atjel" : 0,
+        "atjelInnen" : 43,
+        "osszesen" : 1065
+      }
+    }, {
+      "sorszam" : "016",
+      "szk_nev" : "Budapest XIX. kerület, 016. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1195 Budapest 19, József Attila u.74.(Szatmári László Al.Műv.Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1066,
+        "honos" : 1029,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 1029
+      }
+    }, {
+      "sorszam" : "017",
+      "szk_nev" : "Budapest XIX. kerület, 017. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1193 Budapest 19, Árpád utca 14. (Kispesti Bolyai János Ált.Isk.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1122,
+        "honos" : 1087,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 1087
+      }
+    }, {
+      "sorszam" : "018",
+      "szk_nev" : "Budapest XIX. kerület, 018. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1193 Budapest 19, Árpád utca 14. (Kispesti Bolyai János Ált.Isk.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1191,
+        "honos" : 1154,
+        "atjel" : 0,
+        "atjelInnen" : 41,
+        "osszesen" : 1154
+      }
+    }, {
+      "sorszam" : "019",
+      "szk_nev" : "Budapest XIX. kerület, 019. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1195 Budapest 19, Árpád utca 14. (Kispesti Bolyai János Ált.Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 896,
+        "honos" : 865,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 865
+      }
+    }, {
+      "sorszam" : "020",
+      "szk_nev" : "Budapest XIX. kerület, 020. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1193 Budapest 19, Zrínyi utca 6. (Kispesti Gyöngykagyló Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1106,
+        "honos" : 1064,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 1064
+      }
+    }, {
+      "sorszam" : "021",
+      "szk_nev" : "Budapest XIX. kerület, 021. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1195 Budapest 19, Zrínyi utca 6. (Kispesti Gyöngykagyló Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1187,
+        "honos" : 1129,
+        "atjel" : 0,
+        "atjelInnen" : 41,
+        "osszesen" : 1129
+      }
+    }, {
+      "sorszam" : "022",
+      "szk_nev" : "Budapest XIX. kerület, 022. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1195 Budapest 19, Zrínyi utca 6. (Kispesti Gyöngykagyló Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 939,
+        "honos" : 916,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 916
+      }
+    }, {
+      "sorszam" : "023",
+      "szk_nev" : "Budapest XIX. kerület, 023. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1195 Budapest 19, Pannónia út 12. (Kispesti Pannónia Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 918,
+        "honos" : 868,
+        "atjel" : 0,
+        "atjelInnen" : 34,
+        "osszesen" : 868
+      }
+    }, {
+      "sorszam" : "024",
+      "szk_nev" : "Budapest XIX. kerület, 024. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1195 Budapest 19, Pannónia út 12. (Kispesti Pannónia Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 952,
+        "honos" : 911,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 911
+      }
+    }, {
+      "sorszam" : "025",
+      "szk_nev" : "Budapest XIX. kerület, 025. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1192 Budapest 19, Gutenberg krt 6. (Kispesti Deák Ferenc Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 869,
+        "honos" : 831,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 831
+      }
+    }, {
+      "sorszam" : "026",
+      "szk_nev" : "Budapest XIX. kerület, 026. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1192 Budapest 19, Gutenberg krt 6. (Kispesti Deák Ferenc Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1166,
+        "honos" : 1119,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 1119
+      }
+    }, {
+      "sorszam" : "027",
+      "szk_nev" : "Budapest XIX. kerület, 027. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1192 Budapest 19, Hungária út 36. (Bp.Főv.Önk.Hungária Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 977,
+        "honos" : 946,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 946
+      }
+    }, {
+      "sorszam" : "028",
+      "szk_nev" : "Budapest XIX. kerület, 028. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1192 Budapest 19, Hungária út 36. (Bp.Főv.Önk.Hungária Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 922,
+        "honos" : 889,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 889
+      }
+    }, {
+      "sorszam" : "029",
+      "szk_nev" : "Budapest XIX. kerület, 029. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1192 Budapest 19, Gutenberg krt 6. (Kispesti Deák Ferenc Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1101,
+        "honos" : 1069,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 1069
+      }
+    }, {
+      "sorszam" : "030",
+      "szk_nev" : "Budapest XIX. kerület, 030. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1192 Budapest 19, Gutenberg krt 6. (Kispesti Deák Ferenc Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1124,
+        "honos" : 1075,
+        "atjel" : 0,
+        "atjelInnen" : 40,
+        "osszesen" : 1075
+      }
+    }, {
+      "sorszam" : "031",
+      "szk_nev" : "Budapest XIX. kerület, 031. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1196 Budapest 19, Petőfi u. 56. (Reménység Katolikus Ált.Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1060,
+        "honos" : 1025,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 1025
+      }
+    }, {
+      "sorszam" : "032",
+      "szk_nev" : "Budapest XIX. kerület, 032. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1196 Budapest 19, Petőfi u. 56. (Reménység Katolikus Ált.Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1187,
+        "honos" : 1159,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 1159
+      }
+    }, {
+      "sorszam" : "033",
+      "szk_nev" : "Budapest XIX. kerület, 033. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1192 Budapest 19, Fő u. 143. (Kispesti Gábor Áron Általános Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 931,
+        "honos" : 898,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 898
+      }
+    }, {
+      "sorszam" : "034",
+      "szk_nev" : "Budapest XIX. kerület, 034. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1192 Budapest 19, Fő u. 143. (Kispesti Gábor Áron Általános Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1097,
+        "honos" : 1061,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 1061
+      }
+    }, {
+      "sorszam" : "035",
+      "szk_nev" : "Budapest XIX. kerület, 035. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1192 Budapest 19, Szegfű utca 10.(Jeriko Keresztény Humán Gimnázium)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1229,
+        "honos" : 1204,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 1204
+      }
+    }, {
+      "sorszam" : "036",
+      "szk_nev" : "Budapest XIX. kerület, 036. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1192 Budapest 19, Nádasdy u. 98. (Kispesti Gábor Áron Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1081,
+        "honos" : 1037,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 1037
+      }
+    }, {
+      "sorszam" : "037",
+      "szk_nev" : "Budapest XIX. kerület, 037. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1192 Budapest 19, Csengő u. 1. (Semmelweis Ignác Szakképző Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 788,
+        "honos" : 770,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 770
+      }
+    }, {
+      "sorszam" : "038",
+      "szk_nev" : "Budapest XIX. kerület, 038. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1196 Budapest 19, Szegfű utca 10.(Jeriko Keresztény Humán Gimnázium)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1024,
+        "honos" : 993,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 993
+      }
+    }, {
+      "sorszam" : "039",
+      "szk_nev" : "Budapest XIX. kerület, 039. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1196 Budapest 19, Szegfű utca 10.(Jeriko Keresztény Humán Gimnázium)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 941,
+        "honos" : 910,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 910
+      }
+    }, {
+      "sorszam" : "040",
+      "szk_nev" : "Budapest XIX. kerület, 040. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1194 Budapest 19, Katona J. u. 3.(Tichy L. Sportcentrum)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 985,
+        "honos" : 951,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 951
+      }
+    }, {
+      "sorszam" : "041",
+      "szk_nev" : "Budapest XIX. kerület, 041. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1194 Budapest 19, Kelet utca 8. (Kispesti Mézeskalács Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 971,
+        "honos" : 947,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 947
+      }
+    }, {
+      "sorszam" : "042",
+      "szk_nev" : "Budapest XIX. kerület, 042. számú szavazókör",
+      "evk" : "16",
+      "evk_nev" : "BUDAPEST főváros, 16. számú OEVK",
+      "cim" : "1194 Budapest 19, Beszterce u. 6.  (Kispesti Mézeskalács Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1221,
+        "honos" : 1163,
+        "atjel" : 0,
+        "atjelInnen" : 55,
+        "osszesen" : 1163
+      }
+    }, {
+      "sorszam" : "043",
+      "szk_nev" : "Budapest XIX. kerület, 043. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "BUDAPEST főváros, 09. számú OEVK",
+      "cim" : "1195 Budapest 19, Árpád utca 14. (Kispesti Bolyai János Ált.Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 183,
+        "honos" : 179,
+        "atjel" : 1413,
+        "atjelInnen" : 3,
+        "osszesen" : 1592
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "029",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Dénesfa, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : " Dénesfa, Fő utca 13.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 331,
+        "honos" : 323,
+        "atjel" : 5,
+        "atjelInnen" : 9,
+        "osszesen" : 328
+      }
+    } ]
+  }
+}

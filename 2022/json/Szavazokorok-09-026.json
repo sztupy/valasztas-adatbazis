@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "09",
+    "taz" : "026",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Fülöp, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 03. számú OEVK",
+      "cim" : " Fülöp, Arany János utca 117.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 420,
+        "honos" : 414,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 414
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Fülöp, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 03. számú OEVK",
+      "cim" : " Fülöp, Arany János utca 21.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 369,
+        "honos" : 357,
+        "atjel" : 12,
+        "atjelInnen" : 7,
+        "osszesen" : 369
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Fülöp, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 03. számú OEVK",
+      "cim" : " Fülöp, Kossuth Lajos utca 30.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 397,
+        "honos" : 392,
+        "atjel" : 0,
+        "atjelInnen" : 5,
+        "osszesen" : 392
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Fülöp, 004. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 03. számú OEVK",
+      "cim" : " Fülöp, Bánháza  út 32.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 160,
+        "honos" : 160,
+        "atjel" : 0,
+        "atjelInnen" : 4,
+        "osszesen" : 160
+      }
+    } ]
+  }
+}

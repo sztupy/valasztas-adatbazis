@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "118",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Városföld, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÁCS-KISKUN megye, 02. számú OEVK",
+      "cim" : " Városföld, Fő utca 6/A. (Művelődési Ház és Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 981,
+        "honos" : 950,
+        "atjel" : 12,
+        "atjelInnen" : 23,
+        "osszesen" : 962
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Városföld, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÁCS-KISKUN megye, 02. számú OEVK",
+      "cim" : " Városföld, Fő utca 31-33. (Általános Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 824,
+        "honos" : 810,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 810
+      }
+    } ]
+  }
+}

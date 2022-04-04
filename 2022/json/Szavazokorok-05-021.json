@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "021",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Aszaló, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 06. számú OEVK",
+      "cim" : " Aszaló, Rákóczi út 72. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 693,
+        "honos" : 686,
+        "atjel" : 11,
+        "atjelInnen" : 7,
+        "osszesen" : 697
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Aszaló, 002. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 06. számú OEVK",
+      "cim" : " Aszaló, Rákóczi út 91. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 684,
+        "honos" : 670,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 670
+      }
+    } ]
+  }
+}

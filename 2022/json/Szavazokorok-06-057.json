@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "057",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Újszentiván, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 01. számú OEVK",
+      "cim" : " Újszentiván, Fő utca 7. (Önkormányzat épülete)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 841,
+        "honos" : 804,
+        "atjel" : 12,
+        "atjelInnen" : 26,
+        "osszesen" : 816
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Újszentiván, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 01. számú OEVK",
+      "cim" : " Újszentiván, Fő utca 7. (Önkormányzat épülete)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 760,
+        "honos" : 730,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 730
+      }
+    } ]
+  }
+}

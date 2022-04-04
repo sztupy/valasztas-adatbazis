@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "087",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Simontornya, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : " Simontornya, Szent István Király utca 1. (Városháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 985,
+        "honos" : 942,
+        "atjel" : 29,
+        "atjelInnen" : 31,
+        "osszesen" : 971
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Simontornya, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : " Simontornya, Petőfi utca 67.  (Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1105,
+        "honos" : 1059,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 1059
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Simontornya, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : "7081 Simontornya, Petőfi utca 67. (Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1124,
+        "honos" : 1084,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 1084
+      }
+    } ]
+  }
+}

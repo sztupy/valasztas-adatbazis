@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "088",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kóny, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : " Kóny, Rákóczi utca 52.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1095,
+        "honos" : 1073,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 1073
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kóny, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : " Kóny, Béke utca 1.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1100,
+        "honos" : 1075,
+        "atjel" : 25,
+        "atjelInnen" : 19,
+        "osszesen" : 1100
+      }
+    } ]
+  }
+}

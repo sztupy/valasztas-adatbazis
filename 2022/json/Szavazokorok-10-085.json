@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "085",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Petőfibánya, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Petőfibánya, Iskola utca 3/A. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1057,
+        "honos" : 1043,
+        "atjel" : 31,
+        "atjelInnen" : 19,
+        "osszesen" : 1074
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Petőfibánya, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Petőfibánya, Bánya utca 3. (Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1045,
+        "honos" : 1030,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 1030
+      }
+    } ]
+  }
+}

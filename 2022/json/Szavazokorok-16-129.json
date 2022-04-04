@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "129",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nyírmada, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : "4564 Nyírmada, Honvéd út 22. (Patay István Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1023,
+        "honos" : 998,
+        "atjel" : 16,
+        "atjelInnen" : 11,
+        "osszesen" : 1014
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nyírmada, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : "4564 Nyírmada, Honvéd út 22. (Patay István Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 859,
+        "honos" : 841,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 841
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Nyírmada, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Nyírmada, Honvéd út 36-38. (Patay István Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 935,
+        "honos" : 905,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 905
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Nyírmada, 004. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Nyírmada, Honvéd út 36-38. (Patay István Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 872,
+        "honos" : 841,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 841
+      }
+    } ]
+  }
+}

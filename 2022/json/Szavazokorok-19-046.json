@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "046",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csehbánya, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "VESZPRÉM megye, 01. számú OEVK",
+      "cim" : " Csehbánya, Fő u. 39. Önkormányzati iroda",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 237,
+        "honos" : 231,
+        "atjel" : 6,
+        "atjelInnen" : 6,
+        "osszesen" : 237
+      }
+    } ]
+  }
+}

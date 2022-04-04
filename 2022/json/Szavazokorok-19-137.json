@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "137",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nemesvámos, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "VESZPRÉM megye, 01. számú OEVK",
+      "cim" : " Nemesvámos, Kossuth Lajos utca 43. (Közösségi ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1203,
+        "honos" : 1168,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 1168
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nemesvámos, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "VESZPRÉM megye, 01. számú OEVK",
+      "cim" : " Nemesvámos, Fészek utca 7. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1191,
+        "honos" : 1167,
+        "atjel" : 30,
+        "atjelInnen" : 21,
+        "osszesen" : 1197
+      }
+    } ]
+  }
+}

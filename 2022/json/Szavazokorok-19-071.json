@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "071",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Hajmáskér, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "VESZPRÉM megye, 01. számú OEVK",
+      "cim" : "8192 Hajmáskér, Kossuth L. utca 31. (Önkormányzat)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 924,
+        "honos" : 904,
+        "atjel" : 30,
+        "atjelInnen" : 19,
+        "osszesen" : 934
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Hajmáskér, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "VESZPRÉM megye, 01. számú OEVK",
+      "cim" : "8192 Hajmáskér, Iskola utca 4. (Közösségi ház, Nyugdíjasklub)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 734,
+        "honos" : 710,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 710
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Hajmáskér, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "VESZPRÉM megye, 01. számú OEVK",
+      "cim" : "8192 Hajmáskér, Iskola utca 4. (Közösségi ház fsz. Nagyterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 810,
+        "honos" : 785,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 785
+      }
+    } ]
+  }
+}

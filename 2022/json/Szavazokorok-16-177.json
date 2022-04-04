@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "177",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szamostatárfalva, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Szamostatárfalva, Ady Endre utca 65.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 251,
+        "honos" : 240,
+        "atjel" : 3,
+        "atjelInnen" : 8,
+        "osszesen" : 243
+      }
+    } ]
+  }
+}

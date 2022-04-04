@@ -1,0 +1,556 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "004",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Baja, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Dózsa Gy. út 131. (Szentistváni Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 971,
+        "honos" : 935,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 935
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Baja, 002. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Mártonszállási út 81. (Bajavíz Kft.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1193,
+        "honos" : 1146,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 1146
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Baja, 003. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Bernhart Sándor u. 94. (Bernhart utcai Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 842,
+        "honos" : 807,
+        "atjel" : 0,
+        "atjelInnen" : 34,
+        "osszesen" : 807
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Baja, 004. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Barátság tér 18. (Bajai EGYMI)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1005,
+        "honos" : 972,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 972
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Baja, 005. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Szegedi út 14. (Kiscsávolyi Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 993,
+        "honos" : 956,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 956
+      }
+    }, {
+      "sorszam" : "006",
+      "szk_nev" : "Baja, 006. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Malom u. 15. (Sugovica Sportiskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1180,
+        "honos" : 1153,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 1153
+      }
+    }, {
+      "sorszam" : "007",
+      "szk_nev" : "Baja, 007. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Lőkert sor 78. (Lőkert sori Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 921,
+        "honos" : 880,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 880
+      }
+    }, {
+      "sorszam" : "008",
+      "szk_nev" : "Baja, 008. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Deák Ferenc u. 8. (Liszt Ferenc AMI)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 864,
+        "honos" : 821,
+        "atjel" : 0,
+        "atjelInnen" : 37,
+        "osszesen" : 821
+      }
+    }, {
+      "sorszam" : "009",
+      "szk_nev" : "Baja, 009. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Petőfi S. u. 3. (BSZC Jelky Szakképző Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 925,
+        "honos" : 890,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 890
+      }
+    }, {
+      "sorszam" : "010",
+      "szk_nev" : "Baja, 010. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Deák Ferenc u. 8. (Liszt Ferenc AMI)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1087,
+        "honos" : 1038,
+        "atjel" : 0,
+        "atjelInnen" : 42,
+        "osszesen" : 1038
+      }
+    }, {
+      "sorszam" : "011",
+      "szk_nev" : "Baja, 011. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Szent Antal u. 60. (Sugovica Sportiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 801,
+        "honos" : 775,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 775
+      }
+    }, {
+      "sorszam" : "012",
+      "szk_nev" : "Baja, 012. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Lőkert sor 78. (Lőkert sori Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 986,
+        "honos" : 947,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 947
+      }
+    }, {
+      "sorszam" : "013",
+      "szk_nev" : "Baja, 013. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Szent Antal u. 96. (Bereczki Máté Szakképző Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 833,
+        "honos" : 805,
+        "atjel" : 0,
+        "atjelInnen" : 35,
+        "osszesen" : 805
+      }
+    }, {
+      "sorszam" : "014",
+      "szk_nev" : "Baja, 014. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Szent Antal u. 96. (Bereczki Máté Szakképző Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 966,
+        "honos" : 927,
+        "atjel" : 0,
+        "atjelInnen" : 37,
+        "osszesen" : 927
+      }
+    }, {
+      "sorszam" : "015",
+      "szk_nev" : "Baja, 015. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Szabadság út 81/A (Idősek Klubja)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1168,
+        "honos" : 1111,
+        "atjel" : 0,
+        "atjelInnen" : 42,
+        "osszesen" : 1111
+      }
+    }, {
+      "sorszam" : "016",
+      "szk_nev" : "Baja, 016. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Vöröskereszt tér 1/A (Sugovica Sportiskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1252,
+        "honos" : 1207,
+        "atjel" : 0,
+        "atjelInnen" : 37,
+        "osszesen" : 1207
+      }
+    }, {
+      "sorszam" : "017",
+      "szk_nev" : "Baja, 017. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Vöröskereszt tér 1/A (Sugovica Sportiskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 914,
+        "honos" : 876,
+        "atjel" : 0,
+        "atjelInnen" : 37,
+        "osszesen" : 876
+      }
+    }, {
+      "sorszam" : "018",
+      "szk_nev" : "Baja, 018. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Szabadság út 38. (Mozgáskorlátozottak Egyesülete)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 938,
+        "honos" : 891,
+        "atjel" : 0,
+        "atjelInnen" : 42,
+        "osszesen" : 891
+      }
+    }, {
+      "sorszam" : "019",
+      "szk_nev" : "Baja, 019. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Szent Imre tér 5. (III. Béla Gimnázium)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 631,
+        "honos" : 586,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 586
+      }
+    }, {
+      "sorszam" : "020",
+      "szk_nev" : "Baja, 020. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Oltványi Imre u. 14. (Újvárosi Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 930,
+        "honos" : 893,
+        "atjel" : 399,
+        "atjelInnen" : 28,
+        "osszesen" : 1292
+      }
+    }, {
+      "sorszam" : "021",
+      "szk_nev" : "Baja, 021. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Telcs Ede u. 12 (AEVK Gyermekkönyvtár)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1125,
+        "honos" : 1080,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 1080
+      }
+    }, {
+      "sorszam" : "022",
+      "szk_nev" : "Baja, 022. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Flórián u. 22. (Szent Balázs Katolikus Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 913,
+        "honos" : 886,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 886
+      }
+    }, {
+      "sorszam" : "023",
+      "szk_nev" : "Baja, 023. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Flórián u. 22. (Szent Balázs Katolikus Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 988,
+        "honos" : 933,
+        "atjel" : 0,
+        "atjelInnen" : 40,
+        "osszesen" : 933
+      }
+    }, {
+      "sorszam" : "024",
+      "szk_nev" : "Baja, 024. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Duna u. 33. (MNÁMK Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1043,
+        "honos" : 1008,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 1008
+      }
+    }, {
+      "sorszam" : "025",
+      "szk_nev" : "Baja, 025. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Duna u. 33. (MNÁMK Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 860,
+        "honos" : 829,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 829
+      }
+    }, {
+      "sorszam" : "026",
+      "szk_nev" : "Baja, 026. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Bajcsy-Zs. u. 12-14. (NKE Víztudományi Kar)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 797,
+        "honos" : 764,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 764
+      }
+    }, {
+      "sorszam" : "027",
+      "szk_nev" : "Baja, 027. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Flórián u. 22. (Szent Balázs Katolikus Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 959,
+        "honos" : 917,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 917
+      }
+    }, {
+      "sorszam" : "028",
+      "szk_nev" : "Baja, 028. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Dózsa Gy. út 131. (Szentistváni Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 690,
+        "honos" : 668,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 668
+      }
+    }, {
+      "sorszam" : "029",
+      "szk_nev" : "Baja, 029. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Dózsa Gy. út 131. (Szentistváni Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1065,
+        "honos" : 1030,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 1030
+      }
+    }, {
+      "sorszam" : "030",
+      "szk_nev" : "Baja, 030. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, II. körzet tanya 112. (Közösségi Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "I",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 225,
+        "honos" : 222,
+        "atjel" : 0,
+        "atjelInnen" : 5,
+        "osszesen" : 222
+      }
+    }, {
+      "sorszam" : "031",
+      "szk_nev" : "Baja, 031. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Szegedi út 115. (Székely és Társa Kft.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 361,
+        "honos" : 355,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 355
+      }
+    }, {
+      "sorszam" : "032",
+      "szk_nev" : "Baja, 032. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6500 Baja, Keleti krt. 49-51. (Bajai Kommunális NKft.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 474,
+        "honos" : 476,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 476
+      }
+    } ]
+  }
+}

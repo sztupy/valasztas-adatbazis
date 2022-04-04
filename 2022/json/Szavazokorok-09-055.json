@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "09",
+    "taz" : "055",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagyrábé, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 04. számú OEVK",
+      "cim" : " Nagyrábé, Kossuth út  5. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 847,
+        "honos" : 815,
+        "atjel" : 6,
+        "atjelInnen" : 21,
+        "osszesen" : 821
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nagyrábé, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 04. számú OEVK",
+      "cim" : " Nagyrábé, Rétszentmiklósi út 2/C. (Iskola Étkező)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 844,
+        "honos" : 830,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 830
+      }
+    } ]
+  }
+}

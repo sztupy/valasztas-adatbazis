@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "070",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Jákfa, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : " Jákfa, Kossuth utca 63. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 418,
+        "honos" : 406,
+        "atjel" : 1,
+        "atjelInnen" : 8,
+        "osszesen" : 407
+      }
+    } ]
+  }
+}

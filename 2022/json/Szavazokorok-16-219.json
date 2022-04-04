@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "219",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Vaja, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Vaja, Damjanich u. 65. (Egészségház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 982,
+        "honos" : 969,
+        "atjel" : 18,
+        "atjelInnen" : 13,
+        "osszesen" : 987
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Vaja, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Vaja, Damjanich u. 68. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1006,
+        "honos" : 974,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 974
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Vaja, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Vaja, Leiningen u. 1. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 826,
+        "honos" : 797,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 797
+      }
+    } ]
+  }
+}

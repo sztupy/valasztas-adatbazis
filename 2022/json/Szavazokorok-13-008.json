@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "008",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bercel, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : "2687 Bercel, Béke út 1/A. (Inkubátorház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 632,
+        "honos" : 621,
+        "atjel" : 29,
+        "atjelInnen" : 13,
+        "osszesen" : 650
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Bercel, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : " Bercel, Petőfi út 2. (Rehabilitációs Intézet)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 717,
+        "honos" : 703,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 703
+      }
+    } ]
+  }
+}

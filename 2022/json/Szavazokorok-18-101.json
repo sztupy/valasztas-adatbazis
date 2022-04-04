@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "101",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Lukácsháza, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : " Lukácsháza, Tanács u. 12. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 890,
+        "honos" : 871,
+        "atjel" : 11,
+        "atjelInnen" : 16,
+        "osszesen" : 882
+      }
+    } ]
+  }
+}

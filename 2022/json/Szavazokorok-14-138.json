@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "138",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sződ, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "PEST megye, 04. számú OEVK",
+      "cim" : "2134 Sződ, Dózsa Gy. u. 100. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1285,
+        "honos" : 1251,
+        "atjel" : 41,
+        "atjelInnen" : 37,
+        "osszesen" : 1292
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Sződ, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "PEST megye, 04. számú OEVK",
+      "cim" : "2134 Sződ, Dózsa Gy. u. 100. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1232,
+        "honos" : 1213,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 1213
+      }
+    } ]
+  }
+}

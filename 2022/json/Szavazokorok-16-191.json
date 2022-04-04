@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "191",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tiszadada, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : " Tiszadada, József A. utca 4. (Támogató Szolgálat)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 562,
+        "honos" : 553,
+        "atjel" : 16,
+        "atjelInnen" : 6,
+        "osszesen" : 569
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tiszadada, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : " Tiszadada, Kossuth tér 1/A  (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 537,
+        "honos" : 516,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 516
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Tiszadada, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : " Tiszadada, Nagy út 12.  (Napközi Konyha Étterme)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 555,
+        "honos" : 542,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 542
+      }
+    } ]
+  }
+}

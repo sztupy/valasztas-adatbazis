@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "155",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ortaháza, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : " Ortaháza, Fő u. 36. (Kultúrotthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 94,
+        "honos" : 93,
+        "atjel" : 2,
+        "atjelInnen" : 1,
+        "osszesen" : 95
+      }
+    } ]
+  }
+}

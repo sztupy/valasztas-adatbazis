@@ -1,0 +1,828 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "024",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Dunaújváros, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Garibaldi u. 1. (Waldorf Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 902,
+        "honos" : 859,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 859
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Dunaújváros, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Gagarin tér 1. (Aranyalma Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 871,
+        "honos" : 835,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 835
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Dunaújváros, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Kodály Z. u. 7. (Móricz Zs. Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 473,
+        "honos" : 452,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 452
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Dunaújváros, 004. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Kodály Z. u. 7. (Móricz Zs. Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 723,
+        "honos" : 695,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 695
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Dunaújváros, 005. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Városháza tér 2. (Polg. Hiv. \"B\" épület)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 885,
+        "honos" : 859,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 859
+      }
+    }, {
+      "sorszam" : "006",
+      "szk_nev" : "Dunaújváros, 006. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Batsányi u. 2-4. (Duna-parti Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 517,
+        "honos" : 487,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 487
+      }
+    }, {
+      "sorszam" : "007",
+      "szk_nev" : "Dunaújváros, 007. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Apáczai Cs. J. u. 13. (Dunaferr Technikum)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 607,
+        "honos" : 589,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 589
+      }
+    }, {
+      "sorszam" : "008",
+      "szk_nev" : "Dunaújváros, 008. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Római krt. 51. (Gárdonyi G. Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 543,
+        "honos" : 535,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 535
+      }
+    }, {
+      "sorszam" : "009",
+      "szk_nev" : "Dunaújváros, 009. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Római krt. 51. (Gárdonyi G. Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 685,
+        "honos" : 679,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 679
+      }
+    }, {
+      "sorszam" : "010",
+      "szk_nev" : "Dunaújváros, 010. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Római krt. 47. (Rudas Közgazdasági Technikum)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 888,
+        "honos" : 848,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 848
+      }
+    }, {
+      "sorszam" : "011",
+      "szk_nev" : "Dunaújváros, 011. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Római krt. 49. (Rudas Közg.Technikum Kollégiuma)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 649,
+        "honos" : 638,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 638
+      }
+    }, {
+      "sorszam" : "012",
+      "szk_nev" : "Dunaújváros, 012. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Fáy A. u. 14. (Móra F. Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 735,
+        "honos" : 711,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 711
+      }
+    }, {
+      "sorszam" : "013",
+      "szk_nev" : "Dunaújváros, 013. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Római krt. 2. (Petőfi S. Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 771,
+        "honos" : 752,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 752
+      }
+    }, {
+      "sorszam" : "014",
+      "szk_nev" : "Dunaújváros, 014. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Apáczai Cs. J. u. 11. (Munkásműv. Közp.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 796,
+        "honos" : 768,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 768
+      }
+    }, {
+      "sorszam" : "015",
+      "szk_nev" : "Dunaújváros, 015. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Apáczai Cs. J. u. 13. (Dunaferr Technikum)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 743,
+        "honos" : 719,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 719
+      }
+    }, {
+      "sorszam" : "016",
+      "szk_nev" : "Dunaújváros, 016. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Lilla köz 1-2. (Margaréta Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 704,
+        "honos" : 683,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 683
+      }
+    }, {
+      "sorszam" : "017",
+      "szk_nev" : "Dunaújváros, 017. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Köztársaság u. 14. (Dózsa Gy. Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 486,
+        "honos" : 458,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 458
+      }
+    }, {
+      "sorszam" : "018",
+      "szk_nev" : "Dunaújváros, 018. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Köztársaság u. 14. (Dózsa Gy. Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 726,
+        "honos" : 704,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 704
+      }
+    }, {
+      "sorszam" : "019",
+      "szk_nev" : "Dunaújváros, 019. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Dózsa Gy. u. 15/A. (Széchenyi I. Gimn.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 649,
+        "honos" : 605,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 605
+      }
+    }, {
+      "sorszam" : "020",
+      "szk_nev" : "Dunaújváros, 020. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Dózsa Gy. u. 15/A. (Széchenyi I. Gimn.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 643,
+        "honos" : 620,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 620
+      }
+    }, {
+      "sorszam" : "021",
+      "szk_nev" : "Dunaújváros, 021. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Kossuth L. u. 10/A. (Ker. és Vend. Technikum)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "I",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 421,
+        "honos" : 417,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 417
+      }
+    }, {
+      "sorszam" : "022",
+      "szk_nev" : "Dunaújváros, 022. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Kossuth L. u. 10/A. (Ker. és Vend. Technikum)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 759,
+        "honos" : 735,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 735
+      }
+    }, {
+      "sorszam" : "023",
+      "szk_nev" : "Dunaújváros, 023. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Bartók B. tér 2-4. (Rosti Pál Gimn. és Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 694,
+        "honos" : 647,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 647
+      }
+    }, {
+      "sorszam" : "024",
+      "szk_nev" : "Dunaújváros, 024. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Petőfi Liget 1. (Vasvári P. Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 773,
+        "honos" : 727,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 727
+      }
+    }, {
+      "sorszam" : "025",
+      "szk_nev" : "Dunaújváros, 025. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Táncsics M. u. 1/A. (Dunaújvárosi Egyetem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 686,
+        "honos" : 664,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 664
+      }
+    }, {
+      "sorszam" : "026",
+      "szk_nev" : "Dunaújváros, 026. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Táncsics M. u. 1/A. (Dunaújvárosi Egyetem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 697,
+        "honos" : 676,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 676
+      }
+    }, {
+      "sorszam" : "027",
+      "szk_nev" : "Dunaújváros, 027. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Dózsa Gy. u. 33. (DUE Kerpely A. Koll.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 592,
+        "honos" : 559,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 559
+      }
+    }, {
+      "sorszam" : "028",
+      "szk_nev" : "Dunaújváros, 028. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Bocskai u. 1/A. (Lorántffy Zs. Technikum Koll.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 610,
+        "honos" : 600,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 600
+      }
+    }, {
+      "sorszam" : "029",
+      "szk_nev" : "Dunaújváros, 029. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Bercsényi u. 8. (Hild J. Technikum)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 600,
+        "honos" : 576,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 576
+      }
+    }, {
+      "sorszam" : "030",
+      "szk_nev" : "Dunaújváros, 030. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Bercsényi u. 10. (Bocskai Református Okt. Közp.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 775,
+        "honos" : 742,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 742
+      }
+    }, {
+      "sorszam" : "031",
+      "szk_nev" : "Dunaújváros, 031. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Bercsényi u. 2. (volt Bánki D. Gimn. Szakk. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 562,
+        "honos" : 551,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 551
+      }
+    }, {
+      "sorszam" : "032",
+      "szk_nev" : "Dunaújváros, 032. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Bercsényi u. 2. (volt Bánki D. Gimn. Szakk. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 764,
+        "honos" : 732,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 732
+      }
+    }, {
+      "sorszam" : "033",
+      "szk_nev" : "Dunaújváros, 033. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Gábor Á. u. 4. (Aprók háza Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 752,
+        "honos" : 719,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 719
+      }
+    }, {
+      "sorszam" : "034",
+      "szk_nev" : "Dunaújváros, 034. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Radnóti u. 6. (Lorántffy Zs. Technikum)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 604,
+        "honos" : 593,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 593
+      }
+    }, {
+      "sorszam" : "035",
+      "szk_nev" : "Dunaújváros, 035. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Radnóti u. 6. (Loránttfy Zs. Technikum)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 753,
+        "honos" : 721,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 721
+      }
+    }, {
+      "sorszam" : "036",
+      "szk_nev" : "Dunaújváros, 036. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Lajos K. krt. 31. (Százszorszép Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 876,
+        "honos" : 854,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 854
+      }
+    }, {
+      "sorszam" : "037",
+      "szk_nev" : "Dunaújváros, 037. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Lajos K. krt. 29. (Lorántffy Zs. Technikum Tanm.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 974,
+        "honos" : 930,
+        "atjel" : 0,
+        "atjelInnen" : 35,
+        "osszesen" : 930
+      }
+    }, {
+      "sorszam" : "038",
+      "szk_nev" : "Dunaújváros, 038. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Március 15. tér 12. (Napsugár Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1101,
+        "honos" : 1058,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 1058
+      }
+    }, {
+      "sorszam" : "039",
+      "szk_nev" : "Dunaújváros, 039. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Március 15. tér 5. (Arany J. Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 950,
+        "honos" : 921,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 921
+      }
+    }, {
+      "sorszam" : "040",
+      "szk_nev" : "Dunaújváros, 040. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Március 15. tér 5. (Arany J. Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 939,
+        "honos" : 895,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 895
+      }
+    }, {
+      "sorszam" : "041",
+      "szk_nev" : "Dunaújváros, 041. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Március 15. tér 6. (Arany J. Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1007,
+        "honos" : 971,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 971
+      }
+    }, {
+      "sorszam" : "042",
+      "szk_nev" : "Dunaújváros, 042. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Március 15. tér 6. (Arany J. Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 967,
+        "honos" : 930,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 930
+      }
+    }, {
+      "sorszam" : "043",
+      "szk_nev" : "Dunaújváros, 043. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Jókai u. 19. (volt Dunamenti Reg. Népfőiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1049,
+        "honos" : 1022,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 1022
+      }
+    }, {
+      "sorszam" : "044",
+      "szk_nev" : "Dunaújváros, 044. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Jókai u. 19. (volt Dunamenti Reg. Népfőiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1082,
+        "honos" : 1043,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 1043
+      }
+    }, {
+      "sorszam" : "045",
+      "szk_nev" : "Dunaújváros, 045. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Magyar u. 25. (Pentele v. részi Klubkönyvtár)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1146,
+        "honos" : 1111,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 1111
+      }
+    }, {
+      "sorszam" : "046",
+      "szk_nev" : "Dunaújváros, 046. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Magyar u. 32. (ESZI II. sz. Gond. Kp.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1314,
+        "honos" : 1259,
+        "atjel" : 0,
+        "atjelInnen" : 41,
+        "osszesen" : 1259
+      }
+    }, {
+      "sorszam" : "047",
+      "szk_nev" : "Dunaújváros, 047. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2407 Dunaújváros, Pálhalma (Kultúrterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 404,
+        "honos" : 402,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 402
+      }
+    }, {
+      "sorszam" : "100",
+      "szk_nev" : "Dunaújváros, 100. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2400 Dunaújváros, Városháza tér 2. (Polg. Hiv. \"C\" épület)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 0,
+        "honos" : 0,
+        "atjel" : 549,
+        "atjelInnen" : 0,
+        "osszesen" : 549
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "054",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Murony, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÉKÉS megye, 02. számú OEVK",
+      "cim" : "5672 Murony, Földvári utca 1. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 478,
+        "honos" : 465,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 465
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Murony, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÉKÉS megye, 02. számú OEVK",
+      "cim" : " Murony, Ady Endre utca 5-7. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 509,
+        "honos" : 492,
+        "atjel" : 3,
+        "atjelInnen" : 12,
+        "osszesen" : 495
+      }
+    } ]
+  }
+}

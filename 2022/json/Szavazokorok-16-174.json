@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "174",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szamoskér, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 04. számú OEVK",
+      "cim" : " Szamoskér, Kossuth Lajos utca 161. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 319,
+        "honos" : 311,
+        "atjel" : 3,
+        "atjelInnen" : 9,
+        "osszesen" : 314
+      }
+    } ]
+  }
+}

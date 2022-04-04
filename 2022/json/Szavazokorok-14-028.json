@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "028",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Délegyháza, 001. számú szavazókör",
+      "evk" : "11",
+      "evk_nev" : "PEST megye, 11. számú OEVK",
+      "cim" : "2337 Délegyháza, Szabadság tér 1-2. (Műv. Ház Nagyterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1176,
+        "honos" : 1166,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 1166
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Délegyháza, 002. számú szavazókör",
+      "evk" : "11",
+      "evk_nev" : "PEST megye, 11. számú OEVK",
+      "cim" : "2337 Délegyháza,  Árpád u. 8. (Polgármesteri Hiv.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1064,
+        "honos" : 1058,
+        "atjel" : 71,
+        "atjelInnen" : 34,
+        "osszesen" : 1129
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Délegyháza, 003. számú szavazókör",
+      "evk" : "11",
+      "evk_nev" : "PEST megye, 11. számú OEVK",
+      "cim" : "2337 Délegyháza,  Árpád u. 53. (Hunyadi János Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1044,
+        "honos" : 1011,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 1011
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Délegyháza, 004. számú szavazókör",
+      "evk" : "11",
+      "evk_nev" : "PEST megye, 11. számú OEVK",
+      "cim" : "2337 Délegyháza, Árpád u. 6. (Napsugár Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1079,
+        "honos" : 1059,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 1059
+      }
+    } ]
+  }
+}

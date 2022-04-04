@@ -1,0 +1,930 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "01",
+    "taz" : "009",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Budapest IX. kerület, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1093 Budapest 09, Csarnok tér 3-4. (FEV IX Zrt.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 610,
+        "honos" : 575,
+        "atjel" : 0,
+        "atjelInnen" : 37,
+        "osszesen" : 575
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Budapest IX. kerület, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1093 Budapest 09, Lónyay u. 4-8. (Ált. Isk. és Gimn.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 617,
+        "honos" : 570,
+        "atjel" : 0,
+        "atjelInnen" : 48,
+        "osszesen" : 570
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Budapest IX. kerület, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1092 Budapest 09, Ráday u. 26. (Vagyonkez. Iroda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 607,
+        "honos" : 552,
+        "atjel" : 0,
+        "atjelInnen" : 46,
+        "osszesen" : 552
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Budapest IX. kerület, 004. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1092 Budapest 09, Ráday u. 26. (Vagyonkez. Iroda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 608,
+        "honos" : 559,
+        "atjel" : 0,
+        "atjelInnen" : 37,
+        "osszesen" : 559
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Budapest IX. kerület, 005. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1093 Budapest 09, Lónyay u. 4-8. (Ált. Isk. és Gimn.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 615,
+        "honos" : 561,
+        "atjel" : 0,
+        "atjelInnen" : 48,
+        "osszesen" : 561
+      }
+    }, {
+      "sorszam" : "006",
+      "szk_nev" : "Budapest IX. kerület, 006. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1092 Budapest 09, Bakáts tér 1. (Házasságkötő terem)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 665,
+        "honos" : 608,
+        "atjel" : 0,
+        "atjelInnen" : 59,
+        "osszesen" : 608
+      }
+    }, {
+      "sorszam" : "007",
+      "szk_nev" : "Budapest IX. kerület, 007. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1092 Budapest 09, Bakáts tér 1. (Házasságkötő terem)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 728,
+        "honos" : 674,
+        "atjel" : 0,
+        "atjelInnen" : 50,
+        "osszesen" : 674
+      }
+    }, {
+      "sorszam" : "008",
+      "szk_nev" : "Budapest IX. kerület, 008. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1094 Budapest 09, Liliom u. 48. (Urb. Társaság)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 642,
+        "honos" : 584,
+        "atjel" : 0,
+        "atjelInnen" : 47,
+        "osszesen" : 584
+      }
+    }, {
+      "sorszam" : "009",
+      "szk_nev" : "Budapest IX. kerület, 009. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1092 Budapest 09, Bakáts tér 12. (Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 939,
+        "honos" : 878,
+        "atjel" : 0,
+        "atjelInnen" : 51,
+        "osszesen" : 878
+      }
+    }, {
+      "sorszam" : "010",
+      "szk_nev" : "Budapest IX. kerület, 010. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1093 Budapest 09, Bakáts tér 3. (bejárat a Ráday utcából)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 641,
+        "honos" : 594,
+        "atjel" : 0,
+        "atjelInnen" : 46,
+        "osszesen" : 594
+      }
+    }, {
+      "sorszam" : "011",
+      "szk_nev" : "Budapest IX. kerület, 011. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1094 Budapest 09, Liliom u. 48. (Urb. Társaság)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 642,
+        "honos" : 584,
+        "atjel" : 0,
+        "atjelInnen" : 62,
+        "osszesen" : 584
+      }
+    }, {
+      "sorszam" : "012",
+      "szk_nev" : "Budapest IX. kerület, 012. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1094 Budapest 09, Liliom u. 15. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 709,
+        "honos" : 656,
+        "atjel" : 0,
+        "atjelInnen" : 50,
+        "osszesen" : 656
+      }
+    }, {
+      "sorszam" : "013",
+      "szk_nev" : "Budapest IX. kerület, 013. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1094 Budapest 09, Liliom u. 15. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 787,
+        "honos" : 750,
+        "atjel" : 0,
+        "atjelInnen" : 49,
+        "osszesen" : 750
+      }
+    }, {
+      "sorszam" : "014",
+      "szk_nev" : "Budapest IX. kerület, 014. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1094 Budapest 09, Ferenc tér 1. (Orvosi Rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 905,
+        "honos" : 811,
+        "atjel" : 0,
+        "atjelInnen" : 88,
+        "osszesen" : 811
+      }
+    }, {
+      "sorszam" : "015",
+      "szk_nev" : "Budapest IX. kerület, 015. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1091 Budapest 09, Üllői út 87. (Ferencvárosi Tanoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 666,
+        "honos" : 620,
+        "atjel" : 0,
+        "atjelInnen" : 50,
+        "osszesen" : 620
+      }
+    }, {
+      "sorszam" : "016",
+      "szk_nev" : "Budapest IX. kerület, 016. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1096 Budapest 09, Thaly Kálmán u. 38. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 668,
+        "honos" : 629,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 629
+      }
+    }, {
+      "sorszam" : "017",
+      "szk_nev" : "Budapest IX. kerület, 017. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1095 Budapest 09, Dandár u. 28. (Idősek Klubja)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1049,
+        "honos" : 935,
+        "atjel" : 0,
+        "atjelInnen" : 110,
+        "osszesen" : 935
+      }
+    }, {
+      "sorszam" : "018",
+      "szk_nev" : "Budapest IX. kerület, 018. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1096 Budapest 09, Thaly Kálmán u. 38. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 714,
+        "honos" : 672,
+        "atjel" : 0,
+        "atjelInnen" : 43,
+        "osszesen" : 672
+      }
+    }, {
+      "sorszam" : "019",
+      "szk_nev" : "Budapest IX. kerület, 019. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1096 Budapest 09, Vendel u. 1. (Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 989,
+        "honos" : 931,
+        "atjel" : 0,
+        "atjelInnen" : 62,
+        "osszesen" : 931
+      }
+    }, {
+      "sorszam" : "020",
+      "szk_nev" : "Budapest IX. kerület, 020. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1096 Budapest 09, Vendel u. 1. (Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1027,
+        "honos" : 954,
+        "atjel" : 0,
+        "atjelInnen" : 54,
+        "osszesen" : 954
+      }
+    }, {
+      "sorszam" : "021",
+      "szk_nev" : "Budapest IX. kerület, 021. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1096 Budapest 09, Lenhossék u. 24-28. (Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 846,
+        "honos" : 785,
+        "atjel" : 0,
+        "atjelInnen" : 62,
+        "osszesen" : 785
+      }
+    }, {
+      "sorszam" : "022",
+      "szk_nev" : "Budapest IX. kerület, 022. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1096 Budapest 09, Lenhossék u. 24-28. (Hivatal)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 851,
+        "honos" : 780,
+        "atjel" : 0,
+        "atjelInnen" : 78,
+        "osszesen" : 780
+      }
+    }, {
+      "sorszam" : "023",
+      "szk_nev" : "Budapest IX. kerület, 023. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1096 Budapest 09, Haller u. 52. (H52 Ifjúsági iroda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 758,
+        "honos" : 724,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 724
+      }
+    }, {
+      "sorszam" : "024",
+      "szk_nev" : "Budapest IX. kerület, 024. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1096 Budapest 09, Telepy u. 17. (Ált. Isk. és Gimn.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 617,
+        "honos" : 570,
+        "atjel" : 0,
+        "atjelInnen" : 49,
+        "osszesen" : 570
+      }
+    }, {
+      "sorszam" : "025",
+      "szk_nev" : "Budapest IX. kerület, 025. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1096 Budapest 09, Telepy u. 17. (Ált. Isk. és Gimn.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 904,
+        "honos" : 857,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 857
+      }
+    }, {
+      "sorszam" : "026",
+      "szk_nev" : "Budapest IX. kerület, 026. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1096 Budapest 09, Telepy u. 17. (Ált. Isk. és Gimn.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 728,
+        "honos" : 667,
+        "atjel" : 0,
+        "atjelInnen" : 50,
+        "osszesen" : 667
+      }
+    }, {
+      "sorszam" : "027",
+      "szk_nev" : "Budapest IX. kerület, 027. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1096 Budapest 09, Telepy u. 17. (Ált. Isk. és Gimn.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 717,
+        "honos" : 666,
+        "atjel" : 0,
+        "atjelInnen" : 38,
+        "osszesen" : 666
+      }
+    }, {
+      "sorszam" : "028",
+      "szk_nev" : "Budapest IX. kerület, 028. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1095 Budapest 09, Mester u. 19. (Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 701,
+        "honos" : 648,
+        "atjel" : 0,
+        "atjelInnen" : 46,
+        "osszesen" : 648
+      }
+    }, {
+      "sorszam" : "029",
+      "szk_nev" : "Budapest IX. kerület, 029. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1095 Budapest 09, Mester u. 19. (Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1094,
+        "honos" : 1005,
+        "atjel" : 0,
+        "atjelInnen" : 75,
+        "osszesen" : 1005
+      }
+    }, {
+      "sorszam" : "030",
+      "szk_nev" : "Budapest IX. kerület, 030. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BUDAPEST főváros, 01. számú OEVK",
+      "cim" : "1095 Budapest 09, Dandár u. 28-30. (Továbbképző Közp.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 965,
+        "honos" : 894,
+        "atjel" : 0,
+        "atjelInnen" : 68,
+        "osszesen" : 894
+      }
+    }, {
+      "sorszam" : "031",
+      "szk_nev" : "Budapest IX. kerület, 031. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1095 Budapest 09, Mester u. 45. (FESZ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 894,
+        "honos" : 828,
+        "atjel" : 0,
+        "atjelInnen" : 66,
+        "osszesen" : 828
+      }
+    }, {
+      "sorszam" : "032",
+      "szk_nev" : "Budapest IX. kerület, 032. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1097 Budapest 09, Vaskapu u. 23-29. (Gyermekorvosi Rend.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 700,
+        "honos" : 660,
+        "atjel" : 0,
+        "atjelInnen" : 41,
+        "osszesen" : 660
+      }
+    }, {
+      "sorszam" : "033",
+      "szk_nev" : "Budapest IX. kerület, 033. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1096 Budapest 09, Haller u. 27. (FMK)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 848,
+        "honos" : 805,
+        "atjel" : 0,
+        "atjelInnen" : 45,
+        "osszesen" : 805
+      }
+    }, {
+      "sorszam" : "034",
+      "szk_nev" : "Budapest IX. kerület, 034. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1095 Budapest 09, Mester u. 45. (FESZ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1045,
+        "honos" : 1005,
+        "atjel" : 0,
+        "atjelInnen" : 36,
+        "osszesen" : 1005
+      }
+    }, {
+      "sorszam" : "035",
+      "szk_nev" : "Budapest IX. kerület, 035. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1095 Budapest 09, Mester u. 45. (FESZ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 755,
+        "honos" : 715,
+        "atjel" : 0,
+        "atjelInnen" : 48,
+        "osszesen" : 715
+      }
+    }, {
+      "sorszam" : "036",
+      "szk_nev" : "Budapest IX. kerület, 036. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1097 Budapest 09, Vaskapu u. 23-29. (Védőnői Szolg.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1146,
+        "honos" : 1076,
+        "atjel" : 0,
+        "atjelInnen" : 124,
+        "osszesen" : 1076
+      }
+    }, {
+      "sorszam" : "037",
+      "szk_nev" : "Budapest IX. kerület, 037. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1097 Budapest 09, Gyáli út 22. (Puskás Tivadar Távközlési Technikum)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 715,
+        "honos" : 675,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 675
+      }
+    }, {
+      "sorszam" : "038",
+      "szk_nev" : "Budapest IX. kerület, 038. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1097 Budapest 09, Gyáli út 22. (Puskás Tivadar Távközlési Technikum)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 795,
+        "honos" : 782,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 782
+      }
+    }, {
+      "sorszam" : "039",
+      "szk_nev" : "Budapest IX. kerület, 039. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1097 Budapest 09, Gyáli út 22. (Puskás Tivadar Távközlési Technikum)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 847,
+        "honos" : 813,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 813
+      }
+    }, {
+      "sorszam" : "040",
+      "szk_nev" : "Budapest IX. kerület, 040. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1097 Budapest 09, Gubacsi út 89. (FESZOFE - bejárat Illatos útról)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 614,
+        "honos" : 587,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 587
+      }
+    }, {
+      "sorszam" : "041",
+      "szk_nev" : "Budapest IX. kerület, 041. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1091 Budapest 09, Ifjúmunkás u. 13. (Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 631,
+        "honos" : 621,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 621
+      }
+    }, {
+      "sorszam" : "042",
+      "szk_nev" : "Budapest IX. kerület, 042. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1098 Budapest 09, Dési Huber u. 9. (Bölcsőde)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 648,
+        "honos" : 620,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 620
+      }
+    }, {
+      "sorszam" : "043",
+      "szk_nev" : "Budapest IX. kerület, 043. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1091 Budapest 09, Ifjúmunkás u. 13. (Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 622,
+        "honos" : 593,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 593
+      }
+    }, {
+      "sorszam" : "044",
+      "szk_nev" : "Budapest IX. kerület, 044. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1091 Budapest 09, Ifjúmunkás u. 13. (Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 640,
+        "honos" : 609,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 609
+      }
+    }, {
+      "sorszam" : "045",
+      "szk_nev" : "Budapest IX. kerület, 045. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1091 Budapest 09, Ifjúmunkás u. 13. (Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 814,
+        "honos" : 769,
+        "atjel" : 0,
+        "atjelInnen" : 42,
+        "osszesen" : 769
+      }
+    }, {
+      "sorszam" : "046",
+      "szk_nev" : "Budapest IX. kerület, 046. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1091 Budapest 09, Ifjúmunkás u. 31. (Szakközépiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 702,
+        "honos" : 668,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 668
+      }
+    }, {
+      "sorszam" : "047",
+      "szk_nev" : "Budapest IX. kerület, 047. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1091 Budapest 09, Ifjúmunkás u. 31. (Szakközépiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 675,
+        "honos" : 627,
+        "atjel" : 0,
+        "atjelInnen" : 37,
+        "osszesen" : 627
+      }
+    }, {
+      "sorszam" : "048",
+      "szk_nev" : "Budapest IX. kerület, 048. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1091 Budapest 09, Ifjúmunkás u. 1. (Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 697,
+        "honos" : 645,
+        "atjel" : 0,
+        "atjelInnen" : 43,
+        "osszesen" : 645
+      }
+    }, {
+      "sorszam" : "049",
+      "szk_nev" : "Budapest IX. kerület, 049. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1091 Budapest 09, Ifjúmunkás u. 1. (Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 804,
+        "honos" : 774,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 774
+      }
+    }, {
+      "sorszam" : "050",
+      "szk_nev" : "Budapest IX. kerület, 050. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1098 Budapest 09, Toronyház u. 21. (Ált. Isk. és Gimn.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 779,
+        "honos" : 742,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 742
+      }
+    }, {
+      "sorszam" : "051",
+      "szk_nev" : "Budapest IX. kerület, 051. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1098 Budapest 09, Toronyház u. 21. (Ált. Isk. és Gimn.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 788,
+        "honos" : 753,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 753
+      }
+    }, {
+      "sorszam" : "052",
+      "szk_nev" : "Budapest IX. kerület, 052. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1098 Budapest 09, Toronyház u. 21. (Ált. Isk. és Gimn.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 772,
+        "honos" : 730,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 730
+      }
+    }, {
+      "sorszam" : "053",
+      "szk_nev" : "Budapest IX. kerület, 053. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1098 Budapest 09, Toronyház u. 21. (Ált. Isk. és Gimn.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 700,
+        "honos" : 675,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 675
+      }
+    }, {
+      "sorszam" : "054",
+      "szk_nev" : "Budapest IX. kerület, 054. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BUDAPEST főváros, 06. számú OEVK",
+      "cim" : "1096 Budapest 09, Haller u. 27. (FMK)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 0,
+        "honos" : 0,
+        "atjel" : 4343,
+        "atjelInnen" : 0,
+        "osszesen" : 4343
+      }
+    } ]
+  }
+}

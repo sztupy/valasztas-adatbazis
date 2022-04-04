@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "329",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tolcsva, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 05. számú OEVK",
+      "cim" : "3934 Tolcsva, Bajcsy-Zsilinszky u. 34. Előadóterem (Mikro)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 704,
+        "honos" : 663,
+        "atjel" : 8,
+        "atjelInnen" : 35,
+        "osszesen" : 671
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tolcsva, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 05. számú OEVK",
+      "cim" : "3934 Tolcsva, Bajcsy-Zsilinszky u. 34. Nappali Társalgó (Mikro)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 687,
+        "honos" : 650,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 650
+      }
+    } ]
+  }
+}

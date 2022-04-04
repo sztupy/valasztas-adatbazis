@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "089",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kópháza, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9495 Kópháza,  Fő utca 23. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 865,
+        "honos" : 839,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 839
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kópháza, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9495 Kópháza, Fő utca 17. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 782,
+        "honos" : 763,
+        "atjel" : 19,
+        "atjelInnen" : 15,
+        "osszesen" : 782
+      }
+    } ]
+  }
+}

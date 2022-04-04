@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "139",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sződliget, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "PEST megye, 04. számú OEVK",
+      "cim" : " Sződliget, Szt.István u. 29. (Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1019,
+        "honos" : 982,
+        "atjel" : 100,
+        "atjelInnen" : 37,
+        "osszesen" : 1082
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Sződliget, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "PEST megye, 04. számú OEVK",
+      "cim" : " Sződliget, Vörösmarty u. 8-12. (Napközi O. Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1177,
+        "honos" : 1136,
+        "atjel" : 0,
+        "atjelInnen" : 35,
+        "osszesen" : 1136
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Sződliget, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "PEST megye, 04. számú OEVK",
+      "cim" : " Sződliget, Rákóczi u. 1-3. (1.sz. terem Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 817,
+        "honos" : 801,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 801
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Sződliget, 004. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "PEST megye, 04. számú OEVK",
+      "cim" : " Sződliget, Rákóczi u. 1-3. (Általános Iskola 2. sz. tanterem)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 780,
+        "honos" : 762,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 762
+      }
+    } ]
+  }
+}

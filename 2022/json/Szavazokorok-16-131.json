@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "131",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nyírmihálydi, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : "4363 Nyírmihálydi, Debreceni út 11.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 678,
+        "honos" : 674,
+        "atjel" : 9,
+        "atjelInnen" : 14,
+        "osszesen" : 683
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nyírmihálydi, 002. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : "4363 Nyírmihálydi, Zrínyi utca 11-13.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 742,
+        "honos" : 715,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 715
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "124",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Monoszló, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VESZPRÉM megye, 02. számú OEVK",
+      "cim" : " Monoszló, Fő u. 35. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 95,
+        "honos" : 82,
+        "atjel" : 9,
+        "atjelInnen" : 13,
+        "osszesen" : 91
+      }
+    } ]
+  }
+}

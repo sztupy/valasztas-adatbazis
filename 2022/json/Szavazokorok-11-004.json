@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "004",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Besenyszög, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 01. számú OEVK",
+      "cim" : " Besenyszög, Dózsa György út 4. (Városháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1030,
+        "honos" : 997,
+        "atjel" : 18,
+        "atjelInnen" : 26,
+        "osszesen" : 1015
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Besenyszög, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 01. számú OEVK",
+      "cim" : " Besenyszög, Szabadság tér 1.  (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 824,
+        "honos" : 798,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 798
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Besenyszög, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 01. számú OEVK",
+      "cim" : " Besenyszög, Vasvári út 7.  (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 844,
+        "honos" : 823,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 823
+      }
+    } ]
+  }
+}

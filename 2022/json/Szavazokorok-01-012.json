@@ -1,0 +1,964 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "01",
+    "taz" : "012",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Budapest XII. kerület, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1122 Budapest 12, Csaba u. 16/c. (Pannonia Sacra Kat.  Ált. Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 694,
+        "honos" : 643,
+        "atjel" : 0,
+        "atjelInnen" : 43,
+        "osszesen" : 643
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Budapest XII. kerület, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1122 Budapest 12, Ráth György u. 18-20. (Krisztinavárosi Bölcsőde)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 680,
+        "honos" : 643,
+        "atjel" : 0,
+        "atjelInnen" : 36,
+        "osszesen" : 643
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Budapest XII. kerület, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1126 Budapest 12, Orbánhegyi út 3/a. (Orbánhegyi Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 510,
+        "honos" : 475,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 475
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Budapest XII. kerület, 004. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1122 Budapest 12, Városmajor u. 59. (VMG és Kós Károly Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 754,
+        "honos" : 702,
+        "atjel" : 0,
+        "atjelInnen" : 47,
+        "osszesen" : 702
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Budapest XII. kerület, 005. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1122 Budapest 12, Csaba u. 16/c. (Pannonia Sacra Kat. Ált. Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 620,
+        "honos" : 569,
+        "atjel" : 0,
+        "atjelInnen" : 38,
+        "osszesen" : 569
+      }
+    }, {
+      "sorszam" : "006",
+      "szk_nev" : "Budapest XII. kerület, 006. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1122 Budapest 12, Csaba u. 16/c. (Pannonia Sacra Kat. Ált. Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "I",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 528,
+        "honos" : 482,
+        "atjel" : 0,
+        "atjelInnen" : 51,
+        "osszesen" : 482
+      }
+    }, {
+      "sorszam" : "007",
+      "szk_nev" : "Budapest XII. kerület, 007. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1126 Budapest 12, Beethoven u. 3. (volt ELTE Gyak.Isk.Tornaterme)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 764,
+        "honos" : 714,
+        "atjel" : 0,
+        "atjelInnen" : 47,
+        "osszesen" : 714
+      }
+    }, {
+      "sorszam" : "008",
+      "szk_nev" : "Budapest XII. kerület, 008. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1126 Budapest 12, Beethoven u. 3. (volt ELTE Gyak.Isk.Tornaterme)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 827,
+        "honos" : 771,
+        "atjel" : 0,
+        "atjelInnen" : 46,
+        "osszesen" : 771
+      }
+    }, {
+      "sorszam" : "009",
+      "szk_nev" : "Budapest XII. kerület, 009. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1126 Budapest 12, Orbánhegyi út 3/a.  (Orbánhegyi Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 908,
+        "honos" : 844,
+        "atjel" : 0,
+        "atjelInnen" : 56,
+        "osszesen" : 844
+      }
+    }, {
+      "sorszam" : "010",
+      "szk_nev" : "Budapest XII. kerület, 010. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1122 Budapest 12, Városmajor u. 59. (VMG és Kós Károly Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 985,
+        "honos" : 931,
+        "atjel" : 0,
+        "atjelInnen" : 53,
+        "osszesen" : 931
+      }
+    }, {
+      "sorszam" : "011",
+      "szk_nev" : "Budapest XII. kerület, 011. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1121 Budapest 12, Diana u. 4. (Jókai Mór Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 772,
+        "honos" : 725,
+        "atjel" : 0,
+        "atjelInnen" : 53,
+        "osszesen" : 725
+      }
+    }, {
+      "sorszam" : "012",
+      "szk_nev" : "Budapest XII. kerület, 012. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1125 Budapest 12, Diana u. 35-37/a. (Gyakorló Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 939,
+        "honos" : 880,
+        "atjel" : 0,
+        "atjelInnen" : 56,
+        "osszesen" : 880
+      }
+    }, {
+      "sorszam" : "013",
+      "szk_nev" : "Budapest XII. kerület, 013. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1126 Budapest 12, Diana u. 35-37/a. (Gyakorló Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 627,
+        "honos" : 584,
+        "atjel" : 0,
+        "atjelInnen" : 43,
+        "osszesen" : 584
+      }
+    }, {
+      "sorszam" : "014",
+      "szk_nev" : "Budapest XII. kerület, 014. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1122 Budapest 12, Városmajor u. 59. (VMG és Kós Károly Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 666,
+        "honos" : 619,
+        "atjel" : 0,
+        "atjelInnen" : 46,
+        "osszesen" : 619
+      }
+    }, {
+      "sorszam" : "015",
+      "szk_nev" : "Budapest XII. kerület, 015. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1122 Budapest 12, Városmajor u. 59. (VMG és Kós Károly Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 710,
+        "honos" : 663,
+        "atjel" : 0,
+        "atjelInnen" : 38,
+        "osszesen" : 663
+      }
+    }, {
+      "sorszam" : "016",
+      "szk_nev" : "Budapest XII. kerület, 016. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1126 Budapest 12, Orbánhegyi út 7. (Fekete István Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 664,
+        "honos" : 637,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 637
+      }
+    }, {
+      "sorszam" : "017",
+      "szk_nev" : "Budapest XII. kerület, 017. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1126 Budapest 12, Beethoven u. 3. (volt ELTE Gyak. Isk. Tornaterme)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 962,
+        "honos" : 915,
+        "atjel" : 0,
+        "atjelInnen" : 53,
+        "osszesen" : 915
+      }
+    }, {
+      "sorszam" : "018",
+      "szk_nev" : "Budapest XII. kerület, 018. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1126 Budapest 12, Beethoven u. 3. (ELTE Gyakorló Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 872,
+        "honos" : 801,
+        "atjel" : 0,
+        "atjelInnen" : 72,
+        "osszesen" : 801
+      }
+    }, {
+      "sorszam" : "019",
+      "szk_nev" : "Budapest XII. kerület, 019. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1126 Budapest 12, Beethoven u. 3. (ELTE Gyakorló Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 776,
+        "honos" : 724,
+        "atjel" : 0,
+        "atjelInnen" : 41,
+        "osszesen" : 724
+      }
+    }, {
+      "sorszam" : "020",
+      "szk_nev" : "Budapest XII. kerület, 020. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1124 Budapest 12, Mártonhegyi út 34. (Tamási Áron Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 762,
+        "honos" : 706,
+        "atjel" : 0,
+        "atjelInnen" : 53,
+        "osszesen" : 706
+      }
+    }, {
+      "sorszam" : "021",
+      "szk_nev" : "Budapest XII. kerület, 021. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1124 Budapest 12, Mártonhegyi út 34. (Tamási Áron Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 739,
+        "honos" : 691,
+        "atjel" : 0,
+        "atjelInnen" : 41,
+        "osszesen" : 691
+      }
+    }, {
+      "sorszam" : "022",
+      "szk_nev" : "Budapest XII. kerület, 022. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1125 Budapest 12, Diana u. 35-37/a. (Gyakorló Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 528,
+        "honos" : 472,
+        "atjel" : 0,
+        "atjelInnen" : 49,
+        "osszesen" : 472
+      }
+    }, {
+      "sorszam" : "023",
+      "szk_nev" : "Budapest XII. kerület, 023. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1126 Budapest 12, Németvölgyi út 46. (Németvölgyi Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 672,
+        "honos" : 634,
+        "atjel" : 0,
+        "atjelInnen" : 36,
+        "osszesen" : 634
+      }
+    }, {
+      "sorszam" : "024",
+      "szk_nev" : "Budapest XII. kerület, 024. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1126 Budapest 12, Orbánhegyi út 7. (Fekete István Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 613,
+        "honos" : 578,
+        "atjel" : 0,
+        "atjelInnen" : 38,
+        "osszesen" : 578
+      }
+    }, {
+      "sorszam" : "025",
+      "szk_nev" : "Budapest XII. kerület, 025. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1126 Budapest 12, Németvölgyi út 46. (Mackós Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 788,
+        "honos" : 728,
+        "atjel" : 0,
+        "atjelInnen" : 58,
+        "osszesen" : 728
+      }
+    }, {
+      "sorszam" : "026",
+      "szk_nev" : "Budapest XII. kerület, 026. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1124 Budapest 12, Lejtő út 41. (Táltos Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 728,
+        "honos" : 680,
+        "atjel" : 0,
+        "atjelInnen" : 45,
+        "osszesen" : 680
+      }
+    }, {
+      "sorszam" : "027",
+      "szk_nev" : "Budapest XII. kerület, 027. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1124 Budapest 12, Mártonhegyi út 34. (Tamási Áron Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 692,
+        "honos" : 640,
+        "atjel" : 0,
+        "atjelInnen" : 44,
+        "osszesen" : 640
+      }
+    }, {
+      "sorszam" : "028",
+      "szk_nev" : "Budapest XII. kerület, 028. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1126 Budapest 12, Beethoven u. 3. (volt ELTE Gyak. Isk. Tornaterme)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 993,
+        "honos" : 931,
+        "atjel" : 0,
+        "atjelInnen" : 55,
+        "osszesen" : 931
+      }
+    }, {
+      "sorszam" : "029",
+      "szk_nev" : "Budapest XII. kerület, 029. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1126 Budapest 12, Kiss J. altb. u. 33/b (Németvölgy Gondozási Közp.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 731,
+        "honos" : 682,
+        "atjel" : 0,
+        "atjelInnen" : 53,
+        "osszesen" : 682
+      }
+    }, {
+      "sorszam" : "030",
+      "szk_nev" : "Budapest XII. kerület, 030. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1126 Budapest 12, Kiss J. altb. u. 34. (Családsegítő Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 943,
+        "honos" : 868,
+        "atjel" : 0,
+        "atjelInnen" : 68,
+        "osszesen" : 868
+      }
+    }, {
+      "sorszam" : "031",
+      "szk_nev" : "Budapest XII. kerület, 031. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1123 Budapest 12, Alkotás u. 45. (Budai Rajziskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 699,
+        "honos" : 658,
+        "atjel" : 0,
+        "atjelInnen" : 43,
+        "osszesen" : 658
+      }
+    }, {
+      "sorszam" : "032",
+      "szk_nev" : "Budapest XII. kerület, 032. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1123 Budapest 12, Alkotás u. 45. (Budai Rajziskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 811,
+        "honos" : 760,
+        "atjel" : 0,
+        "atjelInnen" : 53,
+        "osszesen" : 760
+      }
+    }, {
+      "sorszam" : "033",
+      "szk_nev" : "Budapest XII. kerület, 033. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1123 Budapest 12, Alkotás u. 45. (Budai Rajziskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 937,
+        "honos" : 877,
+        "atjel" : 0,
+        "atjelInnen" : 52,
+        "osszesen" : 877
+      }
+    }, {
+      "sorszam" : "034",
+      "szk_nev" : "Budapest XII. kerület, 034. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1126 Budapest 12, Kiss J. altb. u. 33/b (Németvölgy Gondozási Közp.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 877,
+        "honos" : 809,
+        "atjel" : 0,
+        "atjelInnen" : 68,
+        "osszesen" : 809
+      }
+    }, {
+      "sorszam" : "035",
+      "szk_nev" : "Budapest XII. kerület, 035. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1124 Budapest 12, Lejtő út 41. (Táltos Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 861,
+        "honos" : 810,
+        "atjel" : 0,
+        "atjelInnen" : 44,
+        "osszesen" : 810
+      }
+    }, {
+      "sorszam" : "036",
+      "szk_nev" : "Budapest XII. kerület, 036. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1124 Budapest 12, Mártonhegyi út 34. (Tamási Áron Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 675,
+        "honos" : 632,
+        "atjel" : 0,
+        "atjelInnen" : 42,
+        "osszesen" : 632
+      }
+    }, {
+      "sorszam" : "037",
+      "szk_nev" : "Budapest XII. kerület, 037. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1124 Budapest 12, Mártonhegyi út 34. (Tamási Áron Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 763,
+        "honos" : 734,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 734
+      }
+    }, {
+      "sorszam" : "038",
+      "szk_nev" : "Budapest XII. kerület, 038. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1121 Budapest 12, Rácz Aladár út 5. (Háziorvosi Rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 945,
+        "honos" : 890,
+        "atjel" : 0,
+        "atjelInnen" : 54,
+        "osszesen" : 890
+      }
+    }, {
+      "sorszam" : "039",
+      "szk_nev" : "Budapest XII. kerület, 039. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1121 Budapest 12, Rácz Aladár út 5. (Háziorvosi Rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1025,
+        "honos" : 952,
+        "atjel" : 0,
+        "atjelInnen" : 75,
+        "osszesen" : 952
+      }
+    }, {
+      "sorszam" : "040",
+      "szk_nev" : "Budapest XII. kerület, 040. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1125 Budapest 12, Szarvas Gábor út 8/c. (Családsegítő Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 753,
+        "honos" : 705,
+        "atjel" : 0,
+        "atjelInnen" : 47,
+        "osszesen" : 705
+      }
+    }, {
+      "sorszam" : "041",
+      "szk_nev" : "Budapest XII. kerület, 041. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1122 Budapest 12, Virányos út 48.  (Virányos Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 541,
+        "honos" : 510,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 510
+      }
+    }, {
+      "sorszam" : "042",
+      "szk_nev" : "Budapest XII. kerület, 042. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1125 Budapest 12, Alsó Svábhegyi út 2. (Hegyvidéki Mesevár Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 882,
+        "honos" : 818,
+        "atjel" : 0,
+        "atjelInnen" : 60,
+        "osszesen" : 818
+      }
+    }, {
+      "sorszam" : "043",
+      "szk_nev" : "Budapest XII. kerület, 043. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1125 Budapest 12, Alsó Svábhegyi út 2. (Hegyvidéki Mesevár Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 911,
+        "honos" : 841,
+        "atjel" : 0,
+        "atjelInnen" : 66,
+        "osszesen" : 841
+      }
+    }, {
+      "sorszam" : "044",
+      "szk_nev" : "Budapest XII. kerület, 044. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1121 Budapest 12, Hollós út 5. (Jókai Klub)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1005,
+        "honos" : 928,
+        "atjel" : 0,
+        "atjelInnen" : 65,
+        "osszesen" : 928
+      }
+    }, {
+      "sorszam" : "045",
+      "szk_nev" : "Budapest XII. kerület, 045. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1121 Budapest 12, Diana u. 4. (Jókai Mór Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 665,
+        "honos" : 623,
+        "atjel" : 0,
+        "atjelInnen" : 44,
+        "osszesen" : 623
+      }
+    }, {
+      "sorszam" : "046",
+      "szk_nev" : "Budapest XII. kerület, 046. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1121 Budapest 12, Diana u. 4. (Jókai Mór Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 968,
+        "honos" : 922,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 922
+      }
+    }, {
+      "sorszam" : "047",
+      "szk_nev" : "Budapest XII. kerület, 047. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1121 Budapest 12, Rácz Aladár út 5. (Háziorvosi Rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1057,
+        "honos" : 996,
+        "atjel" : 0,
+        "atjelInnen" : 54,
+        "osszesen" : 996
+      }
+    }, {
+      "sorszam" : "048",
+      "szk_nev" : "Budapest XII. kerület, 048. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1122 Budapest 12, Csaba u. 16/c. (Pannonia Sacra Kat. Ált. Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 852,
+        "honos" : 787,
+        "atjel" : 0,
+        "atjelInnen" : 53,
+        "osszesen" : 787
+      }
+    }, {
+      "sorszam" : "049",
+      "szk_nev" : "Budapest XII. kerület, 049. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1122 Budapest 12, Városmajor u. 59. (VMG és Kós Károly Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 869,
+        "honos" : 808,
+        "atjel" : 0,
+        "atjelInnen" : 58,
+        "osszesen" : 808
+      }
+    }, {
+      "sorszam" : "050",
+      "szk_nev" : "Budapest XII. kerület, 050. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1125 Budapest 12, Alsó Svábhegyi út 2. (Hegyvidéki Mesevár Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 801,
+        "honos" : 754,
+        "atjel" : 0,
+        "atjelInnen" : 52,
+        "osszesen" : 754
+      }
+    }, {
+      "sorszam" : "051",
+      "szk_nev" : "Budapest XII. kerület, 051. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1125 Budapest 12, Virányos út 48. (Virányos Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 579,
+        "honos" : 552,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 552
+      }
+    }, {
+      "sorszam" : "052",
+      "szk_nev" : "Budapest XII. kerület, 052. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1121 Budapest 12, Diana u. 4. (Jókai Mór Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 899,
+        "honos" : 831,
+        "atjel" : 0,
+        "atjelInnen" : 59,
+        "osszesen" : 831
+      }
+    }, {
+      "sorszam" : "053",
+      "szk_nev" : "Budapest XII. kerület, 053. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1121 Budapest 12, Béla király út 59-61. (Zugligeti Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 875,
+        "honos" : 829,
+        "atjel" : 0,
+        "atjelInnen" : 38,
+        "osszesen" : 829
+      }
+    }, {
+      "sorszam" : "054",
+      "szk_nev" : "Budapest XII. kerület, 054. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1125 Budapest 12, Virányos út 48. (Virányos Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 701,
+        "honos" : 656,
+        "atjel" : 0,
+        "atjelInnen" : 50,
+        "osszesen" : 656
+      }
+    }, {
+      "sorszam" : "055",
+      "szk_nev" : "Budapest XII. kerület, 055. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : "1122 Budapest 12, Városmajor u. 59. (VMG és Kós Károly Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 708,
+        "honos" : 664,
+        "atjel" : 0,
+        "atjelInnen" : 43,
+        "osszesen" : 664
+      }
+    }, {
+      "sorszam" : "099",
+      "szk_nev" : "Budapest XII. kerület, 099. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BUDAPEST főváros, 03. számú OEVK",
+      "cim" : " Budapest 12, Németvölgyi út 46. (Németvölgyi Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 0,
+        "honos" : 0,
+        "atjel" : 2504,
+        "atjelInnen" : 0,
+        "osszesen" : 2504
+      }
+    } ]
+  }
+}

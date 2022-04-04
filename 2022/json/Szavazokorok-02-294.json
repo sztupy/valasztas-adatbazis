@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "294",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Véménd, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : "7726 Véménd, Tavasz utca 1. (Házasságkötő terem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1107,
+        "honos" : 1066,
+        "atjel" : 9,
+        "atjelInnen" : 35,
+        "osszesen" : 1075
+      }
+    } ]
+  }
+}

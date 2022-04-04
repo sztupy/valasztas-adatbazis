@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "061",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pusztaföldvár, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Pusztaföldvár, Szabadság tér 1. (Konyha)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 743,
+        "honos" : 720,
+        "atjel" : 12,
+        "atjelInnen" : 16,
+        "osszesen" : 732
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Pusztaföldvár, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Pusztaföldvár, Dózsa u. 25. (Újfalusi Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 543,
+        "honos" : 521,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 521
+      }
+    } ]
+  }
+}

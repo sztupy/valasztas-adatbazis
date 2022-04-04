@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "106",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ivánbattyán, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : "7772 Ivánbattyán, Batthyány u. 11.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 90,
+        "honos" : 88,
+        "atjel" : 4,
+        "atjelInnen" : 1,
+        "osszesen" : 92
+      }
+    } ]
+  }
+}

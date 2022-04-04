@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "129",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ravazd, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Ravazd,  Országút utca 119/A. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1031,
+        "honos" : 1006,
+        "atjel" : 12,
+        "atjelInnen" : 17,
+        "osszesen" : 1018
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "211",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Türje, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Türje, Szabadság tér 17. (Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 543,
+        "honos" : 526,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 526
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Türje, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Türje, Szabadság tér 11. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 733,
+        "honos" : 721,
+        "atjel" : 12,
+        "atjelInnen" : 8,
+        "osszesen" : 733
+      }
+    } ]
+  }
+}

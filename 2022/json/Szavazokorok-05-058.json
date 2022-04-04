@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "058",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Cigánd, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 05. számú OEVK",
+      "cim" : "3973 Cigánd,  Fő utca 38. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 838,
+        "honos" : 801,
+        "atjel" : 9,
+        "atjelInnen" : 27,
+        "osszesen" : 810
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Cigánd, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 05. számú OEVK",
+      "cim" : "3973 Cigánd,  Fő utca 90. (Családsegítő Szolgálat)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 730,
+        "honos" : 712,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 712
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Cigánd, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 05. számú OEVK",
+      "cim" : "3973 Cigánd,  József A. utca 1. (Szociális Szolgáltató)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 751,
+        "honos" : 731,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 731
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "143",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Igrici, 001. számú szavazókör",
+      "evk" : "07",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 07. számú OEVK",
+      "cim" : " Igrici, Kossuth utca 57. (Házasságkötő Terem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 884,
+        "honos" : 876,
+        "atjel" : 4,
+        "atjelInnen" : 8,
+        "osszesen" : 880
+      }
+    } ]
+  }
+}

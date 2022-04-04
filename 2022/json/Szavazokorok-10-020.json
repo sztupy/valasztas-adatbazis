@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "020",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Demjén, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : " Demjén, Petőfi Sándor u. 27. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 492,
+        "honos" : 482,
+        "atjel" : 16,
+        "atjelInnen" : 6,
+        "osszesen" : 498
+      }
+    } ]
+  }
+}

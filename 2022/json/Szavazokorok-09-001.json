@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "09",
+    "taz" : "001",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Álmosd, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 03. számú OEVK",
+      "cim" : " Álmosd, Iskola köz 3. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 727,
+        "honos" : 702,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 702
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Álmosd, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 03. számú OEVK",
+      "cim" : " Álmosd, Iskola köz 3. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 686,
+        "honos" : 673,
+        "atjel" : 10,
+        "atjelInnen" : 11,
+        "osszesen" : 683
+      }
+    } ]
+  }
+}

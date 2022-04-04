@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "066",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Gutorfölde, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : " Gutorfölde, Kossuth utca 57. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 642,
+        "honos" : 621,
+        "atjel" : 9,
+        "atjelInnen" : 16,
+        "osszesen" : 630
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Gutorfölde, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : " Gutorfölde, Jókai utca 30. (Klubkönyvtár)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 194,
+        "honos" : 189,
+        "atjel" : 0,
+        "atjelInnen" : 0,
+        "osszesen" : 189
+      }
+    } ]
+  }
+}

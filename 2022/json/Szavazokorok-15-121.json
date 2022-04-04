@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "121",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Magyaratád, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Magyaratád, Pázmány Péter tér 10. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 519,
+        "honos" : 503,
+        "atjel" : 8,
+        "atjelInnen" : 12,
+        "osszesen" : 511
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Magyaratád, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Magyaratád, Rácegres u. 17. (Kultúrotthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 150,
+        "honos" : 149,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 149
+      }
+    } ]
+  }
+}

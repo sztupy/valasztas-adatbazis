@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "148",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Őrtilos, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Őrtilos, Szentmihályhegy 102. (Kultúrterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 92,
+        "honos" : 88,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 88
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Őrtilos, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Őrtilos, Rákóczi utca 46. (Kultúrotthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 277,
+        "honos" : 265,
+        "atjel" : 5,
+        "atjelInnen" : 11,
+        "osszesen" : 270
+      }
+    } ]
+  }
+}

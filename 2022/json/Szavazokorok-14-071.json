@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "071",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kosd, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "PEST megye, 04. számú OEVK",
+      "cim" : "2612 Kosd, Szent István u. 3. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1144,
+        "honos" : 1129,
+        "atjel" : 31,
+        "atjelInnen" : 15,
+        "osszesen" : 1160
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kosd, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "PEST megye, 04. számú OEVK",
+      "cim" : "2612 Kosd, Bocskai u. 1.  (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 876,
+        "honos" : 860,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 860
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "132",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Hernádkércs, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 06. számú OEVK",
+      "cim" : " Hernádkércs, Kossuth út 72. (Műv. Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 245,
+        "honos" : 241,
+        "atjel" : 2,
+        "atjelInnen" : 3,
+        "osszesen" : 243
+      }
+    } ]
+  }
+}

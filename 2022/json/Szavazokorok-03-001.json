@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "001",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Akasztó, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÁCS-KISKUN megye, 03. számú OEVK",
+      "cim" : " Akasztó, Fő utca 88. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1404,
+        "honos" : 1364,
+        "atjel" : 23,
+        "atjelInnen" : 32,
+        "osszesen" : 1387
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Akasztó, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÁCS-KISKUN megye, 03. számú OEVK",
+      "cim" : "6221 Akasztó, Nyúl utca 4. ( Idősek Napközi Otthona)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1285,
+        "honos" : 1263,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 1263
+      }
+    } ]
+  }
+}

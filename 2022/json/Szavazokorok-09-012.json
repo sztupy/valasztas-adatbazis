@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "09",
+    "taz" : "012",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Biharnagybajom, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 04. számú OEVK",
+      "cim" : " Biharnagybajom, Várkert 35. (Szűs Sándor Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 626,
+        "honos" : 610,
+        "atjel" : 8,
+        "atjelInnen" : 15,
+        "osszesen" : 618
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Biharnagybajom, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 04. számú OEVK",
+      "cim" : " Biharnagybajom, Mátyás király utca 1. (Kisbajomi Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 663,
+        "honos" : 649,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 649
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Biharnagybajom, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 04. számú OEVK",
+      "cim" : " Biharnagybajom, Bacsó Béla utca 2-4. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 700,
+        "honos" : 679,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 679
+      }
+    } ]
+  }
+}

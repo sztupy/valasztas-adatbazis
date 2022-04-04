@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "181",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tarpa, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 04. számú OEVK",
+      "cim" : " Tarpa, Kossuth u. 19/F. (Új Isk. fsz. 4. tanterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 959,
+        "honos" : 909,
+        "atjel" : 18,
+        "atjelInnen" : 45,
+        "osszesen" : 927
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tarpa, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 04. számú OEVK",
+      "cim" : " Tarpa, Kossuth u. 19/F. (Új Isk. fsz. 5. tanterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 967,
+        "honos" : 931,
+        "atjel" : 0,
+        "atjelInnen" : 45,
+        "osszesen" : 931
+      }
+    } ]
+  }
+}

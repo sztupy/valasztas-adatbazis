@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "048",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Naszály, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 03. számú OEVK",
+      "cim" : " Naszály, Rákóczi u. 117. (Művelődési és If. Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1090,
+        "honos" : 1071,
+        "atjel" : 19,
+        "atjelInnen" : 20,
+        "osszesen" : 1090
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Naszály, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 03. számú OEVK",
+      "cim" : " Naszály, Iskola u. 1. (Angyalffy M. Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 873,
+        "honos" : 865,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 865
+      }
+    } ]
+  }
+}

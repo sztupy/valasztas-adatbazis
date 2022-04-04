@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "184",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Somogycsicsó, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Somogycsicsó, Rákóczi utca 1. (volt Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 114,
+        "honos" : 108,
+        "atjel" : 1,
+        "atjelInnen" : 5,
+        "osszesen" : 109
+      }
+    } ]
+  }
+}

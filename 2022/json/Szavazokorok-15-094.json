@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "094",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kaszó, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Kaszó, Kaszó puszta (Vendégház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 80,
+        "honos" : 76,
+        "atjel" : 6,
+        "atjelInnen" : 2,
+        "osszesen" : 82
+      }
+    } ]
+  }
+}

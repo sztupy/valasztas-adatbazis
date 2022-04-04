@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "003",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Berekfürdő, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 03. számú OEVK",
+      "cim" : " Berekfürdő, IV. Béla Király út 1. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1116,
+        "honos" : 1045,
+        "atjel" : 23,
+        "atjelInnen" : 65,
+        "osszesen" : 1068
+      }
+    } ]
+  }
+}

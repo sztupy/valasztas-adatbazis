@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "064",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Dunaszekcső, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Dunaszekcső, Kossuth L. utca 20.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 804,
+        "honos" : 782,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 782
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Dunaszekcső, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Dunaszekcső, Kossuth L. utca 33.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 734,
+        "honos" : 712,
+        "atjel" : 15,
+        "atjelInnen" : 23,
+        "osszesen" : 727
+      }
+    } ]
+  }
+}

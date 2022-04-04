@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "001",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Abasár, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Abasár, Iskola út 36. (IKSZT Saári Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1058,
+        "honos" : 1031,
+        "atjel" : 23,
+        "atjelInnen" : 25,
+        "osszesen" : 1054
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Abasár, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Abasár, Iskola út  11. (Községi Könyvtár Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1038,
+        "honos" : 1020,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 1020
+      }
+    } ]
+  }
+}

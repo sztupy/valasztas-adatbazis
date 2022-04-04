@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "096",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szilvásvárad, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Szilvásvárad, Miskolci út 1. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 592,
+        "honos" : 559,
+        "atjel" : 37,
+        "atjelInnen" : 20,
+        "osszesen" : 596
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szilvásvárad, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Szilvásvárad, Miskolci út 7. (Szociális Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 699,
+        "honos" : 676,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 676
+      }
+    } ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "008",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Badacsonytomaj, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VESZPRÉM megye, 03. számú OEVK",
+      "cim" : "8258 Badacsonytomaj, Fő utca 14.  (Polgármesteri Hivatal terme)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 637,
+        "honos" : 608,
+        "atjel" : 75,
+        "atjelInnen" : 29,
+        "osszesen" : 683
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Badacsonytomaj, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VESZPRÉM megye, 03. számú OEVK",
+      "cim" : "8258 Badacsonytomaj, Római út 69. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 581,
+        "honos" : 521,
+        "atjel" : 0,
+        "atjelInnen" : 63,
+        "osszesen" : 521
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Badacsonytomaj, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VESZPRÉM megye, 03. számú OEVK",
+      "cim" : "8257 Badacsonytomaj, Füredi út 49. (Varga Pincészet)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 600,
+        "honos" : 573,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 573
+      }
+    } ]
+  }
+}

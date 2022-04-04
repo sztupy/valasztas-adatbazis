@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "178",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szentbékkálla, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VESZPRÉM megye, 03. számú OEVK",
+      "cim" : "8281 Szentbékkálla, Kossuth utca 18.  (Tárgyalóterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 179,
+        "honos" : 174,
+        "atjel" : 24,
+        "atjelInnen" : 5,
+        "osszesen" : 198
+      }
+    } ]
+  }
+}

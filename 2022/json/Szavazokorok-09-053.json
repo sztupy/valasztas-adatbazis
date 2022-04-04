@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "09",
+    "taz" : "053",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagyhegyes, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 05. számú OEVK",
+      "cim" : " Nagyhegyes, Kossuth utca 30/A. (Tündérkert Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1227,
+        "honos" : 1207,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 1207
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nagyhegyes, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 05. számú OEVK",
+      "cim" : " Nagyhegyes, Kossuth utca 39. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1117,
+        "honos" : 1092,
+        "atjel" : 28,
+        "atjelInnen" : 23,
+        "osszesen" : 1120
+      }
+    } ]
+  }
+}

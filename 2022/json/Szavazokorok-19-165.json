@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "165",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Révfülöp, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VESZPRÉM megye, 03. számú OEVK",
+      "cim" : "8253 Révfülöp, Káli út 17.  (Integrált Közösségi Szolgáltató Tér)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1025,
+        "honos" : 942,
+        "atjel" : 61,
+        "atjelInnen" : 81,
+        "osszesen" : 1003
+      }
+    } ]
+  }
+}

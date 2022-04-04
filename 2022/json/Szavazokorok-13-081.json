@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "081",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagyoroszi, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : "2645 Nagyoroszi, Fő út 1. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 749,
+        "honos" : 729,
+        "atjel" : 16,
+        "atjelInnen" : 24,
+        "osszesen" : 745
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nagyoroszi, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : "2645 Nagyoroszi, Szent István tér 1. (volt könyvtár épülete)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 825,
+        "honos" : 794,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 794
+      }
+    } ]
+  }
+}

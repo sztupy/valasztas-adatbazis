@@ -1,0 +1,828 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "038",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Érd, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Fő u. 42. (Pedagógiai Szakszolgálat)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1227,
+        "honos" : 1194,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 1194
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Érd, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Fő u. 42. (Pedagógiai Szakszolgálat)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1065,
+        "honos" : 1027,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 1027
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Érd, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Erzsébet utca 24-32. (Érdi Bolyai János Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1041,
+        "honos" : 1004,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 1004
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Érd, 004. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Erzsébet utca 24-32. (Érdi Bolyai János Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 937,
+        "honos" : 923,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 923
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Érd, 005. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Felső u. 39-41. (Dr. Romics László Eü. Intézmény)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 970,
+        "honos" : 935,
+        "atjel" : 1029,
+        "atjelInnen" : 23,
+        "osszesen" : 1964
+      }
+    }, {
+      "sorszam" : "006",
+      "szk_nev" : "Érd, 006. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Ercsi út 4. (ÉSZC Kós Károly Szakgimnáziuma)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1261,
+        "honos" : 1210,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 1210
+      }
+    }, {
+      "sorszam" : "007",
+      "szk_nev" : "Érd, 007. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Fácán köz 1. (Érdi Batthyány Sportiskolai Ált.Isk)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1214,
+        "honos" : 1172,
+        "atjel" : 0,
+        "atjelInnen" : 34,
+        "osszesen" : 1172
+      }
+    }, {
+      "sorszam" : "008",
+      "szk_nev" : "Érd, 008. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Fácán köz 1. (Érdi Batthyány Sportiskolai Ált.Isk)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1137,
+        "honos" : 1149,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 1149
+      }
+    }, {
+      "sorszam" : "009",
+      "szk_nev" : "Érd, 009. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Holló tér 1. (Érdi Móra Ferenc Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 994,
+        "honos" : 974,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 974
+      }
+    }, {
+      "sorszam" : "010",
+      "szk_nev" : "Érd, 010. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Holló tér 1. (Érdi Móra Ferenc Általános Iskola(",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1211,
+        "honos" : 1186,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 1186
+      }
+    }, {
+      "sorszam" : "011",
+      "szk_nev" : "Érd, 011. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Holló tér 1. (Érdi Móra Ferenc Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1094,
+        "honos" : 1069,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 1069
+      }
+    }, {
+      "sorszam" : "012",
+      "szk_nev" : "Érd, 012. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Gárdonyi 1/b. (Érdi Gárdonyi G. Ált.Isk. és Gimn.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1300,
+        "honos" : 1253,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 1253
+      }
+    }, {
+      "sorszam" : "013",
+      "szk_nev" : "Érd, 013. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Hivatalnok u. 14. (Csuka Zoltán Városi Könyvtár)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1024,
+        "honos" : 988,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 988
+      }
+    }, {
+      "sorszam" : "014",
+      "szk_nev" : "Érd, 014. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Gárdonyi 1/b. (Gárdonyi G. Ált. Isk. és Gimn.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1004,
+        "honos" : 979,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 979
+      }
+    }, {
+      "sorszam" : "015",
+      "szk_nev" : "Érd, 015. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Széchenyi tér 1. (Érdi Vörösmarty Mihály Gimn.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1257,
+        "honos" : 1200,
+        "atjel" : 0,
+        "atjelInnen" : 42,
+        "osszesen" : 1200
+      }
+    }, {
+      "sorszam" : "016",
+      "szk_nev" : "Érd, 016. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Gyula utca 33-37. (Meseház Tagóvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1139,
+        "honos" : 1098,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 1098
+      }
+    }, {
+      "sorszam" : "017",
+      "szk_nev" : "Érd, 017. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Alsó u. 9. (Szepes Gyula Művelődési Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "I",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 926,
+        "honos" : 900,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 900
+      }
+    }, {
+      "sorszam" : "018",
+      "szk_nev" : "Érd, 018. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Diósdi út 95-101. (Érdligeti Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1020,
+        "honos" : 988,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 988
+      }
+    }, {
+      "sorszam" : "019",
+      "szk_nev" : "Érd, 019. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Túr utca 5-7. (Érdligeti Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1143,
+        "honos" : 1112,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 1112
+      }
+    }, {
+      "sorszam" : "020",
+      "szk_nev" : "Érd, 020. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Túr utca 5-7. (Érdligeti Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1286,
+        "honos" : 1251,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 1251
+      }
+    }, {
+      "sorszam" : "021",
+      "szk_nev" : "Érd, 021. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Túr utca 5-7. (Érdligeti Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1010,
+        "honos" : 987,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 987
+      }
+    }, {
+      "sorszam" : "022",
+      "szk_nev" : "Érd, 022. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Túr utca 5-7. (Érdligeti Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1019,
+        "honos" : 983,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 983
+      }
+    }, {
+      "sorszam" : "023",
+      "szk_nev" : "Érd, 023. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Kutyavári utca 10. (Kutyavári Tagóvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1110,
+        "honos" : 1081,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 1081
+      }
+    }, {
+      "sorszam" : "024",
+      "szk_nev" : "Érd, 024. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Kutyavári utca 10. (Kutyavári Tagóvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1109,
+        "honos" : 1067,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 1067
+      }
+    }, {
+      "sorszam" : "025",
+      "szk_nev" : "Érd, 025. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Gárdonyi 1/b. (Érdi Gárdonyi G. Ált.Isk. és Gimn.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1217,
+        "honos" : 1191,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 1191
+      }
+    }, {
+      "sorszam" : "026",
+      "szk_nev" : "Érd, 026. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Bajcsy-Zs. út 19-21. (Érdi Kőrösi Cs. S. Ált.Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1128,
+        "honos" : 1107,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 1107
+      }
+    }, {
+      "sorszam" : "027",
+      "szk_nev" : "Érd, 027. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Bajcsy-Zs. út 19-21. (Érdi Kőrösi Cs. S. Ált.Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1252,
+        "honos" : 1194,
+        "atjel" : 0,
+        "atjelInnen" : 55,
+        "osszesen" : 1194
+      }
+    }, {
+      "sorszam" : "028",
+      "szk_nev" : "Érd, 028. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Aradi utca 7. (Pöttöm Sziget Bölcsőde)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1171,
+        "honos" : 1118,
+        "atjel" : 0,
+        "atjelInnen" : 42,
+        "osszesen" : 1118
+      }
+    }, {
+      "sorszam" : "029",
+      "szk_nev" : "Érd, 029. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Diósdi út 95-101. (Érdligeti Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1166,
+        "honos" : 1134,
+        "atjel" : 0,
+        "atjelInnen" : 36,
+        "osszesen" : 1134
+      }
+    }, {
+      "sorszam" : "030",
+      "szk_nev" : "Érd, 030. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Diósdi út 95-101. (Érdligeti Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 967,
+        "honos" : 942,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 942
+      }
+    }, {
+      "sorszam" : "031",
+      "szk_nev" : "Érd, 031. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Tárnoki út 58-62. (Napsugár Tagóvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1072,
+        "honos" : 1037,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 1037
+      }
+    }, {
+      "sorszam" : "032",
+      "szk_nev" : "Érd, 032. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Tárnoki út 58-62. (Napsugár Tagóvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1147,
+        "honos" : 1111,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 1111
+      }
+    }, {
+      "sorszam" : "033",
+      "szk_nev" : "Érd, 033. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Aradi utca 7. (Pöttöm Sziget Bölcsőde)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1439,
+        "honos" : 1406,
+        "atjel" : 0,
+        "atjelInnen" : 38,
+        "osszesen" : 1406
+      }
+    }, {
+      "sorszam" : "034",
+      "szk_nev" : "Érd, 034. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Hegesztő u. 2-8. (Érdi Szivárvány Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1306,
+        "honos" : 1269,
+        "atjel" : 0,
+        "atjelInnen" : 37,
+        "osszesen" : 1269
+      }
+    }, {
+      "sorszam" : "035",
+      "szk_nev" : "Érd, 035. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Bajcsy-Zs. út 19-21. (Érdi Kőrösi Cs. S. Ált.Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1165,
+        "honos" : 1114,
+        "atjel" : 0,
+        "atjelInnen" : 45,
+        "osszesen" : 1114
+      }
+    }, {
+      "sorszam" : "036",
+      "szk_nev" : "Érd, 036. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Törökbálinti út 1. (Érdi Teleki Sámuel Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1226,
+        "honos" : 1192,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 1192
+      }
+    }, {
+      "sorszam" : "037",
+      "szk_nev" : "Érd, 037. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Kutyavári utca 10. (Kutyavári Tagóvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1216,
+        "honos" : 1162,
+        "atjel" : 0,
+        "atjelInnen" : 57,
+        "osszesen" : 1162
+      }
+    }, {
+      "sorszam" : "038",
+      "szk_nev" : "Érd, 038. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Törökbálinti út 1. (Érdi Teleki Sámuel Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1329,
+        "honos" : 1281,
+        "atjel" : 0,
+        "atjelInnen" : 52,
+        "osszesen" : 1281
+      }
+    }, {
+      "sorszam" : "039",
+      "szk_nev" : "Érd, 039. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Bajcsy-Zs. út 19-21. (Érdi Kőrösi Cs. S. Ált.Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1087,
+        "honos" : 1055,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 1055
+      }
+    }, {
+      "sorszam" : "040",
+      "szk_nev" : "Érd, 040. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Bajcsy-Zs. út 19-21. (Érdi Kőrösi Cs. S. Ált.Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1159,
+        "honos" : 1128,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 1128
+      }
+    }, {
+      "sorszam" : "041",
+      "szk_nev" : "Érd, 041. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Hegesztő u. 2-8. (Érdi Szivárvány Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1079,
+        "honos" : 1052,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 1052
+      }
+    }, {
+      "sorszam" : "042",
+      "szk_nev" : "Érd, 042. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Törökbálinti út 1. (Érdi Teleki Sámuel Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1189,
+        "honos" : 1149,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 1149
+      }
+    }, {
+      "sorszam" : "043",
+      "szk_nev" : "Érd, 043. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Törökbálinti út 1. (Érdi Teleki Sámuel Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1280,
+        "honos" : 1237,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 1237
+      }
+    }, {
+      "sorszam" : "044",
+      "szk_nev" : "Érd, 044. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Törökbálinti út 1. (Érdi Teleki Sámuel Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1083,
+        "honos" : 1053,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 1053
+      }
+    }, {
+      "sorszam" : "045",
+      "szk_nev" : "Érd, 045. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Gépész u. 14. (Parkvárosi Közösségi Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1282,
+        "honos" : 1245,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 1245
+      }
+    }, {
+      "sorszam" : "046",
+      "szk_nev" : "Érd, 046. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Favágó utca 63. (Erdőszéle Tagóvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1406,
+        "honos" : 1342,
+        "atjel" : 0,
+        "atjelInnen" : 66,
+        "osszesen" : 1342
+      }
+    }, {
+      "sorszam" : "047",
+      "szk_nev" : "Érd, 047. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Gépész u. 14. (Parkvárosi Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1261,
+        "honos" : 1228,
+        "atjel" : 0,
+        "atjelInnen" : 37,
+        "osszesen" : 1228
+      }
+    }, {
+      "sorszam" : "048",
+      "szk_nev" : "Érd, 048. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2030 Érd, Favágó u. 63. (Erdőszéle Tagóvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1658,
+        "honos" : 1638,
+        "atjel" : 0,
+        "atjelInnen" : 49,
+        "osszesen" : 1638
+      }
+    } ]
+  }
+}

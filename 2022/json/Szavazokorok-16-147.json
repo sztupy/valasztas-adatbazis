@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "147",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Panyola, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 04. számú OEVK",
+      "cim" : " Panyola, Szombathelyi utca 10. (Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 469,
+        "honos" : 448,
+        "atjel" : 4,
+        "atjelInnen" : 20,
+        "osszesen" : 452
+      }
+    } ]
+  }
+}

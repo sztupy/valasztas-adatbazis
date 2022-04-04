@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "050",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Homokmégy, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÁCS-KISKUN megye, 03. számú OEVK",
+      "cim" : " Homokmégy, Kossuth utca 13.  (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 633,
+        "honos" : 605,
+        "atjel" : 10,
+        "atjelInnen" : 17,
+        "osszesen" : 615
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Homokmégy, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÁCS-KISKUN megye, 03. számú OEVK",
+      "cim" : " Homokmégy, Alsómégy 114/A. (Orvosi rendelő)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 190,
+        "honos" : 181,
+        "atjel" : 0,
+        "atjelInnen" : 5,
+        "osszesen" : 181
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Homokmégy, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÁCS-KISKUN megye, 03. számú OEVK",
+      "cim" : " Homokmégy, Hillye 56. (Közösségi Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 119,
+        "honos" : 117,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 117
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Homokmégy, 004. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÁCS-KISKUN megye, 03. számú OEVK",
+      "cim" : " Homokmégy, Halom 35. (volt Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 136,
+        "honos" : 137,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 137
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "089",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kemenesszentpéter, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Kemenesszentpéter, Jókai utca 2. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 511,
+        "honos" : 500,
+        "atjel" : 9,
+        "atjelInnen" : 8,
+        "osszesen" : 509
+      }
+    } ]
+  }
+}

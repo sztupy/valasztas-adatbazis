@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "169",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mágocs, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Mágocs, Szabadság utca 7. (Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 948,
+        "honos" : 924,
+        "atjel" : 11,
+        "atjelInnen" : 17,
+        "osszesen" : 935
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Mágocs, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Mágocs, Szabadság utca 19.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 921,
+        "honos" : 892,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 892
+      }
+    } ]
+  }
+}

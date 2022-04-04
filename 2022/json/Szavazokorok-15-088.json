@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "088",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kaposmérő, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "SOMOGY megye, 01. számú OEVK",
+      "cim" : " Kaposmérő, Hunyadi utca 13. (Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 709,
+        "honos" : 682,
+        "atjel" : 11,
+        "atjelInnen" : 17,
+        "osszesen" : 693
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kaposmérő, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "SOMOGY megye, 01. számú OEVK",
+      "cim" : " Kaposmérő, Hunyadi u. 5. (SZASZK)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 625,
+        "honos" : 614,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 614
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Kaposmérő, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "SOMOGY megye, 01. számú OEVK",
+      "cim" : " Kaposmérő, Rákóczi u. 41/A (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 634,
+        "honos" : 611,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 611
+      }
+    } ]
+  }
+}

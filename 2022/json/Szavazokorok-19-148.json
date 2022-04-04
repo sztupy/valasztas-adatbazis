@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "148",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Örvényes, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VESZPRÉM megye, 02. számú OEVK",
+      "cim" : " Örvényes, Szent Imre u. 47. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 139,
+        "honos" : 132,
+        "atjel" : 8,
+        "atjelInnen" : 8,
+        "osszesen" : 140
+      }
+    } ]
+  }
+}

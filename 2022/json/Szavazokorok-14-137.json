@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "137",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szokolya, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "PEST megye, 04. számú OEVK",
+      "cim" : "2624 Szokolya, Fő utca 83. (Önkormányzat)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 692,
+        "honos" : 675,
+        "atjel" : 31,
+        "atjelInnen" : 18,
+        "osszesen" : 706
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szokolya, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "PEST megye, 04. számú OEVK",
+      "cim" : "2624 Szokolya, Lévai u.  5/C. (Szalajka IKSZT)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 837,
+        "honos" : 812,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 812
+      }
+    } ]
+  }
+}

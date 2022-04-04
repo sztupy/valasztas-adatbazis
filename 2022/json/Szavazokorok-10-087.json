@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "087",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pétervására, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Pétervására, Szabadság tér 12. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 593,
+        "honos" : 562,
+        "atjel" : 17,
+        "atjelInnen" : 16,
+        "osszesen" : 579
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Pétervására, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Pétervására, Szent Márton út 3. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 589,
+        "honos" : 564,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 564
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Pétervására, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Pétervására, Kossuth út 39. (Városi Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 559,
+        "honos" : 548,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 548
+      }
+    } ]
+  }
+}

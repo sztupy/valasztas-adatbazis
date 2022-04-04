@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "072",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tószeg, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 01. számú OEVK",
+      "cim" : " Tószeg, Attila út 18. (Csücsök Csárda Bt. Rendezvényterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 914,
+        "honos" : 901,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 901
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tószeg, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 01. számú OEVK",
+      "cim" : " Tószeg, Rákóczi út 30. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1088,
+        "honos" : 1063,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 1063
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Tószeg, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 01. számú OEVK",
+      "cim" : " Tószeg, Rákóczi út 35. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 837,
+        "honos" : 821,
+        "atjel" : 20,
+        "atjelInnen" : 19,
+        "osszesen" : 841
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Tószeg, 004. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 01. számú OEVK",
+      "cim" : " Tószeg, Hősök tere 4. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 845,
+        "honos" : 827,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 827
+      }
+    } ]
+  }
+}

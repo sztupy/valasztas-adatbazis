@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "043",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Galgahévíz, 001. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2193 Galgahévíz, Fő út 143. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 713,
+        "honos" : 702,
+        "atjel" : 16,
+        "atjelInnen" : 16,
+        "osszesen" : 718
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Galgahévíz, 002. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2193 Galgahévíz, Széchenyi utca 1. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 696,
+        "honos" : 676,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 676
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Galgahévíz, 003. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2193 Galgahévíz, Dobó utca 24. (Orvosi rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 745,
+        "honos" : 730,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 730
+      }
+    } ]
+  }
+}

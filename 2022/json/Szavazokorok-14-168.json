@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "168",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Vasad, 001. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : "2211 Vasad, Petőfi S. u. 54. (Könyvtár és Műv. Ház, díszterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 762,
+        "honos" : 747,
+        "atjel" : 23,
+        "atjelInnen" : 9,
+        "osszesen" : 770
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Vasad, 002. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : "2211 Vasad, Petőfi S. u. 54. (Könyvtár és Műv. Ház, tárgyaló)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 805,
+        "honos" : 783,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 783
+      }
+    } ]
+  }
+}

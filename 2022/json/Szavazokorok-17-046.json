@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "046",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kaposszekcső, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : "7361 Kaposszekcső, Táncsics u. 30.  (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 970,
+        "honos" : 964,
+        "atjel" : 14,
+        "atjelInnen" : 13,
+        "osszesen" : 978
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kaposszekcső, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : " Kaposszekcső, Liget ltp. 10. (Kapos Innovációs Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 305,
+        "honos" : 287,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 287
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "017",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bázakerettye, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8887 Bázakerettye, Fő út 4. (Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 472,
+        "honos" : 444,
+        "atjel" : 15,
+        "atjelInnen" : 22,
+        "osszesen" : 459
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Bázakerettye, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8887 Bázakerettye, Dózsa György út 15. (Kultúrház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 104,
+        "honos" : 109,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 109
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "111",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szendehely, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : "2640 Szendehely, Petőfi utca 7/A. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1032,
+        "honos" : 1022,
+        "atjel" : 17,
+        "atjelInnen" : 16,
+        "osszesen" : 1039
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szendehely, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : " Szendehely, Dózsa György út 39. (Katalinpuszta orvosi rendelő)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 277,
+        "honos" : 271,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 271
+      }
+    } ]
+  }
+}

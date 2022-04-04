@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "175",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mecseknádasd, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : "7695 Mecseknádasd, Rákóczi Ferenc utca 68. (Civil Szervezetek Háza)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 671,
+        "honos" : 650,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 650
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Mecseknádasd, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : "7695 Mecseknádasd, Rákóczi Ferenc utca 6. (Gondozási Központ Konyha)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 649,
+        "honos" : 632,
+        "atjel" : 14,
+        "atjelInnen" : 12,
+        "osszesen" : 646
+      }
+    } ]
+  }
+}

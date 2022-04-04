@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "004",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Attala, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : " Attala, Kossuth Lajos utca 15. (Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 640,
+        "honos" : 627,
+        "atjel" : 8,
+        "atjelInnen" : 9,
+        "osszesen" : 635
+      }
+    } ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "089",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Recsk, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Recsk, Kossuth Lajos út 218. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 763,
+        "honos" : 746,
+        "atjel" : 30,
+        "atjelInnen" : 14,
+        "osszesen" : 776
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Recsk, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Recsk, Kossuth Lajos út 142. (Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 804,
+        "honos" : 775,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 775
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Recsk, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Recsk, Várbükki utca 10. (Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 663,
+        "honos" : 638,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 638
+      }
+    } ]
+  }
+}

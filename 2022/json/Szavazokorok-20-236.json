@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "236",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Zalakomár, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : " Zalakomár, Petőfi u. 9. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 668,
+        "honos" : 656,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 656
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Zalakomár, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : " Zalakomár, Tavasz u. 13. (Polgármesteri Hiv.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 663,
+        "honos" : 649,
+        "atjel" : 23,
+        "atjelInnen" : 10,
+        "osszesen" : 672
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Zalakomár, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : " Zalakomár, Fő  u. 2. (Öregek napközi otthona)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 705,
+        "honos" : 691,
+        "atjel" : 0,
+        "atjelInnen" : 5,
+        "osszesen" : 691
+      }
+    } ]
+  }
+}

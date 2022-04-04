@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "09",
+    "taz" : "038",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Hortobágy, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 05. számú OEVK",
+      "cim" : " Hortobágy, Czinege J. utca 1.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1022,
+        "honos" : 993,
+        "atjel" : 22,
+        "atjelInnen" : 34,
+        "osszesen" : 1015
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Hortobágy, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 05. számú OEVK",
+      "cim" : " Hortobágy, Szásztelek irodaház",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 157,
+        "honos" : 152,
+        "atjel" : 0,
+        "atjelInnen" : 5,
+        "osszesen" : 152
+      }
+    } ]
+  }
+}

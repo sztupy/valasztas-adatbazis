@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "044",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Borsodnádasd, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : " Borsodnádasd, Köztársaság út 12. (Közösségi Ház és Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 839,
+        "honos" : 813,
+        "atjel" : 14,
+        "atjelInnen" : 13,
+        "osszesen" : 827
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Borsodnádasd, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : " Borsodnádasd, Köztársaság út 11. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 818,
+        "honos" : 812,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 812
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Borsodnádasd, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : " Borsodnádasd, Petőfi tér 4. (Óbükk Látogató- és Élményközpont)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 687,
+        "honos" : 664,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 664
+      }
+    } ]
+  }
+}

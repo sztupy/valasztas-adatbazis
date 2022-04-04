@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "118",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szuha, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "NÓGRÁD megye, 01. számú OEVK",
+      "cim" : " Szuha, Kossuth út 135. (Kultúrotthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 399,
+        "honos" : 379,
+        "atjel" : 12,
+        "atjelInnen" : 13,
+        "osszesen" : 391
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szuha, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "NÓGRÁD megye, 01. számú OEVK",
+      "cim" : " Szuha, Bem út 1. (Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 68,
+        "honos" : 64,
+        "atjel" : 0,
+        "atjelInnen" : 3,
+        "osszesen" : 64
+      }
+    } ]
+  }
+}

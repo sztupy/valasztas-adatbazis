@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "070",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pátka, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : " Pátka, Vak Bottyán tér 2. (Ivánka Kúria 1. terem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 729,
+        "honos" : 707,
+        "atjel" : 17,
+        "atjelInnen" : 16,
+        "osszesen" : 724
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Pátka, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : " Pátka, Vak B. tér 2. (Ivánka Kúria 2. terem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 708,
+        "honos" : 706,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 706
+      }
+    } ]
+  }
+}

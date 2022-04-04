@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "154",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szakony, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : " Szakony, Fő utca 49.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 370,
+        "honos" : 358,
+        "atjel" : 7,
+        "atjelInnen" : 9,
+        "osszesen" : 365
+      }
+    } ]
+  }
+}

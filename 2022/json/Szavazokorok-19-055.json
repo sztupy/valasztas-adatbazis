@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "055",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Devecser, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Devecser, Petőfi tér 11. (Általános iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 892,
+        "honos" : 883,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 883
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Devecser, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Devecser, Várkert 1. (Általános iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 906,
+        "honos" : 872,
+        "atjel" : 37,
+        "atjelInnen" : 21,
+        "osszesen" : 909
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Devecser, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Devecser, Jókai u. 3. (Művelődési Központ)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 882,
+        "honos" : 858,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 858
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Devecser, 004. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "VESZPRÉM megye, 04. számú OEVK",
+      "cim" : " Devecser, Miskei u. 47. (Alapszolgáltatási Központ)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 851,
+        "honos" : 839,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 839
+      }
+    } ]
+  }
+}

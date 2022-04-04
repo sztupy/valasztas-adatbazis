@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "337",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Trizs, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : "3724 Trizs, Petőfi út 44. (Művelődési terem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 167,
+        "honos" : 162,
+        "atjel" : 4,
+        "atjelInnen" : 5,
+        "osszesen" : 166
+      }
+    } ]
+  }
+}

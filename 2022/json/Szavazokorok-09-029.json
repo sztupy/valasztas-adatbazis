@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "09",
+    "taz" : "029",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Hajdúbagos, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 04. számú OEVK",
+      "cim" : "4273 Hajdúbagos, Nagy utca 101. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 888,
+        "honos" : 866,
+        "atjel" : 13,
+        "atjelInnen" : 22,
+        "osszesen" : 879
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Hajdúbagos, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 04. számú OEVK",
+      "cim" : "4273 Hajdúbagos, Iskola u. 18.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 801,
+        "honos" : 770,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 770
+      }
+    } ]
+  }
+}

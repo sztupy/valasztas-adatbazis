@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "194",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tiszakanyár, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Tiszakanyár, Dombrádi út 2.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 602,
+        "honos" : 574,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 574
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tiszakanyár, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Tiszakanyár, Fő utca 19. Kultúrház",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 648,
+        "honos" : 632,
+        "atjel" : 6,
+        "atjelInnen" : 11,
+        "osszesen" : 638
+      }
+    } ]
+  }
+}

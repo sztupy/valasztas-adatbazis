@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "194",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Torony, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "VAS megye, 01. számú OEVK",
+      "cim" : " Torony,  Rohonczi u. 6. (Toronyi Közös Önk. Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 869,
+        "honos" : 841,
+        "atjel" : 23,
+        "atjelInnen" : 24,
+        "osszesen" : 864
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Torony, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "VAS megye, 01. számú OEVK",
+      "cim" : " Torony,  Felsőőri u. 47. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 723,
+        "honos" : 705,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 705
+      }
+    } ]
+  }
+}

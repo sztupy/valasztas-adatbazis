@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "095",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Lövő, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : " Lövő, Fő utca 32. (Szolgált. Kult. Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1176,
+        "honos" : 1159,
+        "atjel" : 9,
+        "atjelInnen" : 17,
+        "osszesen" : 1168
+      }
+    } ]
+  }
+}

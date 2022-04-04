@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "022",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csákánydoroszló, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VAS megye, 03. számú OEVK",
+      "cim" : " Csákánydoroszló, Fő utca 39.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 516,
+        "honos" : 505,
+        "atjel" : 4,
+        "atjelInnen" : 8,
+        "osszesen" : 509
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Csákánydoroszló, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VAS megye, 03. számú OEVK",
+      "cim" : " Csákánydoroszló, Vasut utca 19.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 727,
+        "honos" : 711,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 711
+      }
+    } ]
+  }
+}

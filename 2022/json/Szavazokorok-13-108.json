@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "108",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szanda, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : " Szanda, Kossuth utca 1. (IKSZT)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 346,
+        "honos" : 334,
+        "atjel" : 11,
+        "atjelInnen" : 17,
+        "osszesen" : 345
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szanda, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : " Szanda, Madách út 9. (Sréter F. Helytörténeti Emlékhely)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 148,
+        "honos" : 135,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 135
+      }
+    } ]
+  }
+}

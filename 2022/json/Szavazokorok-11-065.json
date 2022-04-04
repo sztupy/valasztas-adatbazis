@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "065",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tiszaroff, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 03. számú OEVK",
+      "cim" : " Tiszaroff, Szabadság út 40-42. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 642,
+        "honos" : 616,
+        "atjel" : 11,
+        "atjelInnen" : 20,
+        "osszesen" : 627
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tiszaroff, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 03. számú OEVK",
+      "cim" : "5234 Tiszaroff, Szabadság út 35/b. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 707,
+        "honos" : 687,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 687
+      }
+    } ]
+  }
+}

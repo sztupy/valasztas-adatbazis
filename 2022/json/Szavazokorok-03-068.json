@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "068",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kisszállás, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BÁCS-KISKUN megye, 05. számú OEVK",
+      "cim" : "6421 Kisszállás, V. Körzet 44. (Gumitex Kft.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 235,
+        "honos" : 230,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 230
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kisszállás, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BÁCS-KISKUN megye, 05. számú OEVK",
+      "cim" : "6421 Kisszállás, Fő utca 33. (volt Nappali Ellátó)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 884,
+        "honos" : 859,
+        "atjel" : 9,
+        "atjelInnen" : 21,
+        "osszesen" : 868
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Kisszállás, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BÁCS-KISKUN megye, 05. számú OEVK",
+      "cim" : "6421 Kisszállás, Fő utca 30. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 851,
+        "honos" : 823,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 823
+      }
+    } ]
+  }
+}

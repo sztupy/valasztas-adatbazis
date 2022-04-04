@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "049",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csopak, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VESZPRÉM megye, 02. számú OEVK",
+      "cim" : " Csopak, Kossuth u. 106. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 813,
+        "honos" : 738,
+        "atjel" : 74,
+        "atjelInnen" : 60,
+        "osszesen" : 812
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Csopak, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VESZPRÉM megye, 02. számú OEVK",
+      "cim" : " Csopak, Kossuth u. 106. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 937,
+        "honos" : 854,
+        "atjel" : 0,
+        "atjelInnen" : 79,
+        "osszesen" : 854
+      }
+    } ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "093",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Lébény, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Lébény, Fő út 47. (Lébényi Közös Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1128,
+        "honos" : 1100,
+        "atjel" : 36,
+        "atjelInnen" : 24,
+        "osszesen" : 1136
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Lébény, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Lébény, Iskola köz 2. (Kisiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 686,
+        "honos" : 671,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 671
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Lébény, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Lébény, Akácfa utca 76. (Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 758,
+        "honos" : 742,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 742
+      }
+    } ]
+  }
+}

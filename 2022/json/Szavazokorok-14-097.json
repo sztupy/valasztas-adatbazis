@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "097",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pánd, 001. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : "2214 Pánd, Fő út 84. (Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 679,
+        "honos" : 671,
+        "atjel" : 14,
+        "atjelInnen" : 8,
+        "osszesen" : 685
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Pánd, 002. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : "2214 Pánd, Fő út 17. (Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 855,
+        "honos" : 828,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 828
+      }
+    } ]
+  }
+}

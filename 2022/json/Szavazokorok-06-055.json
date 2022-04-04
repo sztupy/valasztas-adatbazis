@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "055",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tiszasziget, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 01. számú OEVK",
+      "cim" : " Tiszasziget, Május 1. u. 21. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 708,
+        "honos" : 687,
+        "atjel" : 29,
+        "atjelInnen" : 19,
+        "osszesen" : 716
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tiszasziget, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 01. számú OEVK",
+      "cim" : " Tiszasziget, Május 1. u. 21. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 801,
+        "honos" : 779,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 779
+      }
+    } ]
+  }
+}

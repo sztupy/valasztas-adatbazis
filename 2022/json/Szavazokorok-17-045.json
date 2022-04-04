@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "045",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kapospula, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : " Kapospula, Béke tér 21. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 543,
+        "honos" : 518,
+        "atjel" : 13,
+        "atjelInnen" : 13,
+        "osszesen" : 531
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kapospula, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : " Kapospula, Szabadság tér 10. (Alsóhetényi Közösségi Tér)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 157,
+        "honos" : 155,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 155
+      }
+    } ]
+  }
+}

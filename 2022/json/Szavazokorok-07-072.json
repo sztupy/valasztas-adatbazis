@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "072",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Perkáta, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2431 Perkáta, Dr. Baráth Károly utca 60. (Stüszi Vendéglő)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 772,
+        "honos" : 761,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 761
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Perkáta, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2431 Perkáta, Dózsa György utca 15/A.  (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 824,
+        "honos" : 807,
+        "atjel" : 23,
+        "atjelInnen" : 12,
+        "osszesen" : 830
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Perkáta, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2431 Perkáta, Szabadság tér 11. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 808,
+        "honos" : 794,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 794
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Perkáta, 004. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "FEJÉR megye, 04. számú OEVK",
+      "cim" : "2431 Perkáta, Bocskai utca 1. (Új Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 799,
+        "honos" : 780,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 780
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "044",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Dobronhegy, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8989 Dobronhegy, Petőfi u. 18./B (FALUHÁZ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 130,
+        "honos" : 125,
+        "atjel" : 3,
+        "atjelInnen" : 5,
+        "osszesen" : 128
+      }
+    } ]
+  }
+}

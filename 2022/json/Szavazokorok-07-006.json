@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "006",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bakonycsernye, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "FEJÉR megye, 02. számú OEVK",
+      "cim" : " Bakonycsernye, Rákóczi út 37. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 785,
+        "honos" : 764,
+        "atjel" : 20,
+        "atjelInnen" : 16,
+        "osszesen" : 784
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Bakonycsernye, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "FEJÉR megye, 02. számú OEVK",
+      "cim" : "8056 Bakonycsernye, Rákóczi út  78. (Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 884,
+        "honos" : 861,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 861
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Bakonycsernye, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "FEJÉR megye, 02. számú OEVK",
+      "cim" : " Bakonycsernye, Rózsa utca 67/A (Zengő Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 860,
+        "honos" : 837,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 837
+      }
+    } ]
+  }
+}

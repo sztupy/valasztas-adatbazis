@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "001",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Abda, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Abda, Szent István utca 3. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 600,
+        "honos" : 588,
+        "atjel" : 43,
+        "atjelInnen" : 15,
+        "osszesen" : 631
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Abda, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Abda, Szent István utca 3. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 722,
+        "honos" : 694,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 694
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Abda, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Abda, Szent István utca 3. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 784,
+        "honos" : 762,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 762
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Abda, 004. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Abda, Szent István utca 3. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 568,
+        "honos" : 550,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 550
+      }
+    } ]
+  }
+}

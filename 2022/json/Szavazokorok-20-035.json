@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "035",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Cserszegtomaj, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Cserszegtomaj, Iskola utca 17. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1233,
+        "honos" : 1175,
+        "atjel" : 71,
+        "atjelInnen" : 54,
+        "osszesen" : 1246
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Cserszegtomaj, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : "8372 Cserszegtomaj, Vadász u. 1. (Cserszegi Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1213,
+        "honos" : 1183,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 1183
+      }
+    } ]
+  }
+}

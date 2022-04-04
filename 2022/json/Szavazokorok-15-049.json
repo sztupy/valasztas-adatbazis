@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "049",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ecseny, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : "7457 Ecseny, Petőfi utca 116. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 157,
+        "honos" : 154,
+        "atjel" : 6,
+        "atjelInnen" : 6,
+        "osszesen" : 160
+      }
+    } ]
+  }
+}

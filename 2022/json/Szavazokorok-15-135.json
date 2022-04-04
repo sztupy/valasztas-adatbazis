@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "135",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagykorpád, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Nagykorpád, Petőfi u. 121. Műv. ház",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 387,
+        "honos" : 375,
+        "atjel" : 2,
+        "atjelInnen" : 8,
+        "osszesen" : 377
+      }
+    } ]
+  }
+}

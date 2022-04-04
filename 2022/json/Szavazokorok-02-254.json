@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "254",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szederkény, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Szederkény, Rákóczi utca 12. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 730,
+        "honos" : 712,
+        "atjel" : 19,
+        "atjelInnen" : 15,
+        "osszesen" : 731
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szederkény, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Szederkény, Rákóczi utca 12. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 731,
+        "honos" : 717,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 717
+      }
+    } ]
+  }
+}

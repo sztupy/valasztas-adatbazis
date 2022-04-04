@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "205",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tilaj, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Tilaj, Kossuth u. 10. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 76,
+        "honos" : 76,
+        "atjel" : 8,
+        "atjelInnen" : 1,
+        "osszesen" : 84
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tilaj, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Tilaj, Szabadság u. 31. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 56,
+        "honos" : 55,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 55
+      }
+    } ]
+  }
+}

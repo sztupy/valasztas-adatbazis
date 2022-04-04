@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "264",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szilágy, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BARANYA megye, 02. számú OEVK",
+      "cim" : " Szilágy, Iskola u. 2. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 234,
+        "honos" : 233,
+        "atjel" : 5,
+        "atjelInnen" : 1,
+        "osszesen" : 238
+      }
+    } ]
+  }
+}

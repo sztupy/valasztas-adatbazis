@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "040",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bóly, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Bóly, Erzsébet tér 1. (Vigadó)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 706,
+        "honos" : 689,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 689
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Bóly, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Bóly, Rákóczi Ferenc utca 2. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 643,
+        "honos" : 628,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 628
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Bóly, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Bóly, Rákóczi Ferenc utca 2. (Szakközépiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 814,
+        "honos" : 780,
+        "atjel" : 44,
+        "atjelInnen" : 24,
+        "osszesen" : 824
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Bóly, 004. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Bóly, Ady Endre utca 21. (Bóly Rt.székház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 652,
+        "honos" : 631,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 631
+      }
+    } ]
+  }
+}

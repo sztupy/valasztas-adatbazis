@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "047",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Medgyesbodzás, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5663 Medgyesbodzás, Széchenyi u. 45.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 502,
+        "honos" : 479,
+        "atjel" : 7,
+        "atjelInnen" : 16,
+        "osszesen" : 486
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Medgyesbodzás, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5664 Medgyesbodzás, Vasút u. 25.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 261,
+        "honos" : 252,
+        "atjel" : 0,
+        "atjelInnen" : 3,
+        "osszesen" : 252
+      }
+    } ]
+  }
+}

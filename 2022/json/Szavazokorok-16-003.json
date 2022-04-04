@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "003",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Apagy, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Apagy, Kossuth Lajos út 145. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 618,
+        "honos" : 589,
+        "atjel" : 9,
+        "atjelInnen" : 21,
+        "osszesen" : 598
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Apagy, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : "4453 Apagy, Béke u. 2. (Zrínyi Ilona Ált.Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 621,
+        "honos" : 602,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 602
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Apagy, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Apagy, Kossuth Lajos út 155. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 644,
+        "honos" : 626,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 626
+      }
+    } ]
+  }
+}

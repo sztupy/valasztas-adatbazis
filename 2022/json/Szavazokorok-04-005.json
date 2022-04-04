@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "005",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Békéssámson, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Békéssámson, Andrássy u. 41.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 593,
+        "honos" : 574,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 574
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Békéssámson, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Békéssámson, Kossuth u. 16.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 652,
+        "honos" : 638,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 638
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Békéssámson, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Békéssámson, Szabadság u. 97.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 644,
+        "honos" : 638,
+        "atjel" : 13,
+        "atjelInnen" : 8,
+        "osszesen" : 651
+      }
+    } ]
+  }
+}

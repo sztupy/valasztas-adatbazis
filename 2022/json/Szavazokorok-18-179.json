@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "179",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szarvaskend, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VAS megye, 03. számú OEVK",
+      "cim" : " Szarvaskend, Fő  utca  64. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 195,
+        "honos" : 187,
+        "atjel" : 3,
+        "atjelInnen" : 6,
+        "osszesen" : 190
+      }
+    } ]
+  }
+}

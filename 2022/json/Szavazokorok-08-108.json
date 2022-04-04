@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "108",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagybajcs, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 01. számú OEVK",
+      "cim" : " Nagybajcs,  Petőfi Sándor utca 64. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 857,
+        "honos" : 838,
+        "atjel" : 5,
+        "atjelInnen" : 14,
+        "osszesen" : 843
+      }
+    } ]
+  }
+}

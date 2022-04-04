@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "010",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csabacsűd, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÉKÉS megye, 02. számú OEVK",
+      "cim" : " Csabacsűd, Szabadság utca 38-40. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 672,
+        "honos" : 648,
+        "atjel" : 11,
+        "atjelInnen" : 23,
+        "osszesen" : 659
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Csabacsűd, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÉKÉS megye, 02. számú OEVK",
+      "cim" : " Csabacsűd, Iskola utca 9. (Kisiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 692,
+        "honos" : 666,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 666
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Csabacsűd, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÉKÉS megye, 02. számú OEVK",
+      "cim" : " Csabacsűd, Tanya 0244/9 hrsz (Betamag-Trade Kft. telephelye)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 74,
+        "honos" : 76,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 76
+      }
+    } ]
+  }
+}

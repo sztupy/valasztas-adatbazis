@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "032",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Dunabogdány, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "PEST megye, 03. számú OEVK",
+      "cim" : " Dunabogdány, Kossuth L. u. 76. (Polg. Mest. Hiv.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 786,
+        "honos" : 772,
+        "atjel" : 57,
+        "atjelInnen" : 17,
+        "osszesen" : 829
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Dunabogdány, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "PEST megye, 03. számú OEVK",
+      "cim" : " Dunabogdány, Hegyalja u. 11. (Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 934,
+        "honos" : 898,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 898
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Dunabogdány, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "PEST megye, 03. számú OEVK",
+      "cim" : " Dunabogdány, Kossuth L. u. 93. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 904,
+        "honos" : 883,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 883
+      }
+    } ]
+  }
+}

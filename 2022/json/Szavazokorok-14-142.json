@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "142",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tatárszentgyörgy, 001. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : " Tatárszentgyörgy, Kossuth u. 10. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 806,
+        "honos" : 787,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 787
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tatárszentgyörgy, 002. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : " Tatárszentgyörgy, Rákóczi u. 15. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 680,
+        "honos" : 671,
+        "atjel" : 13,
+        "atjelInnen" : 9,
+        "osszesen" : 684
+      }
+    } ]
+  }
+}

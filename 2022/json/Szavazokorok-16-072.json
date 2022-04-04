@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "072",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kisléta, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : " Kisléta, Kállói utca 6-8. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1258,
+        "honos" : 1235,
+        "atjel" : 3,
+        "atjelInnen" : 19,
+        "osszesen" : 1238
+      }
+    } ]
+  }
+}

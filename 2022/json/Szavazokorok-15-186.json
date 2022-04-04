@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "186",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Somogyegres, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Somogyegres, Petőfi utca 3. (Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 152,
+        "honos" : 141,
+        "atjel" : 6,
+        "atjelInnen" : 7,
+        "osszesen" : 147
+      }
+    } ]
+  }
+}

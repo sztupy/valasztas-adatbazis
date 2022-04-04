@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "121",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tar, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "NÓGRÁD megye, 01. számú OEVK",
+      "cim" : "3073 Tar, Szondy György út 92. (Műv. Ház.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 823,
+        "honos" : 797,
+        "atjel" : 9,
+        "atjelInnen" : 14,
+        "osszesen" : 806
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tar, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "NÓGRÁD megye, 01. számú OEVK",
+      "cim" : " Tar, Szondy György út 156. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 700,
+        "honos" : 697,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 697
+      }
+    } ]
+  }
+}

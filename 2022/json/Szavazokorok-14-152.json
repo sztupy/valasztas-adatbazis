@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "152",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Telki, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "PEST megye, 02. számú OEVK",
+      "cim" : " Telki, Muskátli utca 2. (Általános Iskola, Aula)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 824,
+        "honos" : 757,
+        "atjel" : 121,
+        "atjelInnen" : 54,
+        "osszesen" : 878
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Telki, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "PEST megye, 02. számú OEVK",
+      "cim" : " Telki, Muskátli utca 2. (Általános Iskola, ebédlő)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 908,
+        "honos" : 866,
+        "atjel" : 0,
+        "atjelInnen" : 46,
+        "osszesen" : 866
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Telki, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "PEST megye, 02. számú OEVK",
+      "cim" : " Telki, Muskátli utca 2. (Általános Iskola, Könyvtárterem)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 654,
+        "honos" : 618,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 618
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Telki, 004. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "PEST megye, 02. számú OEVK",
+      "cim" : " Telki, Tengelice utca 3. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 850,
+        "honos" : 812,
+        "atjel" : 0,
+        "atjelInnen" : 38,
+        "osszesen" : 812
+      }
+    } ]
+  }
+}

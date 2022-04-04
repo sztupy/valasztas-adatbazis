@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "056",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Gyarmat, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : " Gyarmat, Magyar utca 6.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1125,
+        "honos" : 1090,
+        "atjel" : 11,
+        "atjelInnen" : 27,
+        "osszesen" : 1101
+      }
+    } ]
+  }
+}

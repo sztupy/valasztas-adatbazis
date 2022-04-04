@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "032",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Encsencs, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : " Encsencs, Fő utca 31. (Polg.Hiv.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 683,
+        "honos" : 665,
+        "atjel" : 6,
+        "atjelInnen" : 13,
+        "osszesen" : 671
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Encsencs, 002. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : " Encsencs, Fő u. 68. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 732,
+        "honos" : 716,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 716
+      }
+    } ]
+  }
+}

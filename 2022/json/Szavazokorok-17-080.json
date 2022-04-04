@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "080",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pálfa, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : " Pálfa, Alkotmány u. 5. (Teleház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 623,
+        "honos" : 613,
+        "atjel" : 13,
+        "atjelInnen" : 7,
+        "osszesen" : 626
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Pálfa, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : " Pálfa, Deák Ferenc u. 16. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 441,
+        "honos" : 416,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 416
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Pálfa, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : " Pálfa, Kölcsey u. 1. (Felsőrácegresi Múzeum)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 64,
+        "honos" : 65,
+        "atjel" : 0,
+        "atjelInnen" : 0,
+        "osszesen" : 65
+      }
+    } ]
+  }
+}

@@ -1,0 +1,879 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "231",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Zalaegerszeg, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Erzsébethegyi út 5. (volt Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 754,
+        "honos" : 731,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 731
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Zalaegerszeg, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Iskola utca 1. (Öveges József Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 947,
+        "honos" : 907,
+        "atjel" : 0,
+        "atjelInnen" : 41,
+        "osszesen" : 907
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Zalaegerszeg, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Gazdaság utca 1-11. (Andráshidai Tagóvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1136,
+        "honos" : 1096,
+        "atjel" : 0,
+        "atjelInnen" : 37,
+        "osszesen" : 1096
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Zalaegerszeg, 004. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Ságodi út 94/A. (Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1028,
+        "honos" : 989,
+        "atjel" : 0,
+        "atjelInnen" : 36,
+        "osszesen" : 989
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Zalaegerszeg, 005. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Pózva utca 102. (Közösségi Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 761,
+        "honos" : 749,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 749
+      }
+    }, {
+      "sorszam" : "006",
+      "szk_nev" : "Zalaegerszeg, 006. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Kaszaházi út 3. (Kézbesítőposta)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1440,
+        "honos" : 1400,
+        "atjel" : 0,
+        "atjelInnen" : 53,
+        "osszesen" : 1400
+      }
+    }, {
+      "sorszam" : "007",
+      "szk_nev" : "Zalaegerszeg, 007. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Gasparich M. utca 16. (ÉNYKK Zrt.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 773,
+        "honos" : 745,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 745
+      }
+    }, {
+      "sorszam" : "008",
+      "szk_nev" : "Zalaegerszeg, 008. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Ebergényi út 2. (Olai Bisztró Oktatási Kabinet)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 666,
+        "honos" : 629,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 629
+      }
+    }, {
+      "sorszam" : "009",
+      "szk_nev" : "Zalaegerszeg, 009. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Ebergényi út 2. (Olai Bisztró Oktatási Kabinet)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 889,
+        "honos" : 855,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 855
+      }
+    }, {
+      "sorszam" : "010",
+      "szk_nev" : "Zalaegerszeg, 010. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Kis utca 8. (Kis utcai Tagóvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 822,
+        "honos" : 799,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 799
+      }
+    }, {
+      "sorszam" : "011",
+      "szk_nev" : "Zalaegerszeg, 011. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Deák tér 6. (Deák F. Megyei és Városi Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 697,
+        "honos" : 659,
+        "atjel" : 0,
+        "atjelInnen" : 35,
+        "osszesen" : 659
+      }
+    }, {
+      "sorszam" : "012",
+      "szk_nev" : "Zalaegerszeg, 012. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Rákóczi Ferenc utca 49-53. (Kölcsey F. Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 980,
+        "honos" : 931,
+        "atjel" : 0,
+        "atjelInnen" : 45,
+        "osszesen" : 931
+      }
+    }, {
+      "sorszam" : "013",
+      "szk_nev" : "Zalaegerszeg, 013. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Szivárvány tér 1-3. (Izsák Imre Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1099,
+        "honos" : 1069,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 1069
+      }
+    }, {
+      "sorszam" : "014",
+      "szk_nev" : "Zalaegerszeg, 014. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Bozsoki utca 1. (Önkormányzati Kirendeltség)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 885,
+        "honos" : 848,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 848
+      }
+    }, {
+      "sorszam" : "015",
+      "szk_nev" : "Zalaegerszeg, 015. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Kosztolányi tér 25. (Kosztolányi téri Tagóvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 892,
+        "honos" : 860,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 860
+      }
+    }, {
+      "sorszam" : "016",
+      "szk_nev" : "Zalaegerszeg, 016. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Kosztolányi utca 17-21. (Petőfi S. Székhelyiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1085,
+        "honos" : 1023,
+        "atjel" : 542,
+        "atjelInnen" : 50,
+        "osszesen" : 1565
+      }
+    }, {
+      "sorszam" : "017",
+      "szk_nev" : "Zalaegerszeg, 017. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Berzsenyi utca 13. (Orvosi rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 960,
+        "honos" : 927,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 927
+      }
+    }, {
+      "sorszam" : "018",
+      "szk_nev" : "Zalaegerszeg, 018. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Kosztolányi utca 17-21. (Petőfi S. Székhelyiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 905,
+        "honos" : 855,
+        "atjel" : 0,
+        "atjelInnen" : 37,
+        "osszesen" : 855
+      }
+    }, {
+      "sorszam" : "019",
+      "szk_nev" : "Zalaegerszeg, 019. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Kossuth Lajos utca 47-51. (Zalai Civil Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 861,
+        "honos" : 846,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 846
+      }
+    }, {
+      "sorszam" : "020",
+      "szk_nev" : "Zalaegerszeg, 020. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Kisfaludy utca 2. (Ady Endre Ált.I. és Gim.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 906,
+        "honos" : 863,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 863
+      }
+    }, {
+      "sorszam" : "021",
+      "szk_nev" : "Zalaegerszeg, 021. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Kisfaludy utca 2. (Ady Endre Ált.I. és Gim.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1165,
+        "honos" : 1098,
+        "atjel" : 0,
+        "atjelInnen" : 59,
+        "osszesen" : 1098
+      }
+    }, {
+      "sorszam" : "022",
+      "szk_nev" : "Zalaegerszeg, 022. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Kisfaludy utca 2. (Ady Endre Ált.I. és Gim.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 892,
+        "honos" : 857,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 857
+      }
+    }, {
+      "sorszam" : "023",
+      "szk_nev" : "Zalaegerszeg, 023. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Mikes Kelemen utca 2/A. (Mikes K. úti Tagóvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1121,
+        "honos" : 1091,
+        "atjel" : 0,
+        "atjelInnen" : 37,
+        "osszesen" : 1091
+      }
+    }, {
+      "sorszam" : "024",
+      "szk_nev" : "Zalaegerszeg, 024. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Toposháza utca 6. (Bazitai Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "I",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 500,
+        "honos" : 488,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 488
+      }
+    }, {
+      "sorszam" : "025",
+      "szk_nev" : "Zalaegerszeg, 025. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Nagy Csarit utca 22. (Közösségi Ház Ebergény)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 583,
+        "honos" : 563,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 563
+      }
+    }, {
+      "sorszam" : "026",
+      "szk_nev" : "Zalaegerszeg, 026. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Alsóerdei út 3/A. (Magyar Autóklub)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1405,
+        "honos" : 1347,
+        "atjel" : 0,
+        "atjelInnen" : 55,
+        "osszesen" : 1347
+      }
+    }, {
+      "sorszam" : "027",
+      "szk_nev" : "Zalaegerszeg, 027. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Kodály Zoltán utca 15. (Kodály Z. úti Tagóvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 957,
+        "honos" : 919,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 919
+      }
+    }, {
+      "sorszam" : "028",
+      "szk_nev" : "Zalaegerszeg, 028. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Gasparich utca 24. (SZC Munkácsy M.SZKI és SZI)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1390,
+        "honos" : 1326,
+        "atjel" : 0,
+        "atjelInnen" : 53,
+        "osszesen" : 1326
+      }
+    }, {
+      "sorszam" : "029",
+      "szk_nev" : "Zalaegerszeg, 029. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Pais Dezső utca 2. (Időskorúak Otthona)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 845,
+        "honos" : 807,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 807
+      }
+    }, {
+      "sorszam" : "030",
+      "szk_nev" : "Zalaegerszeg, 030. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Gasparich utca 27. (SZC Ganz Á. SZKI)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 556,
+        "honos" : 538,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 538
+      }
+    }, {
+      "sorszam" : "031",
+      "szk_nev" : "Zalaegerszeg, 031. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Landorhegyi út 12. (Landorhegyi Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 658,
+        "honos" : 621,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 621
+      }
+    }, {
+      "sorszam" : "032",
+      "szk_nev" : "Zalaegerszeg, 032. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Landorhegyi út 21. (Keresztury Dezső VMK)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 728,
+        "honos" : 692,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 692
+      }
+    }, {
+      "sorszam" : "033",
+      "szk_nev" : "Zalaegerszeg, 033. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Göcseji út 16. (SZC Deák F. SZKI és SZI)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 779,
+        "honos" : 743,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 743
+      }
+    }, {
+      "sorszam" : "034",
+      "szk_nev" : "Zalaegerszeg, 034. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Göcseji út 24. (ÁNTSZ Székház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 970,
+        "honos" : 912,
+        "atjel" : 0,
+        "atjelInnen" : 37,
+        "osszesen" : 912
+      }
+    }, {
+      "sorszam" : "035",
+      "szk_nev" : "Zalaegerszeg, 035. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Köztársaság útja 2/A. (Pálóczi H. Ádám Műv. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 836,
+        "honos" : 808,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 808
+      }
+    }, {
+      "sorszam" : "036",
+      "szk_nev" : "Zalaegerszeg, 036. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Napsugár utca 30. (Napsugár u. Tagóvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 977,
+        "honos" : 942,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 942
+      }
+    }, {
+      "sorszam" : "037",
+      "szk_nev" : "Zalaegerszeg, 037. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Varkaus tér 1. (Liszt Ferenc Tagiskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1033,
+        "honos" : 976,
+        "atjel" : 0,
+        "atjelInnen" : 41,
+        "osszesen" : 976
+      }
+    }, {
+      "sorszam" : "038",
+      "szk_nev" : "Zalaegerszeg, 038. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Köztársaság útja 68. (Eötvös J. Székhelyiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 841,
+        "honos" : 799,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 799
+      }
+    }, {
+      "sorszam" : "039",
+      "szk_nev" : "Zalaegerszeg, 039. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Köztársaság útja 68. (Eötvös J. Székhelyiskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 792,
+        "honos" : 756,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 756
+      }
+    }, {
+      "sorszam" : "040",
+      "szk_nev" : "Zalaegerszeg, 040. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Szent László utca 53. (Szent László u. Tagóvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1013,
+        "honos" : 968,
+        "atjel" : 0,
+        "atjelInnen" : 40,
+        "osszesen" : 968
+      }
+    }, {
+      "sorszam" : "041",
+      "szk_nev" : "Zalaegerszeg, 041. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Zárda u. 25. (Mindszenty J.Ált.Isk.,Gim. és Koll.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1082,
+        "honos" : 1011,
+        "atjel" : 0,
+        "atjelInnen" : 59,
+        "osszesen" : 1011
+      }
+    }, {
+      "sorszam" : "042",
+      "szk_nev" : "Zalaegerszeg, 042. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Wlassics Gyula utca 13. (Orvosi rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 665,
+        "honos" : 644,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 644
+      }
+    }, {
+      "sorszam" : "043",
+      "szk_nev" : "Zalaegerszeg, 043. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Apáczai tér 5. (Apáczai Csere J.Műv.Központ)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 918,
+        "honos" : 885,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 885
+      }
+    }, {
+      "sorszam" : "044",
+      "szk_nev" : "Zalaegerszeg, 044. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Apáczai tér 5. (Apáczai Csere J.Műv.Központ)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 923,
+        "honos" : 872,
+        "atjel" : 0,
+        "atjelInnen" : 45,
+        "osszesen" : 872
+      }
+    }, {
+      "sorszam" : "045",
+      "szk_nev" : "Zalaegerszeg, 045. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Apáczai tér 5. (Apáczai Csere J.Műv.Központ)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 814,
+        "honos" : 773,
+        "atjel" : 0,
+        "atjelInnen" : 35,
+        "osszesen" : 773
+      }
+    }, {
+      "sorszam" : "046",
+      "szk_nev" : "Zalaegerszeg, 046. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Apáczai tér 5. (Apáczai Csere J.Műv.Központ)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 805,
+        "honos" : 773,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 773
+      }
+    }, {
+      "sorszam" : "047",
+      "szk_nev" : "Zalaegerszeg, 047. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Wlassics Gyula utca 13. (Orvosi rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 694,
+        "honos" : 658,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 658
+      }
+    }, {
+      "sorszam" : "048",
+      "szk_nev" : "Zalaegerszeg, 048. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Kinizsi Pál utca 74. (Zeg-i Szakképz. Centrum)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1352,
+        "honos" : 1286,
+        "atjel" : 0,
+        "atjelInnen" : 51,
+        "osszesen" : 1286
+      }
+    }, {
+      "sorszam" : "049",
+      "szk_nev" : "Zalaegerszeg, 049. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Besenyő utca 89. (Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1001,
+        "honos" : 971,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 971
+      }
+    }, {
+      "sorszam" : "050",
+      "szk_nev" : "Zalaegerszeg, 050. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : " Zalaegerszeg, Botfa utca 68. (Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 674,
+        "honos" : 658,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 658
+      }
+    }, {
+      "sorszam" : "051",
+      "szk_nev" : "Zalaegerszeg, 051. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8900 Zalaegerszeg, Szivárvány tér 1-3. (Izsák Imre Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 656,
+        "honos" : 634,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 634
+      }
+    } ]
+  }
+}

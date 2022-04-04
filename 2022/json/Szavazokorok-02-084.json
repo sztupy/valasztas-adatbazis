@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "084",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Görcsöny, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BARANYA megye, 04. számú OEVK",
+      "cim" : " Görcsöny, Hársfa utca 31. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 641,
+        "honos" : 606,
+        "atjel" : 8,
+        "atjelInnen" : 22,
+        "osszesen" : 614
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Görcsöny, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BARANYA megye, 04. számú OEVK",
+      "cim" : " Görcsöny, Petőfi utca 1. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 534,
+        "honos" : 521,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 521
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Görcsöny, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BARANYA megye, 04. számú OEVK",
+      "cim" : " Görcsöny, Keresztespuszta 2. (Szociális Otthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 135,
+        "honos" : 137,
+        "atjel" : 0,
+        "atjelInnen" : 0,
+        "osszesen" : 137
+      }
+    } ]
+  }
+}

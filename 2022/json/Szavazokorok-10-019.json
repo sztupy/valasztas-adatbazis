@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "019",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csány, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Csány, Malom út. 1. (Idősek Klubja)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 591,
+        "honos" : 581,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 581
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Csány, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Csány, Arany J. út 6. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 544,
+        "honos" : 531,
+        "atjel" : 0,
+        "atjelInnen" : 3,
+        "osszesen" : 531
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Csány, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Csány, Szövetkezet út 2. (Kultúrotthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 583,
+        "honos" : 579,
+        "atjel" : 23,
+        "atjelInnen" : 9,
+        "osszesen" : 602
+      }
+    } ]
+  }
+}

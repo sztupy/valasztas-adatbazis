@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "082",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Fancsal, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 04. számú OEVK",
+      "cim" : "3855 Fancsal,  Rákóczi út 46. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 264,
+        "honos" : 253,
+        "atjel" : 3,
+        "atjelInnen" : 9,
+        "osszesen" : 256
+      }
+    } ]
+  }
+}

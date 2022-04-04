@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "011",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Besenyőtelek, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : " Besenyőtelek, Fő út 49. (Sportclub)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 717,
+        "honos" : 706,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 706
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Besenyőtelek, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : " Besenyőtelek,  Jókai utca 1. (Iskolai napközi otthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 622,
+        "honos" : 622,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 622
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Besenyőtelek, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : " Besenyőtelek,  Fő út 89. (Polgármesteri Hiv.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 762,
+        "honos" : 738,
+        "atjel" : 10,
+        "atjelInnen" : 12,
+        "osszesen" : 748
+      }
+    } ]
+  }
+}

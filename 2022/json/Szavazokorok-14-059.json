@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "059",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Jászkarajenő, 001. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2746 Jászkarajenő, Kossuth L. u. 86. (Konyha)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 772,
+        "honos" : 764,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 764
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Jászkarajenő, 002. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2746 Jászkarajenő, Fő u. 30. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 688,
+        "honos" : 650,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 650
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Jászkarajenő, 003. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2746 Jászkarajenő, Fő u. 57. (Műv. Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 644,
+        "honos" : 628,
+        "atjel" : 21,
+        "atjelInnen" : 20,
+        "osszesen" : 649
+      }
+    } ]
+  }
+}

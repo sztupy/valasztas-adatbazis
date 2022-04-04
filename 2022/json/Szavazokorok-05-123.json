@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "123",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Hejőbába, 001. számú szavazókör",
+      "evk" : "07",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 07. számú OEVK",
+      "cim" : " Hejőbába, Fő utca 15. (Általános Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 615,
+        "honos" : 606,
+        "atjel" : 4,
+        "atjelInnen" : 8,
+        "osszesen" : 610
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Hejőbába, 002. számú szavazókör",
+      "evk" : "07",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 07. számú OEVK",
+      "cim" : " Hejőbába, Iskola utca 9. (Mesevár Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 640,
+        "honos" : 633,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 633
+      }
+    } ]
+  }
+}

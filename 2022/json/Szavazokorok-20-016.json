@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "016",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bánokszentgyörgy, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8891 Bánokszentgyörgy, Kossuth út 13. (Panzió)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 486,
+        "honos" : 479,
+        "atjel" : 5,
+        "atjelInnen" : 9,
+        "osszesen" : 484
+      }
+    } ]
+  }
+}

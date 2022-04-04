@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "071",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mátranovák, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "NÓGRÁD megye, 01. számú OEVK",
+      "cim" : " Mátranovák, Petőfi út 1. (Május 1. Művelődési ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 921,
+        "honos" : 884,
+        "atjel" : 13,
+        "atjelInnen" : 29,
+        "osszesen" : 897
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Mátranovák, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "NÓGRÁD megye, 01. számú OEVK",
+      "cim" : " Mátranovák, Hárs út 1.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 450,
+        "honos" : 440,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 440
+      }
+    } ]
+  }
+}

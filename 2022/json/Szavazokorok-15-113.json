@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "113",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kutas, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Kutas, Petőfi utca 70. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 511,
+        "honos" : 500,
+        "atjel" : 4,
+        "atjelInnen" : 9,
+        "osszesen" : 504
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kutas, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Kutas, Petőfi utca 83. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 564,
+        "honos" : 534,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 534
+      }
+    } ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "035",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Dunasziget, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : "9226 Dunasziget, Doborgaz utca 43. (Doborgazi Művelődési ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 213,
+        "honos" : 204,
+        "atjel" : 0,
+        "atjelInnen" : 4,
+        "osszesen" : 204
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Dunasziget, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : "9226 Dunasziget, Sérfenyő utca 57. (Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 435,
+        "honos" : 427,
+        "atjel" : 21,
+        "atjelInnen" : 4,
+        "osszesen" : 448
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Dunasziget, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : "9226 Dunasziget, Dózsa György utca 38. (Cikolai Művelődési ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 585,
+        "honos" : 576,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 576
+      }
+    } ]
+  }
+}

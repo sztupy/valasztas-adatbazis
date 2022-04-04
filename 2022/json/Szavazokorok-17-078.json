@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "078",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Őcsény, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "TOLNA megye, 01. számú OEVK",
+      "cim" : " Őcsény,  Fő u. 42-44. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 795,
+        "honos" : 760,
+        "atjel" : 16,
+        "atjelInnen" : 29,
+        "osszesen" : 776
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Őcsény, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "TOLNA megye, 01. számú OEVK",
+      "cim" : " Őcsény, Fő u. 42-44. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 580,
+        "honos" : 568,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 568
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Őcsény, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "TOLNA megye, 01. számú OEVK",
+      "cim" : " Őcsény, Fő u. 42-44. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 584,
+        "honos" : 582,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 582
+      }
+    } ]
+  }
+}

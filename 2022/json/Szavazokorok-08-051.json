@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "051",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Fertőrákos, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9421 Fertőrákos,  Fő utca 156. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1016,
+        "honos" : 994,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 994
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Fertőrákos, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : " Fertőrákos,  Fő utca 236/A.  (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 829,
+        "honos" : 806,
+        "atjel" : 51,
+        "atjelInnen" : 20,
+        "osszesen" : 857
+      }
+    } ]
+  }
+}

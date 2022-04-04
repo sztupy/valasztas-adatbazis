@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "163",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Királd, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : " Királd, Kossuth út 47.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 136,
+        "honos" : 135,
+        "atjel" : 5,
+        "atjelInnen" : 4,
+        "osszesen" : 140
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Királd, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : " Királd, Alsótelep utca 26. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 490,
+        "honos" : 468,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 468
+      }
+    } ]
+  }
+}

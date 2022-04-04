@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "068",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kékcse, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Kékcse, Fő utca 110. (Arany Laci Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 596,
+        "honos" : 581,
+        "atjel" : 6,
+        "atjelInnen" : 15,
+        "osszesen" : 587
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kékcse, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Kékcse, Fő utca 87. (Arany János Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 579,
+        "honos" : 561,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 561
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "095",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Patak, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : " Patak, Kossuth út 6. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 735,
+        "honos" : 704,
+        "atjel" : 7,
+        "atjelInnen" : 23,
+        "osszesen" : 711
+      }
+    } ]
+  }
+}

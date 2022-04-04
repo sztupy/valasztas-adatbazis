@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "212",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Túrricse, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 04. számú OEVK",
+      "cim" : " Túrricse, Rákóczi út 14. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 516,
+        "honos" : 503,
+        "atjel" : 5,
+        "atjelInnen" : 12,
+        "osszesen" : 508
+      }
+    } ]
+  }
+}

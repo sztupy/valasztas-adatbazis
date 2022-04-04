@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "095",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mátyus, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 04. számú OEVK",
+      "cim" : " Mátyus, Petőfi u. 2. (Közös Önkorm.Hiv. Mátyusi Kirend.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 227,
+        "honos" : 207,
+        "atjel" : 1,
+        "atjelInnen" : 18,
+        "osszesen" : 208
+      }
+    } ]
+  }
+}

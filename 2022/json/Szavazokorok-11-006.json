@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "006",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csataszög, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 01. számú OEVK",
+      "cim" : " Csataszög, Szebb Élet út 42. (Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 231,
+        "honos" : 235,
+        "atjel" : 4,
+        "atjelInnen" : 3,
+        "osszesen" : 239
+      }
+    } ]
+  }
+}

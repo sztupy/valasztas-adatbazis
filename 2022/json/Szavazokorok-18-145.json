@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "145",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Perenye, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : " Perenye, Béke  u. 34. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 552,
+        "honos" : 532,
+        "atjel" : 8,
+        "atjelInnen" : 11,
+        "osszesen" : 540
+      }
+    } ]
+  }
+}

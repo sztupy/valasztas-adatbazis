@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "189",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Táplánszentkereszt, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VAS megye, 03. számú OEVK",
+      "cim" : " Táplánszentkereszt, Táncsics Mihály utca 22. (Idősek Otthona)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1071,
+        "honos" : 1047,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 1047
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Táplánszentkereszt, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VAS megye, 03. számú OEVK",
+      "cim" : " Táplánszentkereszt, Fő u. 12. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 987,
+        "honos" : 959,
+        "atjel" : 12,
+        "atjelInnen" : 16,
+        "osszesen" : 971
+      }
+    } ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "027",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csepreg, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : " Csepreg, Széchenyi tér 31. (Petőfi Sándor Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 982,
+        "honos" : 945,
+        "atjel" : 29,
+        "atjelInnen" : 23,
+        "osszesen" : 974
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Csepreg, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : " Csepreg, Rákóczi u. 13-15. (Nádasdy Tamás Szakközépiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 886,
+        "honos" : 859,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 859
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Csepreg, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : " Csepreg, Kossuth u. 67. (Területi Gondozási Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 745,
+        "honos" : 726,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 726
+      }
+    } ]
+  }
+}

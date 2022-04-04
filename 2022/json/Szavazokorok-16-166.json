@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "166",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sényő, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Sényő, Kossuth Lajos utca 69. Polgármesteri Hivatal",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1139,
+        "honos" : 1108,
+        "atjel" : 9,
+        "atjelInnen" : 23,
+        "osszesen" : 1117
+      }
+    } ]
+  }
+}

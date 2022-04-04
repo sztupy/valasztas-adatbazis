@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "191",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tótvázsony, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VESZPRÉM megye, 02. számú OEVK",
+      "cim" : " Tótvázsony, Magyar utca 101. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1111,
+        "honos" : 1088,
+        "atjel" : 12,
+        "atjelInnen" : 25,
+        "osszesen" : 1100
+      }
+    } ]
+  }
+}

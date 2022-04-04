@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "117",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Zagyvaszántó, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : "3031 Zagyvaszántó, Rákóczi út 27-29. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 884,
+        "honos" : 864,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 864
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Zagyvaszántó, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : "3031 Zagyvaszántó, Szabadság tér 14. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 646,
+        "honos" : 625,
+        "atjel" : 16,
+        "atjelInnen" : 12,
+        "osszesen" : 641
+      }
+    } ]
+  }
+}

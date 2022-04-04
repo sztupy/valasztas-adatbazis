@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "018",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Becsehely, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : " Becsehely, Kossuth L. út 45. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 638,
+        "honos" : 608,
+        "atjel" : 16,
+        "atjelInnen" : 23,
+        "osszesen" : 624
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Becsehely, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : " Becsehely, Ifjúsági u. 67. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 591,
+        "honos" : 554,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 554
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Becsehely, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : " Becsehely, Kossuth L. út 217. (Gyerekorvosi rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 471,
+        "honos" : 459,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 459
+      }
+    } ]
+  }
+}

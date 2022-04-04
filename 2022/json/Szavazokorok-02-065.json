@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "065",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Egerág, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Egerág, Szabadság tér 1. (Tanácsterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 775,
+        "honos" : 763,
+        "atjel" : 6,
+        "atjelInnen" : 13,
+        "osszesen" : 769
+      }
+    } ]
+  }
+}

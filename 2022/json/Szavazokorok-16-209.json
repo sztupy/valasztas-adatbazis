@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "209",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tunyogmatolcs, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 04. számú OEVK",
+      "cim" : " Tunyogmatolcs, Rákóczi utca 79. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 719,
+        "honos" : 693,
+        "atjel" : 10,
+        "atjelInnen" : 20,
+        "osszesen" : 703
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tunyogmatolcs, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 04. számú OEVK",
+      "cim" : " Tunyogmatolcs, Rákóczi utca 125. (Napközi Otthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 630,
+        "honos" : 603,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 603
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Tunyogmatolcs, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 04. számú OEVK",
+      "cim" : " Tunyogmatolcs, Bocskai utca 2. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 602,
+        "honos" : 583,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 583
+      }
+    } ]
+  }
+}

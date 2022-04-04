@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "220",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tarany, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Tarany, Zrínyi utca 8. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 456,
+        "honos" : 447,
+        "atjel" : 6,
+        "atjelInnen" : 6,
+        "osszesen" : 453
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tarany, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Tarany, Szent István utca 17. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 459,
+        "honos" : 457,
+        "atjel" : 0,
+        "atjelInnen" : 5,
+        "osszesen" : 457
+      }
+    } ]
+  }
+}

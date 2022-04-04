@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "058",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Gyömöre, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Gyömöre, Rózsa Ferenc utca 11. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 976,
+        "honos" : 957,
+        "atjel" : 3,
+        "atjelInnen" : 12,
+        "osszesen" : 960
+      }
+    } ]
+  }
+}

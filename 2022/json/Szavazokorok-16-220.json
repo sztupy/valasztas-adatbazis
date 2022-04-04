@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "220",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Vasmegyer, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Vasmegyer, Kossuth utca 141. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 623,
+        "honos" : 616,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 616
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Vasmegyer, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Vasmegyer, Kossuth utca 141. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 694,
+        "honos" : 682,
+        "atjel" : 12,
+        "atjelInnen" : 8,
+        "osszesen" : 694
+      }
+    } ]
+  }
+}

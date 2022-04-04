@@ -1,0 +1,828 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "025",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Eger, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Bartók Béla tér 4. (EKKE Gyakorló Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 704,
+        "honos" : 664,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 664
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Eger, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Bartók Béla tér 4. (EKKE Gyakorló Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 802,
+        "honos" : 768,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 768
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Eger, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Bartók Béla tér 4. (EKKE Gyakorló Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 866,
+        "honos" : 819,
+        "atjel" : 0,
+        "atjelInnen" : 41,
+        "osszesen" : 819
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Eger, 004. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Bem tábornok utca 3. (Móra Ferenc Tagiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1056,
+        "honos" : 1015,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 1015
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Eger, 005. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Nagyváradi utca 1. (Gyermekkert Tagóvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 995,
+        "honos" : 950,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 950
+      }
+    }, {
+      "sorszam" : "006",
+      "szk_nev" : "Eger, 006. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Pozsonyi utca 4-6. (Egri SzC Kereskedelmi)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1020,
+        "honos" : 959,
+        "atjel" : 0,
+        "atjelInnen" : 50,
+        "osszesen" : 959
+      }
+    }, {
+      "sorszam" : "007",
+      "szk_nev" : "Eger, 007. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Pozsonyi utca  4-6. (Egri SzC Kereskedelmi)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 946,
+        "honos" : 908,
+        "atjel" : 0,
+        "atjelInnen" : 38,
+        "osszesen" : 908
+      }
+    }, {
+      "sorszam" : "008",
+      "szk_nev" : "Eger, 008. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Remenyik Zsigmond utca 17. (Eszterlánc Tagóvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 777,
+        "honos" : 744,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 744
+      }
+    }, {
+      "sorszam" : "009",
+      "szk_nev" : "Eger, 009. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Fadrusz János utca 1/A. (Hunyadi Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 784,
+        "honos" : 760,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 760
+      }
+    }, {
+      "sorszam" : "010",
+      "szk_nev" : "Eger, 010. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Fadrusz János utca 1/A. (Hunyadi Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 974,
+        "honos" : 948,
+        "atjel" : 0,
+        "atjelInnen" : 38,
+        "osszesen" : 948
+      }
+    }, {
+      "sorszam" : "011",
+      "szk_nev" : "Eger, 011. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Fadrusz János utca 1/A. (Hunyadi Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1069,
+        "honos" : 1024,
+        "atjel" : 0,
+        "atjelInnen" : 44,
+        "osszesen" : 1024
+      }
+    }, {
+      "sorszam" : "012",
+      "szk_nev" : "Eger, 012. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Deák Ferenc utca 45. (Szent Imre Katolikus Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 945,
+        "honos" : 909,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 909
+      }
+    }, {
+      "sorszam" : "013",
+      "szk_nev" : "Eger, 013. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Kodály Zoltán utca 5. (Kemény Ferenc Sportiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 995,
+        "honos" : 937,
+        "atjel" : 0,
+        "atjelInnen" : 53,
+        "osszesen" : 937
+      }
+    }, {
+      "sorszam" : "014",
+      "szk_nev" : "Eger, 014. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Kodály Zoltán utca 5. (Kemény Ferenc Sportiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 905,
+        "honos" : 846,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 846
+      }
+    }, {
+      "sorszam" : "015",
+      "szk_nev" : "Eger, 015. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Kertész utca 128. (TISZK)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1194,
+        "honos" : 1146,
+        "atjel" : 0,
+        "atjelInnen" : 49,
+        "osszesen" : 1146
+      }
+    }, {
+      "sorszam" : "016",
+      "szk_nev" : "Eger, 016. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Kertész utca 128. (TISZK)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 645,
+        "honos" : 630,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 630
+      }
+    }, {
+      "sorszam" : "017",
+      "szk_nev" : "Eger, 017. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : " Eger, Klapka György utca 7.  (Andrássy Közgazdasági)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 637,
+        "honos" : 607,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 607
+      }
+    }, {
+      "sorszam" : "018",
+      "szk_nev" : "Eger, 018. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Kodály Zoltán utca 5. (Kemény Ferenc Sportiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 615,
+        "honos" : 596,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 596
+      }
+    }, {
+      "sorszam" : "019",
+      "szk_nev" : "Eger, 019. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Kertész utca 128. (TISZK)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 886,
+        "honos" : 850,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 850
+      }
+    }, {
+      "sorszam" : "020",
+      "szk_nev" : "Eger, 020. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Nagyváradi utca 1. (Gyermekkert Tagóvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 643,
+        "honos" : 625,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 625
+      }
+    }, {
+      "sorszam" : "021",
+      "szk_nev" : "Eger, 021. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Gárdonyi kert 5.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1134,
+        "honos" : 1071,
+        "atjel" : 0,
+        "atjelInnen" : 59,
+        "osszesen" : 1071
+      }
+    }, {
+      "sorszam" : "022",
+      "szk_nev" : "Eger, 022. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Markhót Ferenc utca 4.  (Lenkey Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1122,
+        "honos" : 1057,
+        "atjel" : 0,
+        "atjelInnen" : 49,
+        "osszesen" : 1057
+      }
+    }, {
+      "sorszam" : "023",
+      "szk_nev" : "Eger, 023. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Eszterházy tér 1.  (Eszterházy Károly Kat.Egyetem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 766,
+        "honos" : 721,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 721
+      }
+    }, {
+      "sorszam" : "024",
+      "szk_nev" : "Eger, 024. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Bem tábornok utca 3. (Móra Ferenc Tagiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 904,
+        "honos" : 877,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 877
+      }
+    }, {
+      "sorszam" : "025",
+      "szk_nev" : "Eger, 025. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Bem tábornok utca 3. (Móra Ferenc Tagiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 960,
+        "honos" : 915,
+        "atjel" : 0,
+        "atjelInnen" : 44,
+        "osszesen" : 915
+      }
+    }, {
+      "sorszam" : "026",
+      "szk_nev" : "Eger, 026. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Bem tábornok utca 3. (Móra Ferenc Tagiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 831,
+        "honos" : 808,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 808
+      }
+    }, {
+      "sorszam" : "027",
+      "szk_nev" : "Eger, 027. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Széchenyi utca 19. (Dobó István Gimnázium)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 785,
+        "honos" : 744,
+        "atjel" : 0,
+        "atjelInnen" : 36,
+        "osszesen" : 744
+      }
+    }, {
+      "sorszam" : "028",
+      "szk_nev" : "Eger, 028. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, II. Rákóczi Ferenc utca 2. (Wigner Középiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1035,
+        "honos" : 1008,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 1008
+      }
+    }, {
+      "sorszam" : "029",
+      "szk_nev" : "Eger, 029. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Széchenyi István utca 19. (Dobó istván Gimnázium)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 833,
+        "honos" : 789,
+        "atjel" : 0,
+        "atjelInnen" : 41,
+        "osszesen" : 789
+      }
+    }, {
+      "sorszam" : "030",
+      "szk_nev" : "Eger, 030. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Cifrakapu tér 4. (Jó Pásztor Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 942,
+        "honos" : 897,
+        "atjel" : 0,
+        "atjelInnen" : 42,
+        "osszesen" : 897
+      }
+    }, {
+      "sorszam" : "031",
+      "szk_nev" : "Eger, 031. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Széchenyi István utca 19. (Dobó István Gimnázium)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "I",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 694,
+        "honos" : 655,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 655
+      }
+    }, {
+      "sorszam" : "032",
+      "szk_nev" : "Eger, 032. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Malomárok utca 1. (Balassi Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 812,
+        "honos" : 792,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 792
+      }
+    }, {
+      "sorszam" : "033",
+      "szk_nev" : "Eger, 033. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Vallon utca 2. (Tinódi Sebestyén Tagiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 754,
+        "honos" : 718,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 718
+      }
+    }, {
+      "sorszam" : "034",
+      "szk_nev" : "Eger, 034. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Malomárok utca  1. (Balassi Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 902,
+        "honos" : 870,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 870
+      }
+    }, {
+      "sorszam" : "035",
+      "szk_nev" : "Eger, 035. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Malomárok utca 1. (Balassi Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 712,
+        "honos" : 691,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 691
+      }
+    }, {
+      "sorszam" : "036",
+      "szk_nev" : "Eger, 036. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Kallómalom utca 1-3. (Joó János Tagóvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 801,
+        "honos" : 760,
+        "atjel" : 0,
+        "atjelInnen" : 37,
+        "osszesen" : 760
+      }
+    }, {
+      "sorszam" : "037",
+      "szk_nev" : "Eger, 037. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Vallon utca  2. (Tinódi Sebestyén Tagiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 954,
+        "honos" : 913,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 913
+      }
+    }, {
+      "sorszam" : "038",
+      "szk_nev" : "Eger, 038. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Vallon utca  2. (Tinódi Sebestyén TagIskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 888,
+        "honos" : 862,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 862
+      }
+    }, {
+      "sorszam" : "039",
+      "szk_nev" : "Eger, 039. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, II. Rákóczi Ferenc utca 2. (Wigner Középiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 858,
+        "honos" : 834,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 834
+      }
+    }, {
+      "sorszam" : "040",
+      "szk_nev" : "Eger, 040. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, II. Rákóczi Ferenc utca 48. (Neumann Középiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 897,
+        "honos" : 866,
+        "atjel" : 0,
+        "atjelInnen" : 38,
+        "osszesen" : 866
+      }
+    }, {
+      "sorszam" : "041",
+      "szk_nev" : "Eger, 041. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, II. Rákóczi Ferenc utca 48. (Neumann Középiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1137,
+        "honos" : 1109,
+        "atjel" : 0,
+        "atjelInnen" : 34,
+        "osszesen" : 1109
+      }
+    }, {
+      "sorszam" : "042",
+      "szk_nev" : "Eger, 042. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, II. Rákóczi Ferenc utca 48. (Neumann Középiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1109,
+        "honos" : 1042,
+        "atjel" : 0,
+        "atjelInnen" : 63,
+        "osszesen" : 1042
+      }
+    }, {
+      "sorszam" : "043",
+      "szk_nev" : "Eger, 043. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, II. Rákczi Ferenc utca 2. (Wigner Középiskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 696,
+        "honos" : 666,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 666
+      }
+    }, {
+      "sorszam" : "044",
+      "szk_nev" : "Eger, 044. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Pásztorvölgy utca 25. (Pásztorvölgyi Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1094,
+        "honos" : 1061,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 1061
+      }
+    }, {
+      "sorszam" : "045",
+      "szk_nev" : "Eger, 045. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Pásztorvölgy utca 25. (Pásztorvölgyi Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1244,
+        "honos" : 1173,
+        "atjel" : 0,
+        "atjelInnen" : 53,
+        "osszesen" : 1173
+      }
+    }, {
+      "sorszam" : "046",
+      "szk_nev" : "Eger, 046. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, I. sz. lakótelep utca 9.ép.  (Közösségi Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 808,
+        "honos" : 795,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 795
+      }
+    }, {
+      "sorszam" : "047",
+      "szk_nev" : "Eger, 047. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3300 Eger, Kovács Jakab utca 35. (Felnémeti Fiókkönyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 807,
+        "honos" : 768,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 768
+      }
+    }, {
+      "sorszam" : "100",
+      "szk_nev" : "Eger, 100. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "100 Eger, Eszterházy tér 1. (Eszterházy Károly Kat. Egyetem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 0,
+        "honos" : 0,
+        "atjel" : 878,
+        "atjelInnen" : 0,
+        "osszesen" : 878
+      }
+    } ]
+  }
+}

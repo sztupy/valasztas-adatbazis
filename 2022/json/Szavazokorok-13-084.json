@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "084",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nógrád, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : " Nógrád, Szondy György utca 27.  (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 780,
+        "honos" : 743,
+        "atjel" : 29,
+        "atjelInnen" : 31,
+        "osszesen" : 772
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nógrád, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : "2642 Nógrád, Mikszáth u. 2.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 523,
+        "honos" : 511,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 511
+      }
+    } ]
+  }
+}

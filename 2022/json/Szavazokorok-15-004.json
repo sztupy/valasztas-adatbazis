@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "004",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Babócsa, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Babócsa, Szabadság tér 18. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 650,
+        "honos" : 624,
+        "atjel" : 11,
+        "atjelInnen" : 21,
+        "osszesen" : 635
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Babócsa, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SOMOGY megye, 02. számú OEVK",
+      "cim" : " Babócsa, Rákóczi u. 12. (Házasságkötőterem)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 548,
+        "honos" : 536,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 536
+      }
+    } ]
+  }
+}

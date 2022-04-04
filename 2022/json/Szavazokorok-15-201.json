@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "201",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Somogyzsitfa, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Somogyzsitfa, Mártírok utca 44. /Művelődési Ház/",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 247,
+        "honos" : 240,
+        "atjel" : 6,
+        "atjelInnen" : 2,
+        "osszesen" : 246
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Somogyzsitfa, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Somogyzsitfa, Kossuth utca 22. /Művelődési Ház/",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 164,
+        "honos" : 165,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 165
+      }
+    } ]
+  }
+}

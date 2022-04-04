@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "081",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sárkeresztúr, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Sárkeresztúr, Kossuth u. 64. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 661,
+        "honos" : 646,
+        "atjel" : 5,
+        "atjelInnen" : 7,
+        "osszesen" : 651
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Sárkeresztúr, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Sárkeresztúr, Szent István u. 50/B (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1091,
+        "honos" : 1079,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 1079
+      }
+    } ]
+  }
+}

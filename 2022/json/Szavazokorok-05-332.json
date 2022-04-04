@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "332",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tornakápolna, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : " Tornakápolna, Dózsa Gy. u. 31. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 20,
+        "honos" : 20,
+        "atjel" : 2,
+        "atjelInnen" : 0,
+        "osszesen" : 22
+      }
+    } ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "208",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tornyospálca, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Tornyospálca, Rákóczi utca 23. (Önkormányzati étterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 603,
+        "honos" : 574,
+        "atjel" : 8,
+        "atjelInnen" : 21,
+        "osszesen" : 582
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tornyospálca, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Tornyospálca, Kossuth utca 94.-96. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 667,
+        "honos" : 633,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 633
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Tornyospálca, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Tornyospálca, Mándoki utca 14. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 755,
+        "honos" : 720,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 720
+      }
+    } ]
+  }
+}

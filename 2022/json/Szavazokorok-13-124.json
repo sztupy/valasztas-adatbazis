@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "124",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tolmács, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : " Tolmács, Sport utca 1. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 622,
+        "honos" : 612,
+        "atjel" : 6,
+        "atjelInnen" : 9,
+        "osszesen" : 618
+      }
+    } ]
+  }
+}

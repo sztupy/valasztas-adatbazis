@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "014",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bodajk, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "FEJÉR megye, 02. számú OEVK",
+      "cim" : " Bodajk, Bányász ltp. 15. (Zengő Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 755,
+        "honos" : 734,
+        "atjel" : 27,
+        "atjelInnen" : 14,
+        "osszesen" : 761
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Bodajk, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "FEJÉR megye, 02. számú OEVK",
+      "cim" : "8053 Bodajk, Szent István tér 2. (Törpe Ovi)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 764,
+        "honos" : 734,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 734
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Bodajk, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "FEJÉR megye, 02. számú OEVK",
+      "cim" : " Bodajk, Petőfi S. u. 39. (Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 730,
+        "honos" : 717,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 717
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Bodajk, 004. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "FEJÉR megye, 02. számú OEVK",
+      "cim" : "8053 Bodajk, Petőfi S. u. 66. (Zarándokház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 964,
+        "honos" : 944,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 944
+      }
+    } ]
+  }
+}

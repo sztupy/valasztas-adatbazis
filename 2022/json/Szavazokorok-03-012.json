@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "012",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bátmonostor, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : " Bátmonostor, Petőfi S. u. 2. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 662,
+        "honos" : 643,
+        "atjel" : 13,
+        "atjelInnen" : 16,
+        "osszesen" : 656
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Bátmonostor, 002. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : " Bátmonostor, Zrínyi M. u. 4. (Közösségi Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 592,
+        "honos" : 565,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 565
+      }
+    } ]
+  }
+}

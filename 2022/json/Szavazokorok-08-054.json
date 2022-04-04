@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "054",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Gönyű, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Gönyű, Kossuth Lajos utca 89. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 852,
+        "honos" : 835,
+        "atjel" : 25,
+        "atjelInnen" : 10,
+        "osszesen" : 860
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Gönyű, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : "9071 Gönyű, Kossuth Lajos utca 89. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 888,
+        "honos" : 873,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 873
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Gönyű, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Gönyű, Kossuth Lajos utca 89. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 875,
+        "honos" : 853,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 853
+      }
+    } ]
+  }
+}

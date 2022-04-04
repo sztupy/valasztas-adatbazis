@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "040",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Köröstarcsa, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÉKÉS megye, 02. számú OEVK",
+      "cim" : " Köröstarcsa, Kossuth u. 18. (Művelődési Ház és Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 649,
+        "honos" : 632,
+        "atjel" : 12,
+        "atjelInnen" : 14,
+        "osszesen" : 644
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Köröstarcsa, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÉKÉS megye, 02. számú OEVK",
+      "cim" : " Köröstarcsa, Kossuth u. 39. (Önkormányzati Konyha)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 672,
+        "honos" : 660,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 660
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Köröstarcsa, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÉKÉS megye, 02. számú OEVK",
+      "cim" : " Köröstarcsa,  Kossuth u. 41/a. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 665,
+        "honos" : 642,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 642
+      }
+    } ]
+  }
+}

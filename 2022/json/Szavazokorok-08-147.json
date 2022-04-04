@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "147",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sikátor, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Sikátor, Kossuth Lajos utca 4. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 256,
+        "honos" : 261,
+        "atjel" : 1,
+        "atjelInnen" : 5,
+        "osszesen" : 262
+      }
+    } ]
+  }
+}

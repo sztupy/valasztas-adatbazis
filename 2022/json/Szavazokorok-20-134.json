@@ -1,0 +1,709 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "134",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagykanizsa, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Alkotmány u. 79-81. (Palini Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 861,
+        "honos" : 847,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 847
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nagykanizsa, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Alkotmány u. 79-81. (Palini Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1070,
+        "honos" : 1013,
+        "atjel" : 0,
+        "atjelInnen" : 50,
+        "osszesen" : 1013
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Nagykanizsa, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Magyar u. 158. (Közútkezelő)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 814,
+        "honos" : 781,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 781
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Nagykanizsa, 004. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Corvin u. 2. (Idősek Klubja)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1184,
+        "honos" : 1146,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 1146
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Nagykanizsa, 005. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Virág Benedek u. 4. (VOLÁNBUSZ)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 986,
+        "honos" : 949,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 949
+      }
+    }, {
+      "sorszam" : "006",
+      "szk_nev" : "Nagykanizsa, 006. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Hunyadi u. 16-18. (Zsigmondy V. SZKI)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1048,
+        "honos" : 1000,
+        "atjel" : 0,
+        "atjelInnen" : 45,
+        "osszesen" : 1000
+      }
+    }, {
+      "sorszam" : "007",
+      "szk_nev" : "Nagykanizsa, 007. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Attila u. 2. (Péterfy Sándor Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 668,
+        "honos" : 639,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 639
+      }
+    }, {
+      "sorszam" : "008",
+      "szk_nev" : "Nagykanizsa, 008. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Platán sor 3. (Dr. Mező Ferenc Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 992,
+        "honos" : 961,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 961
+      }
+    }, {
+      "sorszam" : "009",
+      "szk_nev" : "Nagykanizsa, 009. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Platán sor 3. (Dr. Mező Ferenc Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1185,
+        "honos" : 1138,
+        "atjel" : 0,
+        "atjelInnen" : 35,
+        "osszesen" : 1138
+      }
+    }, {
+      "sorszam" : "010",
+      "szk_nev" : "Nagykanizsa, 010. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Zrínyi u. 38. (Zrínyi-Bolyai Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1002,
+        "honos" : 977,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 977
+      }
+    }, {
+      "sorszam" : "011",
+      "szk_nev" : "Nagykanizsa, 011. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Rozgonyi u. 25. (Rozgonyi Úti Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 824,
+        "honos" : 771,
+        "atjel" : 0,
+        "atjelInnen" : 45,
+        "osszesen" : 771
+      }
+    }, {
+      "sorszam" : "012",
+      "szk_nev" : "Nagykanizsa, 012. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Rozgonyi u. 23. (Batthyány Lajos Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 708,
+        "honos" : 671,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 671
+      }
+    }, {
+      "sorszam" : "013",
+      "szk_nev" : "Nagykanizsa, 013. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Kossuth tér 6. (Kossuth téri Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 889,
+        "honos" : 849,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 849
+      }
+    }, {
+      "sorszam" : "014",
+      "szk_nev" : "Nagykanizsa, 014. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Csokonai u. 1. (Kőrösi Csoma S. Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1023,
+        "honos" : 966,
+        "atjel" : 0,
+        "atjelInnen" : 34,
+        "osszesen" : 966
+      }
+    }, {
+      "sorszam" : "015",
+      "szk_nev" : "Nagykanizsa, 015. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Kaposvári út 11. (Sánc Klubhelyiség)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1068,
+        "honos" : 1033,
+        "atjel" : 0,
+        "atjelInnen" : 34,
+        "osszesen" : 1033
+      }
+    }, {
+      "sorszam" : "016",
+      "szk_nev" : "Nagykanizsa, 016. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Bagoly u. 15. (Kultúrterem)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 851,
+        "honos" : 844,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 844
+      }
+    }, {
+      "sorszam" : "017",
+      "szk_nev" : "Nagykanizsa, 017. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Sandi u. 14. (Kisfakos faluház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "I",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 223,
+        "honos" : 225,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 225
+      }
+    }, {
+      "sorszam" : "018",
+      "szk_nev" : "Nagykanizsa, 018. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Attila u. 2. (Péterfy S. Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1024,
+        "honos" : 947,
+        "atjel" : 0,
+        "atjelInnen" : 62,
+        "osszesen" : 947
+      }
+    }, {
+      "sorszam" : "019",
+      "szk_nev" : "Nagykanizsa, 019. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Rózsa u. 9. (Szivárvány E.GY.M.I.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 987,
+        "honos" : 942,
+        "atjel" : 0,
+        "atjelInnen" : 37,
+        "osszesen" : 942
+      }
+    }, {
+      "sorszam" : "020",
+      "szk_nev" : "Nagykanizsa, 020. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Hevesi S. u. 2. (Hevesi S. Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 794,
+        "honos" : 777,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 777
+      }
+    }, {
+      "sorszam" : "021",
+      "szk_nev" : "Nagykanizsa, 021. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Rózsa u. 9. (Szivárvány E.GY.M.I.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 777,
+        "honos" : 756,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 756
+      }
+    }, {
+      "sorszam" : "022",
+      "szk_nev" : "Nagykanizsa, 022. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Hevesi S. u. 2. (Hevesi S. Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 992,
+        "honos" : 958,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 958
+      }
+    }, {
+      "sorszam" : "023",
+      "szk_nev" : "Nagykanizsa, 023. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Hevesi S. u. 2. (Hevesi S. Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1049,
+        "honos" : 1022,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 1022
+      }
+    }, {
+      "sorszam" : "024",
+      "szk_nev" : "Nagykanizsa, 024. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Hevesi S. u. 2. (Hevesi S. Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 726,
+        "honos" : 706,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 706
+      }
+    }, {
+      "sorszam" : "025",
+      "szk_nev" : "Nagykanizsa, 025. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Csokonai u. 1. (Kőrösi Csoma S. Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 778,
+        "honos" : 743,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 743
+      }
+    }, {
+      "sorszam" : "026",
+      "szk_nev" : "Nagykanizsa, 026. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Hevesi S. u. 2. (Hevesi S. Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1186,
+        "honos" : 1139,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 1139
+      }
+    }, {
+      "sorszam" : "027",
+      "szk_nev" : "Nagykanizsa, 027. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Hevesi S. u. 2. (Hevesi S. Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1207,
+        "honos" : 1167,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 1167
+      }
+    }, {
+      "sorszam" : "028",
+      "szk_nev" : "Nagykanizsa, 028. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Rózsa u. 17/B. (Hevesi Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1126,
+        "honos" : 1091,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 1091
+      }
+    }, {
+      "sorszam" : "029",
+      "szk_nev" : "Nagykanizsa, 029. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Vécsey u. 6. (Nagykanizsai Tankerületi Központ)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1095,
+        "honos" : 1056,
+        "atjel" : 0,
+        "atjelInnen" : 39,
+        "osszesen" : 1056
+      }
+    }, {
+      "sorszam" : "030",
+      "szk_nev" : "Nagykanizsa, 030. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Csengery út 67. (Kodály Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 947,
+        "honos" : 911,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 911
+      }
+    }, {
+      "sorszam" : "031",
+      "szk_nev" : "Nagykanizsa, 031. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Kápolna tér 20. (Mindenki Háza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 727,
+        "honos" : 710,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 710
+      }
+    }, {
+      "sorszam" : "032",
+      "szk_nev" : "Nagykanizsa, 032. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Kápolna tér 20. (Mindenki Háza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 816,
+        "honos" : 797,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 797
+      }
+    }, {
+      "sorszam" : "033",
+      "szk_nev" : "Nagykanizsa, 033. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Zrínyi u. 38. (Zrínyi-Bolyai Ált. Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 940,
+        "honos" : 891,
+        "atjel" : 0,
+        "atjelInnen" : 35,
+        "osszesen" : 891
+      }
+    }, {
+      "sorszam" : "034",
+      "szk_nev" : "Nagykanizsa, 034. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Erzsébet tér 9. (Bolyai Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1238,
+        "honos" : 1175,
+        "atjel" : 0,
+        "atjelInnen" : 60,
+        "osszesen" : 1175
+      }
+    }, {
+      "sorszam" : "035",
+      "szk_nev" : "Nagykanizsa, 035. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Nagyrác u. 26. (Pipitér Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1223,
+        "honos" : 1179,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 1179
+      }
+    }, {
+      "sorszam" : "036",
+      "szk_nev" : "Nagykanizsa, 036. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Törökvári u. 65. (Kultúrterem)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 507,
+        "honos" : 498,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 498
+      }
+    }, {
+      "sorszam" : "037",
+      "szk_nev" : "Nagykanizsa, 037. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Corvin u. 2. (Idősek Klubja)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 828,
+        "honos" : 794,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 794
+      }
+    }, {
+      "sorszam" : "038",
+      "szk_nev" : "Nagykanizsa, 038. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Nagyrác u. 26. (Általános Iskolai ebédlő)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 922,
+        "honos" : 894,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 894
+      }
+    }, {
+      "sorszam" : "039",
+      "szk_nev" : "Nagykanizsa, 039. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Bajcsy-Zsilinszky E. út 67. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1164,
+        "honos" : 1130,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 1130
+      }
+    }, {
+      "sorszam" : "040",
+      "szk_nev" : "Nagykanizsa, 040. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Bajcsy-Zsilinszky E. út 67. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1104,
+        "honos" : 1076,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 1076
+      }
+    }, {
+      "sorszam" : "041",
+      "szk_nev" : "Nagykanizsa, 041. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8800 Nagykanizsa, Sugár út 5. (Medgyaszay Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 0,
+        "honos" : 0,
+        "atjel" : 407,
+        "atjelInnen" : 0,
+        "osszesen" : 407
+      }
+    } ]
+  }
+}

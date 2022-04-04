@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "019",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Buj, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : " Buj, Jókai utca 2.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 621,
+        "honos" : 606,
+        "atjel" : 10,
+        "atjelInnen" : 14,
+        "osszesen" : 616
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Buj, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : " Buj, Rákóczi utca 6.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 597,
+        "honos" : 581,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 581
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Buj, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : " Buj, Rákóczi utca 4.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 598,
+        "honos" : 581,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 581
+      }
+    } ]
+  }
+}

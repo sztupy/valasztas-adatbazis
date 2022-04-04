@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "09",
+    "taz" : "068",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szerep, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 05. számú OEVK",
+      "cim" : " Szerep, Kossuth utca 10. (Szerepi K. Hétpettyes Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 961,
+        "honos" : 953,
+        "atjel" : 6,
+        "atjelInnen" : 8,
+        "osszesen" : 959
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szerep, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 05. számú OEVK",
+      "cim" : " Szerep, Hosszúhát Szociális otthon",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 50,
+        "honos" : 48,
+        "atjel" : 0,
+        "atjelInnen" : 3,
+        "osszesen" : 48
+      }
+    } ]
+  }
+}

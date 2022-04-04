@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "046",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pusztamonostor, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 02. számú OEVK",
+      "cim" : " Pusztamonostor, Szabadság út 74. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1283,
+        "honos" : 1262,
+        "atjel" : 8,
+        "atjelInnen" : 18,
+        "osszesen" : 1270
+      }
+    } ]
+  }
+}

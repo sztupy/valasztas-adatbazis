@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "044",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pitvaros, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 04. számú OEVK",
+      "cim" : " Pitvaros, Kossuth Lajos utca 30. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 570,
+        "honos" : 557,
+        "atjel" : 10,
+        "atjelInnen" : 10,
+        "osszesen" : 567
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Pitvaros, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 04. számú OEVK",
+      "cim" : " Pitvaros, Kossuth Lajos utca 27. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 518,
+        "honos" : 504,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 504
+      }
+    } ]
+  }
+}

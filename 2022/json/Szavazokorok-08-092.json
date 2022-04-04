@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "092",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Levél, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Levél,  Fő utca 10. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 712,
+        "honos" : 694,
+        "atjel" : 24,
+        "atjelInnen" : 10,
+        "osszesen" : 718
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Levél, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Levél, Fő utca 10. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 870,
+        "honos" : 855,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 855
+      }
+    } ]
+  }
+}

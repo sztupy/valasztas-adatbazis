@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "122",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sóskút, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2038 Sóskút, Szabadság tér 1. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1182,
+        "honos" : 1145,
+        "atjel" : 76,
+        "atjelInnen" : 28,
+        "osszesen" : 1221
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Sóskút, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2038 Sóskút, Fő u. 3. (Gondozóközpont)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 821,
+        "honos" : 801,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 801
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Sóskút, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "PEST megye, 01. számú OEVK",
+      "cim" : "2038 Sóskút, Tulipán u. 9. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 895,
+        "honos" : 874,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 874
+      }
+    } ]
+  }
+}

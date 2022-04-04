@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "013",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Beled, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : " Beled, Rákóczi Ferenc  utca 111.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 937,
+        "honos" : 912,
+        "atjel" : 17,
+        "atjelInnen" : 20,
+        "osszesen" : 929
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Beled, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : " Beled, Vásártér utca  2/1. (Ifjúsági ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 948,
+        "honos" : 927,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 927
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Beled, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : " Beled, Fő utca 29.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 243,
+        "honos" : 233,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 233
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "004",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Andornaktálya, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : " Andornaktálya, Kossuth Lajos utca 2. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1094,
+        "honos" : 1074,
+        "atjel" : 29,
+        "atjelInnen" : 16,
+        "osszesen" : 1103
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Andornaktálya, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : "3399 Andornaktálya, II. Rákóczi Ferenc út 217. (Református Imaház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1110,
+        "honos" : 1077,
+        "atjel" : 0,
+        "atjelInnen" : 28,
+        "osszesen" : 1077
+      }
+    } ]
+  }
+}

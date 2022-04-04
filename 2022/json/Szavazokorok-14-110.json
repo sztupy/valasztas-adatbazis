@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "110",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pilisszentkereszt, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "PEST megye, 03. számú OEVK",
+      "cim" : " Pilisszentkereszt, Fő út. 14. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 918,
+        "honos" : 900,
+        "atjel" : 39,
+        "atjelInnen" : 17,
+        "osszesen" : 939
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Pilisszentkereszt, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "PEST megye, 03. számú OEVK",
+      "cim" : " Pilisszentkereszt, Rákóczi u. 12. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 835,
+        "honos" : 801,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 801
+      }
+    } ]
+  }
+}

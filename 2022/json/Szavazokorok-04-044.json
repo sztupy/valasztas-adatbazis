@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "044",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Lőkösháza, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Lőkösháza, Alapítók útja 17-19. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 757,
+        "honos" : 719,
+        "atjel" : 8,
+        "atjelInnen" : 26,
+        "osszesen" : 727
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Lőkösháza, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Lőkösháza, Alapítók útja 22. (I. sz. Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 626,
+        "honos" : 594,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 594
+      }
+    } ]
+  }
+}

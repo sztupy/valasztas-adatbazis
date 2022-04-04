@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "034",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Erk, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Erk, Fő tér 8. (Általános Iskola tornacsarnok)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 606,
+        "honos" : 594,
+        "atjel" : 2,
+        "atjelInnen" : 8,
+        "osszesen" : 596
+      }
+    } ]
+  }
+}

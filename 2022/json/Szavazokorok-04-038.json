@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "038",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Körösladány, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÉKÉS megye, 02. számú OEVK",
+      "cim" : " Körösladány, Petőfi tér 2. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 816,
+        "honos" : 781,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 781
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Körösladány, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÉKÉS megye, 02. számú OEVK",
+      "cim" : " Körösladány, Arany János utca 7-9. (Városi Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 917,
+        "honos" : 880,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 880
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Körösladány, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÉKÉS megye, 02. számú OEVK",
+      "cim" : " Körösladány, Petőfi tér 5. (Városi Könyvtár)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 876,
+        "honos" : 856,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 856
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Körösladány, 004. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÉKÉS megye, 02. számú OEVK",
+      "cim" : " Körösladány, Wenckheim Béla utca 1. (Családsegítő  Szolgálat)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 887,
+        "honos" : 846,
+        "atjel" : 17,
+        "atjelInnen" : 32,
+        "osszesen" : 863
+      }
+    } ]
+  }
+}

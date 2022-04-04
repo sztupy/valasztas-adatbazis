@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "056",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tömörkény, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 03. számú OEVK",
+      "cim" : " Tömörkény, Ifjúság utca 8. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 723,
+        "honos" : 720,
+        "atjel" : 8,
+        "atjelInnen" : 5,
+        "osszesen" : 728
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tömörkény, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 03. számú OEVK",
+      "cim" : " Tömörkény, Kossuth Lajos utca 118. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 673,
+        "honos" : 651,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 651
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "006",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ásványráró, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : "9177 Ásványráró, Rákóczi utca 65.  (IKSZT)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 894,
+        "honos" : 885,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 885
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Ásványráró, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : "9177 Ásványráró, Rákóczi utca 65. (IKSZT)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 780,
+        "honos" : 776,
+        "atjel" : 14,
+        "atjelInnen" : 10,
+        "osszesen" : 790
+      }
+    } ]
+  }
+}

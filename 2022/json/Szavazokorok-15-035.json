@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "035",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Buzsák, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Buzsák,  Fő tér 1/A. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 616,
+        "honos" : 597,
+        "atjel" : 10,
+        "atjelInnen" : 26,
+        "osszesen" : 607
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Buzsák, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Buzsák, Arany J. u.1.(Vadászház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 406,
+        "honos" : 377,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 377
+      }
+    } ]
+  }
+}

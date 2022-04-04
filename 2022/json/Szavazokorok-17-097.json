@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "097",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tengelic, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "TOLNA megye, 01. számú OEVK",
+      "cim" : " Tengelic, Rákóczi u. 11. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 634,
+        "honos" : 618,
+        "atjel" : 19,
+        "atjelInnen" : 12,
+        "osszesen" : 637
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tengelic, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "TOLNA megye, 01. számú OEVK",
+      "cim" : " Tengelic, Ady E. u. 1.  (Művelődési ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 299,
+        "honos" : 288,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 288
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Tengelic, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "TOLNA megye, 01. számú OEVK",
+      "cim" : " Tengelic, Jánosmajor Fő u. 14. (Művelődési ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 202,
+        "honos" : 198,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 198
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Tengelic, 004. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "TOLNA megye, 01. számú OEVK",
+      "cim" : " Tengelic,  Rákóczi u. 11. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 622,
+        "honos" : 608,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 608
+      }
+    } ]
+  }
+}

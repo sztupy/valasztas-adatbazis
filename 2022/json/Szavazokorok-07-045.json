@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "045",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kisapostag, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Kisapostag, Petőfi S. u. 63. (Községháza Kultúrterme)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 622,
+        "honos" : 611,
+        "atjel" : 16,
+        "atjelInnen" : 16,
+        "osszesen" : 627
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kisapostag, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Kisapostag, Széchenyi u. 5. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 638,
+        "honos" : 618,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 618
+      }
+    } ]
+  }
+}

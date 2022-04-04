@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "060",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Győrasszonyfa, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Győrasszonyfa, Hunyadi tér 18. (Önkormányzat)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 405,
+        "honos" : 397,
+        "atjel" : 2,
+        "atjelInnen" : 10,
+        "osszesen" : 399
+      }
+    } ]
+  }
+}

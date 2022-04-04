@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "073",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kunfehértó, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BÁCS-KISKUN megye, 05. számú OEVK",
+      "cim" : " Kunfehértó, Béke tér 3. (Könyvtár Olvasóterme)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 981,
+        "honos" : 957,
+        "atjel" : 20,
+        "atjelInnen" : 27,
+        "osszesen" : 977
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kunfehértó, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BÁCS-KISKUN megye, 05. számú OEVK",
+      "cim" : " Kunfehértó, Szabadság tér 7. (Gondozási központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 786,
+        "honos" : 756,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 756
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Kunfehértó, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BÁCS-KISKUN megye, 05. számú OEVK",
+      "cim" : " Kunfehértó, II. Körzet 101.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 107,
+        "honos" : 109,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 109
+      }
+    } ]
+  }
+}

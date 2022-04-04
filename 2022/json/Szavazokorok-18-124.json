@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "124",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nemescsó, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : " Nemescsó, Péterfy S. u. 21.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 255,
+        "honos" : 248,
+        "atjel" : 2,
+        "atjelInnen" : 5,
+        "osszesen" : 250
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "234",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Visz, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Visz, Rákóczi u. 32. (Önkormányzat)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 139,
+        "honos" : 140,
+        "atjel" : 2,
+        "atjelInnen" : 2,
+        "osszesen" : 142
+      }
+    } ]
+  }
+}

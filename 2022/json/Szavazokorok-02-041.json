@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "041",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bükkösd, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BARANYA megye, 04. számú OEVK",
+      "cim" : " Bükkösd, Kossuth u. 48. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 481,
+        "honos" : 469,
+        "atjel" : 10,
+        "atjelInnen" : 9,
+        "osszesen" : 479
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Bükkösd, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BARANYA megye, 04. számú OEVK",
+      "cim" : " Bükkösd, Táncsics u. 1. (Sportegy. Klub)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 402,
+        "honos" : 396,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 396
+      }
+    } ]
+  }
+}

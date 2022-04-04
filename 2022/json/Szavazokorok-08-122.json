@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "122",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Petőháza, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : " Petőháza, Kinizsi Pál utca 51. (Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 879,
+        "honos" : 860,
+        "atjel" : 4,
+        "atjelInnen" : 20,
+        "osszesen" : 864
+      }
+    } ]
+  }
+}

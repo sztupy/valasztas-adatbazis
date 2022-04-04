@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "057",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Süttő, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : " Süttő, Rákóczi F. út 30. (Közösségi Udvarház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 766,
+        "honos" : 744,
+        "atjel" : 52,
+        "atjelInnen" : 24,
+        "osszesen" : 796
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Süttő, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : " Süttő, Áprily tér 4. (Hengermalom Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 830,
+        "honos" : 809,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 809
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "026",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Borsfa, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : " Borsfa, Zrínyi  u. 7. (Ifjúsági ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 571,
+        "honos" : 553,
+        "atjel" : 2,
+        "atjelInnen" : 11,
+        "osszesen" : 555
+      }
+    } ]
+  }
+}

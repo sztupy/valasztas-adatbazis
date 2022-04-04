@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "131",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Muraszemenye, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8872 Muraszemenye, Fő tér 6. (IKSZT ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 197,
+        "honos" : 190,
+        "atjel" : 5,
+        "atjelInnen" : 1,
+        "osszesen" : 195
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Muraszemenye, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8872 Muraszemenye, Táncsics út 51. (Kultúrotthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 90,
+        "honos" : 90,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 90
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Muraszemenye, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "ZALA megye, 03. számú OEVK",
+      "cim" : "8872 Muraszemenye, Zrínyi út 2. (Kultúrotthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 86,
+        "honos" : 84,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 84
+      }
+    } ]
+  }
+}

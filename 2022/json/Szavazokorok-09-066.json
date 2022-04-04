@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "09",
+    "taz" : "066",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sárrétudvari, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 05. számú OEVK",
+      "cim" : " Sárrétudvari, Kossuth utca 95. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 800,
+        "honos" : 782,
+        "atjel" : 17,
+        "atjelInnen" : 11,
+        "osszesen" : 799
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Sárrétudvari, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 05. számú OEVK",
+      "cim" : " Sárrétudvari, Kossuth utca 53. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 742,
+        "honos" : 721,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 721
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Sárrétudvari, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "HAJDÚ-BIHAR megye, 05. számú OEVK",
+      "cim" : "4171 Sárrétudvari, Széchenyi utca 31. (Idősek Klubja)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 791,
+        "honos" : 769,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 769
+      }
+    } ]
+  }
+}

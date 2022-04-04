@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "175",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sümegprága, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VESZPRÉM megye, 03. számú OEVK",
+      "cim" : "8351 Sümegprága, Rákóczi u. 38. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 498,
+        "honos" : 485,
+        "atjel" : 3,
+        "atjelInnen" : 13,
+        "osszesen" : 488
+      }
+    } ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "004",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Abaújszántó, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 05. számú OEVK",
+      "cim" : " Abaújszántó,  Petőfi út 16. (Gondozási Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 809,
+        "honos" : 799,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 799
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Abaújszántó, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 05. számú OEVK",
+      "cim" : " Abaújszántó, Jászay tér 10. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 827,
+        "honos" : 791,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 791
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Abaújszántó, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 05. számú OEVK",
+      "cim" : " Abaújszántó, Béke út 51. (Önkormányzati tanácsterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 694,
+        "honos" : 668,
+        "atjel" : 37,
+        "atjelInnen" : 26,
+        "osszesen" : 705
+      }
+    } ]
+  }
+}

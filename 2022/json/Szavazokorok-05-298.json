@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "298",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szirmabesenyő, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 01. számú OEVK",
+      "cim" : " Szirmabesenyő, Kossuth utca 22. (Napközi Otthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1003,
+        "honos" : 989,
+        "atjel" : 112,
+        "atjelInnen" : 24,
+        "osszesen" : 1101
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szirmabesenyő, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 01. számú OEVK",
+      "cim" : " Szirmabesenyő, Kossuth utca 42-44. (Művelődési Otthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 885,
+        "honos" : 853,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 853
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Szirmabesenyő, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 01. számú OEVK",
+      "cim" : " Szirmabesenyő, Vörösmarty utca 12-14. (Bölcsőde)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 811,
+        "honos" : 784,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 784
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Szirmabesenyő, 004. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 01. számú OEVK",
+      "cim" : " Szirmabesenyő, Déryné utca 24. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 863,
+        "honos" : 819,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 819
+      }
+    } ]
+  }
+}

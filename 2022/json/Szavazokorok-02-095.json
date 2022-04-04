@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "095",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Hidas, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Hidas, Kossuth Lajos utca 50/II.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 836,
+        "honos" : 817,
+        "atjel" : 10,
+        "atjelInnen" : 13,
+        "osszesen" : 827
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Hidas, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Hidas, Kossuth Lajos utca 31.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 861,
+        "honos" : 838,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 838
+      }
+    } ]
+  }
+}

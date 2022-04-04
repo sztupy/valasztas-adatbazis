@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "149",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Járdánháza, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : "3664 Járdánháza, IV. Béla út 27. (Önkormányzat épülete)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 728,
+        "honos" : 713,
+        "atjel" : 6,
+        "atjelInnen" : 16,
+        "osszesen" : 719
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Járdánháza, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : "3664 Járdánháza, IV. Béla út 131. (IV. Béla Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 607,
+        "honos" : 594,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 594
+      }
+    } ]
+  }
+}

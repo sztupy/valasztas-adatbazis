@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "108",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tiszanána, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : " Tiszanána, Fő út 90. ( Napköziotthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 895,
+        "honos" : 885,
+        "atjel" : 20,
+        "atjelInnen" : 12,
+        "osszesen" : 905
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tiszanána, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : " Tiszanána, Fő út 116. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 908,
+        "honos" : 877,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 877
+      }
+    } ]
+  }
+}

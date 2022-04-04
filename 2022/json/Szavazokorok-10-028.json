@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "028",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Egercsehi, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Egercsehi, Kossuth út 34. (Kultúrház - nagyterem)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 228,
+        "honos" : 221,
+        "atjel" : 0,
+        "atjelInnen" : 4,
+        "osszesen" : 221
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Egercsehi, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Egercsehi, Petőfi út 6. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 455,
+        "honos" : 447,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 447
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Egercsehi, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Egercsehi, Bányász tér 3. (Orvosi rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 401,
+        "honos" : 385,
+        "atjel" : 13,
+        "atjelInnen" : 13,
+        "osszesen" : 398
+      }
+    } ]
+  }
+}

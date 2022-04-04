@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "024",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Dorogháza, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "NÓGRÁD megye, 01. számú OEVK",
+      "cim" : " Dorogháza, Szent István út 7.  (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 493,
+        "honos" : 475,
+        "atjel" : 11,
+        "atjelInnen" : 12,
+        "osszesen" : 486
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Dorogháza, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "NÓGRÁD megye, 01. számú OEVK",
+      "cim" : " Dorogháza, Ady  Endre út 7. (Újtelepi Klub)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 334,
+        "honos" : 328,
+        "atjel" : 0,
+        "atjelInnen" : 3,
+        "osszesen" : 328
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "079",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Majosháza, 001. számú szavazókör",
+      "evk" : "08",
+      "evk_nev" : "PEST megye, 08. számú OEVK",
+      "cim" : " Majosháza, Rákóczi utca 2. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1390,
+        "honos" : 1356,
+        "atjel" : 28,
+        "atjelInnen" : 32,
+        "osszesen" : 1384
+      }
+    } ]
+  }
+}

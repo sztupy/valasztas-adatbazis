@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "011",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Beloiannisz, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "FEJÉR megye, 03. számú OEVK",
+      "cim" : " Beloiannisz, Szarafisz utca 2. (Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 888,
+        "honos" : 870,
+        "atjel" : 9,
+        "atjelInnen" : 15,
+        "osszesen" : 879
+      }
+    } ]
+  }
+}

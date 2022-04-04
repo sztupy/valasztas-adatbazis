@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "113",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Gönc, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 05. számú OEVK",
+      "cim" : " Gönc, Kossuth Lajos utca 71. (Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 746,
+        "honos" : 714,
+        "atjel" : 9,
+        "atjelInnen" : 28,
+        "osszesen" : 723
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Gönc, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 05. számú OEVK",
+      "cim" : " Gönc, Kossuth Lajos utca 68. (Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 725,
+        "honos" : 703,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 703
+      }
+    } ]
+  }
+}

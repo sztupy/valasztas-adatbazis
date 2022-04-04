@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "018",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Eperjes, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 03. számú OEVK",
+      "cim" : "6624 Eperjes, Petőfi u. 1. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 380,
+        "honos" : 368,
+        "atjel" : 4,
+        "atjelInnen" : 9,
+        "osszesen" : 372
+      }
+    } ]
+  }
+}

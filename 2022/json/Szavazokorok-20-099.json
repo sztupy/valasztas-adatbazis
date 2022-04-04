@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "099",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kispáli, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "ZALA megye, 01. számú OEVK",
+      "cim" : "8912 Kispáli, József A. u. 40. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 239,
+        "honos" : 234,
+        "atjel" : 3,
+        "atjelInnen" : 6,
+        "osszesen" : 237
+      }
+    } ]
+  }
+}

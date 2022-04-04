@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "124",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szada, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "PEST megye, 06. számú OEVK",
+      "cim" : " Szada, Dózsa Gy. u. 63. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1185,
+        "honos" : 1164,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 1164
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szada, 002. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "PEST megye, 06. számú OEVK",
+      "cim" : " Szada, Dózsa Gy. u. 76. (Szociális Alapsz. Központ)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1373,
+        "honos" : 1341,
+        "atjel" : 0,
+        "atjelInnen" : 40,
+        "osszesen" : 1341
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Szada, 003. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "PEST megye, 06. számú OEVK",
+      "cim" : "2111 Szada, Dózsa György út 63. (Ált.Isk. 1.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1211,
+        "honos" : 1196,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 1196
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Szada, 004. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "PEST megye, 06. számú OEVK",
+      "cim" : "2111 Szada, Dózsa György út 63. (Ált.Isk. 2.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 757,
+        "honos" : 739,
+        "atjel" : 97,
+        "atjelInnen" : 23,
+        "osszesen" : 836
+      }
+    } ]
+  }
+}

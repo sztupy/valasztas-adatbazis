@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "002",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Alattyán, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 02. számú OEVK",
+      "cim" : " Alattyán, Szent István út 21. (Általános iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 622,
+        "honos" : 605,
+        "atjel" : 8,
+        "atjelInnen" : 12,
+        "osszesen" : 613
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Alattyán, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 02. számú OEVK",
+      "cim" : " Alattyán, Kossuth Lajos utca 10/A. (Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 965,
+        "honos" : 952,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 952
+      }
+    } ]
+  }
+}

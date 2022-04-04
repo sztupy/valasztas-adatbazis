@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "280",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sima, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 05. számú OEVK",
+      "cim" : " Sima,  Fő út 38. (Önkormányzat)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 37,
+        "honos" : 30,
+        "atjel" : 3,
+        "atjelInnen" : 8,
+        "osszesen" : 33
+      }
+    } ]
+  }
+}

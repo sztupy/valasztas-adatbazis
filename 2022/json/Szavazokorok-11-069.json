@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "069",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tiszatenyő, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 04. számú OEVK",
+      "cim" : "5082 Tiszatenyő, Alkotmány út 26. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 680,
+        "honos" : 661,
+        "atjel" : 11,
+        "atjelInnen" : 8,
+        "osszesen" : 672
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tiszatenyő, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 04. számú OEVK",
+      "cim" : "5082 Tiszatenyő, Petőfi út 6-8. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 639,
+        "honos" : 623,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 623
+      }
+    } ]
+  }
+}

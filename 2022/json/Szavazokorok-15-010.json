@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "010",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Balatonföldvár, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Balatonföldvár, Petőfi Sándor u. 1. (Közös Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 929,
+        "honos" : 870,
+        "atjel" : 163,
+        "atjelInnen" : 56,
+        "osszesen" : 1033
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Balatonföldvár, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Balatonföldvár, Kőröshegyi út 1.  (Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1048,
+        "honos" : 1001,
+        "atjel" : 0,
+        "atjelInnen" : 43,
+        "osszesen" : 1001
+      }
+    } ]
+  }
+}

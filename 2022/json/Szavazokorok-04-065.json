@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "065",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szabadkígyós, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BÉKÉS megye, 01. számú OEVK",
+      "cim" : " Szabadkígyós, Kossuth tér 1. (Ált. Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 631,
+        "honos" : 612,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 612
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szabadkígyós, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BÉKÉS megye, 01. számú OEVK",
+      "cim" : " Szabadkígyós, Kossuth tér 1.  (Ált. isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 794,
+        "honos" : 764,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 764
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Szabadkígyós, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "BÉKÉS megye, 01. számú OEVK",
+      "cim" : " Szabadkígyós, Kossuth tér 6. (Művelődési ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 691,
+        "honos" : 677,
+        "atjel" : 19,
+        "atjelInnen" : 14,
+        "osszesen" : 696
+      }
+    } ]
+  }
+}

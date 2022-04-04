@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "091",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szabadegyháza, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Szabadegyháza, Kossuth u. 2. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1236,
+        "honos" : 1211,
+        "atjel" : 19,
+        "atjelInnen" : 12,
+        "osszesen" : 1230
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szabadegyháza, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "FEJÉR megye, 05. számú OEVK",
+      "cim" : " Szabadegyháza, Vörösmarty M. u. 14. (Orvosi Rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 465,
+        "honos" : 464,
+        "atjel" : 0,
+        "atjelInnen" : 3,
+        "osszesen" : 464
+      }
+    } ]
+  }
+}

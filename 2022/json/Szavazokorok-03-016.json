@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "016",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bugac, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÁCS-KISKUN megye, 04. számú OEVK",
+      "cim" : " Bugac, Béke u. 27. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 936,
+        "honos" : 920,
+        "atjel" : 11,
+        "atjelInnen" : 9,
+        "osszesen" : 931
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Bugac, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÁCS-KISKUN megye, 04. számú OEVK",
+      "cim" : " Bugac, Szabadság tér 15. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 911,
+        "honos" : 898,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 898
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Bugac, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÁCS-KISKUN megye, 04. számú OEVK",
+      "cim" : " Bugac, Rózsa u. 6/2.(Csenki Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 331,
+        "honos" : 320,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 320
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "146",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Őr, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Őr, Kossuth Lajos u. 2.sz. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 638,
+        "honos" : 632,
+        "atjel" : 6,
+        "atjelInnen" : 5,
+        "osszesen" : 638
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Őr, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : " Őr,  Arany J. u. 2. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 561,
+        "honos" : 546,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 546
+      }
+    } ]
+  }
+}

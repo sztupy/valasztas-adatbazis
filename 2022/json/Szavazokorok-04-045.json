@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "045",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Magyarbánhegyes, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Magyarbánhegyes, Kossuth u. 56.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 585,
+        "honos" : 563,
+        "atjel" : 9,
+        "atjelInnen" : 21,
+        "osszesen" : 572
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Magyarbánhegyes, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Magyarbánhegyes, Árpád u. 1.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 480,
+        "honos" : 462,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 462
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Magyarbánhegyes, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : " Magyarbánhegyes, Aradi utca 21.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 550,
+        "honos" : 533,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 533
+      }
+    } ]
+  }
+}

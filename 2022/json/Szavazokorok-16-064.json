@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "064",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kálmánháza, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : " Kálmánháza, Nyíregyházi út 71. (Régi Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 736,
+        "honos" : 714,
+        "atjel" : 8,
+        "atjelInnen" : 16,
+        "osszesen" : 722
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kálmánháza, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : " Kálmánháza, Nyíregyházi út 28. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 615,
+        "honos" : 602,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 602
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Kálmánháza, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 02. számú OEVK",
+      "cim" : " Kálmánháza, Petőfi tag 37. (Régi Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 163,
+        "honos" : 162,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 162
+      }
+    } ]
+  }
+}

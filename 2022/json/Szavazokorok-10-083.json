@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "083",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Parád, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : "3240 Parád, Kossuth út 49. (Napközi otthon)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 602,
+        "honos" : 562,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 562
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Parád, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Parád, Kossuth u. 123. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 537,
+        "honos" : 526,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 526
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Parád, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : "3240 Parád, Kossuth u. 219. (Freskó Étterem társalgó)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 288,
+        "honos" : 278,
+        "atjel" : 99,
+        "atjelInnen" : 7,
+        "osszesen" : 377
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Parád, 004. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Parád, Széchenyi u. 22. (Általános Iskola Parádóhuta)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 167,
+        "honos" : 162,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 162
+      }
+    } ]
+  }
+}

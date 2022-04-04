@@ -1,0 +1,420 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "175",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Siófok, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Siófok, Baross G. utca 100. (Sóstói Strand főépület)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 301,
+        "honos" : 284,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 284
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Siófok, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Siófok, Szent László utca 183. (Galérius Élményfürdő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 785,
+        "honos" : 716,
+        "atjel" : 0,
+        "atjelInnen" : 65,
+        "osszesen" : 716
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Siófok, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : "8600 Siófok, Petőfi sétány 3. (Balaton-parti Kft. főépülete)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 585,
+        "honos" : 528,
+        "atjel" : 0,
+        "atjelInnen" : 54,
+        "osszesen" : 528
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Siófok, 004. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Siófok, Mártírok útja 1.  (Művészeti Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 458,
+        "honos" : 444,
+        "atjel" : 675,
+        "atjelInnen" : 18,
+        "osszesen" : 1119
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Siófok, 005. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Siófok, Bakony utca 2. (Baross Gábor Technikum és Szakkép)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1277,
+        "honos" : 1193,
+        "atjel" : 0,
+        "atjelInnen" : 83,
+        "osszesen" : 1193
+      }
+    }, {
+      "sorszam" : "006",
+      "szk_nev" : "Siófok, 006. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Siófok, Bókay utca 2. (Nyolcszínvirág Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 883,
+        "honos" : 840,
+        "atjel" : 0,
+        "atjelInnen" : 34,
+        "osszesen" : 840
+      }
+    }, {
+      "sorszam" : "007",
+      "szk_nev" : "Siófok, 007. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Siófok, Vámház utca 6. (Balatoni Vízügyi Kirendeltség)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 940,
+        "honos" : 867,
+        "atjel" : 0,
+        "atjelInnen" : 57,
+        "osszesen" : 867
+      }
+    }, {
+      "sorszam" : "008",
+      "szk_nev" : "Siófok, 008. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Siófok, Koch R. utca 8. (Krúdy Gyula Technikum és Gimáziu)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 859,
+        "honos" : 811,
+        "atjel" : 0,
+        "atjelInnen" : 44,
+        "osszesen" : 811
+      }
+    }, {
+      "sorszam" : "009",
+      "szk_nev" : "Siófok, 009. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : "8600 Siófok, Koch R. utca 8. (Krúdy Gyula Tecnhikum és Gimáziu)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 938,
+        "honos" : 917,
+        "atjel" : 0,
+        "atjelInnen" : 36,
+        "osszesen" : 917
+      }
+    }, {
+      "sorszam" : "010",
+      "szk_nev" : "Siófok, 010. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : "8600 Siófok, Fő tér 2. (Kálmán Imre Művelődési Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1123,
+        "honos" : 1063,
+        "atjel" : 0,
+        "atjelInnen" : 38,
+        "osszesen" : 1063
+      }
+    }, {
+      "sorszam" : "011",
+      "szk_nev" : "Siófok, 011. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Siófok, Március 15. park 1. (Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "I",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 637,
+        "honos" : 622,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 622
+      }
+    }, {
+      "sorszam" : "012",
+      "szk_nev" : "Siófok, 012. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Siófok, Tanácsház utca 8. (Lapostetős általános isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 566,
+        "honos" : 533,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 533
+      }
+    }, {
+      "sorszam" : "013",
+      "szk_nev" : "Siófok, 013. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Siófok, Széchenyi utca 13. (Széchenyi utcai iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 867,
+        "honos" : 826,
+        "atjel" : 0,
+        "atjelInnen" : 35,
+        "osszesen" : 826
+      }
+    }, {
+      "sorszam" : "014",
+      "szk_nev" : "Siófok, 014. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Siófok, Fő utca 218. (Városi Bölcsőde)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 741,
+        "honos" : 716,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 716
+      }
+    }, {
+      "sorszam" : "015",
+      "szk_nev" : "Siófok, 015. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Siófok, Kele utca 33. (Általános iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 785,
+        "honos" : 740,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 740
+      }
+    }, {
+      "sorszam" : "016",
+      "szk_nev" : "Siófok, 016. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : "8600 Siófok, Fő utca 218. (Evangélikus templom mögötti óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 822,
+        "honos" : 787,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 787
+      }
+    }, {
+      "sorszam" : "017",
+      "szk_nev" : "Siófok, 017. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Siófok, Áchim A. utca 1. (Pöttyös Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1144,
+        "honos" : 1119,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 1119
+      }
+    }, {
+      "sorszam" : "018",
+      "szk_nev" : "Siófok, 018. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Siófok, Csárdaréti utca 7. (Pitypang Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1067,
+        "honos" : 1023,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 1023
+      }
+    }, {
+      "sorszam" : "019",
+      "szk_nev" : "Siófok, 019. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Siófok, Csárdaréti utca 7. (Pitypang Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1176,
+        "honos" : 1153,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 1153
+      }
+    }, {
+      "sorszam" : "020",
+      "szk_nev" : "Siófok, 020. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Siófok, Csárdaréti utca 7. (Pitypang Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1342,
+        "honos" : 1299,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 1299
+      }
+    }, {
+      "sorszam" : "021",
+      "szk_nev" : "Siófok, 021. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Siófok, Asztalos utca 18. (Általános iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1362,
+        "honos" : 1310,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 1310
+      }
+    }, {
+      "sorszam" : "022",
+      "szk_nev" : "Siófok, 022. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Siófok, Diófás utca 71. (Töreki orvosi rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 289,
+        "honos" : 289,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 289
+      }
+    }, {
+      "sorszam" : "023",
+      "szk_nev" : "Siófok, 023. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : "8600 Siófok, Koch R. utca 8. (Krúdy Gyula Technikum és Gimnázi)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 678,
+        "honos" : 658,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 658
+      }
+    }, {
+      "sorszam" : "024",
+      "szk_nev" : "Siófok, 024. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : "8600 Siófok, Bókay utca 2/A (Katicabogár Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 824,
+        "honos" : 801,
+        "atjel" : 0,
+        "atjelInnen" : 34,
+        "osszesen" : 801
+      }
+    } ]
+  }
+}

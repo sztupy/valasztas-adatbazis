@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "190",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tihany, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VESZPRÉM megye, 02. számú OEVK",
+      "cim" : "8237 Tihany, Általános Iskola - Csokonai utca 73.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1133,
+        "honos" : 1036,
+        "atjel" : 89,
+        "atjelInnen" : 98,
+        "osszesen" : 1125
+      }
+    } ]
+  }
+}

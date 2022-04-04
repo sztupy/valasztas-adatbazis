@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "117",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pannonhalma, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Pannonhalma, Dózsa György utca 10. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1028,
+        "honos" : 1007,
+        "atjel" : 84,
+        "atjelInnen" : 24,
+        "osszesen" : 1091
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Pannonhalma, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Pannonhalma, Kossuth utca 1. (Tűzoltószertár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 740,
+        "honos" : 713,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 713
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Pannonhalma, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Pannonhalma, Petőfi utca 25. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 822,
+        "honos" : 796,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 796
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Pannonhalma, 004. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : "9090 Pannonhalma, Várkerület 4. (Gyógynövénykert, Kertészeti Iroda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 202,
+        "honos" : 185,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 185
+      }
+    } ]
+  }
+}

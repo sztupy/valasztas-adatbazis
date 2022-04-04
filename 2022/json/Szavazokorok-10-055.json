@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "055",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kál, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : "3350 Kál, Dózsa György utca 1. (Házasságkötő terem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 758,
+        "honos" : 739,
+        "atjel" : 24,
+        "atjelInnen" : 11,
+        "osszesen" : 763
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kál, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : "3350 Kál, Ady Endre utca 1.  (Művelődési ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 821,
+        "honos" : 810,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 810
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Kál, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : "3350 Kál, Rózsa utca 8. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 707,
+        "honos" : 700,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 700
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Kál, 004. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : "3350 Kál, Szent István tér 2. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 444,
+        "honos" : 420,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 420
+      }
+    } ]
+  }
+}

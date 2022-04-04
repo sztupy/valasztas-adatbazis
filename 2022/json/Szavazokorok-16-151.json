@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "151",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Pátroha, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Pátroha, Kossuth utca 148. (Védőnői Szolgálat)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 732,
+        "honos" : 711,
+        "atjel" : 7,
+        "atjelInnen" : 11,
+        "osszesen" : 718
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Pátroha, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Pátroha, Szabadság út 4. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 938,
+        "honos" : 909,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 909
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Pátroha, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : " Pátroha, Széchenyi utca 36. (Régi Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 648,
+        "honos" : 624,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 624
+      }
+    } ]
+  }
+}

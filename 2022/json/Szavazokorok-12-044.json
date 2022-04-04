@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "044",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mocsa, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 03. számú OEVK",
+      "cim" : " Mocsa, Hősök tere 2.  (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 877,
+        "honos" : 860,
+        "atjel" : 18,
+        "atjelInnen" : 9,
+        "osszesen" : 878
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Mocsa, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 03. számú OEVK",
+      "cim" : " Mocsa, Csillag u. 2.  (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 889,
+        "honos" : 874,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 874
+      }
+    } ]
+  }
+}

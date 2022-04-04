@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "097",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szúcs, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Szúcs, Kossuth L. út 34. (Kultúrotthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 190,
+        "honos" : 187,
+        "atjel" : 4,
+        "atjelInnen" : 3,
+        "osszesen" : 191
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Szúcs, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Szúcs, Petőfi S. út 21. (Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 99,
+        "honos" : 97,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 97
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "163",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ráksi, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : " Ráksi, Fő u. 18. (Kultúrotthon)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 380,
+        "honos" : 359,
+        "atjel" : 6,
+        "atjelInnen" : 13,
+        "osszesen" : 365
+      }
+    } ]
+  }
+}

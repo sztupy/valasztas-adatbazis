@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "010",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csanádpalota, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 04. számú OEVK",
+      "cim" : " Csanádpalota, Szent István u. 46. (Emeletes Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 763,
+        "honos" : 737,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 737
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Csanádpalota, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 04. számú OEVK",
+      "cim" : " Csanádpalota, Szent István u. 40. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 792,
+        "honos" : 765,
+        "atjel" : 17,
+        "atjelInnen" : 23,
+        "osszesen" : 782
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Csanádpalota, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 04. számú OEVK",
+      "cim" : "6913 Csanádpalota, Kálmány L. u. 9.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 736,
+        "honos" : 718,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 718
+      }
+    } ]
+  }
+}

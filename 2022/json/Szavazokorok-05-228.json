@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "228",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Parasznya, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 02. számú OEVK",
+      "cim" : " Parasznya, Rákóczi Ferenc utca 23. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 933,
+        "honos" : 904,
+        "atjel" : 5,
+        "atjelInnen" : 23,
+        "osszesen" : 909
+      }
+    } ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "005",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ballószög, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÁCS-KISKUN megye, 02. számú OEVK",
+      "cim" : " Ballószög, Rákóczi út 15. (Polgármesteri Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 750,
+        "honos" : 730,
+        "atjel" : 81,
+        "atjelInnen" : 18,
+        "osszesen" : 811
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Ballószög, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÁCS-KISKUN megye, 02. számú OEVK",
+      "cim" : " Ballószög, III. Körzet 71. (Karácsonyi Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1163,
+        "honos" : 1141,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 1141
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Ballószög, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "BÁCS-KISKUN megye, 02. számú OEVK",
+      "cim" : " Ballószög, Kossuth u. 4-6. (Kossuth Lajos Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1201,
+        "honos" : 1176,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 1176
+      }
+    } ]
+  }
+}

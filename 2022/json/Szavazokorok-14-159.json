@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "159",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Törtel, 001. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2747 Törtel, Törtel, Dózsa Gy. u. 20-22.  (Malom)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 885,
+        "honos" : 874,
+        "atjel" : 30,
+        "atjelInnen" : 12,
+        "osszesen" : 904
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Törtel, 002. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2747 Törtel, Törtel, Dózsa Gy. út 19. (Régi művelődési ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 853,
+        "honos" : 829,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 829
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Törtel, 003. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2747 Törtel, Törtel, Kossuth Lajos út 3. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 886,
+        "honos" : 866,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 866
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Törtel, 004. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2747 Törtel, Törtel, Szent István tér 2. (Sportcsarnok)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 800,
+        "honos" : 789,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 789
+      }
+    } ]
+  }
+}

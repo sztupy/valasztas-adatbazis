@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "168",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sé, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "VAS megye, 01. számú OEVK",
+      "cim" : " Sé, Szabadság utca 29. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1114,
+        "honos" : 1078,
+        "atjel" : 19,
+        "atjelInnen" : 26,
+        "osszesen" : 1097
+      }
+    } ]
+  }
+}

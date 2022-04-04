@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "063",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tarján, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : " Tarján, Rákóczi út 32. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 912,
+        "honos" : 900,
+        "atjel" : 63,
+        "atjelInnen" : 14,
+        "osszesen" : 963
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Tarján, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : " Tarján, Rákóczi út 13. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1141,
+        "honos" : 1131,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 1131
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Tarján, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : " Tarján, Tornyópuszta (Irodaház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 90,
+        "honos" : 94,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 94
+      }
+    } ]
+  }
+}

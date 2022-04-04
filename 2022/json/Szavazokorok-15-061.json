@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "061",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Gölle, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : "7272 Gölle, Árpád u. 3. (Művelődési ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 594,
+        "honos" : 574,
+        "atjel" : 7,
+        "atjelInnen" : 14,
+        "osszesen" : 581
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Gölle, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "SOMOGY megye, 04. számú OEVK",
+      "cim" : "7272 Gölle, Fő utca 32. (Közösségi ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 82,
+        "honos" : 80,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 80
+      }
+    } ]
+  }
+}

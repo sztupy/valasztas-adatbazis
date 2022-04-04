@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "015",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bokod, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 03. számú OEVK",
+      "cim" : " Bokod, Fő utca 47/A. (dr. Nemere Zoltán Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 869,
+        "honos" : 845,
+        "atjel" : 15,
+        "atjelInnen" : 27,
+        "osszesen" : 860
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Bokod, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 03. számú OEVK",
+      "cim" : " Bokod, Fő utca 27. (Móra Ferenc Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 898,
+        "honos" : 880,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 880
+      }
+    } ]
+  }
+}

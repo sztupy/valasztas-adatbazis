@@ -1,0 +1,641 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "04",
+    "taz" : "059",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Orosháza, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Vörösmarty u. 4. (Vörösmarty Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 637,
+        "honos" : 615,
+        "atjel" : 156,
+        "atjelInnen" : 19,
+        "osszesen" : 771
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Orosháza, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Eötvös tér 2. (Eötvös Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 645,
+        "honos" : 614,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 614
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Orosháza, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Eötvös tér 2. (Eötvös Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 658,
+        "honos" : 634,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 634
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Orosháza, 004. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Móricz Zs. u. 33. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 769,
+        "honos" : 747,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 747
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Orosháza, 005. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Kettőssánc tér 10. (volt Időskorúak Gondozóháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 605,
+        "honos" : 584,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 584
+      }
+    }, {
+      "sorszam" : "006",
+      "szk_nev" : "Orosháza, 006. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Bajcsy Zs. u. 36. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 856,
+        "honos" : 828,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 828
+      }
+    }, {
+      "sorszam" : "007",
+      "szk_nev" : "Orosháza, 007. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Bajcsy Zs. u. 36. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 436,
+        "honos" : 419,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 419
+      }
+    }, {
+      "sorszam" : "008",
+      "szk_nev" : "Orosháza, 008. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Bajcsy Zs. u. 1. (Evang. Ált. Isk. és Gimn.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 505,
+        "honos" : 482,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 482
+      }
+    }, {
+      "sorszam" : "009",
+      "szk_nev" : "Orosháza, 009. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Hajnal u. 1. (Családsegítő szolgálat)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 500,
+        "honos" : 486,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 486
+      }
+    }, {
+      "sorszam" : "010",
+      "szk_nev" : "Orosháza, 010. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Fürdő u. 5. (Városüzem. és Szolg. ZRt.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 753,
+        "honos" : 716,
+        "atjel" : 0,
+        "atjelInnen" : 33,
+        "osszesen" : 716
+      }
+    }, {
+      "sorszam" : "011",
+      "szk_nev" : "Orosháza, 011. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Kossuth tér 1. (volt MEZGÉ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 607,
+        "honos" : 581,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 581
+      }
+    }, {
+      "sorszam" : "012",
+      "szk_nev" : "Orosháza, 012. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Könd u. 86. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 637,
+        "honos" : 598,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 598
+      }
+    }, {
+      "sorszam" : "013",
+      "szk_nev" : "Orosháza, 013. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Könd u. 86. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 591,
+        "honos" : 560,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 560
+      }
+    }, {
+      "sorszam" : "014",
+      "szk_nev" : "Orosháza, 014. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Töhötöm u. 46. (Nyugdíjasház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 527,
+        "honos" : 510,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 510
+      }
+    }, {
+      "sorszam" : "015",
+      "szk_nev" : "Orosháza, 015. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Előd utca 15. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 483,
+        "honos" : 462,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 462
+      }
+    }, {
+      "sorszam" : "016",
+      "szk_nev" : "Orosháza, 016. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Előd u. 17. (Református Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "I",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 121,
+        "honos" : 119,
+        "atjel" : 0,
+        "atjelInnen" : 4,
+        "osszesen" : 119
+      }
+    }, {
+      "sorszam" : "017",
+      "szk_nev" : "Orosháza, 017. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Előd u. 17. (Református Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 590,
+        "honos" : 574,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 574
+      }
+    }, {
+      "sorszam" : "018",
+      "szk_nev" : "Orosháza, 018. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Lehel u. 23. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 512,
+        "honos" : 489,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 489
+      }
+    }, {
+      "sorszam" : "019",
+      "szk_nev" : "Orosháza, 019. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Táncsics M. u. 2. (Táncsics Mihály Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 738,
+        "honos" : 695,
+        "atjel" : 0,
+        "atjelInnen" : 35,
+        "osszesen" : 695
+      }
+    }, {
+      "sorszam" : "020",
+      "szk_nev" : "Orosháza, 020. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Csorvási út 3. (AMTRANS 2018. Kft.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 927,
+        "honos" : 908,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 908
+      }
+    }, {
+      "sorszam" : "021",
+      "szk_nev" : "Orosháza, 021. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Táncsics M. u. 2. (Táncsics Mihály Gimnázium)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 726,
+        "honos" : 696,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 696
+      }
+    }, {
+      "sorszam" : "022",
+      "szk_nev" : "Orosháza, 022. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Fürdő u. 5. (Városüzem. és Szolg. ZRt.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 779,
+        "honos" : 750,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 750
+      }
+    }, {
+      "sorszam" : "023",
+      "szk_nev" : "Orosháza, 023. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Iglói út 7. (Idősek klubja)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1069,
+        "honos" : 1028,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 1028
+      }
+    }, {
+      "sorszam" : "024",
+      "szk_nev" : "Orosháza, 024. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Uzsoki u. 31. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 971,
+        "honos" : 928,
+        "atjel" : 0,
+        "atjelInnen" : 36,
+        "osszesen" : 928
+      }
+    }, {
+      "sorszam" : "025",
+      "szk_nev" : "Orosháza, 025. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Fűtőház utca 3. (Mátrai Stadion)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 921,
+        "honos" : 895,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 895
+      }
+    }, {
+      "sorszam" : "026",
+      "szk_nev" : "Orosháza, 026. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Ifjuság u. 9. (Czina Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 882,
+        "honos" : 842,
+        "atjel" : 0,
+        "atjelInnen" : 31,
+        "osszesen" : 842
+      }
+    }, {
+      "sorszam" : "027",
+      "szk_nev" : "Orosháza, 027. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Ifjuság u. 9. (Czina Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 794,
+        "honos" : 763,
+        "atjel" : 0,
+        "atjelInnen" : 32,
+        "osszesen" : 763
+      }
+    }, {
+      "sorszam" : "028",
+      "szk_nev" : "Orosháza, 028. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Fasor utca 3. (Városüzem. és Szolg. ZRt., Fürdő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 440,
+        "honos" : 418,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 418
+      }
+    }, {
+      "sorszam" : "029",
+      "szk_nev" : "Orosháza, 029. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Kosztolányi u. 2-4. (volt Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 379,
+        "honos" : 369,
+        "atjel" : 0,
+        "atjelInnen" : 4,
+        "osszesen" : 369
+      }
+    }, {
+      "sorszam" : "030",
+      "szk_nev" : "Orosháza, 030. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Iskola utca 36. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 842,
+        "honos" : 825,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 825
+      }
+    }, {
+      "sorszam" : "031",
+      "szk_nev" : "Orosháza, 031. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Iskola utca 36. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 857,
+        "honos" : 830,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 830
+      }
+    }, {
+      "sorszam" : "032",
+      "szk_nev" : "Orosháza, 032. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Kiss Ernő u. 42. (volt Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 606,
+        "honos" : 593,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 593
+      }
+    }, {
+      "sorszam" : "033",
+      "szk_nev" : "Orosháza, 033. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Mátyás Király utca 33. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 655,
+        "honos" : 633,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 633
+      }
+    }, {
+      "sorszam" : "034",
+      "szk_nev" : "Orosháza, 034. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Felsősóstanyák 110. (Vegyesbolt)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 153,
+        "honos" : 158,
+        "atjel" : 0,
+        "atjelInnen" : 0,
+        "osszesen" : 158
+      }
+    }, {
+      "sorszam" : "035",
+      "szk_nev" : "Orosháza, 035. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Belsőmonor tanya 48. (Monori Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 148,
+        "honos" : 148,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 148
+      }
+    }, {
+      "sorszam" : "036",
+      "szk_nev" : "Orosháza, 036. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Bónumi tanyák (volt Kocsigyár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 617,
+        "honos" : 601,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 601
+      }
+    }, {
+      "sorszam" : "037",
+      "szk_nev" : "Orosháza, 037. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BÉKÉS megye, 04. számú OEVK",
+      "cim" : "5900 Orosháza, Kiscsákó tanya (Orvosi rendelő)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 68,
+        "honos" : 67,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 67
+      }
+    } ]
+  }
+}

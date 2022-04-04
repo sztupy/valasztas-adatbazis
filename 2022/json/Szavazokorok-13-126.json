@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "126",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Varsány, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : " Varsány, Kossuth út 1. (Hagyományőrzők Háza)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 564,
+        "honos" : 547,
+        "atjel" : 8,
+        "atjelInnen" : 8,
+        "osszesen" : 555
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Varsány, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : " Varsány, Szécsényi út 2. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 713,
+        "honos" : 688,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 688
+      }
+    } ]
+  }
+}

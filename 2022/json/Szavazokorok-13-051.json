@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "051",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Karancslapujtő, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : " Karancslapujtő, Madách út 1/A. (volt Költségvetési Üzem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 653,
+        "honos" : 633,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 633
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Karancslapujtő, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : " Karancslapujtő, Rákóczi út 95. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 733,
+        "honos" : 708,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 708
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Karancslapujtő, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "NÓGRÁD megye, 02. számú OEVK",
+      "cim" : " Karancslapujtő, Petőfi út 2. (Művelődési ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 664,
+        "honos" : 653,
+        "atjel" : 15,
+        "atjelInnen" : 9,
+        "osszesen" : 668
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "223",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ormosbánya, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : "3743 Ormosbánya, Petőfi tér 1. (Ormosbányai Közös Önk. Hiv.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 624,
+        "honos" : 611,
+        "atjel" : 9,
+        "atjelInnen" : 5,
+        "osszesen" : 620
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Ormosbánya, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : "3743 Ormosbánya, Fő utca 2. (Hosztják Albert Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 582,
+        "honos" : 571,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 571
+      }
+    } ]
+  }
+}

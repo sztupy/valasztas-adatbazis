@@ -1,0 +1,403 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "181",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mohács, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Mohács, Szabadság utca 4-6. (Duna Irodaház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 810,
+        "honos" : 787,
+        "atjel" : 0,
+        "atjelInnen" : 26,
+        "osszesen" : 787
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Mohács, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Mohács, Vörösmarty utca 3-5. (Művészeti Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 631,
+        "honos" : 610,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 610
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Mohács, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Mohács, Széchenyi tér 17. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "I",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 581,
+        "honos" : 561,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 561
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Mohács, 004. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Mohács, Kórház utca 1. (Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 861,
+        "honos" : 838,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 838
+      }
+    }, {
+      "sorszam" : "005",
+      "szk_nev" : "Mohács, 005. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Mohács, Kossuth Lajos utca 71. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 559,
+        "honos" : 552,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 552
+      }
+    }, {
+      "sorszam" : "006",
+      "szk_nev" : "Mohács, 006. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Mohács, Tomori utca 2. (Tomori konyha)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 638,
+        "honos" : 609,
+        "atjel" : 0,
+        "atjelInnen" : 25,
+        "osszesen" : 609
+      }
+    }, {
+      "sorszam" : "007",
+      "szk_nev" : "Mohács, 007. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : "7700 Mohács, Park u. 1.  (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 820,
+        "honos" : 792,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 792
+      }
+    }, {
+      "sorszam" : "008",
+      "szk_nev" : "Mohács, 008. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : "7700 Mohács, Park u. 11. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 685,
+        "honos" : 658,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 658
+      }
+    }, {
+      "sorszam" : "009",
+      "szk_nev" : "Mohács, 009. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : "7700 Mohács, Liszt Ferenc u. 22. (Mohács-Hő Kft.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 609,
+        "honos" : 606,
+        "atjel" : 0,
+        "atjelInnen" : 7,
+        "osszesen" : 606
+      }
+    }, {
+      "sorszam" : "010",
+      "szk_nev" : "Mohács, 010. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : "7700 Mohács, Brodarics tér 1. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 952,
+        "honos" : 920,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 920
+      }
+    }, {
+      "sorszam" : "011",
+      "szk_nev" : "Mohács, 011. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : "7700 Mohács, Brodarics tér 2. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 739,
+        "honos" : 720,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 720
+      }
+    }, {
+      "sorszam" : "012",
+      "szk_nev" : "Mohács, 012. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : "7700 Mohács, Brodarics tér 2. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 896,
+        "honos" : 854,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 854
+      }
+    }, {
+      "sorszam" : "013",
+      "szk_nev" : "Mohács, 013. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Mohács, Dózsa György utca 31. (MVR Ügyfélsz.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 696,
+        "honos" : 680,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 680
+      }
+    }, {
+      "sorszam" : "014",
+      "szk_nev" : "Mohács, 014. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : "7700 Mohács, Szent István utca 16. (Oktatási Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 766,
+        "honos" : 739,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 739
+      }
+    }, {
+      "sorszam" : "015",
+      "szk_nev" : "Mohács, 015. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Mohács, Rókus utca 28. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 805,
+        "honos" : 787,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 787
+      }
+    }, {
+      "sorszam" : "016",
+      "szk_nev" : "Mohács, 016. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : "7700 Mohács, Szabadság u 4-6. (Duna Irodaház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 815,
+        "honos" : 787,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 787
+      }
+    }, {
+      "sorszam" : "017",
+      "szk_nev" : "Mohács, 017. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : "7700 Mohács, Széchenyi tér 16. (Ifjúsági Centrum)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 778,
+        "honos" : 758,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 758
+      }
+    }, {
+      "sorszam" : "018",
+      "szk_nev" : "Mohács, 018. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : "7700 Mohács, Széchenyi tér 16. (Ifjúsági Centrum)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 757,
+        "honos" : 753,
+        "atjel" : 156,
+        "atjelInnen" : 9,
+        "osszesen" : 909
+      }
+    }, {
+      "sorszam" : "019",
+      "szk_nev" : "Mohács, 019. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : "7700 Mohács, Bári út 28. (Szőlőhegyi Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 799,
+        "honos" : 780,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 780
+      }
+    }, {
+      "sorszam" : "020",
+      "szk_nev" : "Mohács, 020. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Mohács, Alsókanda 0345 hrsz.(DRV Zrt. déli szivattyútelep)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 96,
+        "honos" : 98,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 98
+      }
+    }, {
+      "sorszam" : "021",
+      "szk_nev" : "Mohács, 021. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Mohács, Tulbanov utca 18. (Sárhát Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 174,
+        "honos" : 169,
+        "atjel" : 0,
+        "atjelInnen" : 3,
+        "osszesen" : 169
+      }
+    }, {
+      "sorszam" : "022",
+      "szk_nev" : "Mohács, 022. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Mohács, Sáros dűlő 55.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 62,
+        "honos" : 61,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 61
+      }
+    }, {
+      "sorszam" : "023",
+      "szk_nev" : "Mohács, 023. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BARANYA megye, 03. számú OEVK",
+      "cim" : " Mohács, Horváth Sándor utca 31-33.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 457,
+        "honos" : 443,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 443
+      }
+    } ]
+  }
+}

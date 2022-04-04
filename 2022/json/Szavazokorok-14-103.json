@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "103",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Péteri, 001. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : " Péteri, Petőfi Sándor utca 57. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1119,
+        "honos" : 1080,
+        "atjel" : 37,
+        "atjelInnen" : 26,
+        "osszesen" : 1117
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Péteri, 002. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : " Péteri, Petőfi Sándor utca 57. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 975,
+        "honos" : 967,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 967
+      }
+    } ]
+  }
+}

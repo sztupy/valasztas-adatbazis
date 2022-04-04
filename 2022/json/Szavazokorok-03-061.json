@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "061",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kelebia, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BÁCS-KISKUN megye, 05. számú OEVK",
+      "cim" : " Kelebia, Ady E. u. 9. (Napköziotthonos Konyha)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 597,
+        "honos" : 573,
+        "atjel" : 74,
+        "atjelInnen" : 18,
+        "osszesen" : 647
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kelebia, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BÁCS-KISKUN megye, 05. számú OEVK",
+      "cim" : " Kelebia, Ady E. u. 110. (Farkas László Ált. Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 673,
+        "honos" : 650,
+        "atjel" : 0,
+        "atjelInnen" : 24,
+        "osszesen" : 650
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Kelebia, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BÁCS-KISKUN megye, 05. számú OEVK",
+      "cim" : " Kelebia, József A. u. 91. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 691,
+        "honos" : 667,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 667
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Kelebia, 004. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BÁCS-KISKUN megye, 05. számú OEVK",
+      "cim" : " Kelebia, Vasútföld tanya 27.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 101,
+        "honos" : 104,
+        "atjel" : 0,
+        "atjelInnen" : 0,
+        "osszesen" : 104
+      }
+    } ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "071",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Jánosháza, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VAS megye, 03. számú OEVK",
+      "cim" : " Jánosháza, Ady u. 14. (Szent Imre Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 690,
+        "honos" : 660,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 660
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Jánosháza, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VAS megye, 03. számú OEVK",
+      "cim" : " Jánosháza,  Bajcsy-Zsilinszky u. 2. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 614,
+        "honos" : 592,
+        "atjel" : 14,
+        "atjelInnen" : 17,
+        "osszesen" : 606
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Jánosháza, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VAS megye, 03. számú OEVK",
+      "cim" : " Jánosháza, Kossuth tér 5. (Batthyány Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 728,
+        "honos" : 713,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 713
+      }
+    } ]
+  }
+}

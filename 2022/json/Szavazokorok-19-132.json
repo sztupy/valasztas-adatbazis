@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "132",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagyvázsony, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VESZPRÉM megye, 03. számú OEVK",
+      "cim" : " Nagyvázsony, Petőfi u. 2. (IKSZT)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 826,
+        "honos" : 803,
+        "atjel" : 18,
+        "atjelInnen" : 20,
+        "osszesen" : 821
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nagyvázsony, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "VESZPRÉM megye, 03. számú OEVK",
+      "cim" : " Nagyvázsony, Kinizsi u. 96. (Községháza)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 629,
+        "honos" : 605,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 605
+      }
+    } ]
+  }
+}

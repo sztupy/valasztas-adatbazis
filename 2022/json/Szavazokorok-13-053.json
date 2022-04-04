@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "053",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kazár, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "NÓGRÁD megye, 01. számú OEVK",
+      "cim" : " Kazár, Szabadság út 3. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 581,
+        "honos" : 560,
+        "atjel" : 13,
+        "atjelInnen" : 11,
+        "osszesen" : 573
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kazár, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "NÓGRÁD megye, 01. számú OEVK",
+      "cim" : " Kazár, Hársfa út 8. (Idősek Napközi Otthona)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 620,
+        "honos" : 599,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 599
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Kazár, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "NÓGRÁD megye, 01. számú OEVK",
+      "cim" : " Kazár, Május 1. út 66. (Kultúrház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 228,
+        "honos" : 227,
+        "atjel" : 0,
+        "atjelInnen" : 2,
+        "osszesen" : 227
+      }
+    } ]
+  }
+}

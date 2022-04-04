@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "248",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ricse, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 05. számú OEVK",
+      "cim" : " Ricse, Vörösmarty u. 1/A. (Zukor A. Műv. Ház. Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 622,
+        "honos" : 609,
+        "atjel" : 10,
+        "atjelInnen" : 13,
+        "osszesen" : 619
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Ricse, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 05. számú OEVK",
+      "cim" : " Ricse, Vörösmarty u.1/A (Zukor A. Műv.Ház. Rendezv.terem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 617,
+        "honos" : 596,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 596
+      }
+    } ]
+  }
+}

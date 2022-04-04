@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "082",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kimle, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Kimle,  Vízpart utca 2. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 685,
+        "honos" : 673,
+        "atjel" : 12,
+        "atjelInnen" : 5,
+        "osszesen" : 685
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kimle, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Kimle, Fő út 102. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 949,
+        "honos" : 934,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 934
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Kimle, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Kimle, Iskola utca 12. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 180,
+        "honos" : 176,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 176
+      }
+    } ]
+  }
+}

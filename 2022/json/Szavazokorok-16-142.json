@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "142",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Ófehértó, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : "4558 Ófehértó, Alkotmány utca 58. (Házasságkötő terem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1022,
+        "honos" : 997,
+        "atjel" : 8,
+        "atjelInnen" : 22,
+        "osszesen" : 1005
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Ófehértó, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : "4558 Ófehértó, Szent István u. 27. (Gondozási Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1048,
+        "honos" : 1023,
+        "atjel" : 0,
+        "atjelInnen" : 20,
+        "osszesen" : 1023
+      }
+    } ]
+  }
+}

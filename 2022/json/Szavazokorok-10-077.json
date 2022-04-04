@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "077",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagytálya, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "HEVES megye, 01. számú OEVK",
+      "cim" : " Nagytálya, Kossuth út 34.  (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 736,
+        "honos" : 712,
+        "atjel" : 11,
+        "atjelInnen" : 21,
+        "osszesen" : 723
+      }
+    } ]
+  }
+}

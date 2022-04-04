@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "120",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Háromhuta, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 05. számú OEVK",
+      "cim" : "3936 Háromhuta, Rákóczi út 20. (Műv. Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 118,
+        "honos" : 115,
+        "atjel" : 15,
+        "atjelInnen" : 5,
+        "osszesen" : 130
+      }
+    } ]
+  }
+}

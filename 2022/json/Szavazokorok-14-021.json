@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "021",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csobánka, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "PEST megye, 03. számú OEVK",
+      "cim" : " Csobánka, Vörösvári út.12. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 975,
+        "honos" : 951,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 951
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Csobánka, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "PEST megye, 03. számú OEVK",
+      "cim" : "2014 Csobánka, Béke út 4. (Közösségi Tér és Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 914,
+        "honos" : 872,
+        "atjel" : 71,
+        "atjelInnen" : 41,
+        "osszesen" : 943
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Csobánka, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "PEST megye, 03. számú OEVK",
+      "cim" : " Csobánka, Vörösvári út 12. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 960,
+        "honos" : 899,
+        "atjel" : 0,
+        "atjelInnen" : 56,
+        "osszesen" : 899
+      }
+    } ]
+  }
+}

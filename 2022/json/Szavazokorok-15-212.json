@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "212",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Szilvásszentmárton, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "SOMOGY megye, 01. számú OEVK",
+      "cim" : "7477 Szilvásszentmárton, Fő u. 20. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 151,
+        "honos" : 150,
+        "atjel" : 5,
+        "atjelInnen" : 0,
+        "osszesen" : 155
+      }
+    } ]
+  }
+}

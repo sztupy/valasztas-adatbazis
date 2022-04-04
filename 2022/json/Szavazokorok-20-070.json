@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "20",
+    "taz" : "070",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Hahót, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Hahót, Deák Ferenc utca 5. (IKSZT épülete)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 344,
+        "honos" : 340,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 340
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Hahót, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Hahót, Kossuth  Lajos tér 3. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 410,
+        "honos" : 405,
+        "atjel" : 12,
+        "atjelInnen" : 5,
+        "osszesen" : 417
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Hahót, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "ZALA megye, 02. számú OEVK",
+      "cim" : " Hahót, Fakospuszta  49. (Közösségi épület)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 101,
+        "honos" : 96,
+        "atjel" : 0,
+        "atjelInnen" : 5,
+        "osszesen" : 96
+      }
+    } ]
+  }
+}

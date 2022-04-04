@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "11",
+    "taz" : "044",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Öcsöd, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 04. számú OEVK",
+      "cim" : " Öcsöd,  Juhász u. 5. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 617,
+        "honos" : 589,
+        "atjel" : 30,
+        "atjelInnen" : 18,
+        "osszesen" : 619
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Öcsöd, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 04. számú OEVK",
+      "cim" : "5451 Öcsöd, Vörösmarty u. 25/A (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 595,
+        "honos" : 571,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 571
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Öcsöd, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 04. számú OEVK",
+      "cim" : " Öcsöd,  Deák F. u. 25. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 668,
+        "honos" : 646,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 646
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Öcsöd, 004. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "JÁSZ-NAGYKUN-SZOLNOK megye, 04. számú OEVK",
+      "cim" : " Öcsöd, Köztársaság u. 37-39.  (Általános Isk.)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 621,
+        "honos" : 600,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 600
+      }
+    } ]
+  }
+}

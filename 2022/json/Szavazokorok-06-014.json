@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "014",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Derekegyház, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 03. számú OEVK",
+      "cim" : "6621 Derekegyház, Köztársaság tér 8. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 429,
+        "honos" : 415,
+        "atjel" : 7,
+        "atjelInnen" : 10,
+        "osszesen" : 422
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Derekegyház, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 03. számú OEVK",
+      "cim" : "6621 Derekegyház, Rákóczi u. 16. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 584,
+        "honos" : 575,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 575
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Derekegyház, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 03. számú OEVK",
+      "cim" : "6621 Derekegyház, Tompahát 38. (Tompaháti Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 155,
+        "honos" : 159,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 159
+      }
+    } ]
+  }
+}

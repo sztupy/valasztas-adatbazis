@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "233",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sellye, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BARANYA megye, 04. számú OEVK",
+      "cim" : " Sellye, Köztársaság tér 6. (Városi Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 654,
+        "honos" : 635,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 635
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Sellye, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BARANYA megye, 04. számú OEVK",
+      "cim" : " Sellye, Mátyás király u. 53. (Ormánság Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 755,
+        "honos" : 733,
+        "atjel" : 25,
+        "atjelInnen" : 12,
+        "osszesen" : 758
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Sellye, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BARANYA megye, 04. számú OEVK",
+      "cim" : " Sellye, Bodonyi Nándor u. 10. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 817,
+        "honos" : 775,
+        "atjel" : 0,
+        "atjelInnen" : 29,
+        "osszesen" : 775
+      }
+    } ]
+  }
+}

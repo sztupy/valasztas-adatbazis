@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "066",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kemecse, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : "4501 Kemecse, Kossuth utca 6. (Bölcsőde)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1128,
+        "honos" : 1090,
+        "atjel" : 0,
+        "atjelInnen" : 34,
+        "osszesen" : 1090
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kemecse, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : "4501 Kemecse, Móricz Zsigmond utca 47. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 896,
+        "honos" : 878,
+        "atjel" : 0,
+        "atjelInnen" : 11,
+        "osszesen" : 878
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Kemecse, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : "4501 Kemecse, Répásy tér 3. (Városháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 832,
+        "honos" : 820,
+        "atjel" : 22,
+        "atjelInnen" : 14,
+        "osszesen" : 842
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Kemecse, 004. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 03. számú OEVK",
+      "cim" : "4501 Kemecse, Szondy utca 7. (Presszó)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 995,
+        "honos" : 970,
+        "atjel" : 0,
+        "atjelInnen" : 18,
+        "osszesen" : 970
+      }
+    } ]
+  }
+}

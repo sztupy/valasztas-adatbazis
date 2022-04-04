@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "106",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tenk, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Tenk, Fő út 54. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 975,
+        "honos" : 954,
+        "atjel" : 6,
+        "atjelInnen" : 17,
+        "osszesen" : 960
+      }
+    } ]
+  }
+}

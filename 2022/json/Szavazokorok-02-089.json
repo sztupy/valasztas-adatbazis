@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "089",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Harkány, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BARANYA megye, 04. számú OEVK",
+      "cim" : " Harkány, Széchenyi tér 19. (Faluház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 966,
+        "honos" : 924,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 924
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Harkány, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BARANYA megye, 04. számú OEVK",
+      "cim" : "7815 Harkány, Arany János utca 16. (iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1025,
+        "honos" : 980,
+        "atjel" : 0,
+        "atjelInnen" : 52,
+        "osszesen" : 980
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Harkány, 003. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BARANYA megye, 04. számú OEVK",
+      "cim" : "7815 Harkány, Kossuth Lajos u. 2./A. (Műv. Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 991,
+        "honos" : 948,
+        "atjel" : 212,
+        "atjelInnen" : 48,
+        "osszesen" : 1160
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Harkány, 004. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BARANYA megye, 04. számú OEVK",
+      "cim" : "7815 Harkány, Kossuth Lajos utca 2/A. (volt Bolgár Múzeum)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1149,
+        "honos" : 1100,
+        "atjel" : 0,
+        "atjelInnen" : 56,
+        "osszesen" : 1100
+      }
+    } ]
+  }
+}

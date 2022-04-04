@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "018",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Decs, 001. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "TOLNA megye, 01. számú OEVK",
+      "cim" : " Decs,  Ady Endre utca 12-16. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 841,
+        "honos" : 808,
+        "atjel" : 21,
+        "atjelInnen" : 19,
+        "osszesen" : 829
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Decs, 002. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "TOLNA megye, 01. számú OEVK",
+      "cim" : " Decs, Haladás u. 1. (Általános Isk.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 788,
+        "honos" : 773,
+        "atjel" : 0,
+        "atjelInnen" : 12,
+        "osszesen" : 773
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Decs, 003. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "TOLNA megye, 01. számú OEVK",
+      "cim" : " Decs, Rákóczi utca 2-8. (Faluház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 839,
+        "honos" : 793,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 793
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Decs, 004. számú szavazókör",
+      "evk" : "01",
+      "evk_nev" : "TOLNA megye, 01. számú OEVK",
+      "cim" : " Decs, Kossuth u. 12. (Idősek Klubja)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 779,
+        "honos" : 757,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 757
+      }
+    } ]
+  }
+}

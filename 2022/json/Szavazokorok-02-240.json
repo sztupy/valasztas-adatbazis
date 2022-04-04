@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "240",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Somogyhárságy, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BARANYA megye, 04. számú OEVK",
+      "cim" : " Somogyhárságy, Rákóczi utca 2.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 193,
+        "honos" : 189,
+        "atjel" : 4,
+        "atjelInnen" : 1,
+        "osszesen" : 193
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Somogyhárságy, 002. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BARANYA megye, 04. számú OEVK",
+      "cim" : " Somogyhárságy, Kishárságy 35.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 118,
+        "honos" : 114,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 114
+      }
+    } ]
+  }
+}

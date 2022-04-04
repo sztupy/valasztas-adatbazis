@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "083",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Miske, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÁCS-KISKUN megye, 03. számú OEVK",
+      "cim" : " Miske, Fő u. 18. (Önkormányzati Hivatal)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 694,
+        "honos" : 670,
+        "atjel" : 5,
+        "atjelInnen" : 12,
+        "osszesen" : 675
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Miske, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÁCS-KISKUN megye, 03. számú OEVK",
+      "cim" : " Miske, Templom tér 16. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 679,
+        "honos" : 655,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 655
+      }
+    } ]
+  }
+}

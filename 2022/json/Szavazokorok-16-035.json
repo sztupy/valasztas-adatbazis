@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "035",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Fábiánháza, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : " Fábiánháza, Rákóczi Ferenc utca 1/A",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 486,
+        "honos" : 482,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 482
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Fábiánháza, 002. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : " Fábiánháza, Kossuth Lajos utca 47.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 712,
+        "honos" : 678,
+        "atjel" : 4,
+        "atjelInnen" : 23,
+        "osszesen" : 682
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Fábiánháza, 003. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : " Fábiánháza, Iskola utca 4.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 171,
+        "honos" : 169,
+        "atjel" : 0,
+        "atjelInnen" : 3,
+        "osszesen" : 169
+      }
+    } ]
+  }
+}

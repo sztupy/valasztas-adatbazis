@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "333",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tornanádaska, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 03. számú OEVK",
+      "cim" : " Tornanádaska, Rákóczi út 2. (Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 400,
+        "honos" : 393,
+        "atjel" : 2,
+        "atjelInnen" : 4,
+        "osszesen" : 395
+      }
+    } ]
+  }
+}

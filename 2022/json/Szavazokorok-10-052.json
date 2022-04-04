@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "052",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Istenmezeje, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : "3253 Istenmezeje, Nefelejcs u. 18. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 549,
+        "honos" : 534,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 534
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Istenmezeje, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : "3253 Istenmezeje, Nefelejcs u. 18. (Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 524,
+        "honos" : 505,
+        "atjel" : 8,
+        "atjelInnen" : 13,
+        "osszesen" : 513
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Istenmezeje, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "HEVES megye, 02. számú OEVK",
+      "cim" : " Istenmezeje, Fő út 77. (Közösségi Ház Sz.puszta)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 150,
+        "honos" : 148,
+        "atjel" : 0,
+        "atjelInnen" : 3,
+        "osszesen" : 148
+      }
+    } ]
+  }
+}

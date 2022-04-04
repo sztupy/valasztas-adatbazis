@@ -1,0 +1,80 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "114",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nyúl, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Nyúl, Kossuth Lajos utca 50. (Aranykapu Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 942,
+        "honos" : 927,
+        "atjel" : 59,
+        "atjelInnen" : 14,
+        "osszesen" : 986
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nyúl, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Nyúl, Jókai utca 21. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1001,
+        "honos" : 982,
+        "atjel" : 0,
+        "atjelInnen" : 22,
+        "osszesen" : 982
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Nyúl, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Nyúl, Jókai utca 21. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1104,
+        "honos" : 1089,
+        "atjel" : 0,
+        "atjelInnen" : 21,
+        "osszesen" : 1089
+      }
+    }, {
+      "sorszam" : "004",
+      "szk_nev" : "Nyúl, 004. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 02. számú OEVK",
+      "cim" : " Nyúl, Kápolna utca. 159. (Tűzoltószertár)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 546,
+        "honos" : 547,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 547
+      }
+    } ]
+  }
+}

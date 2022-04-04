@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "12",
+    "taz" : "008",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Bajót, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "KOMÁROM-ESZTERGOM megye, 02. számú OEVK",
+      "cim" : " Bajót, Kossuth L. u. 147. (Millenniumi ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1276,
+        "honos" : 1242,
+        "atjel" : 18,
+        "atjelInnen" : 23,
+        "osszesen" : 1260
+      }
+    } ]
+  }
+}

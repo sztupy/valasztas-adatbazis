@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "138",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Rábaszentmiklós, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 03. számú OEVK",
+      "cim" : " Rábaszentmiklós,  Fő utca  24.",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 123,
+        "honos" : 119,
+        "atjel" : 2,
+        "atjelInnen" : 2,
+        "osszesen" : 121
+      }
+    } ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "056",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Kölesd, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : " Kölesd, Kossuth tér 2. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 537,
+        "honos" : 517,
+        "atjel" : 11,
+        "atjelInnen" : 12,
+        "osszesen" : 528
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Kölesd, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : " Kölesd, József Attila u. 1. (Általános Iskola)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 541,
+        "honos" : 527,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 527
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Kölesd, 003. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "TOLNA megye, 02. számú OEVK",
+      "cim" : " Kölesd, Petőfi utca 9.",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 71,
+        "honos" : 69,
+        "atjel" : 0,
+        "atjelInnen" : 3,
+        "osszesen" : 69
+      }
+    } ]
+  }
+}

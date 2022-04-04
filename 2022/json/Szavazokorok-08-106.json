@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "106",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Mosonszolnok, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonszolnok, Fő utca 44. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 678,
+        "honos" : 665,
+        "atjel" : 16,
+        "atjelInnen" : 8,
+        "osszesen" : 681
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Mosonszolnok, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Mosonszolnok, Fő utca 101-103. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 713,
+        "honos" : 702,
+        "atjel" : 0,
+        "atjelInnen" : 3,
+        "osszesen" : 702
+      }
+    } ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "130",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nyírmeggyes, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : "4722 Nyírmeggyes, Rákóczi Ferenc utca 33. (Nyitnikék Óvoda)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1123,
+        "honos" : 1088,
+        "atjel" : 6,
+        "atjelInnen" : 26,
+        "osszesen" : 1094
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nyírmeggyes, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 05. számú OEVK",
+      "cim" : "4722 Nyírmeggyes, Petőfi Sándor utca 2. sz. (Művelődési Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1023,
+        "honos" : 1007,
+        "atjel" : 0,
+        "atjelInnen" : 19,
+        "osszesen" : 1007
+      }
+    } ]
+  }
+}

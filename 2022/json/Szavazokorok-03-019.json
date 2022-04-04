@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "019",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csátalja, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6523 Csátalja, Kossuth Lajos u. 2/B. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 567,
+        "honos" : 554,
+        "atjel" : 8,
+        "atjelInnen" : 12,
+        "osszesen" : 562
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Csátalja, 002. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "BÁCS-KISKUN megye, 06. számú OEVK",
+      "cim" : "6523 Csátalja, Dózsa u. 25. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 601,
+        "honos" : 584,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 584
+      }
+    } ]
+  }
+}

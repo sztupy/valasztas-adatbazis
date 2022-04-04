@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "03",
+    "taz" : "038",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Foktő, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÁCS-KISKUN megye, 03. számú OEVK",
+      "cim" : " Foktő, Kossuth u. 4. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 693,
+        "honos" : 666,
+        "atjel" : 7,
+        "atjelInnen" : 16,
+        "osszesen" : 673
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Foktő, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "BÁCS-KISKUN megye, 03. számú OEVK",
+      "cim" : "6331 Foktő, Fő utca 87.  (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 585,
+        "honos" : 564,
+        "atjel" : 0,
+        "atjelInnen" : 14,
+        "osszesen" : 564
+      }
+    } ]
+  }
+}

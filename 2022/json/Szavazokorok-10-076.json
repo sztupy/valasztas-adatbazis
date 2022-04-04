@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "10",
+    "taz" : "076",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nagyréde, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : "3214 Nagyréde, Atkári út 9. (Gondozási Központ)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 998,
+        "honos" : 972,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 972
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nagyréde, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Nagyréde, Fő út 6-8. (Művelődési ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 939,
+        "honos" : 917,
+        "atjel" : 26,
+        "atjelInnen" : 12,
+        "osszesen" : 943
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Nagyréde, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "HEVES megye, 03. számú OEVK",
+      "cim" : " Nagyréde, Fő út 6-8. (Művelődési ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 753,
+        "honos" : 734,
+        "atjel" : 0,
+        "atjelInnen" : 17,
+        "osszesen" : 734
+      }
+    } ]
+  }
+}

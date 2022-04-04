@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "18",
+    "taz" : "156",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Rábapaty, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : " Rábapaty, Alsópatyi utca 82. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 727,
+        "honos" : 720,
+        "atjel" : 8,
+        "atjelInnen" : 7,
+        "osszesen" : 728
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Rábapaty, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VAS megye, 02. számú OEVK",
+      "cim" : " Rábapaty, Felsőpatyi utca 92. (Kultúrház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 657,
+        "honos" : 651,
+        "atjel" : 0,
+        "atjelInnen" : 10,
+        "osszesen" : 651
+      }
+    } ]
+  }
+}

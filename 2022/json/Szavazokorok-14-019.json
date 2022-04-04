@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "019",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Csemő, 001. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : " Csemő, Szent István u. 32-34. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1241,
+        "honos" : 1212,
+        "atjel" : 17,
+        "atjelInnen" : 23,
+        "osszesen" : 1229
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Csemő, 002. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : " Csemő, Szent István u. 32-34. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 852,
+        "honos" : 832,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 832
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Csemő, 003. számú szavazókör",
+      "evk" : "12",
+      "evk_nev" : "PEST megye, 12. számú OEVK",
+      "cim" : "2713 Csemő, Iskola d. 3. (ZÖBA ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1379,
+        "honos" : 1350,
+        "atjel" : 0,
+        "atjelInnen" : 23,
+        "osszesen" : 1350
+      }
+    } ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "068",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Halászi, 001. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Halászi, Kossuth Lajos utca 25-27. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1173,
+        "honos" : 1157,
+        "atjel" : 0,
+        "atjelInnen" : 9,
+        "osszesen" : 1157
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Halászi, 002. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Halászi, Kossuth Lajos utca 51. (Régi Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1241,
+        "honos" : 1237,
+        "atjel" : 32,
+        "atjelInnen" : 14,
+        "osszesen" : 1269
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Halászi, 003. számú szavazókör",
+      "evk" : "05",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 05. számú OEVK",
+      "cim" : " Halászi, Arak-Arany János utca 2. (Könyvtár)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 141,
+        "honos" : 142,
+        "atjel" : 0,
+        "atjelInnen" : 1,
+        "osszesen" : 142
+      }
+    } ]
+  }
+}

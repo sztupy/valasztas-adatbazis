@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "17",
+    "taz" : "039",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Iregszemcse, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : " Iregszemcse, Kossuth tér 19. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 662,
+        "honos" : 648,
+        "atjel" : 0,
+        "atjelInnen" : 8,
+        "osszesen" : 648
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Iregszemcse, 002. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : " Iregszemcse, Bartók Béla u. 1. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 725,
+        "honos" : 707,
+        "atjel" : 16,
+        "atjelInnen" : 10,
+        "osszesen" : 723
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Iregszemcse, 003. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "TOLNA megye, 03. számú OEVK",
+      "cim" : " Iregszemcse, Rákóczi u. 1. (Idősek klubja)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 643,
+        "honos" : 629,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 629
+      }
+    } ]
+  }
+}

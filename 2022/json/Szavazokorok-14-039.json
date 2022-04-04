@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "039",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Farmos, 001. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2765 Farmos, Fő tér 2. (Közösségi Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 943,
+        "honos" : 914,
+        "atjel" : 30,
+        "atjelInnen" : 24,
+        "osszesen" : 944
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Farmos, 002. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2765 Farmos, Rákóczi út 1. (Könyvtár)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1040,
+        "honos" : 1001,
+        "atjel" : 0,
+        "atjelInnen" : 30,
+        "osszesen" : 1001
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Farmos, 003. számú szavazókör",
+      "evk" : "09",
+      "evk_nev" : "PEST megye, 09. számú OEVK",
+      "cim" : "2765 Farmos, Zrínyi út 2. (Művelődési Ház)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 924,
+        "honos" : 909,
+        "atjel" : 0,
+        "atjelInnen" : 13,
+        "osszesen" : 909
+      }
+    } ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "214",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nemesbikk, 001. számú szavazókör",
+      "evk" : "07",
+      "evk_nev" : "BORSOD-ABAÚJ-ZEMPLÉN megye, 07. számú OEVK",
+      "cim" : " Nemesbikk, Alkotmány tér 16. (Általános Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 704,
+        "honos" : 690,
+        "atjel" : 20,
+        "atjelInnen" : 9,
+        "osszesen" : 710
+      }
+    } ]
+  }
+}

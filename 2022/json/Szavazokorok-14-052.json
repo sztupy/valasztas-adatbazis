@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "14",
+    "taz" : "052",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Hernád, 001. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : "2376 Hernád, Fő utca 150. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1009,
+        "honos" : 989,
+        "atjel" : 0,
+        "atjelInnen" : 15,
+        "osszesen" : 989
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Hernád, 002. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : "2376 Hernád, Köztársaság út 47. (Polg.Hiv.)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1247,
+        "honos" : 1214,
+        "atjel" : 26,
+        "atjelInnen" : 33,
+        "osszesen" : 1240
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Hernád, 003. számú szavazókör",
+      "evk" : "10",
+      "evk_nev" : "PEST megye, 10. számú OEVK",
+      "cim" : "2376 Hernád, Fő utca 149. (Műv.Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1126,
+        "honos" : 1093,
+        "atjel" : 0,
+        "atjelInnen" : 27,
+        "osszesen" : 1093
+      }
+    } ]
+  }
+}

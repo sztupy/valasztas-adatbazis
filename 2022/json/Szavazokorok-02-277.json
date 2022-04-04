@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "277",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tormás, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "BARANYA megye, 04. számú OEVK",
+      "cim" : " Tormás,  Ács József utca 5. (Polg. Hivatal nagyterem)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 201,
+        "honos" : 199,
+        "atjel" : 1,
+        "atjelInnen" : 2,
+        "osszesen" : 200
+      }
+    } ]
+  }
+}

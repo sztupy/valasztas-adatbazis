@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "059",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Zákányszék, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 02. számú OEVK",
+      "cim" : " Zákányszék, Dózsa György u. 45. (Művelődési Ház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1157,
+        "honos" : 1126,
+        "atjel" : 13,
+        "atjelInnen" : 23,
+        "osszesen" : 1139
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Zákányszék, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "CSONGRÁD-CSANÁD megye, 02. számú OEVK",
+      "cim" : "6787 Zákányszék, József Attila u. 38. (Sportcsarnok)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 1167,
+        "honos" : 1126,
+        "atjel" : 0,
+        "atjelInnen" : 38,
+        "osszesen" : 1126
+      }
+    } ]
+  }
+}

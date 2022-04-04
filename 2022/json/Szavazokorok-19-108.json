@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "19",
+    "taz" : "108",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Litér, 001. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VESZPRÉM megye, 02. számú OEVK",
+      "cim" : "8196 Litér, Álmos utca 37. (Községháza)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 878,
+        "honos" : 847,
+        "atjel" : 16,
+        "atjelInnen" : 23,
+        "osszesen" : 863
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Litér, 002. számú szavazókör",
+      "evk" : "02",
+      "evk_nev" : "VESZPRÉM megye, 02. számú OEVK",
+      "cim" : "8196 Litér, Ond u. 1. (Ertl Pálné Művelődési Ház és Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 903,
+        "honos" : 877,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 877
+      }
+    } ]
+  }
+}

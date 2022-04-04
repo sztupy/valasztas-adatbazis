@@ -1,0 +1,63 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "16",
+    "taz" : "128",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Nyírlugos, 001. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : "4371 Nyírlugos, Debreceni út 2/A. (Iskola)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 824,
+        "honos" : 781,
+        "atjel" : 13,
+        "atjelInnen" : 26,
+        "osszesen" : 794
+      }
+    }, {
+      "sorszam" : "002",
+      "szk_nev" : "Nyírlugos, 002. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : "4371 Nyírlugos, Szabadság tér 4. (Óvoda)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 959,
+        "honos" : 937,
+        "atjel" : 0,
+        "atjelInnen" : 16,
+        "osszesen" : 937
+      }
+    }, {
+      "sorszam" : "003",
+      "szk_nev" : "Nyírlugos, 003. számú szavazókör",
+      "evk" : "06",
+      "evk_nev" : "SZABOLCS-SZATMÁR-BEREG megye, 06. számú OEVK",
+      "cim" : "4371 Nyírlugos, Acsádi utca 73. (Idősek Klubja)",
+      "akadaly" : "N",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "N",
+      "telepSzintu" : "N",
+      "letszam" : {
+        "indulo" : 361,
+        "honos" : 352,
+        "atjel" : 0,
+        "atjelInnen" : 6,
+        "osszesen" : 352
+      }
+    } ]
+  }
+}

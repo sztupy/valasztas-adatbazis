@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "152",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Sopronkövesd, 001. számú szavazókör",
+      "evk" : "04",
+      "evk_nev" : "GYŐR-MOSON-SOPRON megye, 04. számú OEVK",
+      "cim" : "9451 Sopronkövesd,  Kossuth Lajos utca 53. (Alkotóház)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 1068,
+        "honos" : 1055,
+        "atjel" : 17,
+        "atjelInnen" : 10,
+        "osszesen" : 1072
+      }
+    } ]
+  }
+}

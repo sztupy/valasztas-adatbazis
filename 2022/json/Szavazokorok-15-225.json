@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "225",
+    "szavazokorok" : [ {
+      "sorszam" : "001",
+      "szk_nev" : "Tikos, 001. számú szavazókör",
+      "evk" : "03",
+      "evk_nev" : "SOMOGY megye, 03. számú OEVK",
+      "cim" : " Tikos, Iskola utca 16. (Könyvtár)",
+      "akadaly" : "I",
+      "szamlKijelolt" : "N",
+      "atjKijelolt" : "I",
+      "telepSzintu" : "I",
+      "letszam" : {
+        "indulo" : 102,
+        "honos" : 101,
+        "atjel" : 3,
+        "atjelInnen" : 2,
+        "osszesen" : 104
+      }
+    } ]
+  }
+}
